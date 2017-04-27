@@ -289,6 +289,8 @@ df = (
 )
 df
 
+df.to_excel(str(path.data / 'xlsx' / re.sub('xml', 'xlsx', xml_file)))
+
 # PLOTS
 %matplotlib inline
 sns.lmplot('x', 'y', data=df, hue='Big_Category', fit_reg=False)

@@ -10,6 +10,7 @@ from sklearn import cluster
 from bokeh.charts import Scatter, output_file, show
 from settings import path
 
+
 def _compute_x_y(df):
     return (
         pd.concat([
@@ -148,13 +149,9 @@ df = (
 )
 df
 
+df.to_excel(str(path.data / 'xlsx' / re.sub('xml', 'xlsx', xml_file)))
+
 # PLOTS
 %matplotlib inline
 # sns.lmplot('x', 'y', data=df, hue='font', fit_reg=False)
 sns.lmplot('x', 'y', data=df, hue='dbscan_class', fit_reg=False, legend=False)
-
-# TODO: exctract the colors from the rect list
-
-len(rects)
-for rect in rects:
-    print(rect.attrib)
