@@ -5,3 +5,6 @@ __*__
 # exception
 !.gitignore
 !.gitkeep
+
+# generated data files
+*.xlsx
