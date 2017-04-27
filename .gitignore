@@ -1,7 +1,10 @@
 # ignore everything
-*
+data/*
+doc/*
+src/*
 
 # except
 !*.py
 !.gitignore
 !*.md
+!.gitkeep
