@@ -1,0 +1,7 @@
+# hidden files or folders
+__*__
+.*
+
+# exception
+!.gitignore
+!.gitkeep
