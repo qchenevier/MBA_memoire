@@ -12,3 +12,6 @@ __*__
 *.csv
 
 vrac
+
+*.pdf
+*.log
