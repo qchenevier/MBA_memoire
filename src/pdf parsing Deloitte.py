@@ -149,7 +149,8 @@ df = (
 )
 df
 
-df.to_excel(str(path.data / 'xlsx' / re.sub('xml', 'xlsx', xml_file)))
+df.to_excel(str(path.data / 'xlsx' / re.sub('xml', 'xlsx', xml_file)), index=False)
+df.to_csv(str(path.data / 'csv' / re.sub('xml', 'csv', xml_file)), index=False, encoding='utf-8-sig')
 
 # PLOTS
 %matplotlib inline

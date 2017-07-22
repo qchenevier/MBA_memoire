@@ -8,3 +8,5 @@ __*__
 
 # generated data files
 *.xlsx
+
+*.csv
