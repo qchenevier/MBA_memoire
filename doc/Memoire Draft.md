@@ -135,7 +135,7 @@ Style of operation                 | <ul> <li> Optimization <li> Routines & Proc
 Personnel & training               | <ul> <li> Variable cost <li> Fixed posts <li> Discipline | <ul> <li> Human capital <li> Variable posts <li> Initiative/Collaboration
 Equipment & investment             | <ul> <li> Dedicated <li> One optimum plant size <li> Plant anticipates demand growth                                                                        | <ul> <li> Adaptable & programmable <li> Many plant size <li> Plant growth follows demand
 Production programming             | <ul> <li> Produce for stock <li> Use inventory to adapt to demand variation                                                                             | <ul> <li> Minimize response time <li> Adapt rythm to demand variation
-Productivity measurement           | <ul> <li> Speficic measure for each department <li> Percent tolerance on quality                                                                        | <ul> Total productivity measure for the whole chain for each product <li> Zero defects
+Productivity measurement           | <ul> <li> Speficic measure for each department <li> Percent tolerance on quality                                                                        | <ul> <li> Total productivity measure for the whole chain for each product <li> Zero defects
 Suppliers, clients and competitors | <ul> <li> Separation from the outside world: competition among suppliers and with competitors <li> Firm as a closed system                              | <ul> <li> Interaction with the outside world: Collaboration with suppliers and with competitors <li> Firm as an open system
 
 ### [The rise of AI makes emotional intelligence more important][a59a1843]
