@@ -1,7 +1,12 @@
 ---
 title: Digitalization & Organizations
-link-citations: true
+subtitle: Why digitilization is a matter of humans ?
 author: Quentin Chenevier
+mainfont: DejaVu Sans
+sansfont: DejaVu Sans
+monofont: DejaVu Sans Mono
+fontsize: 12pt
+link-citations: true
 output:
   pdf_document:
     template: /home/quentin/documents/MBA/3_devoirs/memoire/doc/my_template.tex
@@ -10,11 +15,9 @@ output:
     latex_engine: xelatex
 ...
 
-# Digitalisation and Organisations
+# Sources
 
-## Sources
-
-### Deloitte Enterprise Value Map [@Deloitte2004]
+## Deloitte Enterprise Value Map [@Deloitte2004]
 
 A shareholder value optimization framework structured around:
 
@@ -33,7 +36,7 @@ A shareholder value optimization framework structured around:
   - Company strengths
   - External factors
 
-### LEAD Enterprise Value Map [@LEADingPractice]
+## LEAD Enterprise Value Map [@LEADingPractice]
 
 Another shareholder value optimization framework structured with:
 
@@ -72,14 +75,14 @@ Another shareholder value optimization framework structured with:
   - Increase revenue through service & price optimization
   - Increase revenue with existing customers
 
-### Customer intimacy and other value disciplines [@Treacy1993]
+## Customer intimacy and other value disciplines [@Treacy1993]
 
 A foundation book/article about value disciplines and how to use them to trade-off between strategic decision:
 - Operational excellence
 - Customer intimacy
 - Product leadership
 
-### Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
+## Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
 
 A Capgemini report giving recommandations about how to deal with Digital Transformation. There are 3 categories of recommandations:
 
@@ -100,7 +103,7 @@ And with a bonus category of enablers:
 
 - Digital capabilities
 
-### Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
+## Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
 
 In this article, an analysis of the paradigm shift (_oil age to information age_) in today's organisations with these categories:
 
@@ -114,56 +117,54 @@ In this article, an analysis of the paradigm shift (_oil age to information age_
 - Productivity measurement
 - Suppliers, clients and competitors
 
-------------------------------------------------------------------------------------
-Dimension         Conventional common-sense          New efficiency principles
---------------    ---------------------------------  ----------------------------------
-Command           - Centralized command\             - Central goal-setting\
-& control         - Vertical control\                - Local autonomy & horizontal control\
-                  - Cascade                          - self-improving units
-
-Structure         Stable Pyramid growing             Flexible Network remaining flat
-& growth          in height
-
-Parts & links     - Vertical links\                  Interactive multifunctional
-                  - Functional departments           links by product
-
-Style of          - Optimization\                    - Continuous learning Flexible system\
-operation         - Routines & Procedures\           - Flexible system\
-                  - "_There is one best way_"\       - "_A better way can always be found_"\
-                  - individual tasks\                - group tasks\
-                  - specialization\                  - multi-skilled\
-                  - top-down control\                - delegated decision-making\
-                  - bottom-up information            - horizontal information
-
-Personnel &       - Variable cost\                   - Human capital\
-training          - Fixed posts\                     - Variable posts\
-                  - Discipline                       - Initiative/Collaboration
-
-Equipment &       - Dedicated\                       - Adaptable & programmable\
-investment        - One optimum plant size\          - Many plant size\
-                  - Plant anticipates demand         - Plant growth follows demand
-                  growth
-
-
-Production        - Produce for stock\               - Minimize response time\
-programming       - Use inventory to adapt to        - Adapt rythm to demand variation
-                  demand variation
-
-Productivity      - Speficic measure for each        - Total productivity measure for the
-measurement       department\                        whole chain for each product\
-                  - Percent tolerance on             - Zero defects
-                  quality
-
-
-Suppliers,        - Separation from the              - Interaction with the outside world:
-clients and       outside world: competition         Collaboration with suppliers and
-competitors       among suppliers and with           with competitors\
-                  competitors\                       - Firm as an open system
-                  - Firm as a closed system
-------------------------------------------------------------------------------------
++----------------+------------------------------------+---------------------------------+
+|Dimension         Conventional common-sense            New efficiency principles
++================+====================================+=================================+
+|Command           - Centralized command               - Central goal-setting
+|& control         - Vertical control                  - Local autonomy & horizontal control
+|                  - Cascade                           - self-improving units
++----------------+------------------------------------+---------------------------------+
+|Structure         Stable Pyramid growing              Flexible Network remaining flat
+|& growth          in height
++----------------+------------------------------------+---------------------------------+
+|Parts & links     - Vertical links                    Interactive multifunctional
+|                  - Functional departments            links by product
++----------------+------------------------------------+---------------------------------+
+|Style of          - Optimization                      - Continuous learning Flexible system
+|operation         - Routines & Procedures             - Flexible system
+|                  - "_There is one best way_"         - "_A better way can always be found_"
+|                  - individual tasks                  - group tasks
+|                  - specialization                    - multi-skilled
+|                  - top-down control                  - delegated decision-making
+|                  - bottom-up information             - horizontal information
++----------------+------------------------------------+---------------------------------+
+|Personnel &       - Variable cost                     - Human capital
+|training          - Fixed posts                       - Variable posts
+|                  - Discipline                        - Initiative/Collaboration
++----------------+------------------------------------+---------------------------------+
+|Equipment &       - Dedicated                         - Adaptable & programmable
+|investment        - One optimum plant size            - Many plant size
+|                  - Plant anticipates demand          - Plant growth follows demand
+|                  growth
++----------------+------------------------------------+---------------------------------+
+|Production        - Produce for stock                 - Minimize response time
+|programming       - Use inventory to adapt to         - Adapt rythm to demand variation
+|                  demand variation
++----------------+------------------------------------+---------------------------------+
+|Productivity      - Speficic measure for each         - Total productivity measure for the
+|measurement       department                          whole chain for each product
+|                  - Percent tolerance on              - Zero defects
+|                  quality
++----------------+------------------------------------+---------------------------------+
+|Suppliers,        - Separation from the               - Interaction with the outside world:
+|clients and       outside world: competition          Collaboration with suppliers and
+|competitors       among suppliers and with            with competitors
+|                  competitors                         - Firm as an open system
+|                  - Firm as a closed system
++----------------+------------------------------------+---------------------------------+
 
 
-### The rise of AI makes emotional intelligence more important [@Beck2017]
+## The rise of AI makes emotional intelligence more important [@Beck2017]
 
 In this article, a description of the 5 steps of the knowledge worker:
 
@@ -173,7 +174,7 @@ In this article, a description of the 5 steps of the knowledge worker:
 4. Determine a recommended course of action
 5. Implement the course of action
 
-### Strategic principles for competing in the digital age [@Hirt2014]
+## Strategic principles for competing in the digital age [@Hirt2014]
 
 High-level recommandations with the help of what question you need to answer to define your strategy:
 
@@ -184,7 +185,7 @@ High-level recommandations with the help of what question you need to answer to 
 - Keep digital businesses separate or integrate them with current nondigital ones ?
 - Delegate or own the digital agenda ?
 
-### McKinsey 7S framework [@McKinsey2008]
+## McKinsey 7S framework [@McKinsey2008]
 
 The 7S McKinsey framework, allowing to frame an analysis of an enterprise strategy:
 
@@ -196,7 +197,7 @@ The 7S McKinsey framework, allowing to frame an analysis of an enterprise strate
 - Style
 - Staff
 
-### Exponential organizations [@VanGeest2014]
+## Exponential organizations [@VanGeest2014]
 
 A singularity university book about new organizations with hyper-fast growth and their structuring principles:
 
@@ -213,7 +214,7 @@ A singularity university book about new organizations with hyper-fast growth and
   - Leveraged assets
   - Engagement
 
-### The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
+## The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
 
 Criteria:
 
@@ -260,7 +261,7 @@ Creativity                  | Fashion Designer | Count Clerk
 Perception and manipulation | Surgeon          | Telemarketer
 
 
-### Digital America: A tale of the haves and the have-mores [@Manyika2015]
+## Digital America: A tale of the haves and the have-mores [@Manyika2015]
 
 Assets:
 
