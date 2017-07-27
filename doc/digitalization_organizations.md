@@ -17,68 +17,6 @@ output:
 
 # Sources
 
-## Deloitte Enterprise Value Map [@Deloitte2004]
-
-##### Dimensions
-
-A shareholder value optimization framework structured around:
-
-- Revenue growth
-  - Volume
-  - Price realization
-- Operating margin
-  - Selling, general & administrative (SG&A)
-  - Cost of goods sold (COGS)
-  - Income taxes
-- Asset efficiency
-  - Property, plant & equipment
-  - Inventory
-  - Receivables & payables
-- Expectations
-  - Company strengths
-  - External factors
-
-## LEAD Enterprise Value Map [@LEADingPractice]
-
-##### Dimensions
-
-Another shareholder value optimization framework structured with:
-
-- Cost efficiency
-  - Optimize cost, cash flow & capital
-  - Reduce administration costs
-  - Reduce cost of goods sold
-  - Reduce income tax
-  - Reduce sales costs
-- Improve competitiveness
-  - Faster time-to-market
-  - Improve brand awareness
-  - Improve customer interaction
-  - Improve customer satisfaction & loyalty
-  - Improve partner & relationship collaboration
-  - Improve responsiveness
-  - Strengthen Innovation
-- Improve operational excellence
-  - Improve corporate services
-  - Improve information management
-  - Improve resource management
-  - Improve service & product delivery
-  - Strengthen service & product development
-- Lower risk
-  - Ensure compliance
-  - Improve business recovery
-  - Improve risk insight & intelligence
-  - Improve risk management
-  - Improve risk planning
-- Strengthen growth
-  - Increase growth through expanding the service & product portfolio
-  - Increase growth through mergers & acquisition
-  - Increase growth through partnering
-  - Increase growth through penetrating new markets & segments
-  - Increase revenue through developing new sales & service channels
-  - Increase revenue through service & price optimization
-  - Increase revenue with existing customers
-
 ## Customer intimacy and other value disciplines [@Treacy1993]
 
 ##### Dimensions
@@ -87,32 +25,6 @@ A foundation book/article about value disciplines and how to use them to trade-o
 - Operational excellence
 - Customer intimacy
 - Product leadership
-
-## Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
-
-##### Dimensions
-
-A Capgemini report giving recommandations about how to deal with Digital Transformation. There are 3 categories of recommandations:
-
-- Customer experience
-  - Customer understanding
-  - Top line growth
-  - Customer touch points
-- Operational process
-  - Process digitization
-  - Worker enablement
-  - Performance management
-- Business model
-  - Digitally-modified business
-  - New digital business
-  - Digital globalization
-
-And with a bonus category of enablers:
-
-- Digital capabilities
-
-##### Quotes
-
 
 ## Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
 
@@ -178,21 +90,35 @@ In this article, an analysis of the paradigm shift (_oil age to information age_
 
 ##### Quotes
 
-
-## The rise of AI makes emotional intelligence more important [@Beck2017]
+## Strategic principles for competing in the digital age [@Hirt2014]
 
 ##### Dimensions
 
-In this article, a description of the 5 steps of the knowledge worker:
+Opportunities and threats:
 
-1. Gather data
-2. Analyze the data
-3. Interpret the results
-4. Determine a recommended course of action
-5. Implement the course of action
+- **Enhancing interactions** among customers, suppliers, stakeholders, and employees
+- **Improving management decisions** as algorithms crunch big data from social technologies or the Internet of Things
+- **Enabling new business or operating models**, such as peer-to-peer product innovation or customer service
 
-##### Quotes
+7 forces at work:
 
+1. New pressure on prices and margins
+1. Competitors emerge from unexpected places
+1. Winner-takes-all dynamics
+1. Plug-and-play business models
+1. Growing talent mismatches
+1. Converging global supply and demand
+1. Relentlessly evolving business models at higher velocity
+
+
+Managing the strategic challenges: Six big decisions
+
+- Decision 1: Buy or sell businesses in your portfolio?
+- Decision 2: Lead your customers or follow them?
+- Decision 3: Cooperate or compete with new attackers? (link with @Iansiti2014: GE's doing more partnerships)
+- Decision 4: Diversify or double down on digital initiatives? (_potential_ link with @Woodard2013: Augment the design capital by augmenting the options or diminish the technical debt)
+- Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? (link with @Karimi2015: depending on the characteristics (size, existing assets, agility needed, risk aversion...), some have integrated or not the digital business unit)
+- Decision 6: Delegate or own the digital agenda?
 
 ## McKinsey 7S framework [@McKinsey2008]
 
@@ -208,24 +134,20 @@ The 7S McKinsey framework, allowing to frame an analysis of an enterprise strate
 - Style
 - Staff
 
-## Exponential organizations [@VanGeest2014]
+## The rise of AI makes emotional intelligence more important [@Beck2017]
 
 ##### Dimensions
 
-A singularity university book about new organizations with hyper-fast growth and their structuring principles:
+In this article, a description of the 5 steps of the knowledge worker:
 
-- **IDEAS** (related to left brain: order, control & stability)
-  - Interfaces
-  - Dashboards
-  - Experimentation
-  - Autonomy
-  - Social
-- **SCALE** (related to right brain: creativity, growth & uncertainty)
-  - Staff on demand
-  - Community & Crowd
-  - Algorithms
-  - Leveraged assets
-  - Engagement
+1. Gather data
+2. Analyze the data
+3. Interpret the results
+4. Determine a recommended course of action
+5. Implement the course of action
+
+##### Quotes
+
 
 ## The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
 
@@ -277,6 +199,87 @@ Beware: activity that can be off-shored != activity that can be automated. E.g.:
 
 > The Idea that technological advances favor more skilled workers is a twentieth century phenomenon. [@Acemoglu2002]
 
+## Exponential organizations [@VanGeest2014]
+
+##### Dimensions
+
+A singularity university book about new organizations with hyper-fast growth and their structuring principles:
+
+- **IDEAS** (related to left brain: order, control & stability)
+  - Interfaces
+  - Dashboards
+  - Experimentation
+  - Autonomy
+  - Social
+- **SCALE** (related to right brain: creativity, growth & uncertainty)
+  - Staff on demand
+  - Community & Crowd
+  - Algorithms
+  - Leveraged assets
+  - Engagement
+
+## LEAD Enterprise Value Map [@LEADingPractice]
+
+##### Dimensions
+
+Another shareholder value optimization framework structured with:
+
+- Cost efficiency
+  - Optimize cost, cash flow & capital
+  - Reduce administration costs
+  - Reduce cost of goods sold
+  - Reduce income tax
+  - Reduce sales costs
+- Improve competitiveness
+  - Faster time-to-market
+  - Improve brand awareness
+  - Improve customer interaction
+  - Improve customer satisfaction & loyalty
+  - Improve partner & relationship collaboration
+  - Improve responsiveness
+  - Strengthen Innovation
+- Improve operational excellence
+  - Improve corporate services
+  - Improve information management
+  - Improve resource management
+  - Improve service & product delivery
+  - Strengthen service & product development
+- Lower risk
+  - Ensure compliance
+  - Improve business recovery
+  - Improve risk insight & intelligence
+  - Improve risk management
+  - Improve risk planning
+- Strengthen growth
+  - Increase growth through expanding the service & product portfolio
+  - Increase growth through mergers & acquisition
+  - Increase growth through partnering
+  - Increase growth through penetrating new markets & segments
+  - Increase revenue through developing new sales & service channels
+  - Increase revenue through service & price optimization
+  - Increase revenue with existing customers
+
+## Deloitte Enterprise Value Map [@Deloitte2004]
+
+##### Dimensions
+
+A shareholder value optimization framework structured around:
+
+- Revenue growth
+  - Volume
+  - Price realization
+- Operating margin
+  - Selling, general & administrative (SG&A)
+  - Cost of goods sold (COGS)
+  - Income taxes
+- Asset efficiency
+  - Property, plant & equipment
+  - Inventory
+  - Receivables & payables
+- Expectations
+  - Company strengths
+  - External factors
+
 ## Digital America: A tale of the haves and the have-mores [@Manyika2015]
 
 ##### Dimensions
@@ -325,6 +328,33 @@ Labor:
 
 
 ##### Quotes
+
+
+## Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
+
+##### Dimensions
+
+A Capgemini report giving recommandations about how to deal with Digital Transformation. There are 3 categories of recommandations:
+
+- Customer experience
+  - Customer understanding
+  - Top line growth
+  - Customer touch points
+- Operational process
+  - Process digitization
+  - Worker enablement
+  - Performance management
+- Business model
+  - Digitally-modified business
+  - New digital business
+  - Digital globalization
+
+And with a bonus category of enablers:
+
+- Digital capabilities
+
+##### Quotes
+
 
 
 ## Digital ubiquity: How connections, sensors, and data are revolutionizing business [@Iansiti2014]
@@ -428,39 +458,6 @@ Digital technology has **3 fundamental properties**:
 - digital signals can be transmitted perfectly without error: **no depreciation with time/usage**
 - digital signals can be replicated indefinitely: **no production cost**
 - digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
-
-
-## Strategic principles for competing in the digital age [@Hirt2014]
-
-##### Dimensions
-
-Opportunities and threats:
-
-- **Enhancing interactions** among customers, suppliers, stakeholders, and employees
-- **Improving management decisions** as algorithms crunch big data from social technologies or the Internet of Things
-- **Enabling new business or operating models**, such as peer-to-peer product innovation or customer service
-
-7 forces at work:
-
-1. New pressure on prices and margins
-1. Competitors emerge from unexpected places
-1. Winner-takes-all dynamics
-1. Plug-and-play business models
-1. Growing talent mismatches
-1. Converging global supply and demand
-1. Relentlessly evolving business models at higher velocity
-
-
-Managing the strategic challenges: Six big decisions
-
-- Decision 1: Buy or sell businesses in your portfolio?
-- Decision 2: Lead your customers or follow them?
-- Decision 3: Cooperate or compete with new attackers? (link with @Iansiti2014: GE's doing more partnerships)
-- Decision 4: Diversify or double down on digital initiatives? (_potential_ link with @Woodard2013: Augment the design capital by augmenting the options or diminish the technical debt)
-- Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? (link with @Karimi2015: depending on the characteristics (size, existing assets, agility needed, risk aversion...), some have integrated or not the digital business unit)
-- Decision 6: Delegate or own the digital agenda?
-
-
 
 
 # Bibliography
