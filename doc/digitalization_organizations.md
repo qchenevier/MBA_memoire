@@ -148,7 +148,6 @@ In this article, a description of the 5 steps of the knowledge worker:
 
 ##### Quotes
 
-
 ## The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
 
 ##### Dimensions
@@ -329,7 +328,6 @@ Labor:
 
 ##### Quotes
 
-
 ## Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
 
 ##### Dimensions
@@ -354,8 +352,6 @@ And with a bonus category of enablers:
 - Digital capabilities
 
 ##### Quotes
-
-
 
 ## Digital ubiquity: How connections, sensors, and data are revolutionizing business [@Iansiti2014]
 
@@ -458,6 +454,137 @@ Digital technology has **3 fundamental properties**:
 - digital signals can be transmitted perfectly without error: **no depreciation with time/usage**
 - digital signals can be replicated indefinitely: **no production cost**
 - digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
+
+## Digital Business Strategy: Toward a Next Generation of Insights [@Bharadwaj2013]
+
+##### Dimensions
+
+Key External Digital Trends
+
+- Pervasive Connectivity
+- Information Abundance
+- Global Supply Chains
+- Improved Price/Performance of IT
+- Growth of Cloud Computing
+- Emergence of Big Data
+
+Key Organizational Shifts
+
+- Limitations of Traditional Business Models
+- Trans-functional Role for IT
+- New Mandate for IT and the CIO
+- Increased Familiarity with IT
+
+
+Described in details here
+
+- **Scope** of Digital Business Strategy
+
+  - **fuse** and integrate between **IT and business strategy**
+  - **transcend** traditional functional and process **silos**
+  - exploit the **digitization of products and services** and the information around them
+  - exploit the extended business **ecosystem**
+
+- **Scale** of Digital Business Strategy
+
+  - **scale up and down** the IT infrastructure to bolster a **strategic dynamic capability**?
+  - leverage **network effects** and **multisided platforms**
+  - leverage **data**, information, and knowledge abundance
+  - scale volume through alliances and **partnerships**
+
+- **Speed** of Digital Business Strategy & Decision Making
+
+  - accelerate **new product** launches
+  - speed up **learning** for improving strategic and operational **decision making**
+  - bolster the speed of dynamic **supply chain orchestration**
+  - form new **business networks** that provide **complementary capabilities**
+  - speed up the **sense and respond cycle**
+
+- **Sources of Value** Creation and Capture
+
+  - leverage value from **information**
+  - leverage value from **multisided business models**
+  - capture value through **coordinated business models in networks**
+  - appropriate value through the **control of the firm’s digital architecture**
+
+
+##### Quotes
+
+
+The post-dotcom decade has seen firms—both established and startups—taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web).
+
+
+These digital technologies are fundamentally reshaping traditional business strategy as modular, distributed, cross-functional, and global business processes
+
+Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space.
+
+It is time to fusion between IT strategy and business strategy into an overarching phenomenon we herein term digital business strategy.
+
+Digital Business Strategy is an organizational strategy formulated and executed by leveraging digital resources to create differential value.
+
+By recognizing the pervasiveness of digital resources in operations, purchasing, supply chain & marketing and going beyond systems and technologies, to recognize digital resources, in line with the resource-based view of strategy.
+
+Digital business strategy can be viewed as being inherently transfunctional, with digital resources serving as the connective tissue.
+
+Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected.
+
+Over time, as firms and industries become more digital and rely on information, communication, and connectivity functionality, we envision that digital business strategy will be the business strategy. At that juncture, there would be no separation between business strategy and digital business strategy. (link with [@Perez2004] with _old vs new common sense_)
+
+This is because digital resources are “more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society” (Deloitte 2009, p. 2).
+
+In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available.
+
+
+We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy
+
+Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries.
+
+Business ecosystems that are intricately intertwined such that digital business strategy cannot be conceived independently of the business ecosystem, alliances, partnerships, and competitors.
+
+The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches.
+
+Rather than thinking of scale only in terms of physical factors of production, supply chains, or geographic coverage, we need to think of scale in both physical and digital terms.
+
+
+Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital infrastructure and business strategy are fused, this rapid scaling ability becomes a strategic dynamic capability for the firm to adapt to the dynamic requirements of the digital marketplace.
+
+
+Network Effects Within Multisided Platforms Create Rapid Scale Potential: Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service. More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partner-ships and on the demand side with interconnections among web pages
+
+
+Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors
+
+
+Scale Through Alliances and Partnerships through shared digital assets. Firms modularize their business processes and rely on plug-and-play capabilities for richly linking digital assets and rely on linkages through application programming interfaces (APIs) and web services.
+
+
+Speed of Digital Business Strategy: time takes on a more central role in digital business settings.
+
+Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coor-dinated in networks with complementary products and services.
+
+
+Speed of Decision Making: technology has allowed firms to speed up decisions that otherwise might be slowed due to information flows up and down the hierarchy through multiple layers of management. Leading companies have invested significantly to provide the capability to access diverse streams of information. Slowness in response could mean customers moving away from
+companies perceived as being out of tune with the new reality. But there are enormous challenges to access, process, and analyze the massive amounts of data that accumulate as a natural by-product of routine transactions. As companies make investments to process increased amounts of data, we find that few have made corresponding investments in the organizational processes to drive business value from data and information. The value lies not in investing in technology but in how increased access to information drives faster and more effective decisions.
+
+
+The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage.
+
+
+Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness.
+
+Sources of Value Creation and Capture: Digital business strategy brings in additional dimensions that alter the nature of value creation and capture.
+
+Increased Value from Information: the digital business context brings new opportunities to create value from information. Many firms are able to fine-tune their actions and personalize their offerings based on information about customer preferences. Democratization of content as well as the subsequent sharing, remixing, redistribution, and resyndication of content have caused dramatic power shifts in market channels and dis-intermediations that disrupt traditional sources of economic profits while creating fundamentally new sources of value.
+
+
+Value Creation from Multisided Business Models: multisided revenue models important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture
+value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions.
+
+
+Value Capture through Coordinated Business Models in Networks: value creation and capture in digital settings often involve complex and dynamic coordination across multiple companies. Business models are not inde-pendent but intersect and interoperate across these different players.
+
+
+Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium.
 
 
 # Bibliography
