@@ -19,6 +19,7 @@ output:
 
 ## Deloitte Enterprise Value Map [@Deloitte2004]
 
+##### Dimensions
 
 A shareholder value optimization framework structured around:
 
@@ -38,6 +39,8 @@ A shareholder value optimization framework structured around:
   - External factors
 
 ## LEAD Enterprise Value Map [@LEADingPractice]
+
+##### Dimensions
 
 Another shareholder value optimization framework structured with:
 
@@ -78,12 +81,16 @@ Another shareholder value optimization framework structured with:
 
 ## Customer intimacy and other value disciplines [@Treacy1993]
 
+##### Dimensions
+
 A foundation book/article about value disciplines and how to use them to trade-off between strategic decision:
 - Operational excellence
 - Customer intimacy
 - Product leadership
 
 ## Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
+
+##### Dimensions
 
 A Capgemini report giving recommandations about how to deal with Digital Transformation. There are 3 categories of recommandations:
 
@@ -104,7 +111,12 @@ And with a bonus category of enablers:
 
 - Digital capabilities
 
+##### Quotes
+
+
 ## Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
+
+##### Dimensions
 
 In this article, an analysis of the paradigm shift (_oil age to information age_) in today's organisations with these categories:
 
@@ -164,8 +176,12 @@ In this article, an analysis of the paradigm shift (_oil age to information age_
 |                  - Firm as a closed system
 +----------------+------------------------------------+---------------------------------+
 
+##### Quotes
+
 
 ## The rise of AI makes emotional intelligence more important [@Beck2017]
+
+##### Dimensions
 
 In this article, a description of the 5 steps of the knowledge worker:
 
@@ -175,18 +191,12 @@ In this article, a description of the 5 steps of the knowledge worker:
 4. Determine a recommended course of action
 5. Implement the course of action
 
-## Strategic principles for competing in the digital age [@Hirt2014]
+##### Quotes
 
-High-level recommandations with the help of what question you need to answer to define your strategy:
-
-- Buy or sell businesses in your portfolio ?
-- Lead your customers or follow them ?
-- Cooperate or compete with new attackers ?
-- Diversify or double down on digital initiatives ?
-- Keep digital businesses separate or integrate them with current nondigital ones ?
-- Delegate or own the digital agenda ?
 
 ## McKinsey 7S framework [@McKinsey2008]
+
+##### Dimensions
 
 The 7S McKinsey framework, allowing to frame an analysis of an enterprise strategy:
 
@@ -199,6 +209,8 @@ The 7S McKinsey framework, allowing to frame an analysis of an enterprise strate
 - Staff
 
 ## Exponential organizations [@VanGeest2014]
+
+##### Dimensions
 
 A singularity university book about new organizations with hyper-fast growth and their structuring principles:
 
@@ -217,34 +229,12 @@ A singularity university book about new organizations with hyper-fast growth and
 
 ## The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
 
+##### Dimensions
+
 Criteria:
 
-- Routine vs Non-routine
-- Cognitive vs Manual
-
-Non-routine:
-
-- legal writing
-- truck driving
-- medical diagnoses
-- persuading...
-<!--  -->
-
-
-- High probability of digitization:
-  - Routine intensive occupations = well-defined procedures
-- Low probability of digitization:
-  - Services: because of higher degree of flexibility and physical adaptability
-  - Cognitive jobs
-
-Low Probability of off-shoring:
-
-- specific work location needed
-- face-to-face personal communication required
-
-Beware: activity that can be off-shored != activity that can be automated. E.g.: cashier not off-shorable but replaced by self-service technology.
-
-> The Idea that technological advances favor more skilled workers is a twentieth century phenomenon. [@Acemoglu2002]
+- **Routine** vs **Non-routine**
+- **Cognitive** vs **Manual**
 
 3 Tasks categories which won't be automated:
 
@@ -261,7 +251,35 @@ Creativity                  | Fashion Designer | Count Clerk
 Perception and manipulation | Surgeon          | Telemarketer
 
 
+##### Quotes
+Non-routine work examples:
+
+- legal writing
+- truck driving
+- medical diagnoses
+- persuading...
+<!--  -->
+
+Taxonomy of jobs:
+
+- High probability of digitization:
+  - Routine intensive occupations = well-defined procedures
+- Low probability of digitization:
+  - Services: because of higher degree of flexibility and physical adaptability
+  - Cognitive jobs
+
+Low Probability of off-shoring:
+
+- specific work location needed
+- face-to-face personal communication required
+
+Beware: activity that can be off-shored != activity that can be automated. E.g.: cashier not off-shorable but replaced by self-service technology.
+
+> The Idea that technological advances favor more skilled workers is a twentieth century phenomenon. [@Acemoglu2002]
+
 ## Digital America: A tale of the haves and the have-mores [@Manyika2015]
+
+##### Dimensions
 
 Assets:
 
@@ -305,7 +323,35 @@ Labor:
 |                          | - Decreased waste of raw materials
 +--------------------------+---------------------------------------------------------+
 
+
+##### Quotes
+
+
 ## Digital ubiquity: How connections, sensors, and data are revolutionizing business [@Iansiti2014]
+
+##### Dimensions
+
+GE's technical transformation:
+
+- adding **digital sensors** to its machines,
+- connecting them to a **common, cloud-based software platform**
+- investing in **modern software development** capabilities
+- building **advanced analytics** capabilities
+
+
+GE's marketing & organizational transformations:
+
+- **transactional**: break/fix. **Sell** parts & repair.
+- **contractual**: service agreement. **Share risk**, reducing the total cost of ownership.
+- **expanded customer outcomes**: optimized assets & operations. Use data & analytics to **provide decision support** services.
+
+
+A business model is defined by two things:
+
+- how the organization **creates** value for its customers
+- how the organization **captures** that value
+
+##### Quotes
 
 Today, many companies are having new competitors, shifting the customer value proposition away from acquiring reliable industrial equipment to deriving new efficiencies and other benefits through advanced analytics and algorithms based on the data generated by that equipment.
 
@@ -316,7 +362,7 @@ GE has responded by:
 - investing in **modern software development** capabilities
 - building **advanced analytics** capabilities
 
-Now, GE's revenue from its jet engines is tied not t a simple sales transaction but to performance improvements: less downtime and more miles flown.
+Now, GE's revenue from its jet engines is tied not to a simple sales transaction but to performance improvements: less downtime and more miles flown.
 
 Many software companies (and not only) have started to transform their business model:
 
@@ -338,9 +384,9 @@ GE **sells less** hardware but has developed **mutually profitable partnerships*
 
 GE's transformations:
 
-- transactional: break/fix. **Sell** parts & repair.
-- contractual: service agreement. **Share risk**, reducing the total cost of ownership.
-- expanded customer outcomes: optimized assets & operations. Use data & analytics to **provide decision support** services.
+- **transactional**: break/fix. **Sell** parts & repair.
+- **contractual**: service agreement. **Share risk**, reducing the total cost of ownership.
+- **expanded customer outcomes**: optimized assets & operations. Use data & analytics to **provide decision support** services.
 
 
 What to do:
@@ -386,11 +432,13 @@ Digital technology has **3 fundamental properties**:
 
 ## Strategic principles for competing in the digital age [@Hirt2014]
 
+##### Dimensions
+
 Opportunities and threats:
 
-- Enhancing interactions among customers, suppliers, stakeholders, and employees
-- Improving management decisions as algorithms crunch big data from social technologies or the Internet of Things
-- Enabling new business or operating models, such as peer-to-peer product innovation or customer service
+- **Enhancing interactions** among customers, suppliers, stakeholders, and employees
+- **Improving management decisions** as algorithms crunch big data from social technologies or the Internet of Things
+- **Enabling new business or operating models**, such as peer-to-peer product innovation or customer service
 
 7 forces at work:
 
