@@ -16,3 +16,6 @@ sources
 
 *.pdf
 *.log
+
+test_*
+tmp_*
