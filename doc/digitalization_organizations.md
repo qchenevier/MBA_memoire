@@ -589,10 +589,70 @@ Value Appropriation through Control of Digital Industry Architecture: Apple has 
 ## Shaping the Future: Seven Enduring Principles for Fast-changing Industries [@Gimpel2012]
 
 ##### Dimensions
+Information goods, powerful computing devices, and inexpensive digital communication is changing business and society through five digital forces
+
+- Globalization
+- Millennialization
+- Prosumerization
+- Business virtualization
+- Platformization
+
+PSD framework to assess the type of activity in the value stream:
+
+- Production
+- Search
+- Delivery
 
 
+VRIN framework to assess the value of an activity/resource:
+
+- Valuable
+- Rare
+- Inimitable
+- Non-substitutable
+
+7 principles:
+
+- Stop staring in the mirror
+- Disrupt yourself
+- Join them to beat them
+- If it's not VRIN, it's out
+- Produce, search, and/or deliver
+- Value creation is the new structure
+- Platforms are the future systems of engagement
 
 ##### Quotes
+
+Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries. (CIME) industries face dramatic changes in revenue streams and shifts in industry dynamics. Power players accustomed to monopoly profits face unprecedented competition. Traditional business models face threats. Communications firms face substitution from over-the-top services.
+
+Innovations create indirect substitutes for consumer time, attention, and money. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society through five digital forces: globalization, Millenialization, prosumerization, business virtualization, and platformization.
+
+Globalization reshapes the nature of supply and demand. Consumers enjoy a new world of choice.
+Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others.
+Prosumerization has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents.
+Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms.
+Platformization: Digital platforms bring together suppliers, customers, and third parties and are replacing traditional middlemen and can often serve to level the playing field by granting small players and new entrants access to formerly closed markets.
+
+Stop staring in the mirror: a key to adapting to dramatically-shifting marketplaces is to reevaluate what makes you successful and how you measure success. The metrics used to measure performance in the prior era may no longer be relevant.
+
+Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries.
+
+Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it.
+
+If it's not VRIN, it's out: Technological innovations can reshape value chains, causing once-strategic resources to lose their value, identify and build upon strategic resources that will remain valuable after the transition. It must be VRIN: valuable, rare, inimitable, and non-substitutable.
+
+Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery.
+- Production is "making goods available for use."
+- Search is matching different parties together so they can trade.
+- Delivery is transmitting or communicating information and information goods
+The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability.
+CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles.
+
+Value creation is the new structure: Structures often become rigid, causing firms to define themselves by what they do, not how they add value. The structures imprudently shift the focus to creating profits for the firm instead of creating value for customers. A focus on value rather than structure frees enterprises to shake off the mentality of "that's not how we do business.". Companies can build a strong competitive offering around core and essential core support functions, while virtualizing other part of the business through outsourcing, partnerships, and strategic alliances.
+
+Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market. Executives must shift from thinking about value chains to value networks. Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate.
+
+Digital platforms will become the gateways (and bottlenecks) to the market.
 
 ## The Role of Dynamic Capabilities in Responding to Digital Disruption: A Factor-Based Study of the Newspaper Industry [@Karimi2015]
 
