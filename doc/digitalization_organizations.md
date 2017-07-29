@@ -586,5 +586,127 @@ Value Capture through Coordinated Business Models in Networks: value creation an
 
 Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium.
 
+## Shaping the Future: Seven Enduring Principles for Fast-changing Industries [@Gimpel2012]
+
+##### Dimensions
+
+
+
+##### Quotes
+
+## The Role of Dynamic Capabilities in Responding to Digital Disruption: A Factor-Based Study of the Newspaper Industry [@Karimi2015]
+
+##### Dimensions
+
+Determinants of first-order dynamic capabilities:
+
+- Resources: They are intangible in nature and must be built and cultivated over time.
+  - Dedicated financial resources (DFR)
+  - Dedicated human resources (DHR)
+  - Senior management support (SMS)
+- Processes: They are the fundamental building blocks of organizational capability and competitive advantage.
+  - Staged allocation of resources (SAR)
+  - Autonomous growth group (ACG)
+- Values: They are the primary building-blocks for culture, which is the pattern of shared values, norms, and practices that distinguishes one organization from another.
+  - Innovative culture (IC)
+  - Common language (CL)
+  - Multimedia mindset (MM)
+
+
+##### Quotes
+
+Disruptive innovation theory offers explanations for why companies succeed or fail to respond to disruptive innovations.  
+First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities
+Managers [must] focus on the most promising factors for creating first-order dynamic capabilities.
+Internet information is now cheap, open standards have also facilitated open distribution platforms which have further resulted in more flexibility for consumers.
+Aggregative news services are becoming more important intermediaries.
+Inexpensive digital information goods and computing and communication devices are changing society as a whole through five digital forces: globalization, millenialization, prosumerization, business virtualization, and platformization [@Gimpel2012].
+Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and
+disruptive for the newspaper industry.
+The resources-processes-values (RPV) framework offers explanations for why big companies succeed or fail to respond to disruptive innovations, [however] the emphasis in the theory has always been on nontechnology and little attention has been paid to the enabling role of technology in responding to disruptive innovations.
+The complex patterns of dynamic interdependencies among environmental turbulence, dynamic capabilities, and IT systems have resulted in the phenomenon called "digital ecodynamics" [@ElSawy2010].
+
+(1) what are newspaper companies' key RPV factors that create first-order dynamic capabilities for responding to digital disruption?
+(2) what is the role of such capabilities in building digital platform capabilities?
+(3) do digital platform capabilities mediate the impact of first-order dynamic capabilities on the performance of newspaper companies?
+
+A technology is considered disruptive when its use generates services or physical products with different performance attributes that may not be valued by a company's current customer base. Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades.
+
+Christensen framed disruption as a theory, [but, according to him,] disruptive innovation theory can be further improved by making definitions and measurements more precise, by refining the categories, and by clarifying the mechanism of causality.
+
+Organizational ordinary capabilities are defined as "high-level routine" that confers a set of decision options for producing significant outputs of a particular type". They are the zero-level and "how we earn a living now" capabilities. A capability gap is the distance between a firm's existing configuration of capabilities and the most valuable configuration potentially available post the
+technological change.
+
+Dynamic capabilities govern the rate of change in organizational ordinary capabilities and are essential in responding to disruptive technological shifts. Dynamic capabilities theory is an extension of the resource-based view of the firm. Dynamic capabilities are theorized as existing at different levels. The first-order dynamic capabilities "extend, modify, change and/or create ordinary capabilities". When deploying first-order dynamic capabilities may not be sufficient, a firm may need to develop second-order dynamic capabilities [@Daniel2014]. The second-order (or higher-order) dynamic capabilities enable spontaneous responsiveness in novel situations and in recessionary conditions [@Daniel2014].
+
+Three classes of resources are critical for enabling responses to digital disruption:
+
+- Dedicated financial resources to fund innovation projects. Projects are often seen as unlikely to generate sizable profits, so companies may find it difficult to assign high priorities for those projects.
+
+
+Determinants of first-order dynamic capabilities:
+- Resources: They are intangible in nature and must be built and cultivated over time.
+  - Dedicated financial resources (DFR)
+  Dedicating these resources to responding to digital disruption can facilitate new growth by avoiding the traps associated with allocating all slack resources to core products and by removing the obstacles that would otherwise limit the potential for innovative ideas to succeed [9, 63].
+  - Dedicated human resources (DHR)
+  Relying just on human resources already allocated to the core products can sharply limit a newspaper company's ability to sell innovative non-core products and to capture new business models.
+  - Senior management support (SMS)
+  It not only signals the importance of innovation to the organization but also helps innovative project teams clear the inevitable obstacles to success and harness senior management's wisdom to improve ideas. It supports activities for building an effective project coalition, developing and communicating a vision, and providing resources to support initiatives.
+- Processes: They are the fundamental building blocks of organizational capability and competitive advantage.
+  - Staged allocation of resources (SAR)
+  It can force innovation teams to zero in quickly on critical assumptions, find cheap ways to test those assumptions, and develop lean and flexible structures for innovation projects. Instead of risking big investments on uncertain strategies, newspaper companies can "invest a little to learn a lot" about the key uncertainties in their approach, reduce the cost and risk of innovation, and encourage smart experiments and risk-mitigation strategies.
+  - Autonomous growth group (ACG)
+  It is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests. It is a necessary condition when a new venture needs to take an approach that the old venture dislikes or rejects, or when a new venture needs to create new growth that may disrupt the core business. Otherwise, chances are that either a low priority is assigned to new ideas or an old business model may be force-fitted onto the new opportunity.
+- Values: They are the primary building-blocks for culture, which is the pattern of shared values, norms, and practices that distinguishes one organization from another.
+  - Innovative culture (IC)
+  It defines or constrains what an organization can or cannot do, and as such can be a disability when confronting a new innovation. It can stimulate innovative behavior among members of an organization. It can lead an organization to accept innovation as one of its basic values and can foster commitment to it.
+  - Common language (CL)
+  It can facilitate change and overcome some of the barriers that make responding to innovation difficult. It can create a shared perspective to dramatically change the way organizations think and strengthen their ability to identify and develop new ideas. It can help to hardwire new concepts into the organization by the repeated use of terms such as "JOBS-to-be-done"; "good enough"; "invest a little, learn a lot".
+  - Multimedia mindset (MM)
+  It actively expands newspaper companies' foci to include a multi-platform approach to serving consumers. It needs to permeate all aspects of a newspaper company and its overall mission. It must take hold institutionally, across the entire organization, and personally, in those leading the transformation.
+
+Senior management needs to go beyond words, and in addition to leaning back and reviewing improvements in the core products, senior management needs to lean forward and work on growth initiatives for non-core products.
+
+Processes that govern investment decisions are the most crucial processes in which many organizations' most serious disabilities reside when attempting to respond to disruptive innovations.
+
+Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests.
+
+Values are defined as standards by which employees make priorisation decisions innovation requires firms to build and sustain an innovation-supportive culture. Innovative culture derives from values  that reinforces the daily practices.
+
+Common language for disruptive innovations are able to avoid some of the mental traps that make enabling response to digital disruption difficult. These traps include pursuing perfection when "good enough" is often sufficient, overestimating knowledge of new markets, and making big bets when it is better to begin with small ones.
+
+Adopt a multimedia mindset and view [your] business as a portfolio of products and services with different business models, pricing, and distribution strategies. A mindset that does not favor the status quo.
+
+Digital ecodynamics requires a holistic convergence among dynamic capabilities, IT systems, and environmental turbulence.
+
+Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities.
+
+The focus of value creation shifts from value chain to value networks. Include a multi-platform or platform-free mindset by considering all forms of content.
+
+Developing a digital-first mindset, making digital strategy everyone's job, cultivating an open culture that embraces digital innovations. Platforms to connect to consumers: to reach new audiences through
+building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses.
+
+Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions.
+
+Hypothesis 1: The greater the extent of the first-order dynamic capabilities, the higher a newspaper company's response performance will be in terms of digital revenue generated from all on-line sources.
+Hypothesis 2: The greater the extent of first-order dynamic capabilities, the higher a newspaper company's ability will be to build digital platform capabilities in response to digital disruption.
+Hypothesis 3: The greater the extent of digital platform capabilities, the higher a newspaper company's response performance will be in terms of number of digital non-core products.
+Hypothesis 4: The impact of first-order dynamic capabilities on response performance in terms of number of digital non-core products is mediated by a newspaper company's ability to build digital platform capabilities.
+
+Three research questions were examined in this study:
+(1) What are newspaper companies' key RPV factors that create first-order dynamic capabilities for
+responding to digital disruption?
+(2) What is the role of such capabilities in building digital platform capabilities?
+(3) Do digital platform capabilities mediate the impact of first-order dynamic capabilities?
+
+The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building
+digital platform capabilities.
+
+Our results are deemed generalizable to other industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises.
+
+Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks. [Organizations] need to find out whether processes for their core products are appropriate for developing digital non-core products and whether their values give them the priority they need to reconfigure their capabilities. If not, values need to be changed first, since values ultimately determine what processes are in place.
+
+(1) first-order dynamic capabilities have a direct association with building digital platform capabilities and with newspaper companies' response to digital disruption in terms of revenue generated from all on-line sources
+(2) digital platform capabilities mediate the relationship between first-order dynamic capabilities and newspaper companies' response performance in terms of number of non-core products.
 
 # Bibliography
