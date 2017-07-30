@@ -165,11 +165,11 @@ Criteria:
 
 Examples:
 
-Category                    | Max              | Min
---------------------------- | ---------------- | ------------
-Social intelligence         | Public relations | Dishwasher
-Creativity                  | Fashion Designer | Count Clerk
-Perception and manipulation | Surgeon          | Telemarketer
+| Category                    | Max              | Min          |
+|:----------------------------|:-----------------|:-------------|
+| Social intelligence         | Public relations | Dishwasher   |
+| Creativity                  | Fashion Designer | Count Clerk  |
+| Perception and manipulation | Surgeon          | Telemarketer |
 
 
 ##### Quotes
@@ -844,5 +844,167 @@ If a firm is fortunate enough to be in a position of high-quality design capital
 Firms pursuing digital business strategies must manage a fundamental tension between the need to support flexible adaptation of their products and services to changing market conditions, and the need to provide stable value appropriation mechanisms to extract economic rents and reinvest them in innovative activities. Companies often fuse IT with their products and services for competitive advantage.
 
 We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital.
+
+## Options for Formulating a Digital Transformation Strategy
+
+##### Dimensions
+
++----------------+------------------------------------+---------------------------------+
+|Dimension         Question                             Options
++================+====================================+=================================+
+|Use of            Strategic role of IT                - Enabler
+|Technologies                                          - Supporter
++----------------+------------------------------------+---------------------------------+
+|                  Technological ambition              - Innovator
+|                                                      - Early adopter
+|                                                      - Follower
++----------------+------------------------------------+---------------------------------+
+|Changes in Value  Degree of digital diversification   - Electronic sales channels
+|Creation                                              - Cross-media
+|                                                      - Enriched-media
+|                                                      - Content platforms
+|                                                      - Extended business
++----------------+------------------------------------+---------------------------------+
+|                  Revenue creation                    - Paid content
+|                                                      - Freemium
+|                                                      - Advertising
+|                                                      - Complementary products
++----------------+------------------------------------+---------------------------------+
+|                  Future main business scope?         - Content creation
+|                                                      - Content aggregation
+|                                                      - Content distribution
+|                                                      - Management of content platforms
+|                                                      - Other
++----------------+------------------------------------+---------------------------------+
+|Structural        Responsibility for digital          - Group CEO
+|changes           transformation strategy             - CEO of business unit
+|                                                      - Group CDO
+|                                                      - Group CIO
++----------------+------------------------------------+---------------------------------+
+|                  Organizational positioning of new   - Integrated
+|                  activities                          - Separated
++----------------+------------------------------------+---------------------------------+
+|                  Focus of operational changes?       - Products and services
+|                                                      - Business processes
+|                                                      - Skills
++----------------+------------------------------------+---------------------------------+
+|                  Building of competencies?           - Internally
+|                                                      - Partnerships
+|                                                      - Company takeovers
+|                                                      - External sourcing
++----------------+------------------------------------+---------------------------------+
+|Financial         Financial pressure on current       - Low
+|aspects           core business                       - Medium
+|                                                      - High
++----------------+------------------------------------+---------------------------------+
+|                  Financing of new activities?        - Internal
+|                                                      - External
++----------------+------------------------------------+---------------------------------+
+
+##### Quotes
+
+The market-changing potential of digital technologies is often wider than products, business processes, sales channels or supply chains. Entire business models are being reshaped and frequently overturned. There are many recent examples of organizations that have been unable to keep pace with the new digital reality.
+Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider.
+The Digital Transformation Framework (DTF) represents a holistic approach to the development of a company-wide digital transformation strategy. A digital transformation strategy identifies the four key dimensions of every digital transformation: Use of technologies, Changes in value creation, Structural changes, Financial aspects.
+
+Most IT strategies treat technology in isolation, they often lack the transformational, business-centric orientation needed to realize the potential within a company's business model, products, processes and organizational structures. A digital transformation strategy signposts the way toward digital transformation and guides managers through the transformation process resulting from the integration and use of digital technologies and helps them navigate the complexity and ambiguity of identifying their own digital "sweet spots."
+
+We regard size and value focus as crucial dimensions when investigating digital transformation. A firm's main product line will most likely play a crucial role in its digital transformation, because the integration of digital technologies into products is one of the key aspects of digital transformation.
+
+To foster the transformation of ideas into new products and services, a dedicated innovation lab was established in 2012. P7S1 generates revenues from its digital products and services both indirectly via advertising and directly via paid content, the sales of virtual goods within online games, or through "freemium" models. Synergies between digital and traditional offerings are actively fostered.
+P7S1's pure digital business unit, called "Digital & Adjacent, is led by a board member and is supported strongly by the CEO. The company has also launched a dedicated incubator ("ProSiebenSat.1 Accelerator").
+
+The newspaper publisher MittelBayerische has taken a pragmatic approach to digital technologies. It does not have a department focused on innovation; instead, it introduces established technologies that complement its existing product portfolio. Mittelbayerische believes that the competencies needed for digital transformation should come from within the company and has established a thorough personal development program that helps foster the necessary digital mindset and skill set among existing staff.
+
+Ravensburger Interactive was launched in the 1990s, but was shut down later: activities in this area were too early and were unsuccessful. Ravensburger has entered the e-book and online gaming markets and has begun to develop complementary digital products that enrich its existing analog products. Although IT remains a support function for its core business activities, IT is regarded as a main driver of innovation within the company's digital business unit. Ravensburger has largely refrained from deploying digital technologies on non-content-related business segments and instead has focused on enriching analog products with digital content. Approximately 20% of Ravensburger's digital revenues are generated by these products. New digital products and services that are less closely related to the core business are organized in a dedicated subsidiary called "Ravensburger Digital", deliberately separated from the core business and physically separated from the headquarters to make it more appealing to applicants with different skill sets and to foster innovation.
+
+Use of Technologies Dimension:
+
+- Question 1: How Significant is Your Firm's IT to Achieving Strategic Goals?
+  Some firms regard IT as an enabler of new business opportunities. Others, however, use IT to support and fulfill defined business requirements and improvements. Companies with an enabling perspective of IT must carefully monitor digital technologies
+- Question 2: How Ambitious is Your Firm's Approach to New Digital Technologies?
+  Conservative firms may adopt established and widely used technology solutions, while others may deploy new technology solutions at the early stages of their development. A more aggressive approach is to act as an innovator and create and introduce new technology solutions into markets. Firms should consider their existing technological competence, the extent of their technology spending and their size. However, not all media companies have the technological competencies required to become leaders,they should carefully assess their technological ambitions.
+
+Changes in Value Creation Dimension: Changes in value creation relate mainly to the degree to which a company has already diversified its business into the digital world, how it plans to generate revenues from digital technologies and to its main business focus after a digital transformation.
+
+- Question 3: How "Digital" is Your Interface to the Customer?
+  Many firms want or need to exploit the possibilities of digital technologies and enter new business areas. This means considering how far away it should operate from its traditional core business. The optimal level of diversification is determined by a company's financial background and size.
+- Question 4: How Will You Create Revenue from Future Business Operations?
+  Finding new sources of revenue is an indispensable element of a digital transformation strategy. Some companies have tried to overcome constraints by extending their value-chain activities.
+- Question 5: What Will Your Future Business Scope Be?
+  Digital technologies may require media companies to rethink the scope of their businesses. Media companies generally maintain their focus on content creation and aggregation, whereas major assets of social media platforms derive from establishing connections between users and profiting from users' content to keep the platforms interesting. In contrast, there are media companies that deliberately shift their product and service portfolios to business areas that are less fundamentally affected by ongoing digital transformation.
+- Question 6: Who is in Charge of the Digital Transformation Endeavor?
+  The execution of such a strategy is often delegated to a senior manager. The CIO may also manage the transformation, which is typically the case if the focus is on business processes.
+- Question 7: Do You Plan to Integrate New Operations into Existing Structures or Create Separate Entities?
+  Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures.
+- Question 8: What Types of Operational Changes Do You Expect?
+  New technologies can significantly change the current products and services delivered to customers. Digital technologies can enable changes to business processes. Business processes can be classified as operational, support and management, but the typical focus of digital transformation initiatives is on operational processes. A company must define their processes and assess which of them will be affected by digital transformation.
+- Question 9: Do You Need to Acquire New Competencies? If so, How Do You Plan to Acquire Them?
+  Managers must carefully assess the firm's existing technology capabilities and identify the new competencies that will be needed. First option is to build on their current capabilities and acquire the required competencies. This approach typically takes time. Another option is to partner with other companies. This approach reduces the risk of failure. If the technological processes required for digital transformation are well structured and not overly complex, outsourcing these processes is another option. But, in the end, retaining the processes and knowledge required for digital transformation in-house means a company can be better positioned to gain a competitive advantage from future digital transformation initiatives.
+
+Financial Aspects Dimension: Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action.
+
+- Question 10: How Strong is the Financial Pressure on Your Current Core Business?
+  The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal.
+- Question 11. How Will You Finance the Digital Transformation Endeavor?
+  If a company is already financially struggling, its options for financing digital transformations will be severely limited.
+
+For example, the automotive industry has introduced digitally enriched products (such as the "connected car") and new business models (such as free-floating car sharing) and an ongoing automation of product development and production processes.
+
+The most important thing for managers charged with formulating their firms' digital transformation strategies is to know the right questions to ask.
+
+- Use of technologies
+  1. Strategic role of IT?
+    - Enabler
+    - Supporter
+  2. Technological ambition?
+    - Innovator
+    - Early adopter
+    - Follower
+- Changes in value creation
+  3. Degree of digital diversification?
+    - Electronic sales channels
+    - Cross-media
+    - Enriched-media
+    - Content platforms
+    - Extended business
+  4. Revenue creation?
+    - Paid content
+    - Freemium
+    - Advertising
+    - Complementary products
+  5. Future main business scope?
+    - Content creation
+    - Content aggregation
+    - Content distribution
+    - Management of content platforms
+    - Other
+- Structural changes
+  6. Responsibility for digital transformation strategy?
+    - Group CEO
+    - CEO of business unit
+    - Group CDO
+    - Group CIO
+  7. Organizational positioning of new activities?
+    - Integrated
+    - Separated
+  8. Focus of operational changes?
+    - Products and services
+    - Business processes
+    - Skills
+  9. Building of competencies?
+    - Internally
+    - Partnerships
+    - Company takeovers
+    - External sourcing
+- Financial aspects
+  10. Financial pressure on current core business?
+    - Low
+    - Medium
+    - High
+  11. Financing of new activities?
+    - Internal
+    - External
+
 
 # Bibliography
