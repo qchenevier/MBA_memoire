@@ -126,9 +126,11 @@ The digital technologies underlying competitive threats may not be new, but they
 
 New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal.
 
-Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions.
-Improving management decisions as algorithms crunch big data from social technologies or the Internet of Things. Better decision making helps improve performance providing for finer marketing allocations or mitigating operational risks.
-Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations.
+Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions.
+
+Improving management decisions as algorithms crunch big data from social technologies or the Internet of Things. Better decision making helps improve performance providing for finer marketing allocations or mitigating operational risks.
+
+Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations.
 
 Seven trends that could redefine competition:
 
