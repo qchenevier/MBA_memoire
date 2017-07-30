@@ -769,4 +769,80 @@ Rather than investing in the status quo, resources need to be appropriately allo
 (1) first-order dynamic capabilities have a direct association with building digital platform capabilities and with newspaper companies' response to digital disruption in terms of revenue generated from all on-line sources
 (2) digital platform capabilities mediate the relationship between first-order dynamic capabilities and newspaper companies' response performance in terms of number of non-core products.
 
+## Design Capital and Design Moves: the Logic of Digital Business Strategy [@Woodard2013]
+
+##### Dimensions
+
+Design capital:
+
+- Option value
+- Technical debt
+
+Important contingencies:
+
+- Resource munificence: organisational slack available
+- Technical capability
+- Ability to transfer the technical debt to the ecosystem
+
+
+Design capital states and strategies:
+
+- Option-constrained Design Capital: low option value & low technical debt.
+  - if resource abundance, create design options
+  - if resource scarcity, increase technical debt
+- Debt-constrained Design Capital. high option value, high technical debt.
+  - if resource scarcity, abandon design options
+  - if resource abundant, reduce technical debt
+- Low-quality Design Capital. low option value, high technical debt.
+  - if resource scarcity, "pull the plug"
+  - if resource abundance and high technical capability, reduce technical debt
+  - if resource abundance and low technical capability, create design options
+- High-quality Design Capital. high option value, low technical debt.
+  - if resource scarcity and high ability to transfer technical debt to its ecosystem, increase technical debt
+  - if resource scarcity and low ability to transfer technical debt to its ecosystem, abandon design options
+  - if resource abundance, experimentation & entrepreneurial actions
+
+##### Quotes
+We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt.
+
+Design capital as the cumulative stock of designs owned or controlled by a firm. Elements of a firm's design capital are typically designs for digital artifacts, such as software components and their associated interfaces and data structures, sometimes collectively called the firm's digital architecture. It enables the firm to innovate through new and improved designs.
+
+Design moves are discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs. For example, developing a new product or service, improving an existing component or reconfiguring the architecture itself. [@Baldwin2004] argue that, "new designs are fundamentally options with associated economic option value". The option value of a design reflects both the value of the products or services in which it is directly realized and the value of the alternative designs that it makes possible. Option value is enhanced by architectures that enable designers to combine components within or across layers, cultivate or attract external partners (e.g., by providing application programming interfaces or software development kits), and launch innovative digital offerings.
+
+Technical debt refers to the expected cost or effort entailed in exercising the options embedded in a firm's design capital. Technical debt is a natural by-product of the design process. Shortages of resources, time, or talent frequently lead designers intentionally to optimize for short-term goals at the expense of making a product or system easy to maintain and evolve. Like financial debt, sometimes technical debt can be necessary.
+Option value and technical debt are akin to financial assets and liabilities, and define the net present value of a modular architecture as the difference between the two.
+Each of the four firms in our study gained significant advantages as the quality of their design capital improved. All four case firms were constrained by high debt or lack of options (or both) at various times during our observation period.
+
+The role of design moves in our conceptual model is to provide a structured way of thinking about the actions taken by firms in pursuit of high-quality design capital.
+
+Resource munificence (or organizational slack available to designers) often proved to be an important contingency in every design capital state. Resource munificence explained why firms in the same state made moves that took them in different "directions".
+
+Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability. The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product.
+
+Option-constrained Design Capital. Startup firms and new business units tend to possess option-constrained design capital. Such firms can make two distinct kinds of design moves: increase the option value of its designs, increase its technical debt. When resources are scarce, designers experience pressures to address urgent business needs without the necessary slack to lay a firm foundation for the future. This leads to an accumulation of technical debt. When firms have abundant resources, designers have the necessary slack to enact moves with a longer planning horizon, and often use this opportunity to create options that can be harvested in the future.
+
+Proposition 1a: Under option-constrained design capital and resource scarcity, a firm's design moves will tend to increase the technical debt of its design capital.
+Proposition 1b: Under option-constrained design capital and resource abundance, a firm's design moves will tend to create design options in its design capital.
+
+Debt-constrained Design Capital. In a debt-constrained design capital state, a firm possesses high option value, but it is weighed down by high levels of technical debt. Under resource scarcity, investments in reducing technical debt through additional development efforts are unlikely to be feasible, but firms can also meet their short-term obligations by abandoning debt-laden modules and their associated design options. Debt-constrained firms that have access to abundant resources can afford to reduce their debt without abandoning options.
+
+Proposition 2a: Under debt-constrained design capital and resource scarcity, a firm's design moves will tend to abandon design options.
+Proposition 2b: Under debt-constrained design capital and resource abundance, a firm's design moves will tend to reduce its technical debt.
+
+Low-quality Design Capital. It is a state in which a firm possesses few design options, and its ability to exercise the options it does possess is impeded by high technical debt. When designers face both low-quality design capital and a resource-scarce environment, their choice of design moves is over-constrained. It is unsustainable: either the product or project needs to be "bailed out" or higher management needs to "pull the plug" on it. In the absence of resource constraints, designers can exit a low-quality design capital state either by reducing debt or creating options.
+
+Proposition 3a: Under low-quality design capital and resource abundance, a firm's design moves will tend to reduce technical debt if the technical capability of the firm is high.
+Proposition 3b: Under low-quality design capital and resource abundance, a firm's design moves will tend to create design options if the technical capability of the firm is low.
+
+High-quality Design Capital. High-quality design capital, a state with high option value and low technical debt, can confer unfettered competitive advantage. Differences in a firm's ability to transfer the costs of technical debt to other members of its ecosystem (including end users) provided a systematic explanation for the differing transitions.
+
+Proposition 4a: Under high-quality design capital and resource scarcity, a firm's design moves will tend to increase technical debt if the firm's ability to transfer technical debt to other members of its ecosystem is high.
+Proposition 4b: Under high-quality design capital and resource scarcity, a firm's design moves will tend to abandon design options if its ability to transfer technical debt to other members of its ecosystem is low.
+
+If a firm is fortunate enough to be in a position of high-quality design capital and resource abundance, this describes an under-constrained situation for designers that favors experimentation and entrepreneurial actions. Such an environment requires effective sense-making and the ability to cope with complexity and uncertainty. Firms with high quality design capital tended to create product or service platforms that, in turn, enabled them to sustain a state of high-quality design capital. We observed two distinct kinds of platform strategies: one focused on internal economies of scale and scope, and the other focused on influencing an external ecosystem.
+
+Firms pursuing digital business strategies must manage a fundamental tension between the need to support flexible adaptation of their products and services to changing market conditions, and the need to provide stable value appropriation mechanisms to extract economic rents and reinvest them in innovative activities. Companies often fuse IT with their products and services for competitive advantage.
+
+We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital.
+
 # Bibliography
