@@ -20,18 +20,20 @@ output: pdf_document
 | [@Westerman2011]   | Digital Transformation: A Road-Map for Billion-Dollar... | +   | +++ |      |
 | [@Iansiti2014]     | Digital ubiquity: How connections, sensors & data are... | +++ | +++ |      |
 | [@Bharadwaj2013]   | Digital Business Strategy: Toward a Next Generation ...  | +++ | +++ |      |
-| [@Karimi2015]      | The Role of Dynamic Capabilities in Responding to...     |     |     | +    |
-| [@Woodard2013]     | Design Capital and Design Moves: the Logic of Digital... |     |     | +    |
+| [@Karimi2015]      | The Role of Dynamic Capabilities in Responding to...     | +++ |     |      |
+| [@Gimpel2012]      | Shaping the Future: Seven Enduring Principles for ...    | +++ | +++ |      |
+| [@Woodard2013]     | Design Capital and Design Moves: the Logic of Digital... | +++ |     |      |
+| [@Hess2016]        | Options for Formulating a Digital Transformation ...     | +++ | +++ |      |
 | [@Su2015]          | The Long-Tail Strategy for IT Outsourcing                |     |     | ++   |
 | [@Bughin2016]      | Digital Europe: Pushing the Frontier, Capturing the...   |     |     | ++   |
-| [@Hess2016]        | Options for Formulating a Digital Transformation ...     |     |     | ++   |
 | [@WESTERMAN2015]   | Revamping Your Business Through Digital Transformation   |     |     | ++   |
 | [@Dawson2016]      | The economic essentials of digital strategy              |     |     | +++  |
 | [@Acemoglu2002]    | Technical Change, Inequality and the Labor Market        |     |     |      |
 
 
+
 > Column names stand for:
-> 
+>
 > - Sum = Summary quality
 > - App = Applicability level
 > - Prio = Priority
