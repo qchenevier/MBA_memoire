@@ -26,7 +26,7 @@ output: pdf_document
 | [@Hess2016]        | Options for Formulating a Digital Transformation ...     | +++ | +++ |      |
 | [@Su2015]          | The Long-Tail Strategy for IT Outsourcing                |     |     | ++   |
 | [@Bughin2016]      | Digital Europe: Pushing the Frontier, Capturing the...   |     |     | ++   |
-| [@WESTERMAN2015]   | Revamping Your Business Through Digital Transformation   |     |     | ++   |
+| [@WESTERMAN2015]   | Revamping Your Business Through Digital Transformation   | +++ |     | ++   |
 | [@Dawson2016]      | The economic essentials of digital strategy              |     |     | +++  |
 | [@Acemoglu2002]    | Technical Change, Inequality and the Labor Market        |     |     |      |
 
