@@ -120,6 +120,74 @@ Managing the strategic challenges: Six big decisions
 - Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? (link with @Karimi2015: depending on the characteristics (size, existing assets, agility needed, risk aversion...), some have integrated or not the digital business unit)
 - Decision 6: Delegate or own the digital agenda?
 
+##### Quotes
+
+The digital technologies underlying competitive threats may not be new, but they are being used to new effect. The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors.
+
+New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal.
+
+Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions.
+Improving management decisions as algorithms crunch big data from social technologies or the Internet of Things. Better decision making helps improve performance providing for finer marketing allocations or mitigating operational risks.
+Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations.
+
+Seven trends that could redefine competition:
+
+1. New pressure on prices and margins
+
+  Digital technologies create near-perfect transparency: consumers can switch among digital retailers. This dynamic can commoditize products and services as consumers demand comparable features and simple interactions. Third parties have jumped into this fray, disintermediating relationships between companies and their customers. The rise of price-comparison sites and these dynamics create downward pressure on returns across consumer-facing industries, and the disruptive currents are now rippling out to B2B businesses.
+
+2. Competitors emerge from unexpected places
+
+  Digital dynamics often undermine barriers to entry and long-standing sources of product differentiation. Web-based service providers now tap markets without having to build distribution networks of offices. The expense of building brands on-line and the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines in many markets. New competitors can often be smaller companies that will never reach scale but still do a lot of damage to incumbents.
+
+3. Winner-takes-all dynamics
+
+  Digital businesses reduce transaction and labor costs, increase returns to scale from aggregated data. Scale economies in data and talent often are decisive. Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent, creating a virtuous cycle.
+
+4. Plug-and-play business models
+
+  As digital forces reduce transaction costs, value chains disaggregate. Amazon, for instance, offers businesses logistics, on-line retail "storefronts," and IT services.
+
+5. Growing talent mismatches
+
+  Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives.
+  At the same time, companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business.
+
+6. Converging global supply and demand
+
+  Digital technologies know no borders, and the customer's demand for a unified experience is raising pressure on global companies to standardize offerings. They have come to expect payment systems that work across borders, global distribution, and a uniform customer experience. Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways: creation of purely digital goods (digitization is transforming even physical flows of people into virtual flows), enhancing the value of physical flows by the use of "digital wrappers" that pack information around (online reviews or customer ratings, digital tags and sensors connected by wireless communications), creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges.
+  In B2B markets, corporate purchasers are raising pressure on their suppliers to offer services that are standardized across borders, integrate with other offerings, and can be plugged into the purchasing companies' global business processes easily.
+
+7. Relentlessly evolving business models at higher velocity
+
+  Digitization isn't a one-stop journey. Managing the strategic challenges requires 6 big decisions:
+
+  - Decision 1: Buy or sell businesses in your portfolio?
+
+    The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses.
+
+  - Decision 2: Lead your customers or follow them?
+
+    Incumbents too have opportunities for launching disruptive strategies. However, in some situations, the right decision may be to give up digital moves, particularly in industries with high barriers to entry, regulatory complexities, and patents that protect profit streams. Between these extremes lies the all-too-common reality that digital efforts risk cannibalizing products and services and could erode margins. Yet inaction is equally risky. In-house data on existing buyers can help incumbents with large customer bases develop insights Brand advantages too can help traditional players outflank digital newbies.
+
+  - Decision 3: Cooperate or compete with new attackers?
+
+    A large incumbent in an industry that's undergoing digital disruption can feel like a whale attacked by piranhas. It's not feasible to defend all fronts simultaneously, so cooperation with some attackers can make more sense than competing. Like, for exemple, opening software interfaces to multiple third parties.
+
+  - Decision 4: Diversify or double down on digital initiatives?
+
+    Diversification reduces risks, so many companies are tempted to let a thousand flowers bloom. Think like a private-equity fund, seeding multiple initiatives but being disciplined enough to kill off those that don't quickly gain momentum and to bankroll those with genuinely disruptive potential. The alternative is to double down in one area, which may be the right strategy in industries with massive value at stake.
+
+  - Decision 5: Keep digital businesses separate or integrate them with current nondigital ones?
+
+    Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios.
+
+  - Decision 6: Delegate or own the digital agenda?
+
+    Advancing the digital agenda takes lots of senior-management time and attention. An effective digital strategy calls for extensive cross-functional orchestration that may require CEO involvement Faced with the need to sort through functional and regional issues related to digitization, some companies are creating a new role: chief digital officer (or the equivalent), a common way to introduce outside talent with a digital mindset to provide a focus for the digital agenda. Relying on chief digital officers to drive the digital agenda carries some risk of balkanization and they may also sacrifice the big picture for a narrower focus, say, on marketing or social media or lack the influence or authority to get support for execution from the functional units. CEOs can choose to "own" and direct the digital agenda personally, top down.
+
+It's important to keep in mind that digitization is a moving target The emergent nature of digital forces means that harnessing them is a journey, not a destination.
+
 ## McKinsey 7S framework [@McKinsey2008]
 
 ##### Dimensions
@@ -511,7 +579,7 @@ Described in details here
 ##### Quotes
 
 
-The post-dotcom decade has seen firms—both established and startups—taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web).
+The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web).
 
 
 These digital technologies are fundamentally reshaping traditional business strategy as modular, distributed, cross-functional, and global business processes
