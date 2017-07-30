@@ -421,6 +421,112 @@ And with a bonus category of enablers:
 
 - Digital capabilities
 
+**Transforming customer experience:**
+
+- Customer understanding
+- Top-line growth
+- Customer touch points
+
+**Transforming operational processes:**
+
+- Process digitization
+- Worker enablement
+- Performance management
+
+**Transforming business models:**
+
+- Digitally-modified businesses
+- New digital businesses
+- Digital globalization
+
+**Digital capabilities:**
+
+- Unified Data and Processes
+- Solution delivery
+- Analytics capabilities
+- Business and IT integration
+
+
+Four digital technologies:
+
+- Analytics
+- Mobile
+- Social media
+- Embedded devices
+
+Three levels of usage:
+
+- Substitution
+- Extension
+- Breakthrough
+
+Transformation challenges:
+
+- Initiation challenges:
+  - Lack of impetus
+  - Regulation and reputation
+  - Unclear business case
+- Execution challenges:
+  - Missing skills
+  - Culture issues
+  - IT Difficulties
+  - Governance challenges
+  - Coordination issues
+
+Roadmap:
+
+1. Envision the digital future for your firm
+  - Identify and diagnose strategic assets
+    - Sales force
+    - Point of sale and distribution channels
+    - Products and content
+    - Product innovation
+    - Partnership network
+    - Brand
+    - Customer knowledge
+    - Culture
+  - Create a transformative vision
+1. Invest in digital initiatives and skills
+  - Find the right skills
+  - Invest in initiatives that advance the vision
+1. Lead the change from the top
+  - Engage the organization
+  - Establish digital governance
+  - Ambition setting
+  - Coordinating mechanisms
+  - Monitoring progress through KPIs
+
+How to assess your digital maturity? What is your digital maturity?
+
+- Digital intensity
+- Transformation management intensity
+
+Digital maturity matrix: Digital intensity vs Transformation management intensity
+
+- Digital Beginners
+- Digital Fashionistas
+- Digital Conservatives
+- Digirati
+
+
+Roadmap:
+
+1. Envision the digital future for your firm
+  - What assets will be valuable in a digitally-transformed business?
+  - How can you transform customer experience? Internal operations? Your business model?
+  - How can units work differently (and work together differently) in a more connected way?
+2. Invest in digital transformation initiatives
+  - Are you getting all of the value out of your previous technology and platform investments in ERP, analytics, or collaboration tools? If not, what is necessary to get the foundations right?
+  - Where are the key investment areas that will maximize the contribution to the new vision?
+  - Can you de-risk some of the investments through experimentation and controlled testing?
+  - What skills are missing in your digital transformation initiatives? Do you need to hire new executives? Retrain front-line employees? Partner with another firm to gain capabilities?
+3. Lead the change from the top
+  - How do you communicate the vision and engage the organization on a large scale? How do you monitor engagement?
+  - What process do you have in place to iterate the vision and strategy?
+  - How do you coordinate investments and activities across silos? What is the best organizational model to coordinate digital initiatives in parallel to the core business?
+  - What KPIs and metrics do you need to put in place to monitor the progress of your digital transformation towards your strategic goals?
+  - What mechanism do you use to make the necessary adjustments?
+
 ##### Quotes
 
 Although large traditional firms are truly different from digital entrants, many are starting to transform their businesses successfully through digital technology. Companies face common pressures from customers, employees and competitors.
@@ -515,8 +621,7 @@ These elements work together in an iterative approach, constantly communicating 
 
 **Envision the digital future for your firm**: Many digital transformation initiatives fail to capture all of the value available to them because their vision is not transformative.
 
-- **Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and
-competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world?
+- **Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world?
   - **Sales force:** source of customer loyalty is the set of relationships cultivated by a strong sales force. Digital initiatives can threaten to disintermediate salespeople. However, digital transformation can also be used to enhance those relationships.
   - **Point of sale and distribution channels:** Stores are often a strong source of location-based advantage, even in a digital world.
   - **Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices.
@@ -525,30 +630,30 @@ competencies for the new environment and reassigning or adapting assets and real
   - **Brand:** Companies with a strong brand are able to leverage it in related offerings. Through mobile web, social media and other digital initiatives, building additional points of contact with customers.
   - **Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation.
   - **Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change.
-- **Create a transformative vision:** Successful digital transformation comes from envisioning new ways that digital technology improves performance and customer satisfaction, not just trying to find a use for the new technologies. Problems arise through vision focused on technology rather than different ways of operating. Start with an overarching vision of the what, not the how: "customer experience transformation" not "mobile marketing" or "social media." Then support the message through consistent communication. Another element of the vision is the relationship between new and existing businesses.
+- Create a transformative vision
 
 **Invest in digital initiatives and skills:** Transformation does not happen without investment. Business case may not be completely clear. It may be a series of low risk experiments. It often becomes a strategic bet that only senior executives can make. Digital transformation requires understanding the need for investment, managing risk, and making the changes necessary to capitalize on the change.
 
-- **Find the right skills:** Respondents nearly universally described the difficulty of finding the right skills to manage new initiatives or to change work methods. Most found it necessary to acquire skills from outside. Find good vendors for technical skills, but coordinate them. Coordination is still necessary or knowledge will remain stuck in vendor silos. Hire some stars. Analytics skills are becoming more plentiful, but are not distributed evenly across firms. One firm hired good analytics leaders from firms where these skills were more plentiful, helping existing employees understand what it means to work in an analytics-driven environment. Companies also found insiders very helpful to put senior insiders in roles that required coordinating across units and changing cultures. Other firms found that they could move junior level fast-risers into roles where their energy and resilience was essential for success.
-- **Invest in initiatives that advance the vision:** Very few examples of successful digital transformation were fully planned in advance. A set of relatively incremental changes added up to a radical transformation. In other cases, radical changes were just the start of even more radical changes later. A firm foudn that radically changing its headquarters design caused people to rethink the way they work. Employees began to envision their work happening independently of location: moving desks as needed, working on mobile devices, collaborating virtually, or working from home. As a leader, build a roadmap for your initial changes. Make it clear how the initial roadmap connects to your broader vision for the company. But then be open to ideas that will build on that foundation.
+- Find the right skills
+- Invest in initiatives that advance the vision
 
 **Lead the change from the top:** Top-level vision rarely translates to local-level action unless reinforced through top-down communication and governance. Consistent engagement, backed with appropriate coordination, KPIs, and incentives, make the difficult process of transformation possible.
 
-  - **Engage the organization:** People can be a much bigger obstacle to successful digital transformation than any complex technology. Two main characteristics of communication in a digital world are making mobilizing the workforce easier:
-    - Moving away from "cascading" information through traditional hierarchical channels toward enterprise-wide large scale communication: webcasts, internal social networks or PC-based video conferencing.
-    - Moving away from a one-way "broadcasting" model of communication toward offering people in the organization the opportunity to engage in a real dialogue around the transformation: wikis, discussion forums, blogs and so on. Enterprise 2.0 tools are powerful tools to help mobilize and align the workforce towards digital objectives.
-  Successful organizations have not only created awareness through communication, but have increased the level of transparency and trust through this open dialogue.
-  - **Establish digital governance:** Bottom-up digital transformation is rarely successful. Opportunities from digital transformation require top-down ambition setting to put the organization in motion, coordination to turn disconnected or poorly considered digital investments into true platforms.
-  - **Ambition setting:** Once an organization has defined its transformative vision, leaders must translate that vision into a set of ambitions and targets that signal to executives and employees "what good looks like."
-  - **Coordinating mechanisms:** Successful companies in our study had strong leadership for digital initiatives. We found four models for coordinating digital transformation: central coordination, silo, hub and global. Central coordination is the most commonly used model, but no single model clearly outperforms others. Companies lacking effective digital coordination do not get the value possible from their digital transformation initiatives.
-  - **Monitoring progress through KPIs:** Leaders need to ensure that a transparent set of metrics and KPIs are in place to constantly monitor and review progress towards that ambition. We monitor our progress through a transparent scorecard where everyone can see a quantified assessment of our progress and take actions against it.
+- **Engage the organization:** People can be a much bigger obstacle to successful digital transformation than any complex technology. Two main characteristics of communication in a digital world are making mobilizing the workforce easier:
+  - Moving away from "cascading" information through traditional hierarchical channels toward enterprise-wide large scale communication: webcasts, internal social networks or PC-based video conferencing.
+  - Moving away from a one-way "broadcasting" model of communication toward offering people in the organization the opportunity to engage in a real dialogue around the transformation: wikis, discussion forums, blogs and so on. Enterprise 2.0 tools are powerful tools to help mobilize and align the workforce towards digital objectives.
+Successful organizations have not only created awareness through communication, but have increased the level of transparency and trust through this open dialogue.
+- **Establish digital governance:** Bottom-up digital transformation is rarely successful. Opportunities from digital transformation require top-down ambition setting to put the organization in motion, coordination to turn disconnected or poorly considered digital investments into true platforms.
+- **Ambition setting:** Once an organization has defined its transformative vision, leaders must translate that vision into a set of ambitions and targets that signal to executives and employees "what good looks like."
+- **Coordinating mechanisms:** Successful companies in our study had strong leadership for digital initiatives. We found four models for coordinating digital transformation: central coordination, silo, hub and global. Central coordination is the most commonly used model, but no single model clearly outperforms others. Companies lacking effective digital coordination do not get the value possible from their digital transformation initiatives.
+- **Monitoring progress through KPIs:** Leaders need to ensure that a transparent set of metrics and KPIs are in place to constantly monitor and review progress towards that ambition. We monitor our progress through a transparent scorecard where everyone can see a quantified assessment of our progress and take actions against it.
 
 **The What and The How**
 
 The digital transformation framework has many moving parts because much is required to drive a successful digital transformation.
 
-- **The What:** consisting of strategic assets, the nine digital elements, digital capabilities, and investments, are the shape of the transformation. Together they represent, in essence, the **digital intensity of the organization**.
-- **The How:** The outer boxes, consisting of digital vision, governance and engagement, are the ways in which leaders will drive the transformation to a successful outcome. Leaders can ensure that the elements of the "what" are built effectively and that the organization has the skills and culture to drive value from them. It is, in essence, the **transformation management intensity of the organization**.
+- The What
+- The How
 
 The "what" and the "how" represent the digital maturity of an organization. They can be thought about as digital "Style" and "Substance." Many firms in our study are mature at only one, or neither.
 
@@ -561,8 +666,8 @@ The "what" and the "how" represent the digital maturity of an organization. They
 
 **How to assess your digital maturity? What is your digital maturity?**
 
-- **Digital intensity:** How advanced your digital capabilities are relative to competitors, or relative to rising expectations of customers and employees? How much are you investing in new technologies? Digital intensity also depends on your firm's IT capabilities and the strategic relationship between IT and non-business managers
-- **Transformation management intensity:** How carefully are you envisioning and managing the firm's move into the digital future? Is the vision well-articulated and shared?
+- Digital intensity
+- Transformation management intensity
 
 Digital technology, which transformed the media industry, is now transforming the rest of the commercial world. In the way individuals work and collaborate, the way business processes are executed within and across organizational boundaries, or in the way the company understands and services customers, digital technology provides a wealth of opportunity to those willing to change. Globalization is dictating efficient integration through digital processes and collaborative tools. Employees and customers are starting to demand new ways of working.
 
