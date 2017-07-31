@@ -19,16 +19,17 @@ output:
 
 ## Customer intimacy and other value disciplines [@Treacy1993]
 
-##### Dimensions
+### Dimensions
 
 A foundation book/article about value disciplines and how to use them to trade-off between strategic decision:
+
 - Operational excellence
 - Customer intimacy
 - Product leadership
 
 ## Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
 
-##### Dimensions
+### Dimensions
 
 In this article, an analysis of the paradigm shift (_oil age to information age_) in today's organisations with these categories:
 
@@ -88,11 +89,11 @@ In this article, an analysis of the paradigm shift (_oil age to information age_
 |                  - Firm as a closed system
 +----------------+------------------------------------+---------------------------------+
 
-##### Quotes
+#### Quotes
 
 ## Strategic principles for competing in the digital age [@Hirt2014]
 
-##### Dimensions
+### Dimensions
 
 Opportunities and threats:
 
@@ -120,7 +121,7 @@ Managing the strategic challenges: Six big decisions
 - Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? (link with @Karimi2015: depending on the characteristics (size, existing assets, agility needed, risk aversion...), some have integrated or not the digital business unit)
 - Decision 6: Delegate or own the digital agenda?
 
-##### Quotes
+#### Quotes
 
 The digital technologies underlying competitive threats may not be new, but they are being used to new effect. The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors.
 
@@ -192,7 +193,7 @@ It's important to keep in mind that digitization is a moving target The emergent
 
 ## McKinsey 7S framework [@McKinsey2008]
 
-##### Dimensions
+### Dimensions
 
 The 7S McKinsey framework, allowing to frame an analysis of an enterprise strategy:
 
@@ -206,7 +207,7 @@ The 7S McKinsey framework, allowing to frame an analysis of an enterprise strate
 
 ## The rise of AI makes emotional intelligence more important [@Beck2017]
 
-##### Dimensions
+### Dimensions
 
 In this article, a description of the 5 steps of the knowledge worker:
 
@@ -216,11 +217,11 @@ In this article, a description of the 5 steps of the knowledge worker:
 4. Determine a recommended course of action
 5. Implement the course of action
 
-##### Quotes
+#### Quotes
 
 ## The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
 
-##### Dimensions
+### Dimensions
 
 Criteria:
 
@@ -242,7 +243,7 @@ Examples:
 | Perception and manipulation | Surgeon          | Telemarketer |
 
 
-##### Quotes
+#### Quotes
 Non-routine work examples:
 
 - legal writing
@@ -270,7 +271,7 @@ Beware: activity that can be off-shored != activity that can be automated. E.g.:
 
 ## Exponential organizations [@VanGeest2014]
 
-##### Dimensions
+### Dimensions
 
 A singularity university book about new organizations with hyper-fast growth and their structuring principles:
 
@@ -289,7 +290,7 @@ A singularity university book about new organizations with hyper-fast growth and
 
 ## LEAD Enterprise Value Map [@LEADingPractice]
 
-##### Dimensions
+### Dimensions
 
 Another shareholder value optimization framework structured with:
 
@@ -330,7 +331,7 @@ Another shareholder value optimization framework structured with:
 
 ## Deloitte Enterprise Value Map [@Deloitte2004]
 
-##### Dimensions
+### Dimensions
 
 A shareholder value optimization framework structured around:
 
@@ -351,7 +352,7 @@ A shareholder value optimization framework structured around:
 
 ## Digital America: A tale of the haves and the have-mores [@Manyika2015]
 
-##### Dimensions
+### Dimensions
 
 Assets:
 
@@ -396,11 +397,11 @@ Labor:
 +--------------------------+---------------------------------------------------------+
 
 
-##### Quotes
+#### Quotes
 
 ## Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
 
-##### Dimensions
+### Dimensions
 
 A Capgemini report giving recommandations about how to deal with Digital Transformation. There are 3 categories of recommandations:
 
@@ -527,7 +528,7 @@ Roadmap:
   - What KPIs and metrics do you need to put in place to monitor the progress of your digital transformation towards your strategic goals?
   - What mechanism do you use to make the necessary adjustments?
 
-##### Quotes
+#### Quotes
 
 Although large traditional firms are truly different from digital entrants, many are starting to transform their businesses successfully through digital technology. Companies face common pressures from customers, employees and competitors.
 
@@ -691,7 +692,7 @@ Digital transformation requires skills and influence that only senior leaders po
 
 ## Digital ubiquity: How connections, sensors, and data are revolutionizing business [@Iansiti2014]
 
-##### Dimensions
+### Dimensions
 
 GE's technical transformation:
 
@@ -713,7 +714,7 @@ A business model is defined by two things:
 - how the organization **creates** value for its customers
 - how the organization **captures** that value
 
-##### Quotes
+#### Quotes
 
 Today, many companies are having new competitors, shifting the customer value proposition away from acquiring reliable industrial equipment to deriving new efficiencies and other benefits through advanced analytics and algorithms based on the data generated by that equipment.
 
@@ -793,7 +794,7 @@ Digital technology has **3 fundamental properties**:
 
 ## Digital Business Strategy: Toward a Next Generation of Insights [@Bharadwaj2013]
 
-##### Dimensions
+### Dimensions
 
 Key External Digital Trends
 
@@ -844,7 +845,7 @@ Described in details here
   - appropriate value through the **control of the firm’s digital architecture**
 
 
-##### Quotes
+#### Quotes
 
 
 The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web).
@@ -924,7 +925,7 @@ Value Appropriation through Control of Digital Industry Architecture: Apple has 
 
 ## Shaping the Future: Seven Enduring Principles for Fast-changing Industries [@Gimpel2012]
 
-##### Dimensions
+### Dimensions
 Information goods, powerful computing devices, and inexpensive digital communication is changing business and society through five digital forces
 
 - Globalization
@@ -957,7 +958,7 @@ VRIN framework to assess the value of an activity/resource:
 - Value creation is the new structure
 - Platforms are the future systems of engagement
 
-##### Quotes
+#### Quotes
 
 Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries. (CIME) industries face dramatic changes in revenue streams and shifts in industry dynamics. Power players accustomed to monopoly profits face unprecedented competition. Traditional business models face threats. Communications firms face substitution from over-the-top services.
 
@@ -992,7 +993,7 @@ Digital platforms will become the gateways (and bottlenecks) to the market.
 
 ## The Role of Dynamic Capabilities in Responding to Digital Disruption: A Factor-Based Study of the Newspaper Industry [@Karimi2015]
 
-##### Dimensions
+### Dimensions
 
 Determinants of first-order dynamic capabilities:
 
@@ -1009,7 +1010,7 @@ Determinants of first-order dynamic capabilities:
   - Multimedia mindset (MM)
 
 
-##### Quotes
+#### Quotes
 
 Disruptive innovation theory offers explanations for why companies succeed or fail to respond to disruptive innovations.  
 First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities
@@ -1107,7 +1108,7 @@ Rather than investing in the status quo, resources need to be appropriately allo
 
 ## Design Capital and Design Moves: the Logic of Digital Business Strategy [@Woodard2013]
 
-##### Dimensions
+### Dimensions
 
 Design capital:
 
@@ -1138,7 +1139,7 @@ Design capital states and strategies:
   - if resource scarcity and low ability to transfer technical debt to its ecosystem, abandon design options
   - if resource abundance, experimentation & entrepreneurial actions
 
-##### Quotes
+#### Quotes
 We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt.
 
 Design capital as the cumulative stock of designs owned or controlled by a firm. Elements of a firm's design capital are typically designs for digital artifacts, such as software components and their associated interfaces and data structures, sometimes collectively called the firm's digital architecture. It enables the firm to innovate through new and improved designs.
@@ -1183,7 +1184,7 @@ We developed a conceptual framework that emphasizes the strategic importance of 
 
 ## Options for Formulating a Digital Transformation Strategy
 
-##### Dimensions
+### Dimensions
 
 +----------------+------------------------------------+---------------------------------+
 |Dimension         Question                             Options
@@ -1237,7 +1238,7 @@ We developed a conceptual framework that emphasizes the strategic importance of 
 |                                                      - External
 +----------------+------------------------------------+---------------------------------+
 
-##### Quotes
+#### Quotes
 
 The market-changing potential of digital technologies is often wider than products, business processes, sales channels or supply chains. Entire business models are being reshaped and frequently overturned. There are many recent examples of organizations that have been unable to keep pace with the new digital reality.
 Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider.
@@ -1344,7 +1345,7 @@ The most important thing for managers charged with formulating their firms' digi
 
 ## Revamping Your Business Through Digital Transformation.
 
-##### Dimensions
+### Dimensions
 
 Start by rethinking four traditional assumptions that affect:
 
@@ -1367,7 +1368,7 @@ Technologies:
 - Augmented reality
 - Internet of Things
 
-##### Quotes
+#### Quotes
 
 By using mobile devices, social media, analytics and the cloud, savvy companies are transforming the way they do business. For larger companies in more traditional industries, it's easy to think that digital transformation can wait. However, a follower strategy is wrong.
 
@@ -1390,5 +1391,56 @@ PagesJaunes, the French Yellow Pages company, saw that the assets related to pri
 Data should be considered an asset class in its own right [and] analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy."
 
 As digital technology reaches into every corner of the business world, it is creating a new playing field with new rules. digital has reshaped the expectations of customers, the way that employees collaborate and the business models that are possible. New technologies such as robotics, 3-D printing, augmented reality and the "Internet of Things" will soon lead to major business changes. Large traditional companies can out-compete fast-moving digital startups if they embrace the digital environment and find ways to make it theirs. Using pre-digital assumptions will not bring success in the digital world. When it comes to digital innovation, "you ain’t seen nothin’ yet"
+
+## The Business Models Investors Prefer [@PeterWeill2011]
+
+### Dimensions
+
+
+Business model defined by: Asset type & Asset right.
+
+The four asset types are:
+
+- Financial assets
+- Physical assets
+- Intangible assets
+- Human assets
+
+
+The four asset rights are:
+
+- Creators
+- Distributors
+- Landlords
+- Brokers
+
+
+#### Quotes
+
+we found that in recent years, investors have favored business models focusing on licensing intellectual property.
+Surprisingly, we found there is no universally accepted definition of the important concept of a business model. Our business model framework is based on defining the types of assets a company sells and the rights it grants customers to use those assets. We define four asset types and four ways companies manage asset rights to generate revenue.
+
+The four asset types are:
+
+- Financial assets, which include cash as well as securities like stocks, bonds and insurance policies
+- Physical assets, which include durable items such as computers, as well as nondurable items such as food
+- Intangible assets, which include intellectual property such as patents and copyrights, as well as other intangible assets like knowledge, goodwill and brand value
+- Human assets, which include people's time and eﬀort. People of course cannot be legally bought and sold, but their time and knowledge can be "rented out" for a fee.
+
+
+The four rights types sold:
+
+- Creators, which sell ownership of products they have created
+- Distributors, which sell ownership of products they bought
+- Landlords, which sell only the right to use assets for a specified period of time
+- Brokers, which receive a fee for matching buyers and sellers without ever taking ownership or custody of the product
+
+
+Disney has dramatically shifted its business model over the last 20 years from renting physical assets like theme parks (to licensing intellectual property), with clear investor buy-in for this strategic shift. Disney stock outperformed the S&P 500 stock index over the last five years.
+
+Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued. Financial and physical landlords were the poorest performing of the common business models, while IP landlords were the second-highest performing. Contractors (that primarily "rent out" human assets) had performance in the middle of the pack.
+
+Innovative manufacturers — which we define as those who invest more than their industry average in research and development — are the top performers in the market. Apple is an example of an innovative manufacturer.
+
 
 # Bibliography
