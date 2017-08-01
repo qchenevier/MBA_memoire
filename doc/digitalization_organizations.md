@@ -1,6 +1,6 @@
 ---
 title: Digitalization & Organizations
-subtitle: Go Digital or Undergo Disruption: the great extinction event in business
+subtitle: "Go Digital or Undergo Disruption: the great extinction event in business"
 author: Quentin Chenevier
 mainfont: DejaVu Sans
 sansfont: DejaVu Sans
@@ -18,11 +18,6 @@ output:
 # Why digital transformation: the new environment
 <!-- Why what worked yesterday is not working anymore? -->
 <!-- What is changing? -->
-
-The digital technologies underlying competitive threats may not be new, but they are being used to new effect. The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors. [@Hirt2014]
-
-New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal. [@Hirt2014]
-
 
 # Influence / Environment
 
@@ -89,6 +84,11 @@ Digital technology has **3 fundamental properties**: [@Iansiti2014]
 <!-- What are your assets in this environment? -->
 <!-- Why some assets have less value than before? What assets are dealuating quickly? -->
 <!-- How are you organized? -->
+
+The digital technologies underlying competitive threats may not be new, but they are being used to new effect. The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors. [@Hirt2014]
+
+New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal. [@Hirt2014]
+
 
 Although large traditional firms are truly different from digital entrants, many are starting to transform their businesses successfully through digital technology. Companies face common pressures from customers, employees and competitors. [@Westerman2011]
 
