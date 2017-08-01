@@ -1,6 +1,6 @@
 ---
 title: Digitalization & Organizations
-subtitle: Why digitilization is a matter of humans ?
+subtitle: Go Digital or Undergo Disruption: the great extinction event in business
 author: Quentin Chenevier
 mainfont: DejaVu Sans
 sansfont: DejaVu Sans
@@ -19,31 +19,300 @@ output:
 <!-- Why what worked yesterday is not working anymore? -->
 <!-- What is changing? -->
 
-# Where do you stand?
+The digital technologies underlying competitive threats may not be new, but they are being used to new effect. The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors. [@Hirt2014]
 
-## Where do you stand? Microscale:
-  <!-- Starting from the consumer and the individual: what does he expect know? -->
-  <!-- What competencies are less or more needed? -->
-  <!-- What technologies -->
-
-## Where do you stand? Macroscale:
-  <!-- What are your assets in this environment? -->
-  <!-- Why some assets have less value than before? What assets are dealuating quickly? -->
-  <!-- How are you organized? -->
+New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal. [@Hirt2014]
 
 
-# Where do you want to go?
+# Influence / Environment
 
-## Where do you want to go? Macro scale:
-  <!-- What shift in business model? -->
-  <!-- What assez will you reuse? -->
-  <!-- How is moving the market? -->
-  <!-- How do you restructure your company? -->
+## Influence / Environment: Micro:
 
-## Where do you want to go? Micro scale:
-  <!-- What is your vision of the future culture, behavior and competency of your company? -->
-  <!-- What competencies do you need and where? -->
-  <!-- What is the role of the executive for this to succeed? -->
+<!-- Starting from the consumer and the individual: what does he expect know? -->
+<!-- What competencies are less or more needed? -->
+<!-- What technologies -->
+
+Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
+
+Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more. [@Westerman2011]
+
+
+Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions. [@Hirt2014]
+
+Improving management decisions as algorithms crunch big data from social technologies or the Internet of Things. Better decision making helps improve performance providing for finer marketing allocations or mitigating operational risks. [@Hirt2014]
+
+Digital technologies create near-perfect transparency: consumers can switch among digital retailers. This dynamic can commoditize products and services as consumers demand comparable features and simple interactions. [@Hirt2014]
+
+the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines [@Hirt2014]
+
+3. Winner-takes-all dynamics
+5. Growing talent mismatches
+Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014]
+
+Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives. [@Hirt2014]
+
+6. Converging global supply and demand
+Digital technologies know no borders, and the customer's demand for a unified experience is raising pressure on global companies to standardize offerings. They have come to expect payment systems that work across borders, global distribution, and a uniform customer experience. [@Hirt2014]
+
+Low probability of automation: Non-routine work examples: legal writing, truck driving, medical diagnoses, persuading. [@Frey2017]
+
+Taxonomy of jobs: [@Frey2017]
+
+- High probability of digitization:
+  - Routine intensive occupations = well-defined procedures
+- Low probability of digitization:
+  - Services: because of higher degree of flexibility and physical adaptability
+  - Cognitive jobs
+
+Low Probability of off-shoring: [@Frey2017]
+
+- specific work location needed
+- face-to-face personal communication required
+
+Beware: activity that can be off-shored are different than activity that can be automated. E.g.: cashier not off-shorable but replaced by self-service technology. [@Frey2017]
+
+The Idea that technological advances favor more skilled workers is a twentieth century phenomenon. [@Acemoglu2002]
+
+
+
+What makes digital technology transformational ? [@Iansiti2014]
+Digital technology has **3 fundamental properties**: [@Iansiti2014]
+
+- digital signals can be transmitted perfectly without error: **no depreciation with time/usage**
+- digital signals can be replicated indefinitely: **no production cost**
+- digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
+
+
+
+## Influence / Environment: Macro:
+
+<!-- What are your assets in this environment? -->
+<!-- Why some assets have less value than before? What assets are dealuating quickly? -->
+<!-- How are you organized? -->
+
+Although large traditional firms are truly different from digital entrants, many are starting to transform their businesses successfully through digital technology. Companies face common pressures from customers, employees and competitors. [@Westerman2011]
+
+
+Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations. [@Hirt2014]
+
+1. New pressure on prices and margins
+Third parties have jumped into this fray, disintermediating relationships between companies and their customers. The rise of price-comparison sites and these dynamics create downward pressure on returns across consumer-facing industries, and the disruptive currents are now rippling out to B2B businesses. [@Hirt2014]
+
+2. Competitors emerge from unexpected places
+Digital dynamics often undermine barriers to entry and long-standing sources of product differentiation. Web-based service providers now tap markets without having to build distribution networks of offices. The expense of building brands on-line and the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines in many markets. New competitors can often be smaller companies that will never reach scale but still do a lot of damage to incumbents. [@Hirt2014]
+
+
+3. Winner-takes-all dynamics
+Digital businesses reduce transaction and labor costs, increase returns to scale from aggregated data. Scale economies in data and talent often are decisive. [@Hirt2014]
+
+4. Plug-and-play business models
+As digital forces reduce transaction costs, value chains disaggregate. Amazon, for instance, offers businesses logistics, on-line retail "storefronts," and IT services. [@Hirt2014]
+
+5. Growing talent mismatches
+At the same time, companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business. [@Hirt2014]
+
+6. Converging global supply and demand
+Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways: creation of purely digital goods (digitization is transforming even physical flows of people into virtual flows), enhancing the value of physical flows by the use of "digital wrappers" that pack information around (online reviews or customer ratings, digital tags and sensors connected by wireless communications), creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges. [@Hirt2014]
+In B2B markets, corporate purchasers are raising pressure on their suppliers to offer services that are standardized across borders, integrate with other offerings, and can be plugged into the purchasing companies' global business processes easily. [@Hirt2014]
+
+Common pressures to begin digital transformation:
+Nearly every executive cited competitive pressures to change. This relates closely to increases in the pace of business. Several executives indicated this was "the new normal" for their industries. None of the executives felt their innovation culture was as strong as it should be. [@Westerman2011]
+Globalization is a driver for some firms: there is a strategic need to expand globally or pressures to generate information and process synergies. [@Westerman2011]
+Some firms mentioned M&A as a pressure to transform. [@Westerman2011]
+
+Different digital transformation speeds and different results:
+Very few businesses are gaining the full value of technologically-enabled change. Manufacturers' ERP systems have improved process efficiency and are providing better financial data for strategic decisions, but companies have not yet retrained buyers in how to use the information in negotiating with suppliers. [@Westerman2011]
+Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience. [@Westerman2011]
+
+
+# Strategy / Response:
+
+## Strategy / Response: Macro:
+
+<!-- What shift in business model? -->
+<!-- What assez will you reuse? -->
+<!-- How is moving the market? -->
+<!-- How do you restructure your company? -->
+
+Successful digital transformation comes not from implementing new technologies but from transforming your organization transformation initiatives are centered on re-envisioning customer experience, operational processes and business models. Digital Transformation does not happen bottom up. It must be driven from the top. [@Westerman2011]
+
+Focus on the "how" more than the "what." Successful transformations focus on how to drive change as on the detailed content of the change. A compelling transformative vision will allow people to identify new "whats" to meet or extend the vision. [@Westerman2011]
+
+Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made. [@Westerman2011]
+
+Despite the hype around innovative digital technologies, most companies still have a long way to go in their digital transformation journeys. Leadership is essential. That's a management and people challenge, not just a technology one. [@Westerman2011]
+
+7. Relentlessly evolving business models at higher velocity
+
+- Decision 1: Buy or sell businesses in your portfolio?
+  The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses. [@Hirt2014]
+
+- Decision 2: Lead your customers or follow them?
+  Incumbents too have opportunities for launching disruptive strategies. However, in some situations, the right decision may be to give up digital moves, particularly in industries with high barriers to entry, regulatory complexities, and patents that protect profit streams. Between these extremes lies the all-too-common reality that digital efforts risk cannibalizing products and services and could erode margins. Yet inaction is equally risky. In-house data on existing buyers can help incumbents with large customer bases develop insights Brand advantages too can help traditional players outflank digital newbies. [@Hirt2014]
+
+- Decision 3: Cooperate or compete with new attackers?
+  A large incumbent in an industry that's undergoing digital disruption can feel like a whale attacked by piranhas. It's not feasible to defend all fronts simultaneously, so cooperation with some attackers can make more sense than competing. Like, for exemple, opening software interfaces to multiple third parties. [@Hirt2014]
+
+- Decision 4: Diversify or double down on digital initiatives?
+  Diversification reduces risks, so many companies are tempted to let a thousand flowers bloom. Think like a private-equity fund, seeding multiple initiatives but being disciplined enough to kill off those that don't quickly gain momentum and to bankroll those with genuinely disruptive potential. The alternative is to double down in one area, which may be the right strategy in industries with massive value at stake. [@Hirt2014]
+
+- Decision 5: Keep digital businesses separate or integrate them with current nondigital ones?
+  Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios. [@Hirt2014]
+
+- Decision 6: Delegate or own the digital agenda?
+  Advancing the digital agenda takes lots of senior-management time and attention. An effective digital strategy calls for extensive cross-functional orchestration that may require CEO involvement Faced with the need to sort through functional and regional issues related to digitization, some companies are creating a new role: chief digital officer (or the equivalent), a common way to introduce outside talent with a digital mindset to provide a focus for the digital agenda. Relying on chief digital officers to drive the digital agenda carries some risk of balkanization and they may also sacrifice the big picture for a narrower focus, say, on marketing or social media or lack the influence or authority to get support for execution from the functional units. CEOs can choose to "own" and direct the digital agenda personally, top down. [@Hirt2014]
+
+**Transforming operational processes:**
+
+**Process digitization:** Companies historically have used automation to make processes more efficient and scalable. Automation can enable companies to refocus their people on more strategic tasks. ERP for example centralize the HR function, allowing economies of scale through self-service while freeing HR people. It also creates streams of data that can be useful in later data mining efforts. New technologies are extending this trend of gaining benefits beyond efficiency: automated plants reduce labor requirements, improve product quality and enhance environmental, health, and safety performance. Going digital can also help reducing the product development lifecycle. [@Westerman2011]
+
+**Worker enablement:** Collaboration and networking tools allow employees to talk with anyone in the company, setting the stage for further changes related to globalization. Digital transformation replaces limited one-way vertical communication with broad communication channels that are both vertical and horizontal.[@Westerman2011]
+
+**Performance management:** Performance transparency is a key highlight. Executives are more informed when making decisions and insights allow decisions to be made on real data and not on assumptions. "We can use data to make better decisions about how we prioritize". [collaboration  enabled better input into the process of decision making and better uptake of the vision after decisions were made.] [@Westerman2011]
+
+
+
+**Transforming business models:**
+
+- **Digitally-modified businesses:** Some firms are finding ways to augment physical with digital offerings. Other firms are staying true to their traditional business, but using digital to transform a new growth business through e-commerce platforms. Other firms are building digital or service wrappers around traditional products. [@Westerman2011]
+- **New digital businesses:** Introducing digital products that complement traditional products or changing business models by reshaping their boundaries through digital. [@Westerman2011]
+- **Digital globalization:** Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
+
+
+**Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation. [@Westerman2011]
+- **Unified Data and Processes:** The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge. [@Westerman2011]
+
+- **Solution delivery:** Companies also need the capabilities to modify their processes or build new methods onto the data and process platform. Some IT departments have established special units to build emerging technology skills and methods. Others look outside the firm for help: Vendor partners can be very effective, but some executives expressed concern about over-reliance on vendors. Several executives described knowledge gaps that existed after they ended a vendor relationship. [@Westerman2011]
+
+- **Analytics capabilities:**  Companies with integrated data are able to engage in more powerful analytics strategies. All executives also mentioned that building analytics capability was difficult, requiring skills and culture change in addition to investments. [@Westerman2011]
+
+- **Business and IT integration:** Companies with a history of strained IT and business relationships are handicapped when trying to conduct digital transformation, because of complex IT architectures, unintegrated data, and processes that are not well-enabled through technology. In contrast, companies with a solid IT-business relationship are in a solid position to begin digital transformation. Where strong relationships exist, executives on both sides of the relationship are willing to be flexible in creating new governance mechanisms or digital units without feeling threatened. In most firms, digital transformation is being led by CIOs. Other companies place responsibility for digital in another unit or executive who works closely with the CIO. Another solution is to hire a second CIO to focus on transformation-related activities, working in concert with the CIO who stays focused on keeping the firms' existing platform functional. [@Westerman2011]
+
+**Initiation challenges:**
+
+- **Lack of impetus:** Impetus often starts at the very top of the firm. Skepticism can result in bureaucratic investment processes that prevent the firm from engaging in useful digitally enabled experiments and business changes. "We've always been fairly slow in adopting technology because we more or less have the ambition of not being first, but we have become even slower at the same time that technology development has been speeding up." If the company is not experiencing pain, the perceived risk of change may outweigh the potential benefits in the minds of many executives. [@Westerman2011]
+
+- **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
+- **Unclear business case:** "We're still looking at value and cost. For some folks, the most cost-effective technology is still the desktop." Some initiatives can be justified in the traditional way, through quantified economic business cases. Other investments are truly bet-your-company, do-or-die propositions. Firms facing a burning platform often make large changes without a strict financial business case. As with many innovations, digital transformation investments often have unclear business cases. Experiments are often funded "below the radar". Other initiatives are funded as strategic foundation investments. These investments rarely go through the rigor of developing a quantified business case, but rather are undertaken as strategic bets. When enabling larger transformations, executives often use a combination of approaches over time. Analytics is an interesting example: analytics either generate a better risk/return profile or they don't. However, firms often require an investment in infrastructure (integrating data, buying tools or hiring expertise) before they can start to conduct more measurable analytics-based experiments. The real value of digital transformation comes not from the initial investment, but from continuously re-envisioning how capabilities can be extended with digital technology to increase revenue, cut costs or gain other benefits. [@Westerman2011]
+
+Today, many companies are having new competitors, shifting the customer value proposition away from acquiring reliable industrial equipment to deriving new efficiencies and other benefits through advanced analytics and algorithms based on the data generated by that equipment. [@Iansiti2014]
+
+GE has responded by: [@Iansiti2014]
+
+- adding **digital sensors** to its machines,
+- connecting them to a **common, cloud-based software platform**
+- investing in **modern software development** capabilities
+- building **advanced analytics** capabilities
+
+Now, GE's revenue from its jet engines is tied not to a simple sales transaction but to performance improvements: less downtime and more miles flown.  [@Iansiti2014]
+
+Many software companies (and not only) have started to transform their business model:  [@Iansiti2014]
+
+- switching from product to service revenue
+- experimenting with outcomes-based business models in cases where revenue might be tied to the efficiencies delivered by an enterprise application
+
+The paradigm is **not displacement and replacement**, but **connectivity and recombination**  [@Iansiti2014]
+
+A business model is defined by two things:  [@Iansiti2014]
+
+- how the organization **creates** value for its customers
+- how the organization **captures** that value
+
+Digital transformation changes both:
+
+GE creates values by extracting useful data from sensors, by optimizing equipment performance, utilization and maintenance. It captures that value by charging a percentage of the customer's incremental revenue from improved performance.
+
+GE **sells less** hardware but has developed **mutually profitable partnerships**.  [@Iansiti2014]
+
+GE's transformations:  [@Iansiti2014]
+
+- **transactional**: break/fix. **Sell** parts & repair.
+- **contractual**: service agreement. **Share risk**, reducing the total cost of ownership.
+- **expanded customer outcomes**: optimized assets & operations. Use data & analytics to **provide decision support** services.
+
+
+Building software capabilities [@Iansiti2014]
+
+- Problems encountered:
+  - Process: GE has never been known for its agility. 80% the software products they edited were not profitable. "It was taking us **years to build the software and years to get it out the door**" [@Iansiti2014]
+  - Developer Talent: Most of their developers had experience with outdated technologies. They were **reliant on outside vendors**, sometimes for full development. [@Iansiti2014]
+- Solutions deployed new GE Software HQ:
+  - "**Co-location** is everything" [@Iansiti2014]
+  - creation of a **common software platform** [@Iansiti2014]
+  - **No enforcement of compliance**: "We are going to do this, you can be on the train or not".
+  - No dedicated P&L for the software: **Different incentives** that don't create competition with the businesses. [@Iansiti2014]
+
+
+Learning to sell the new model
+
+- It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market. [@Iansiti2014]
+- "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
+
+Building out the ecosystem
+
+_"Starting from the idea of asset optimization and no unplanned downtime... the maximum customer **value is in the ecosystem**. How **open** do we want this to be ?"_
+
+- To build its ecosystem: GE is experimenting with different types of partnerships, like joint-ventures. GE has also partnered with potential competitors (like Intel, Cisco, Accenture, Amazon web services) [@Iansiti2014]
+
+Approaching Digital Ubiquity [@Iansiti2014]
+
+- Apply the digital lens to existing products & services
+- Connect your existing assets across companies
+- Examine new modes of value creation
+- Consider new value-capture modes
+- Use software to extend the boundaries of what you do.
+
+
+
+## Strategy / Response: Micro:
+
+<!-- What is your vision of the future culture, behavior and competency of your company? -->
+<!-- What competencies do you need and where? -->
+<!-- What is the role of the executive for this to succeed? -->
+
+
+
+**Transforming customer experience:**
+
+**Customer understanding:** Firms are exploring social media to understand customer satisfiers and dissatisfiers. Companies are learning to promote their brands more effectively through digital media: social media campaign, educational digital tools, building new on-line communities. Firms are building analytics capability to understand customers and actively conducting experiments in pricing and promotion. [@Westerman2011]
+
+**Top-line growth:** Companies are using technology to enhance in-person sales conversations. Using tablet-based presentations and introducing mobile tools to help sales people and customers engage in analytics-based planning. Analytics help to segment clients. Other firms are using concept stores as flagships for their digital selling innovations. Some firms try to make the life of the customer easier, simplifying their processes through a digital plugin. This streamlines the shopping process. [@Westerman2011]
+
+**Customer touch points:** Fast and transparent problem resolution builds trust for customers (for example, through a twitter account to answer client complaints). Companies with multiple channels to the customer are experiencing pressure to provide an integrated experience. Some firms are moving beyond simple multi-channel models to enable new forms of digital strategy: they supplements the multichannel experience through a new type of storefront. Several companies are offering self-service via digital tools. These tools allow the customer to save time, while saving the company money. [@Westerman2011]
+
+**Worker enablement:** Once-novel technologies such as mobile e-mail, collaboration tools, and video conferencing have now become the norm. Individual level work has, in essence, been virtualized, separating the work process from the location of the work. A firm redesigned its headquarters so that nobody had an assigned desk, even the CEO. Collaboration and networking tools allow employees to talk with anyone in the company. The tools that virtualize individual work, while implemented for cost reasons, have become powerful enablers for knowledge sharing: employees can identify experts and get questions answered in real time. [@Westerman2011]
+
+**Performance management:** Performance transparency is a key highlight. Digital transformation is actually changing the process of strategic decision-making. For example, some executives used the company's existing collaboration tools to extend strategic planning sessions from 12 people to more than 300 of the firm's top managers. This enabled better input into the process and better uptake of the vision after decisions were made. [@Westerman2011]
+
+**Transforming business models:**
+
+- **Digital globalization:** Local managers, empowered to make decisions autonomously, also gain a broader view of the business through centralized data, have freedom to tailor business to their local needs, but the responsibility to act in the interests of the larger enterprise.  [@Westerman2011]
+
+
+- **Solution delivery:** Development methods in place are often geared to well-defined requirements and mature technologies but not to emerging digital technologies. Mobile and social media require iterative approaches to learn about what will work in the market. Digital Transformation use technology that is not commonly available in enterprises. Analytics activities often require specific knowledge and temperaments that typical IT developers do not possess. [@Westerman2011]
+
+- **Analytics capabilities:** Information management and analytics were highlighted as major goals by executives across industries. "It's time to harvest the data and turn it into insights." It is seen as a way to gain strategic advantage over competitors, by making more-informed and better decisions and reacting more quickly to changes. [@Westerman2011]
+
+
+
+How four digital technologies (analytics, mobile, social media, and embedded devices) are being used in the enterprise. Analytics, Mobile and Social Media are widespread in large organizations. Customer-experience applications of social media are more common than internal uses, reflecting skepticism about how effective they will be for internal collaboration. Analytics, too, are more common in customer experience applications, reflecting organizations' increasing efforts to target marketing activities and personalize customer experience. Mobile is used widely in both domains. Embedded devices are still an emerging technology. [@Westerman2011]
+
+
+Three levels of usage: [@Westerman2011]
+- **Substitution** is replacement for substantially the same function
+- **Extension** is significantly improving performance or functionality
+- **Breakthrough** is fundamentally redefining a process or function
+
+
+Each is being used to improve customer experience or internal operations. The most common usage of each technology is in substitution. 30 percent of firms are engaging in extension or transformation with Mobile, Social, or Analytics. Usage of embedded devices lags the other technologies. An interesting trend toward transformative opportunities is combining multiple technologies with new management practices. Remote-control equipment and automated factories include both mobile and analytics technologies to improve production. Mobile phones are becoming embedded devices for customer-facing applications. Another firm integrates its social and web-based marketing approaches with its digital product design capabilities and embedded devices in products to be more responsive to emerging consumer preferences. Concept stores combine multiple technologies to test or deliver a new buying experience. Executives are beginning to envision possibilities that cross organizational and technological silos: letting the possibilities drive technology and organization rather than the reverse.  [@Westerman2011]
+
+
+Change the mindset of the marketing by switching: [@Iansiti2014]
+
+ _"We are trying to sell them something they don't know they need and they can't see when it works."_
+- from the "box seller" mentality: "**features list** with pricing and discount caps"
+- to a solution-based sales focused on pain points how to enhance **customer's operating performance**
+
 
 # A helper for all of this
 
@@ -165,76 +434,6 @@ Managing the strategic challenges: Six big decisions
 - Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? (link with @Karimi2015: depending on the characteristics (size, existing assets, agility needed, risk aversion...), some have integrated or not the digital business unit)
 - Decision 6: Delegate or own the digital agenda?
 
-#### Quotes
-
-The digital technologies underlying competitive threats may not be new, but they are being used to new effect. The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors.
-
-New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal.
-
-Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions.
-
-Improving management decisions as algorithms crunch big data from social technologies or the Internet of Things. Better decision making helps improve performance providing for finer marketing allocations or mitigating operational risks.
-
-Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations.
-
-Seven trends that could redefine competition:
-
-1. New pressure on prices and margins
-
-  Digital technologies create near-perfect transparency: consumers can switch among digital retailers. This dynamic can commoditize products and services as consumers demand comparable features and simple interactions. Third parties have jumped into this fray, disintermediating relationships between companies and their customers. The rise of price-comparison sites and these dynamics create downward pressure on returns across consumer-facing industries, and the disruptive currents are now rippling out to B2B businesses.
-
-2. Competitors emerge from unexpected places
-
-  Digital dynamics often undermine barriers to entry and long-standing sources of product differentiation. Web-based service providers now tap markets without having to build distribution networks of offices. The expense of building brands on-line and the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines in many markets. New competitors can often be smaller companies that will never reach scale but still do a lot of damage to incumbents.
-
-3. Winner-takes-all dynamics
-
-  Digital businesses reduce transaction and labor costs, increase returns to scale from aggregated data. Scale economies in data and talent often are decisive. Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent, creating a virtuous cycle.
-
-4. Plug-and-play business models
-
-  As digital forces reduce transaction costs, value chains disaggregate. Amazon, for instance, offers businesses logistics, on-line retail "storefronts," and IT services.
-
-5. Growing talent mismatches
-
-  Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives.
-  At the same time, companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business.
-
-6. Converging global supply and demand
-
-  Digital technologies know no borders, and the customer's demand for a unified experience is raising pressure on global companies to standardize offerings. They have come to expect payment systems that work across borders, global distribution, and a uniform customer experience. Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways: creation of purely digital goods (digitization is transforming even physical flows of people into virtual flows), enhancing the value of physical flows by the use of "digital wrappers" that pack information around (online reviews or customer ratings, digital tags and sensors connected by wireless communications), creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges.
-  In B2B markets, corporate purchasers are raising pressure on their suppliers to offer services that are standardized across borders, integrate with other offerings, and can be plugged into the purchasing companies' global business processes easily.
-
-7. Relentlessly evolving business models at higher velocity
-
-  Digitization isn't a one-stop journey. Managing the strategic challenges requires 6 big decisions:
-
-  - Decision 1: Buy or sell businesses in your portfolio?
-
-    The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses.
-
-  - Decision 2: Lead your customers or follow them?
-
-    Incumbents too have opportunities for launching disruptive strategies. However, in some situations, the right decision may be to give up digital moves, particularly in industries with high barriers to entry, regulatory complexities, and patents that protect profit streams. Between these extremes lies the all-too-common reality that digital efforts risk cannibalizing products and services and could erode margins. Yet inaction is equally risky. In-house data on existing buyers can help incumbents with large customer bases develop insights Brand advantages too can help traditional players outflank digital newbies.
-
-  - Decision 3: Cooperate or compete with new attackers?
-
-    A large incumbent in an industry that's undergoing digital disruption can feel like a whale attacked by piranhas. It's not feasible to defend all fronts simultaneously, so cooperation with some attackers can make more sense than competing. Like, for exemple, opening software interfaces to multiple third parties.
-
-  - Decision 4: Diversify or double down on digital initiatives?
-
-    Diversification reduces risks, so many companies are tempted to let a thousand flowers bloom. Think like a private-equity fund, seeding multiple initiatives but being disciplined enough to kill off those that don't quickly gain momentum and to bankroll those with genuinely disruptive potential. The alternative is to double down in one area, which may be the right strategy in industries with massive value at stake.
-
-  - Decision 5: Keep digital businesses separate or integrate them with current nondigital ones?
-
-    Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios.
-
-  - Decision 6: Delegate or own the digital agenda?
-
-    Advancing the digital agenda takes lots of senior-management time and attention. An effective digital strategy calls for extensive cross-functional orchestration that may require CEO involvement Faced with the need to sort through functional and regional issues related to digitization, some companies are creating a new role: chief digital officer (or the equivalent), a common way to introduce outside talent with a digital mindset to provide a focus for the digital agenda. Relying on chief digital officers to drive the digital agenda carries some risk of balkanization and they may also sacrifice the big picture for a narrower focus, say, on marketing or social media or lack the influence or authority to get support for execution from the functional units. CEOs can choose to "own" and direct the digital agenda personally, top down.
-
-It's important to keep in mind that digitization is a moving target The emergent nature of digital forces means that harnessing them is a journey, not a destination.
-
 ## McKinsey 7S framework [@McKinsey2008]
 
 ### Dimensions
@@ -285,33 +484,6 @@ Examples:
 | Social intelligence         | Public relations | Dishwasher   |
 | Creativity                  | Fashion Designer | Count Clerk  |
 | Perception and manipulation | Surgeon          | Telemarketer |
-
-
-#### Quotes
-Non-routine work examples:
-
-- legal writing
-- truck driving
-- medical diagnoses
-- persuading...
-<!--  -->
-
-Taxonomy of jobs:
-
-- High probability of digitization:
-  - Routine intensive occupations = well-defined procedures
-- Low probability of digitization:
-  - Services: because of higher degree of flexibility and physical adaptability
-  - Cognitive jobs
-
-Low Probability of off-shoring:
-
-- specific work location needed
-- face-to-face personal communication required
-
-Beware: activity that can be off-shored != activity that can be automated. E.g.: cashier not off-shorable but replaced by self-service technology.
-
-> The Idea that technological advances favor more skilled workers is a twentieth century phenomenon. [@Acemoglu2002]
 
 ## Exponential organizations [@VanGeest2014]
 
@@ -574,83 +746,16 @@ Roadmap:
 
 #### Quotes
 
-Although large traditional firms are truly different from digital entrants, many are starting to transform their businesses successfully through digital technology. Companies face common pressures from customers, employees and competitors.
-
-Successful digital transformation comes not from implementing new technologies but from transforming your organization transformation initiatives are centered on re-envisioning customer experience,
-operational processes and business models. Digital Transformation does not happen bottom up. It must be driven from the top.
-
-Focus on the "how" more than the "what." Successful transformations focus on how to drive change as on the detailed content of the change. A compelling transformative vision will allow people to identify new "whats" to meet or extend the vision.
-
-Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made.
-
-Despite the hype around innovative digital technologies, most companies still have a long way to go in their digital transformation journeys. Leadership is essential. That's a management and people challenge, not just a technology one.
-
-Common pressures to begin digital transformation:
-
-- Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company."
-- Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more.
-- Nearly every executive cited competitive pressures to change. This relates closely to increases in the pace of business. Several executives indicated this was "the new normal" for their industries. None of the executives felt their innovation culture was as strong as it should be.
-- Globalization is a driver for some firms: there is a strategic need to expand globally or pressures to generate information and process synergies
-- Some firms mentioned M&A as a pressure to transform.
-
-Different digital transformation speeds and different results:
-
-- Very few businesses are gaining the full value of technologically-enabled change. Manufacturers' ERP systems have improved process efficiency and are providing better financial data for strategic decisions, but companies have not yet retrained buyers in how to use the information in negotiating with suppliers.
-- Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience.
-
-Executives are digitally transforming three key areas of their enterprises: customer experience, operational processes and business models. Digital capabilities is an essential enabler for transformations in all areas.
-
-**Transforming customer experience:**
-
-- **Customer understanding:** Firms are exploring social media to understand customer satisfiers and dissatisfiers. Companies are learning to promote their brands more effectively through digital media: social media campaign, educational digital tools, building new on-line communities. Firms are building analytics capability to understand customers and actively conducting experiments in pricing and promotion.
-
-- **Top-line growth:** Companies are using technology to enhance in-person sales conversations. Using tablet-based presentations and introducing mobile tools to help sales people and customers engage in analytics-based planning. Analytics help to segment clients. Other firms are using concept stores as flagships for their digital selling innovations. Some firms try to make the life of the customer easier, simplifying their processes through a digital plugin. This streamlines the shopping process.
-
-- **Customer touch points:** Fast and transparent problem resolution builds trust for customers (for example, through a twitter account to answer client complaints). Companies with multiple channels to the customer are experiencing pressure to provide an integrated experience. Some firms are moving beyond simple multi-channel models to enable new forms of digital strategy: they supplements the multichannel experience through a new type of storefront. Several companies are offering self-service via digital tools. These tools allow the customer to save time, while saving the company money.
-
-**Transforming operational processes:**
-
-- **Process digitization:** Companies historically have used automation to make processes more efficient and scalable. Automation can enable companies to refocus their people on more strategic tasks. ERP for example centralize the HR function, allowing economies of scale through self-service while freeing HR people. It also creates streams of data that can be useful in later data mining efforts. New technologies are extending this trend of gaining benefits beyond efficiency: automated plants reduce labor requirements, improve product quality and enhance environmental, health, and safety performance. Going digital can also help reducing the product development lifecycle
-- **Worker enablement:** Once-novel technologies such as mobile e-mail, collaboration tools, and video conferencing have now become the norm. Individual level work has, in essence, been virtualized, separating the work process from the location of the work. A firm redesigned its headquarters so that nobody had an assigned desk, even the CEO. Collaboration and networking tools allow employees to talk with anyone in the company, setting the stage for further changes related to globalization. Digital transformation replaces limited one-way vertical communication with broad communication channels that are both vertical and horizontal. The tools that virtualize individual work, while implemented for cost reasons, have become powerful enablers for knowledge sharing: employees can identify experts and get questions answered in real time.
-- **Performance management:** Performance transparency is a key highlight. Executives are more informed when making decisions and insights allow decisions to be made on real data and not on assumptions. "We can use data to make better decisions about how we prioritize". Digital transformation is actually changing the process of strategic decision-making. For example, some executives used the company's existing collaboration tools to extend strategic planning sessions from 12 people to more than 300 of the firm's top managers. This enabled better input into the process and better uptake of the vision after decisions were made.
-
-**Transforming business models:**
-
-- **Digitally-modified businesses:** Some firms are finding ways to augment physical with digital offerings. Other firms are staying true to their traditional business, but using digital to transform a new growth business through e-commerce platforms. Other firms are building digital or service wrappers around traditional products.
-- **New digital businesses:** Introducing digital products that complement traditional products or changing business models by reshaping their boundaries through digital.
-- **Digital globalization:** Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. Local managers, empowered to make decisions autonomously, also gain a broader view of the business through centralized data, have freedom to tailor business to their local needs, but the responsibility to act in the interests of the larger enterprise. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines."
-
-**Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation.
-
-- **Unified Data and Processes:** The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge
-- **Solution delivery:** Companies also need the capabilities to modify their processes or build new methods onto the data and process platform. Development methods in place are often geared to well-defined requirements and mature technologies but not to emerging digital technologies. Mobile and social media require iterative approaches to learn about what will work in the market. Digital Transformatio use technology that is not commonly available in enterprises. Analytics activities often require specific knowledge and temperaments that typical IT developers do not possess. Some IT departments have established special units to build emerging technology skills and methods. Others look outside the firm for help: Vendor partners can be very effective, but some executives expressed concern about over-reliance on vendors. Several executives described knowledge gaps that existed after they ended a vendor relationship.
-- **Analytics capabilities:** Information management and analytics were highlighted as major goals by executives across industries. "It's time to harvest the data and turn it into insights." It is seen as a way to gain strategic advantage over competitors, by making more-informed and better decisions and reacting more quickly to changes. Companies with integrated data are able to engage in more powerful analytics strategies. All executives also mentioned that building analytics capability was difficult, requiring skills and culture change in addition to investments.
-- **Business and IT integration:** Companies with a history of strained IT and business relationships are handicapped when trying to conduct digital transformation, because of complex IT architectures, unintegrated data, and processes that are not well-enabled through technology. In contrast, companies with a solid IT-business relationship are in a solid position to begin digital transformation. Where strong relationships exist, executives on both sides of the relationship are willing to be flexible in creating new governance mechanisms or digital units without feeling threatened. In most firms, digital transformation is being led by CIOs. Other companies place responsibility for digital in another unit or executive who works closely with the CIO. Another solution is to hire a second CIO to focus on transformation-related activities, working in concert with the CIO who stays focused on keeping the firms' existing platform functional.
-
-
-How four digital technologies (analytics, mobile, social media, and embedded devices) are being used in the enterprise. Analytics, Mobile and Social Media are widespread in large organizations. Customer-experience applications of social media are more common than internal uses, reflecting skepticism about how effective they will be for internal collaboration. Analytics, too, are more common in customer experience applications, reflecting organizations' increasing efforts to target marketing activities and personalize customer experience. Mobile is used widely in both domains. Embedded devices are still an emerging technology.
-
-Three levels of usage:
-- **Substitution** is replacement for substantially the same function
-- **Extension** is significantly improving performance or functionality
-- **Breakthrough** is fundamentally redefining a process or function
-
-Each is being used to improve customer experience or internal operations. The most common usage of each technology is in substitution. 30 percent of firms are engaging in extension or transformation with Mobile, Social, or Analytics. Usage of embedded devices lags the other technologies. An interesting trend toward transformative opportunities is combining multiple technologies with new management practices. Remote-control equipment and automated factories include both mobile and analytics technologies to improve production. Mobile phones are becoming embedded devices for customer-facing applications. Another firm integrates its social and web-based marketing approaches with its digital product design capabilities and embedded devices in products to be more responsive to emerging consumer preferences. Concept stores combine multiple technologies to test or deliver a new buying experience. Executives are beginning to envision possibilities that cross organizational and technological silos: letting the possibilities drive technology and organization rather than the reverse.
-
-Challenges occur in all three elements of the transformation process: Initiation, Execution, and Coordination.
-
-**Initiation challenges:**
-
-- **Lack of impetus:** Impetus often starts at the very top of the firm. Skepticism can result in bureaucratic investment processes that prevent the firm from engaging in useful digitally enabled experiments and business changes. "We've always been fairly slow in adopting technology because we more or less have the ambition of not being first, but we have become even slower at the same time that technology development has been speeding up." If the company is not experiencing pain, the perceived risk of change may outweigh the potential benefits in the minds of many executives.
-- **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.
-- **Unclear business case:** "We're still looking at value and cost. For some folks, the most cost-effective technology is still the desktop." Some initiatives can be justified in the traditional way, through quantified economic business cases. Other investments are truly bet-your-company, do-or-die propositions. Firms facing a burning platform often make large changes without a strict financial business case. As with many innovations, digital transformation investments often have unclear business cases. Experiments are often funded "below the radar". Other initiatives are funded as strategic foundation investments. These investments rarely go through the rigor of developing a quantified business case, but rather are undertaken as strategic bets. When enabling larger transformations, executives often use a combination of approaches over time. Analytics is an interesting example: analytics either generate a better risk/return profile or they don't. However, firms often require an investment in infrastructure (integrating data, buying tools or hiring expertise) before they can start to conduct more measurable analytics-based experiments. The real value of digital transformation comes not from the initial investment, but from continuously re-envisioning how capabilities can be extended with digital technology to increase revenue, cut costs or gain other benefits.
-
 **Execution challenges:**
 
 - **Missing skills:** While a top-level impetus for transformation is important, it is often not enough. Analytics-based decision-making does not always come naturally to people accustomed to using "professional judgment". Emerging technologies are another area where skills may be scarce internally, especially in areas such as mobility and social media. Firms are filling gaps by hiring experts or working with vendors. A firm of the study, aiming to limit long-term HR investment while experimenting with new technologies, is working with vendors who have the right skills. However, it is encountering knowledge integration issues as key skills are located in different vendors.
+
 - **Culture issues:** Cultural issues can also become a bottleneck for digital transformation. A major cultural issue is related to changes in jobs due to automation or information empowerment. The firm's information-based benefits are reduced by managers who cannot think differently about how they make decisions. There is also a need to change the culture when empowering front-line workers. These workers needed help to adopt the idea of using new information capabilities to make autonomous decisions. On another level, previously autonomous country managers require coaching to grow comfortable working in an environment of centralized shared services and standardized processes. One lever for change is to hire new leaders bringing new skills, also bringing a new vision. Senior executives cite a strong vision and frequent communication as essential for driving culture change. Labor relations issues are a stickier source of culture change issues. Employees, fearing job cuts, are strongly resistant.
+
 - **IT Difficulties:** Digital initiatives are built on a solid foundation of technology-enabled processes and data, as well as the analytics, solution delivery and relationship capabilities to create and extend that platform. Many companies find their information technology infrastructures and capabilities severely lacking. "We don't retire systems. We just add on top of them, which creates a tremendous amount of expense and complexity." "It is very difficult to get a good understanding of the customer when customer data is spread across so many systems." A history of poor business / IT relations is a difficult foundation for the collaborative work required in digital transformation. "IT is a mess. Their costs are not acceptable. They propose things in 9-10 months where external firms could do them in 3-9 weeks.
+
 - **Governance challenges:** Benefiting from transformation typically requires changes in processes or decision-making that span traditional organizational or functional structures. Organizational change requires top-down effort to help employees envision a different reality. The largest benefits of digital transformation come from truly transforming activities. This requires a more radical vision: one that offers a view of a different way of working, not just a faster or more efficient one. Unless senior executives establish a transformative vision of the future, managers in the rest of the firm will tend to locally optimize within their own spheres of authority. Whereas an overarching vision can span organizational boundaries. Envisioning a single entity with local offices, rather than a collection of independent units, so that each can rapidly adjust to what is learned in another area. These overarching visions establish a picture of what is legitimate and help to delegitimize local behavior that detracts from a more global approach. More common than a lack of vision is a vision that does not go far enough. Overly limited visions can dramatically affect the value obtained from each digital transformation investment.
+
 - **Coordination issues:** Many firms fail to transform because of coordination difficulties across business units or processes. Units are able to make progress in their own areas, but are unable to influence practices in other units. A firm is even investing in coordination and created a digital division to ensure that all of its digital efforts are being coordinated. A further concern arises from coordination issues between new and traditional businesses or processes: conflict is real, and can be very painful for managers in traditional units that lose when new businesses gain. It often must be addressed through an overarching vision.
 
 Successful digital transformations used a common set of elements:
@@ -760,81 +865,10 @@ A business model is defined by two things:
 
 #### Quotes
 
-Today, many companies are having new competitors, shifting the customer value proposition away from acquiring reliable industrial equipment to deriving new efficiencies and other benefits through advanced analytics and algorithms based on the data generated by that equipment.
 
-GE has responded by:
-
-- adding **digital sensors** to its machines,
-- connecting them to a **common, cloud-based software platform**
-- investing in **modern software development** capabilities
-- building **advanced analytics** capabilities
-
-Now, GE's revenue from its jet engines is tied not to a simple sales transaction but to performance improvements: less downtime and more miles flown.
-
-Many software companies (and not only) have started to transform their business model:
-
-- switching from product to service revenue
-- experimenting with outcomes-based business models in cases where revenue might be tied to the efficiencies delivered by an enterprise application
-
-The paradigm is **not displacement and replacement**, but **connectivity and recombination**
-
-A business model is defined by two things:
-
-- how the organization **creates** value for its customers
-- how the organization **captures** that value
-
-Digital transformation changes both:
-
-GE creates values by extracting useful data from sensors, by optimizing equipment performance, utilization and maintenance. It captures that value by charging a percentage of the customer's incremental revenue from improved performance.
-
-GE **sells less** hardware but has developed **mutually profitable partnerships**.
-
-GE's transformations:
-
-- **transactional**: break/fix. **Sell** parts & repair.
-- **contractual**: service agreement. **Share risk**, reducing the total cost of ownership.
-- **expanded customer outcomes**: optimized assets & operations. Use data & analytics to **provide decision support** services.
 
 
 What to do:
-
-- Building software capabilities
-  - Problems encountered:
-    - Process: GE has never been known for its agility. 80% the software products they edited were not profitable. "It was taking us **years to build the software and years to get it out the door**"
-    - Developer Talent: Most of their developers had experience with outdated technologies. They were **reliant on outside vendors**, sometimes for full development.
-  - Solutions deployed new GE Software HQ:
-    - "**Co-location** is everything"
-    - creation of a **common software platform**
-    - **No enforcement of compliance**: "We are going to do this, you can be on the train or not".
-    - No dedicated P&L for the software: **Different incentives** that don't create competition with the businesses.
-- Learning to sell the new model
-
-  _"We are trying to sell them something they don't know they need and they can't see when it works."_
-  - Change the mindset of the marketing by switching:
-    - from the "box seller" mentality: "**features list** with pricing and discount caps"
-    - to a solution-based sales focused on pain points how to enhance **customer's operating performance**
-    - It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market.
-    - "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer."
-- Building out the ecosystem
-
-  _"Starting from the idea of asset optimization and no unplanned downtime... the maximum customer **value is in the ecosystem**. How **open** do we want this to be ?"_
-
-  - To build its ecosystem: GE is experimenting with different types of partnerships, like joint-ventures. GE has also partnered with potential competitors (like Intel, Cisco, Accenture, Amazon web services)
-
-- Approaching Digital Ubiquity
-
-  - Apply the digital lens to existing products & services
-  - Connect your existing assets across companies
-  - Examine new modes of value creation
-  - Consider new value-capture modes
-  - Use software to extend the boundaries of what you do.
-
-What makes digital technology transformational ?
-Digital technology has **3 fundamental properties**:
-
-- digital signals can be transmitted perfectly without error: **no depreciation with time/usage**
-- digital signals can be replicated indefinitely: **no production cost**
-- digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
 
 ## Digital Business Strategy: Toward a Next Generation of Insights [@Bharadwaj2013]
 
