@@ -21,11 +21,20 @@ output:
 
 # Influence / Environment
 
+
 ## Influence / Environment: Micro:
 
 <!-- Starting from the consumer and the individual: what does he expect know? -->
 <!-- What competencies are less or more needed? -->
 <!-- What technologies -->
+
+Innovations create indirect substitutes for consumer time, attention, and money. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society. [@Gimpel2012]
+
+
+The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web). [@Bharadwaj2013]
+
+
+Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space. [@Bharadwaj2013]
 
 Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
 
@@ -77,7 +86,9 @@ Digital technology has **3 fundamental properties**: [@Iansiti2014]
 - digital signals can be replicated indefinitely: **no production cost**
 - digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
 
+This is because digital resources are “more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society” (Deloitte 2009, p. 2). [@Bharadwaj2013]
 
+In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available. [@Bharadwaj2013]
 
 ## Influence / Environment: Macro:
 
@@ -124,8 +135,20 @@ Different digital transformation speeds and different results:
 Very few businesses are gaining the full value of technologically-enabled change. Manufacturers' ERP systems have improved process efficiency and are providing better financial data for strategic decisions, but companies have not yet retrained buyers in how to use the information in negotiating with suppliers. [@Westerman2011]
 Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience. [@Westerman2011]
 
+Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries. (CIME) industries face dramatic changes in revenue streams and shifts in industry dynamics. Power players accustomed to monopoly profits face unprecedented competition. Traditional business models face threats. Communications firms face substitution from over-the-top services. [@Gimpel2012]
+
+
+Information goods, powerful computing devices, and inexpensive digital communication is changing business and society through five digital forces: globalization, Millenialization, prosumerization, business virtualization, and platformization. [@Gimpel2012]
+
+Globalization reshapes the nature of supply and demand. Consumers enjoy a new world of choice
+Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others
+Prosumerization has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents
+Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms
+Platformization: Digital platforms bring together suppliers, customers, and third parties and are replacing traditional middlemen and can often serve to level the playing field by granting small players and new entrants access to formerly closed markets
+
 
 # Strategy / Response:
+
 
 ## Strategy / Response: Macro:
 
@@ -141,6 +164,60 @@ Focus on the "how" more than the "what." Successful transformations focus on how
 Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made. [@Westerman2011]
 
 Despite the hype around innovative digital technologies, most companies still have a long way to go in their digital transformation journeys. Leadership is essential. That's a management and people challenge, not just a technology one. [@Westerman2011]
+
+It is time to fusion between IT strategy and business strategy into an overarching phenomenon we herein term digital business strategy. [@Bharadwaj2013]
+
+Digital Business Strategy is an organizational strategy formulated and executed by leveraging digital resources to create differential value. [@Bharadwaj2013]
+
+By recognizing the pervasiveness of digital resources in operations, purchasing, supply chain & marketing and going beyond systems and technologies, to recognize digital resources, in line with the resource-based view of strategy. [@Bharadwaj2013]
+
+Digital business strategy can be viewed as being inherently transfunctional, with digital resources serving as the connective tissue. [@Bharadwaj2013]
+
+Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected. [@Bharadwaj2013]
+
+Over time, as firms and industries become more digital and rely on information, communication, and connectivity functionality, we envision that digital business strategy will be the business strategy. At that juncture, there would be no separation between business strategy and digital business strategy. (link with [@Perez2004] with _old vs new common sense_) [@Bharadwaj2013]
+
+We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy.  [@Bharadwaj2013]
+
+Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries. [@Bharadwaj2013]
+
+Business ecosystems that are intricately intertwined such that digital business strategy cannot be conceived independently of the business ecosystem, alliances, partnerships, and competitors. [@Bharadwaj2013]
+
+The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches. [@Bharadwaj2013]
+
+Rather than thinking of scale only in terms of physical factors of production, supply chains, or geographic coverage, we need to think of scale in both physical and digital terms. [@Bharadwaj2013]
+
+
+Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital infrastructure and business strategy are fused, this rapid scaling ability becomes a strategic dynamic capability for the firm to adapt to the dynamic requirements of the digital marketplace. [@Bharadwaj2013]
+
+Network Effects Within Multisided Platforms Create Rapid Scale Potential: Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service. More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partner-ships and on the demand side with interconnections among web pages.  [@Bharadwaj2013]
+
+Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors. [@Bharadwaj2013]
+
+Scale Through Alliances and Partnerships through shared digital assets. Firms modularize their business processes and rely on plug-and-play capabilities for richly linking digital assets and rely on linkages through application programming interfaces (APIs) and web services. [@Bharadwaj2013]
+
+
+Speed of Digital Business Strategy: time takes on a more central role in digital business settings. [@Bharadwaj2013]
+
+Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coor-dinated in networks with complementary products and services. [@Bharadwaj2013]
+
+Speed of Decision Making: technology has allowed firms to speed up decisions that otherwise might be slowed due to information flows up and down the hierarchy through multiple layers of management. Leading companies have invested significantly to provide the capability to access diverse streams of information. Slowness in response could mean customers moving away from companies perceived as being out of tune with the new reality. But there are enormous challenges to access, process, and analyze the massive amounts of data that accumulate as a natural by-product of routine transactions. As companies make investments to process increased amounts of data, we find that few have made corresponding investments in the organizational processes to drive business value from data and information. The value lies not in investing in technology but in how increased access to information drives faster and more effective decisions. [@Bharadwaj2013]
+
+The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage. [@Bharadwaj2013]
+
+Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness. [@Bharadwaj2013]
+
+Sources of Value Creation and Capture: Digital business strategy brings in additional dimensions that alter the nature of value creation and capture. [@Bharadwaj2013]
+
+Increased Value from Information: the digital business context brings new opportunities to create value from information. Many firms are able to fine-tune their actions and personalize their offerings based on information about customer preferences. Democratization of content as well as the subsequent sharing, remixing, redistribution, and resyndication of content have caused dramatic power shifts in market channels and dis-intermediations that disrupt traditional sources of economic profits while creating fundamentally new sources of value. [@Bharadwaj2013]
+
+Value Creation from Multisided Business Models: multisided revenue models important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture
+value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions. [@Bharadwaj2013]
+
+Value Capture through Coordinated Business Models in Networks: value creation and capture in digital settings often involve complex and dynamic coordination across multiple companies. Business models are not inde-pendent but intersect and interoperate across these different players. [@Bharadwaj2013]
+
+Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium. [@Bharadwaj2013]
+
 
 7. Relentlessly evolving business models at higher velocity
 
@@ -263,6 +340,20 @@ Approaching Digital Ubiquity [@Iansiti2014]
 - Use software to extend the boundaries of what you do.
 
 
+Stop staring in the mirror: a key to adapting to dramatically-shifting marketplaces is to reevaluate what makes you successful and how you measure success. The metrics used to measure performance in the prior era may no longer be relevant. [@Gimpel2012]
+
+Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries. [@Gimpel2012]
+
+Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it. [@Gimpel2012]
+
+
+Value creation is the new structure: Structures often become rigid, causing firms to define themselves by what they do, not how they add value. The structures imprudently shift the focus to creating profits for the firm instead of creating value for customers. A focus on value rather than structure frees enterprises to shake off the mentality of "that's not how we do business.". Companies can build a strong competitive offering around core and essential core support functions, while virtualizing other part of the business through outsourcing, partnerships, and strategic alliances. [@Gimpel2012]
+
+Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market. Executives must shift from thinking about value chains to value networks. Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate. [@Gimpel2012]
+
+Digital platforms will become the gateways (and bottlenecks) to the market. [@Gimpel2012]
+
+
 
 ## Strategy / Response: Micro:
 
@@ -314,6 +405,18 @@ Change the mindset of the marketing by switching: [@Iansiti2014]
 - to a solution-based sales focused on pain points how to enhance **customer's operating performance**
 
 
+
+If it's not VRIN, it's out: Technological innovations can reshape value chains, causing once-strategic resources to lose their value, identify and build upon strategic resources that will remain valuable after the transition. It must be VRIN: valuable, rare, inimitable, and non-substitutable. [@Gimpel2012]
+
+Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery. [@Gimpel2012]
+- Production is "making goods available for use."
+- Search is matching different parties together so they can trade
+- Delivery is transmitting or communicating information and information goods
+The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability. [@Gimpel2012]
+CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles. [@Gimpel2012]
+
+
+
 # A helper for all of this
 
 ## Build your Roadmap
@@ -322,11 +425,6 @@ Change the mindset of the marketing by switching: [@Iansiti2014]
 
 ## Choose decisions to take
 <!-- Deloitte updated -->
-
-
-
-
-
 
 # Sources
 
@@ -925,82 +1023,6 @@ Described in details here
 
 #### Quotes
 
-
-The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web).
-
-
-These digital technologies are fundamentally reshaping traditional business strategy as modular, distributed, cross-functional, and global business processes
-
-Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space.
-
-It is time to fusion between IT strategy and business strategy into an overarching phenomenon we herein term digital business strategy.
-
-Digital Business Strategy is an organizational strategy formulated and executed by leveraging digital resources to create differential value.
-
-By recognizing the pervasiveness of digital resources in operations, purchasing, supply chain & marketing and going beyond systems and technologies, to recognize digital resources, in line with the resource-based view of strategy.
-
-Digital business strategy can be viewed as being inherently transfunctional, with digital resources serving as the connective tissue.
-
-Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected.
-
-Over time, as firms and industries become more digital and rely on information, communication, and connectivity functionality, we envision that digital business strategy will be the business strategy. At that juncture, there would be no separation between business strategy and digital business strategy. (link with [@Perez2004] with _old vs new common sense_)
-
-This is because digital resources are “more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society” (Deloitte 2009, p. 2).
-
-In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available.
-
-
-We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy
-
-Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries.
-
-Business ecosystems that are intricately intertwined such that digital business strategy cannot be conceived independently of the business ecosystem, alliances, partnerships, and competitors.
-
-The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches.
-
-Rather than thinking of scale only in terms of physical factors of production, supply chains, or geographic coverage, we need to think of scale in both physical and digital terms.
-
-
-Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital infrastructure and business strategy are fused, this rapid scaling ability becomes a strategic dynamic capability for the firm to adapt to the dynamic requirements of the digital marketplace.
-
-
-Network Effects Within Multisided Platforms Create Rapid Scale Potential: Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service. More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partner-ships and on the demand side with interconnections among web pages
-
-
-Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors
-
-
-Scale Through Alliances and Partnerships through shared digital assets. Firms modularize their business processes and rely on plug-and-play capabilities for richly linking digital assets and rely on linkages through application programming interfaces (APIs) and web services.
-
-
-Speed of Digital Business Strategy: time takes on a more central role in digital business settings.
-
-Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coor-dinated in networks with complementary products and services.
-
-
-Speed of Decision Making: technology has allowed firms to speed up decisions that otherwise might be slowed due to information flows up and down the hierarchy through multiple layers of management. Leading companies have invested significantly to provide the capability to access diverse streams of information. Slowness in response could mean customers moving away from
-companies perceived as being out of tune with the new reality. But there are enormous challenges to access, process, and analyze the massive amounts of data that accumulate as a natural by-product of routine transactions. As companies make investments to process increased amounts of data, we find that few have made corresponding investments in the organizational processes to drive business value from data and information. The value lies not in investing in technology but in how increased access to information drives faster and more effective decisions.
-
-
-The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage.
-
-
-Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness.
-
-Sources of Value Creation and Capture: Digital business strategy brings in additional dimensions that alter the nature of value creation and capture.
-
-Increased Value from Information: the digital business context brings new opportunities to create value from information. Many firms are able to fine-tune their actions and personalize their offerings based on information about customer preferences. Democratization of content as well as the subsequent sharing, remixing, redistribution, and resyndication of content have caused dramatic power shifts in market channels and dis-intermediations that disrupt traditional sources of economic profits while creating fundamentally new sources of value.
-
-
-Value Creation from Multisided Business Models: multisided revenue models important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture
-value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions.
-
-
-Value Capture through Coordinated Business Models in Networks: value creation and capture in digital settings often involve complex and dynamic coordination across multiple companies. Business models are not inde-pendent but intersect and interoperate across these different players.
-
-
-Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium.
-
 ## Shaping the Future: Seven Enduring Principles for Fast-changing Industries [@Gimpel2012]
 
 ### Dimensions
@@ -1038,37 +1060,6 @@ VRIN framework to assess the value of an activity/resource:
 
 #### Quotes
 
-Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries. (CIME) industries face dramatic changes in revenue streams and shifts in industry dynamics. Power players accustomed to monopoly profits face unprecedented competition. Traditional business models face threats. Communications firms face substitution from over-the-top services.
-
-Innovations create indirect substitutes for consumer time, attention, and money. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society through five digital forces: globalization, Millenialization, prosumerization, business virtualization, and platformization.
-
-Globalization reshapes the nature of supply and demand. Consumers enjoy a new world of choice.
-Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others.
-Prosumerization has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents.
-Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms.
-Platformization: Digital platforms bring together suppliers, customers, and third parties and are replacing traditional middlemen and can often serve to level the playing field by granting small players and new entrants access to formerly closed markets.
-
-Stop staring in the mirror: a key to adapting to dramatically-shifting marketplaces is to reevaluate what makes you successful and how you measure success. The metrics used to measure performance in the prior era may no longer be relevant.
-
-Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries.
-
-Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it.
-
-If it's not VRIN, it's out: Technological innovations can reshape value chains, causing once-strategic resources to lose their value, identify and build upon strategic resources that will remain valuable after the transition. It must be VRIN: valuable, rare, inimitable, and non-substitutable.
-
-Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery.
-- Production is "making goods available for use."
-- Search is matching different parties together so they can trade.
-- Delivery is transmitting or communicating information and information goods
-The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability.
-CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles.
-
-Value creation is the new structure: Structures often become rigid, causing firms to define themselves by what they do, not how they add value. The structures imprudently shift the focus to creating profits for the firm instead of creating value for customers. A focus on value rather than structure frees enterprises to shake off the mentality of "that's not how we do business.". Companies can build a strong competitive offering around core and essential core support functions, while virtualizing other part of the business through outsourcing, partnerships, and strategic alliances.
-
-Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market. Executives must shift from thinking about value chains to value networks. Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate.
-
-Digital platforms will become the gateways (and bottlenecks) to the market.
-
 ## The Role of Dynamic Capabilities in Responding to Digital Disruption: A Factor-Based Study of the Newspaper Industry [@Karimi2015]
 
 ### Dimensions
@@ -1093,9 +1084,12 @@ Determinants of first-order dynamic capabilities:
 Disruptive innovation theory offers explanations for why companies succeed or fail to respond to disruptive innovations.  
 First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities
 Managers [must] focus on the most promising factors for creating first-order dynamic capabilities.
+
 Internet information is now cheap, open standards have also facilitated open distribution platforms which have further resulted in more flexibility for consumers.
 Aggregative news services are becoming more important intermediaries.
+
 Inexpensive digital information goods and computing and communication devices are changing society as a whole through five digital forces: globalization, millenialization, prosumerization, business virtualization, and platformization [@Gimpel2012].
+
 Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and
 disruptive for the newspaper industry.
 The resources-processes-values (RPV) framework offers explanations for why big companies succeed or fail to respond to disruptive innovations, [however] the emphasis in the theory has always been on nontechnology and little attention has been paid to the enabling role of technology in responding to disruptive innovations.
