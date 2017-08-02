@@ -1,6 +1,6 @@
 ---
 title: Digitalization & Organizations
-subtitle: "Go Digital or Undergo Disruption: the great extinction event in business"
+subtitle: "Go Digital or Undergo Disruption: the _great extinction event_ in business"
 author: Quentin Chenevier
 mainfont: DejaVu Sans
 sansfont: DejaVu Sans
@@ -15,10 +15,6 @@ output:
     latex_engine: xelatex
 ...
 
-# Why digital transformation: the new environment
-<!-- Why what worked yesterday is not working anymore? -->
-<!-- What is changing? -->
-
 # Influence / Environment
 
 
@@ -30,6 +26,8 @@ output:
 
 Innovations create indirect substitutes for consumer time, attention, and money. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society. [@Gimpel2012]
 
+
+Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry. [@Karimi2015]
 
 The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web). [@Bharadwaj2013]
 
@@ -96,7 +94,15 @@ In the past we have operated under conditions of data (information) scarcity wit
 <!-- Why some assets have less value than before? What assets are dealuating quickly? -->
 <!-- How are you organized? -->
 
+The complex patterns of dynamic interdependencies among environmental turbulence, dynamic capabilities, and IT systems have resulted in the phenomenon called "digital ecodynamics". [@ElSawy2010]
+
 The digital technologies underlying competitive threats may not be new, but they are being used to new effect. The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors. [@Hirt2014]
+
+Internet information is now cheap, open standards have also facilitated open distribution platforms which have further resulted in more flexibility for consumers. Aggregative news services are becoming more important intermediaries. [@Karimi2015]
+
+Inexpensive digital information goods and computing and communication devices are changing society as a whole through five digital forces: globalization, millenialization, prosumerization, business virtualization, and platformization [@Gimpel2012].
+
+A technology is considered disruptive when its use generates services or physical products with different performance attributes that may not be valued by a company's current customer base. Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades. [@Karimi2015]
 
 New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal. [@Hirt2014]
 
@@ -156,6 +162,24 @@ Platformization: Digital platforms bring together suppliers, customers, and thir
 <!-- What assez will you reuse? -->
 <!-- How is moving the market? -->
 <!-- How do you restructure your company? -->
+
+
+
+Platforms to connect to consumers: to reach new audiences through building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses. [@Karimi2015]
+
+Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions. [@Karimi2015]
+
+The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building digital platform capabilities. [@Karimi2015]
+
+Our results are deemed generalizable to other industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises. [@Karimi2015]
+
+Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks. [Organizations] need to find out whether processes for their core products are appropriate for developing digital non-core products and whether their values give them the priority they need to reconfigure their capabilities. If not, values need to be changed first, since values ultimately determine what processes are in place. [@Karimi2015]
+
+(1) first-order dynamic capabilities have a direct association with building digital platform capabilities and with newspaper companies' response to digital disruption in terms of revenue generated from all on-line sources [@Karimi2015]
+(2) digital platform capabilities mediate the relationship between first-order dynamic capabilities and newspaper companies' response performance in terms of number of non-core products. [@Karimi2015]
+
+
+Digital ecodynamics requires a holistic convergence among dynamic capabilities, IT systems, and environmental turbulence. [@Karimi2015]
 
 Successful digital transformation comes not from implementing new technologies but from transforming your organization transformation initiatives are centered on re-envisioning customer experience, operational processes and business models. Digital Transformation does not happen bottom up. It must be driven from the top. [@Westerman2011]
 
@@ -354,6 +378,59 @@ Platforms are the future systems of engagement: A platform is a foundational tec
 Digital platforms will become the gateways (and bottlenecks) to the market. [@Gimpel2012]
 
 
+Disruptive innovation theory offers explanations for why companies succeed or fail to respond to disruptive innovations. [@Karimi2015]
+First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities. [@Karimi2015]
+Managers [must] focus on the most promising factors for creating first-order dynamic capabilities. [@Karimi2015]
+
+
+Organizational ordinary capabilities are defined as "high-level routine" that confers a set of decision options for producing significant outputs of a particular type". They are the zero-level and "how we earn a living now" capabilities. A capability gap is the distance between a firm's existing configuration of capabilities and the most valuable configuration potentially available post the technological change. [@Karimi2015]
+
+Dynamic capabilities govern the rate of change in organizational ordinary capabilities and are essential in responding to disruptive technological shifts. Dynamic capabilities theory is an extension of the resource-based view of the firm. Dynamic capabilities are theorized as existing at different levels. The first-order dynamic capabilities "extend, modify, change and/or create ordinary capabilities". When deploying first-order dynamic capabilities may not be sufficient, a firm may need to develop second-order dynamic capabilities [@Daniel2014]. The second-order (or higher-order) dynamic capabilities enable spontaneous responsiveness in novel situations and in recessionary conditions [@Daniel2014]. [@Karimi2015]
+
+
+We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt. [@Woodard2013]
+
+Design capital as the cumulative stock of designs owned or controlled by a firm. Elements of a firm's design capital are typically designs for digital artifacts, such as software components and their associated interfaces and data structures, sometimes collectively called the firm's digital architecture. It enables the firm to innovate through new and improved designs. [@Woodard2013]
+
+Design moves are discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs. For example, developing a new product or service, improving an existing component or reconfiguring the architecture itself. [@Baldwin2004] argue that, "new designs are fundamentally options with associated economic option value". The option value of a design reflects both the value of the products or services in which it is directly realized and the value of the alternative designs that it makes possible. Option value is enhanced by architectures that enable designers to combine components within or across layers, cultivate or attract external partners (e.g., by providing application programming interfaces or software development kits), and launch innovative digital offerings. [@Woodard2013]
+
+Technical debt refers to the expected cost or effort entailed in exercising the options embedded in a firm's design capital. Technical debt is a natural by-product of the design process. Shortages of resources, time, or talent frequently lead designers intentionally to optimize for short-term goals at the expense of making a product or system easy to maintain and evolve. Like financial debt, sometimes technical debt can be necessary. [@Woodard2013]
+Option value and technical debt are akin to financial assets and liabilities, and define the net present value of a modular architecture as the difference between the two. [@Woodard2013]
+Each of the four firms in our study gained significant advantages as the quality of their design capital improved. All four case firms were constrained by high debt or lack of options (or both) at various times during our observation period. [@Woodard2013]
+
+The role of design moves in our conceptual model is to provide a structured way of thinking about the actions taken by firms in pursuit of high-quality design capital. [@Woodard2013]
+
+Resource munificence (or organizational slack available to designers) often proved to be an important contingency in every design capital state. Resource munificence explained why firms in the same state made moves that took them in different "directions". [@Woodard2013]
+
+Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability. The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product. [@Woodard2013]
+
+Option-constrained Design Capital. Startup firms and new business units tend to possess option-constrained design capital. Such firms can make two distinct kinds of design moves: increase the option value of its designs, increase its technical debt. When resources are scarce, designers experience pressures to address urgent business needs without the necessary slack to lay a firm foundation for the future. This leads to an accumulation of technical debt. When firms have abundant resources, designers have the necessary slack to enact moves with a longer planning horizon, and often use this opportunity to create options that can be harvested in the future. [@Woodard2013]
+
+Proposition 1a: Under option-constrained design capital and resource scarcity, a firm's design moves will tend to increase the technical debt of its design capital. [@Woodard2013]
+Proposition 1b: Under option-constrained design capital and resource abundance, a firm's design moves will tend to create design options in its design capital. [@Woodard2013]
+
+Debt-constrained Design Capital. In a debt-constrained design capital state, a firm possesses high option value, but it is weighed down by high levels of technical debt. Under resource scarcity, investments in reducing technical debt through additional development efforts are unlikely to be feasible, but firms can also meet their short-term obligations by abandoning debt-laden modules and their associated design options. Debt-constrained firms that have access to abundant resources can afford to reduce their debt without abandoning options. [@Woodard2013]
+
+Proposition 2a: Under debt-constrained design capital and resource scarcity, a firm's design moves will tend to abandon design options. [@Woodard2013]
+Proposition 2b: Under debt-constrained design capital and resource abundance, a firm's design moves will tend to reduce its technical debt. [@Woodard2013]
+
+Low-quality Design Capital. It is a state in which a firm possesses few design options, and its ability to exercise the options it does possess is impeded by high technical debt. When designers face both low-quality design capital and a resource-scarce environment, their choice of design moves is over-constrained. It is unsustainable: either the product or project needs to be "bailed out" or higher management needs to "pull the plug" on it. In the absence of resource constraints, designers can exit a low-quality design capital state either by reducing debt or creating options. [@Woodard2013]
+
+Proposition 3a: Under low-quality design capital and resource abundance, a firm's design moves will tend to reduce technical debt if the technical capability of the firm is high. [@Woodard2013]
+Proposition 3b: Under low-quality design capital and resource abundance, a firm's design moves will tend to create design options if the technical capability of the firm is low. [@Woodard2013]
+
+High-quality Design Capital. High-quality design capital, a state with high option value and low technical debt, can confer unfettered competitive advantage. Differences in a firm's ability to transfer the costs of technical debt to other members of its ecosystem (including end users) provided a systematic explanation for the differing transitions. [@Woodard2013]
+
+Proposition 4a: Under high-quality design capital and resource scarcity, a firm's design moves will tend to increase technical debt if the firm's ability to transfer technical debt to other members of its ecosystem is high. [@Woodard2013]
+Proposition 4b: Under high-quality design capital and resource scarcity, a firm's design moves will tend to abandon design options if its ability to transfer technical debt to other members of its ecosystem is low. [@Woodard2013]
+
+If a firm is fortunate enough to be in a position of high-quality design capital and resource abundance, this describes an under-constrained situation for designers that favors experimentation and entrepreneurial actions. Such an environment requires effective sense-making and the ability to cope with complexity and uncertainty. Firms with high quality design capital tended to create product or service platforms that, in turn, enabled them to sustain a state of high-quality design capital. We observed two distinct kinds of platform strategies: one focused on internal economies of scale and scope, and the other focused on influencing an external ecosystem. [@Woodard2013]
+
+Firms pursuing digital business strategies must manage a fundamental tension between the need to support flexible adaptation of their products and services to changing market conditions, and the need to provide stable value appropriation mechanisms to extract economic rents and reinvest them in innovative activities. Companies often fuse IT with their products and services for competitive advantage. [@Woodard2013]
+
+We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital. [@Woodard2013]
+
+
 
 ## Strategy / Response: Micro:
 
@@ -416,8 +493,50 @@ The PSD framework helps to identify and separate core revenue-generating transac
 CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles. [@Gimpel2012]
 
 
+Determinants of first-order dynamic capabilities:
+- Resources: They are intangible in nature and must be built and cultivated over time. [@Karimi2015]
+  - Dedicated financial resources (DFR)
+  Dedicating these resources to responding to digital disruption can facilitate new growth by avoiding the traps associated with allocating all slack resources to core products and by removing the obstacles that would otherwise limit the potential for innovative ideas to succeed [9, 63]. [@Karimi2015]
+  - Dedicated human resources (DHR)
+  Relying just on human resources already allocated to the core products can sharply limit a newspaper company's ability to sell innovative non-core products and to capture new business models. [@Karimi2015]
+  - Senior management support (SMS)
+  It not only signals the importance of innovation to the organization but also helps innovative project teams clear the inevitable obstacles to success and harness senior management's wisdom to improve ideas. It supports activities for building an effective project coalition, developing and communicating a vision, and providing resources to support initiatives. [@Karimi2015]
+- Processes: They are the fundamental building blocks of organizational capability and competitive advantage. [@Karimi2015]
+  - Staged allocation of resources (SAR)
+  It can force innovation teams to zero in quickly on critical assumptions, find cheap ways to test those assumptions, and develop lean and flexible structures for innovation projects. Instead of risking big investments on uncertain strategies, newspaper companies can "invest a little to learn a lot" about the key uncertainties in their approach, reduce the cost and risk of innovation, and encourage smart experiments and risk-mitigation strategies. [@Karimi2015]
+  - Autonomous growth group (ACG)
+  It is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests. It is a necessary condition when a new venture needs to take an approach that the old venture dislikes or rejects, or when a new venture needs to create new growth that may disrupt the core business. Otherwise, chances are that either a low priority is assigned to new ideas or an old business model may be force-fitted onto the new opportunity. [@Karimi2015]
+- Values: They are the primary building-blocks for culture, which is the pattern of shared values, norms, and practices that distinguishes one organization from another. [@Karimi2015]
+  - Innovative culture (IC)
+  It defines or constrains what an organization can or cannot do, and as such can be a disability when confronting a new innovation. It can stimulate innovative behavior among members of an organization. It can lead an organization to accept innovation as one of its basic values and can foster commitment to it. [@Karimi2015]
+  - Common language (CL)
+  It can facilitate change and overcome some of the barriers that make responding to innovation difficult. It can create a shared perspective to dramatically change the way organizations think and strengthen their ability to identify and develop new ideas. It can help to hardwire new concepts into the organization by the repeated use of terms such as "JOBS-to-be-done"; "good enough"; "invest a little, learn a lot". [@Karimi2015]
+  - Multimedia mindset (MM)
+  It actively expands newspaper companies' foci to include a multi-platform approach to serving consumers. It needs to permeate all aspects of a newspaper company and its overall mission. It must take hold institutionally, across the entire organization, and personally, in those leading the transformation. [@Karimi2015]
 
-# A helper for all of this
+Senior management needs to go beyond words, and in addition to leaning back and reviewing improvements in the core products, senior management needs to lean forward and work on growth initiatives for non-core products. [@Karimi2015]
+
+
+
+Processes that govern investment decisions are the most crucial processes in which many organizations' most serious disabilities reside when attempting to respond to disruptive innovations. [@Karimi2015]
+
+Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests. [@Karimi2015]
+
+Values are defined as standards by which employees make priorisation decisions innovation requires firms to build and sustain an innovation-supportive culture. Innovative culture derives from values  that reinforces the daily practices. [@Karimi2015]
+
+Common language for disruptive innovations are able to avoid some of the mental traps that make enabling response to digital disruption difficult. These traps include pursuing perfection when "good enough" is often sufficient, overestimating knowledge of new markets, and making big bets when it is better to begin with small ones. [@Karimi2015]
+
+Adopt a multimedia mindset and view [your] business as a portfolio of products and services with different business models, pricing, and distribution strategies. A mindset that does not favor the status quo. [@Karimi2015]
+
+
+Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities. [@Karimi2015]
+
+The focus of value creation shifts from value chain to value networks. Include a multi-platform or platform-free mindset by considering all forms of content. [@Karimi2015]
+
+Developing a digital-first mindset, making digital strategy everyone's job, cultivating an open culture that embraces digital innovations. [@Karimi2015]
+
+
+# Implement your strategy / Execute your response
 
 ## Build your Roadmap
 <!-- Assets analysis -->
@@ -426,7 +545,10 @@ CIME firms profit by reducing inefficiencies in production, search, and/or deliv
 ## Choose decisions to take
 <!-- Deloitte updated -->
 
-# Sources
+
+
+
+# Sources (Quotes to move to parts)
 
 ## Customer intimacy and other value disciplines [@Treacy1993]
 
@@ -1020,9 +1142,6 @@ Described in details here
   - capture value through **coordinated business models in networks**
   - appropriate value through the **control of the firm’s digital architecture**
 
-
-#### Quotes
-
 ## Shaping the Future: Seven Enduring Principles for Fast-changing Industries [@Gimpel2012]
 
 ### Dimensions
@@ -1058,8 +1177,6 @@ VRIN framework to assess the value of an activity/resource:
 - Value creation is the new structure
 - Platforms are the future systems of engagement
 
-#### Quotes
-
 ## The Role of Dynamic Capabilities in Responding to Digital Disruption: A Factor-Based Study of the Newspaper Industry [@Karimi2015]
 
 ### Dimensions
@@ -1081,86 +1198,24 @@ Determinants of first-order dynamic capabilities:
 
 #### Quotes
 
-Disruptive innovation theory offers explanations for why companies succeed or fail to respond to disruptive innovations.  
-First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities
-Managers [must] focus on the most promising factors for creating first-order dynamic capabilities.
-
-Internet information is now cheap, open standards have also facilitated open distribution platforms which have further resulted in more flexibility for consumers.
-Aggregative news services are becoming more important intermediaries.
-
-Inexpensive digital information goods and computing and communication devices are changing society as a whole through five digital forces: globalization, millenialization, prosumerization, business virtualization, and platformization [@Gimpel2012].
-
-Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and
-disruptive for the newspaper industry.
-The resources-processes-values (RPV) framework offers explanations for why big companies succeed or fail to respond to disruptive innovations, [however] the emphasis in the theory has always been on nontechnology and little attention has been paid to the enabling role of technology in responding to disruptive innovations.
-The complex patterns of dynamic interdependencies among environmental turbulence, dynamic capabilities, and IT systems have resulted in the phenomenon called "digital ecodynamics" [@ElSawy2010].
+The resources-processes-values (RPV) framework offers explanations for why big companies succeed or fail to respond to disruptive innovations, [however] the emphasis in the theory has always been on nontechnology and little attention has been paid to the enabling role of technology in responding to disruptive innovations. [@Karimi2015]
 
 (1) what are newspaper companies' key RPV factors that create first-order dynamic capabilities for responding to digital disruption?
 (2) what is the role of such capabilities in building digital platform capabilities?
 (3) do digital platform capabilities mediate the impact of first-order dynamic capabilities on the performance of newspaper companies?
 
-A technology is considered disruptive when its use generates services or physical products with different performance attributes that may not be valued by a company's current customer base. Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades.
 
-Christensen framed disruption as a theory, [but, according to him,] disruptive innovation theory can be further improved by making definitions and measurements more precise, by refining the categories, and by clarifying the mechanism of causality.
+Christensen framed disruption as a theory, [but, according to him,] disruptive innovation theory can be further improved by making definitions and measurements more precise, by refining the categories, and by clarifying the mechanism of causality. [@Karimi2015]
 
-Organizational ordinary capabilities are defined as "high-level routine" that confers a set of decision options for producing significant outputs of a particular type". They are the zero-level and "how we earn a living now" capabilities. A capability gap is the distance between a firm's existing configuration of capabilities and the most valuable configuration potentially available post the
-technological change.
-
-Dynamic capabilities govern the rate of change in organizational ordinary capabilities and are essential in responding to disruptive technological shifts. Dynamic capabilities theory is an extension of the resource-based view of the firm. Dynamic capabilities are theorized as existing at different levels. The first-order dynamic capabilities "extend, modify, change and/or create ordinary capabilities". When deploying first-order dynamic capabilities may not be sufficient, a firm may need to develop second-order dynamic capabilities [@Daniel2014]. The second-order (or higher-order) dynamic capabilities enable spontaneous responsiveness in novel situations and in recessionary conditions [@Daniel2014].
 
 Three classes of resources are critical for enabling responses to digital disruption:
 
-- Dedicated financial resources to fund innovation projects. Projects are often seen as unlikely to generate sizable profits, so companies may find it difficult to assign high priorities for those projects.
+- Dedicated financial resources to fund innovation projects. Projects are often seen as unlikely to generate sizable profits, so companies may find it difficult to assign high priorities for those projects. [@Karimi2015]
 
-
-Determinants of first-order dynamic capabilities:
-- Resources: They are intangible in nature and must be built and cultivated over time.
-  - Dedicated financial resources (DFR)
-  Dedicating these resources to responding to digital disruption can facilitate new growth by avoiding the traps associated with allocating all slack resources to core products and by removing the obstacles that would otherwise limit the potential for innovative ideas to succeed [9, 63].
-  - Dedicated human resources (DHR)
-  Relying just on human resources already allocated to the core products can sharply limit a newspaper company's ability to sell innovative non-core products and to capture new business models.
-  - Senior management support (SMS)
-  It not only signals the importance of innovation to the organization but also helps innovative project teams clear the inevitable obstacles to success and harness senior management's wisdom to improve ideas. It supports activities for building an effective project coalition, developing and communicating a vision, and providing resources to support initiatives.
-- Processes: They are the fundamental building blocks of organizational capability and competitive advantage.
-  - Staged allocation of resources (SAR)
-  It can force innovation teams to zero in quickly on critical assumptions, find cheap ways to test those assumptions, and develop lean and flexible structures for innovation projects. Instead of risking big investments on uncertain strategies, newspaper companies can "invest a little to learn a lot" about the key uncertainties in their approach, reduce the cost and risk of innovation, and encourage smart experiments and risk-mitigation strategies.
-  - Autonomous growth group (ACG)
-  It is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests. It is a necessary condition when a new venture needs to take an approach that the old venture dislikes or rejects, or when a new venture needs to create new growth that may disrupt the core business. Otherwise, chances are that either a low priority is assigned to new ideas or an old business model may be force-fitted onto the new opportunity.
-- Values: They are the primary building-blocks for culture, which is the pattern of shared values, norms, and practices that distinguishes one organization from another.
-  - Innovative culture (IC)
-  It defines or constrains what an organization can or cannot do, and as such can be a disability when confronting a new innovation. It can stimulate innovative behavior among members of an organization. It can lead an organization to accept innovation as one of its basic values and can foster commitment to it.
-  - Common language (CL)
-  It can facilitate change and overcome some of the barriers that make responding to innovation difficult. It can create a shared perspective to dramatically change the way organizations think and strengthen their ability to identify and develop new ideas. It can help to hardwire new concepts into the organization by the repeated use of terms such as "JOBS-to-be-done"; "good enough"; "invest a little, learn a lot".
-  - Multimedia mindset (MM)
-  It actively expands newspaper companies' foci to include a multi-platform approach to serving consumers. It needs to permeate all aspects of a newspaper company and its overall mission. It must take hold institutionally, across the entire organization, and personally, in those leading the transformation.
-
-Senior management needs to go beyond words, and in addition to leaning back and reviewing improvements in the core products, senior management needs to lean forward and work on growth initiatives for non-core products.
-
-Processes that govern investment decisions are the most crucial processes in which many organizations' most serious disabilities reside when attempting to respond to disruptive innovations.
-
-Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests.
-
-Values are defined as standards by which employees make priorisation decisions innovation requires firms to build and sustain an innovation-supportive culture. Innovative culture derives from values  that reinforces the daily practices.
-
-Common language for disruptive innovations are able to avoid some of the mental traps that make enabling response to digital disruption difficult. These traps include pursuing perfection when "good enough" is often sufficient, overestimating knowledge of new markets, and making big bets when it is better to begin with small ones.
-
-Adopt a multimedia mindset and view [your] business as a portfolio of products and services with different business models, pricing, and distribution strategies. A mindset that does not favor the status quo.
-
-Digital ecodynamics requires a holistic convergence among dynamic capabilities, IT systems, and environmental turbulence.
-
-Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities.
-
-The focus of value creation shifts from value chain to value networks. Include a multi-platform or platform-free mindset by considering all forms of content.
-
-Developing a digital-first mindset, making digital strategy everyone's job, cultivating an open culture that embraces digital innovations. Platforms to connect to consumers: to reach new audiences through
-building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses.
-
-Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions.
-
-Hypothesis 1: The greater the extent of the first-order dynamic capabilities, the higher a newspaper company's response performance will be in terms of digital revenue generated from all on-line sources.
-Hypothesis 2: The greater the extent of first-order dynamic capabilities, the higher a newspaper company's ability will be to build digital platform capabilities in response to digital disruption.
-Hypothesis 3: The greater the extent of digital platform capabilities, the higher a newspaper company's response performance will be in terms of number of digital non-core products.
-Hypothesis 4: The impact of first-order dynamic capabilities on response performance in terms of number of digital non-core products is mediated by a newspaper company's ability to build digital platform capabilities.
+Hypothesis 1: The greater the extent of the first-order dynamic capabilities, the higher a newspaper company's response performance will be in terms of digital revenue generated from all on-line sources. [@Karimi2015]
+Hypothesis 2: The greater the extent of first-order dynamic capabilities, the higher a newspaper company's ability will be to build digital platform capabilities in response to digital disruption. [@Karimi2015]
+Hypothesis 3: The greater the extent of digital platform capabilities, the higher a newspaper company's response performance will be in terms of number of digital non-core products. [@Karimi2015]
+Hypothesis 4: The impact of first-order dynamic capabilities on response performance in terms of number of digital non-core products is mediated by a newspaper company's ability to build digital platform capabilities. [@Karimi2015]
 
 Three research questions were examined in this study:
 (1) What are newspaper companies' key RPV factors that create first-order dynamic capabilities for
@@ -1168,15 +1223,6 @@ responding to digital disruption?
 (2) What is the role of such capabilities in building digital platform capabilities?
 (3) Do digital platform capabilities mediate the impact of first-order dynamic capabilities?
 
-The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building
-digital platform capabilities.
-
-Our results are deemed generalizable to other industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises.
-
-Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks. [Organizations] need to find out whether processes for their core products are appropriate for developing digital non-core products and whether their values give them the priority they need to reconfigure their capabilities. If not, values need to be changed first, since values ultimately determine what processes are in place.
-
-(1) first-order dynamic capabilities have a direct association with building digital platform capabilities and with newspaper companies' response to digital disruption in terms of revenue generated from all on-line sources
-(2) digital platform capabilities mediate the relationship between first-order dynamic capabilities and newspaper companies' response performance in terms of number of non-core products.
 
 ## Design Capital and Design Moves: the Logic of Digital Business Strategy [@Woodard2013]
 
@@ -1211,50 +1257,8 @@ Design capital states and strategies:
   - if resource scarcity and low ability to transfer technical debt to its ecosystem, abandon design options
   - if resource abundance, experimentation & entrepreneurial actions
 
-#### Quotes
-We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt.
 
-Design capital as the cumulative stock of designs owned or controlled by a firm. Elements of a firm's design capital are typically designs for digital artifacts, such as software components and their associated interfaces and data structures, sometimes collectively called the firm's digital architecture. It enables the firm to innovate through new and improved designs.
-
-Design moves are discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs. For example, developing a new product or service, improving an existing component or reconfiguring the architecture itself. [@Baldwin2004] argue that, "new designs are fundamentally options with associated economic option value". The option value of a design reflects both the value of the products or services in which it is directly realized and the value of the alternative designs that it makes possible. Option value is enhanced by architectures that enable designers to combine components within or across layers, cultivate or attract external partners (e.g., by providing application programming interfaces or software development kits), and launch innovative digital offerings.
-
-Technical debt refers to the expected cost or effort entailed in exercising the options embedded in a firm's design capital. Technical debt is a natural by-product of the design process. Shortages of resources, time, or talent frequently lead designers intentionally to optimize for short-term goals at the expense of making a product or system easy to maintain and evolve. Like financial debt, sometimes technical debt can be necessary.
-Option value and technical debt are akin to financial assets and liabilities, and define the net present value of a modular architecture as the difference between the two.
-Each of the four firms in our study gained significant advantages as the quality of their design capital improved. All four case firms were constrained by high debt or lack of options (or both) at various times during our observation period.
-
-The role of design moves in our conceptual model is to provide a structured way of thinking about the actions taken by firms in pursuit of high-quality design capital.
-
-Resource munificence (or organizational slack available to designers) often proved to be an important contingency in every design capital state. Resource munificence explained why firms in the same state made moves that took them in different "directions".
-
-Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability. The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product.
-
-Option-constrained Design Capital. Startup firms and new business units tend to possess option-constrained design capital. Such firms can make two distinct kinds of design moves: increase the option value of its designs, increase its technical debt. When resources are scarce, designers experience pressures to address urgent business needs without the necessary slack to lay a firm foundation for the future. This leads to an accumulation of technical debt. When firms have abundant resources, designers have the necessary slack to enact moves with a longer planning horizon, and often use this opportunity to create options that can be harvested in the future.
-
-Proposition 1a: Under option-constrained design capital and resource scarcity, a firm's design moves will tend to increase the technical debt of its design capital.
-Proposition 1b: Under option-constrained design capital and resource abundance, a firm's design moves will tend to create design options in its design capital.
-
-Debt-constrained Design Capital. In a debt-constrained design capital state, a firm possesses high option value, but it is weighed down by high levels of technical debt. Under resource scarcity, investments in reducing technical debt through additional development efforts are unlikely to be feasible, but firms can also meet their short-term obligations by abandoning debt-laden modules and their associated design options. Debt-constrained firms that have access to abundant resources can afford to reduce their debt without abandoning options.
-
-Proposition 2a: Under debt-constrained design capital and resource scarcity, a firm's design moves will tend to abandon design options.
-Proposition 2b: Under debt-constrained design capital and resource abundance, a firm's design moves will tend to reduce its technical debt.
-
-Low-quality Design Capital. It is a state in which a firm possesses few design options, and its ability to exercise the options it does possess is impeded by high technical debt. When designers face both low-quality design capital and a resource-scarce environment, their choice of design moves is over-constrained. It is unsustainable: either the product or project needs to be "bailed out" or higher management needs to "pull the plug" on it. In the absence of resource constraints, designers can exit a low-quality design capital state either by reducing debt or creating options.
-
-Proposition 3a: Under low-quality design capital and resource abundance, a firm's design moves will tend to reduce technical debt if the technical capability of the firm is high.
-Proposition 3b: Under low-quality design capital and resource abundance, a firm's design moves will tend to create design options if the technical capability of the firm is low.
-
-High-quality Design Capital. High-quality design capital, a state with high option value and low technical debt, can confer unfettered competitive advantage. Differences in a firm's ability to transfer the costs of technical debt to other members of its ecosystem (including end users) provided a systematic explanation for the differing transitions.
-
-Proposition 4a: Under high-quality design capital and resource scarcity, a firm's design moves will tend to increase technical debt if the firm's ability to transfer technical debt to other members of its ecosystem is high.
-Proposition 4b: Under high-quality design capital and resource scarcity, a firm's design moves will tend to abandon design options if its ability to transfer technical debt to other members of its ecosystem is low.
-
-If a firm is fortunate enough to be in a position of high-quality design capital and resource abundance, this describes an under-constrained situation for designers that favors experimentation and entrepreneurial actions. Such an environment requires effective sense-making and the ability to cope with complexity and uncertainty. Firms with high quality design capital tended to create product or service platforms that, in turn, enabled them to sustain a state of high-quality design capital. We observed two distinct kinds of platform strategies: one focused on internal economies of scale and scope, and the other focused on influencing an external ecosystem.
-
-Firms pursuing digital business strategies must manage a fundamental tension between the need to support flexible adaptation of their products and services to changing market conditions, and the need to provide stable value appropriation mechanisms to extract economic rents and reinvest them in innovative activities. Companies often fuse IT with their products and services for competitive advantage.
-
-We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital.
-
-## Options for Formulating a Digital Transformation Strategy
+## Options for Formulating a Digital Transformation Strategy [@Hess2016]
 
 ### Dimensions
 
@@ -1312,55 +1316,55 @@ We developed a conceptual framework that emphasizes the strategic importance of 
 
 #### Quotes
 
-The market-changing potential of digital technologies is often wider than products, business processes, sales channels or supply chains. Entire business models are being reshaped and frequently overturned. There are many recent examples of organizations that have been unable to keep pace with the new digital reality.
-Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider.
-The Digital Transformation Framework (DTF) represents a holistic approach to the development of a company-wide digital transformation strategy. A digital transformation strategy identifies the four key dimensions of every digital transformation: Use of technologies, Changes in value creation, Structural changes, Financial aspects.
+The market-changing potential of digital technologies is often wider than products, business processes, sales channels or supply chains. Entire business models are being reshaped and frequently overturned. There are many recent examples of organizations that have been unable to keep pace with the new digital reality. [@Hess2016]
+Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider. [@Hess2016]
+The Digital Transformation Framework (DTF) represents a holistic approach to the development of a company-wide digital transformation strategy. A digital transformation strategy identifies the four key dimensions of every digital transformation: Use of technologies, Changes in value creation, Structural changes, Financial aspects. [@Hess2016]
 
-Most IT strategies treat technology in isolation, they often lack the transformational, business-centric orientation needed to realize the potential within a company's business model, products, processes and organizational structures. A digital transformation strategy signposts the way toward digital transformation and guides managers through the transformation process resulting from the integration and use of digital technologies and helps them navigate the complexity and ambiguity of identifying their own digital "sweet spots."
+Most IT strategies treat technology in isolation, they often lack the transformational, business-centric orientation needed to realize the potential within a company's business model, products, processes and organizational structures. A digital transformation strategy signposts the way toward digital transformation and guides managers through the transformation process resulting from the integration and use of digital technologies and helps them navigate the complexity and ambiguity of identifying their own digital "sweet spots." [@Hess2016]
 
-We regard size and value focus as crucial dimensions when investigating digital transformation. A firm's main product line will most likely play a crucial role in its digital transformation, because the integration of digital technologies into products is one of the key aspects of digital transformation.
+We regard size and value focus as crucial dimensions when investigating digital transformation. A firm's main product line will most likely play a crucial role in its digital transformation, because the integration of digital technologies into products is one of the key aspects of digital transformation. [@Hess2016]
 
-To foster the transformation of ideas into new products and services, a dedicated innovation lab was established in 2012. P7S1 generates revenues from its digital products and services both indirectly via advertising and directly via paid content, the sales of virtual goods within online games, or through "freemium" models. Synergies between digital and traditional offerings are actively fostered.
-P7S1's pure digital business unit, called "Digital & Adjacent, is led by a board member and is supported strongly by the CEO. The company has also launched a dedicated incubator ("ProSiebenSat.1 Accelerator").
+To foster the transformation of ideas into new products and services, a dedicated innovation lab was established in 2012. P7S1 generates revenues from its digital products and services both indirectly via advertising and directly via paid content, the sales of virtual goods within online games, or through "freemium" models. Synergies between digital and traditional offerings are actively fostered. [@Hess2016]
+P7S1's pure digital business unit, called "Digital & Adjacent, is led by a board member and is supported strongly by the CEO. The company has also launched a dedicated incubator ("ProSiebenSat.1 Accelerator"). [@Hess2016]
 
-The newspaper publisher MittelBayerische has taken a pragmatic approach to digital technologies. It does not have a department focused on innovation; instead, it introduces established technologies that complement its existing product portfolio. Mittelbayerische believes that the competencies needed for digital transformation should come from within the company and has established a thorough personal development program that helps foster the necessary digital mindset and skill set among existing staff.
+The newspaper publisher MittelBayerische has taken a pragmatic approach to digital technologies. It does not have a department focused on innovation; instead, it introduces established technologies that complement its existing product portfolio. Mittelbayerische believes that the competencies needed for digital transformation should come from within the company and has established a thorough personal development program that helps foster the necessary digital mindset and skill set among existing staff. [@Hess2016]
 
-Ravensburger Interactive was launched in the 1990s, but was shut down later: activities in this area were too early and were unsuccessful. Ravensburger has entered the e-book and online gaming markets and has begun to develop complementary digital products that enrich its existing analog products. Although IT remains a support function for its core business activities, IT is regarded as a main driver of innovation within the company's digital business unit. Ravensburger has largely refrained from deploying digital technologies on non-content-related business segments and instead has focused on enriching analog products with digital content. Approximately 20% of Ravensburger's digital revenues are generated by these products. New digital products and services that are less closely related to the core business are organized in a dedicated subsidiary called "Ravensburger Digital", deliberately separated from the core business and physically separated from the headquarters to make it more appealing to applicants with different skill sets and to foster innovation.
+Ravensburger Interactive was launched in the 1990s, but was shut down later: activities in this area were too early and were unsuccessful. Ravensburger has entered the e-book and online gaming markets and has begun to develop complementary digital products that enrich its existing analog products. Although IT remains a support function for its core business activities, IT is regarded as a main driver of innovation within the company's digital business unit. Ravensburger has largely refrained from deploying digital technologies on non-content-related business segments and instead has focused on enriching analog products with digital content. Approximately 20% of Ravensburger's digital revenues are generated by these products. New digital products and services that are less closely related to the core business are organized in a dedicated subsidiary called "Ravensburger Digital", deliberately separated from the core business and physically separated from the headquarters to make it more appealing to applicants with different skill sets and to foster innovation. [@Hess2016]
 
 Use of Technologies Dimension:
 
 - Question 1: How Significant is Your Firm's IT to Achieving Strategic Goals?
   Some firms regard IT as an enabler of new business opportunities. Others, however, use IT to support and fulfill defined business requirements and improvements. Companies with an enabling perspective of IT must carefully monitor digital technologies
 - Question 2: How Ambitious is Your Firm's Approach to New Digital Technologies?
-  Conservative firms may adopt established and widely used technology solutions, while others may deploy new technology solutions at the early stages of their development. A more aggressive approach is to act as an innovator and create and introduce new technology solutions into markets. Firms should consider their existing technological competence, the extent of their technology spending and their size. However, not all media companies have the technological competencies required to become leaders,they should carefully assess their technological ambitions.
+  Conservative firms may adopt established and widely used technology solutions, while others may deploy new technology solutions at the early stages of their development. A more aggressive approach is to act as an innovator and create and introduce new technology solutions into markets. Firms should consider their existing technological competence, the extent of their technology spending and their size. However, not all media companies have the technological competencies required to become leaders,they should carefully assess their technological ambitions. [@Hess2016]
 
-Changes in Value Creation Dimension: Changes in value creation relate mainly to the degree to which a company has already diversified its business into the digital world, how it plans to generate revenues from digital technologies and to its main business focus after a digital transformation.
+Changes in Value Creation Dimension: Changes in value creation relate mainly to the degree to which a company has already diversified its business into the digital world, how it plans to generate revenues from digital technologies and to its main business focus after a digital transformation. [@Hess2016]
 
 - Question 3: How "Digital" is Your Interface to the Customer?
-  Many firms want or need to exploit the possibilities of digital technologies and enter new business areas. This means considering how far away it should operate from its traditional core business. The optimal level of diversification is determined by a company's financial background and size.
+  Many firms want or need to exploit the possibilities of digital technologies and enter new business areas. This means considering how far away it should operate from its traditional core business. The optimal level of diversification is determined by a company's financial background and size. [@Hess2016]
 - Question 4: How Will You Create Revenue from Future Business Operations?
-  Finding new sources of revenue is an indispensable element of a digital transformation strategy. Some companies have tried to overcome constraints by extending their value-chain activities.
+  Finding new sources of revenue is an indispensable element of a digital transformation strategy. Some companies have tried to overcome constraints by extending their value-chain activities. [@Hess2016]
 - Question 5: What Will Your Future Business Scope Be?
-  Digital technologies may require media companies to rethink the scope of their businesses. Media companies generally maintain their focus on content creation and aggregation, whereas major assets of social media platforms derive from establishing connections between users and profiting from users' content to keep the platforms interesting. In contrast, there are media companies that deliberately shift their product and service portfolios to business areas that are less fundamentally affected by ongoing digital transformation.
+  Digital technologies may require media companies to rethink the scope of their businesses. Media companies generally maintain their focus on content creation and aggregation, whereas major assets of social media platforms derive from establishing connections between users and profiting from users' content to keep the platforms interesting. In contrast, there are media companies that deliberately shift their product and service portfolios to business areas that are less fundamentally affected by ongoing digital transformation. [@Hess2016]
 - Question 6: Who is in Charge of the Digital Transformation Endeavor?
-  The execution of such a strategy is often delegated to a senior manager. The CIO may also manage the transformation, which is typically the case if the focus is on business processes.
+  The execution of such a strategy is often delegated to a senior manager. The CIO may also manage the transformation, which is typically the case if the focus is on business processes. [@Hess2016]
 - Question 7: Do You Plan to Integrate New Operations into Existing Structures or Create Separate Entities?
-  Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures.
+  Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures. [@Hess2016]
 - Question 8: What Types of Operational Changes Do You Expect?
-  New technologies can significantly change the current products and services delivered to customers. Digital technologies can enable changes to business processes. Business processes can be classified as operational, support and management, but the typical focus of digital transformation initiatives is on operational processes. A company must define their processes and assess which of them will be affected by digital transformation.
+  New technologies can significantly change the current products and services delivered to customers. Digital technologies can enable changes to business processes. Business processes can be classified as operational, support and management, but the typical focus of digital transformation initiatives is on operational processes. A company must define their processes and assess which of them will be affected by digital transformation. [@Hess2016]
 - Question 9: Do You Need to Acquire New Competencies? If so, How Do You Plan to Acquire Them?
-  Managers must carefully assess the firm's existing technology capabilities and identify the new competencies that will be needed. First option is to build on their current capabilities and acquire the required competencies. This approach typically takes time. Another option is to partner with other companies. This approach reduces the risk of failure. If the technological processes required for digital transformation are well structured and not overly complex, outsourcing these processes is another option. But, in the end, retaining the processes and knowledge required for digital transformation in-house means a company can be better positioned to gain a competitive advantage from future digital transformation initiatives.
+  Managers must carefully assess the firm's existing technology capabilities and identify the new competencies that will be needed. First option is to build on their current capabilities and acquire the required competencies. This approach typically takes time. Another option is to partner with other companies. This approach reduces the risk of failure. If the technological processes required for digital transformation are well structured and not overly complex, outsourcing these processes is another option. But, in the end, retaining the processes and knowledge required for digital transformation in-house means a company can be better positioned to gain a competitive advantage from future digital transformation initiatives. [@Hess2016]
 
-Financial Aspects Dimension: Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action.
+Financial Aspects Dimension: Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action. [@Hess2016]
 
 - Question 10: How Strong is the Financial Pressure on Your Current Core Business?
-  The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal.
+  The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal. [@Hess2016]
 - Question 11. How Will You Finance the Digital Transformation Endeavor?
-  If a company is already financially struggling, its options for financing digital transformations will be severely limited.
+  If a company is already financially struggling, its options for financing digital transformations will be severely limited. [@Hess2016]
 
-For example, the automotive industry has introduced digitally enriched products (such as the "connected car") and new business models (such as free-floating car sharing) and an ongoing automation of product development and production processes.
+For example, the automotive industry has introduced digitally enriched products (such as the "connected car") and new business models (such as free-floating car sharing) and an ongoing automation of product development and production processes. [@Hess2016]
 
-The most important thing for managers charged with formulating their firms' digital transformation strategies is to know the right questions to ask.
+The most important thing for managers charged with formulating their firms' digital transformation strategies is to know the right questions to ask. [@Hess2016]
 
 - Use of technologies
   1. Strategic role of IT?
