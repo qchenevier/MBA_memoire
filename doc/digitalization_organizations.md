@@ -16,28 +16,22 @@ output:
 ...
 
 # Influence / Environment
-
-
 ## Influence / Environment: Micro:
-
 <!-- Starting from the consumer and the individual: what does he expect know? -->
 <!-- What competencies are less or more needed? -->
 <!-- What technologies -->
 
 Innovations create indirect substitutes for consumer time, attention, and money. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society. [@Gimpel2012]
 
-
 Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry. [@Karimi2015]
 
 The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web). [@Bharadwaj2013]
-
 
 Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space. [@Bharadwaj2013]
 
 Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
 
 Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more. [@Westerman2011]
-
 
 Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions. [@Hirt2014]
 
@@ -75,8 +69,6 @@ Beware: activity that can be off-shored are different than activity that can be 
 
 The Idea that technological advances favor more skilled workers is a twentieth century phenomenon. [@Acemoglu2002]
 
-
-
 What makes digital technology transformational ? [@Iansiti2014]
 Digital technology has **3 fundamental properties**: [@Iansiti2014]
 
@@ -87,7 +79,6 @@ Digital technology has **3 fundamental properties**: [@Iansiti2014]
 This is because digital resources are “more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society” (Deloitte 2009, p. 2). [@Bharadwaj2013]
 
 In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available. [@Bharadwaj2013]
-
 ## Influence / Environment: Macro:
 
 <!-- What are your assets in this environment? -->
@@ -106,9 +97,7 @@ A technology is considered disruptive when its use generates services or physica
 
 New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal. [@Hirt2014]
 
-
 Although large traditional firms are truly different from digital entrants, many are starting to transform their businesses successfully through digital technology. Companies face common pressures from customers, employees and competitors. [@Westerman2011]
-
 
 Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations. [@Hirt2014]
 
@@ -117,7 +106,6 @@ Third parties have jumped into this fray, disintermediating relationships betwee
 
 2. Competitors emerge from unexpected places
 Digital dynamics often undermine barriers to entry and long-standing sources of product differentiation. Web-based service providers now tap markets without having to build distribution networks of offices. The expense of building brands on-line and the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines in many markets. New competitors can often be smaller companies that will never reach scale but still do a lot of damage to incumbents. [@Hirt2014]
-
 
 3. Winner-takes-all dynamics
 Digital businesses reduce transaction and labor costs, increase returns to scale from aggregated data. Scale economies in data and talent often are decisive. [@Hirt2014]
@@ -143,7 +131,6 @@ Some firms are conducting experiments in different business units, but not condu
 
 Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries. (CIME) industries face dramatic changes in revenue streams and shifts in industry dynamics. Power players accustomed to monopoly profits face unprecedented competition. Traditional business models face threats. Communications firms face substitution from over-the-top services. [@Gimpel2012]
 
-
 Information goods, powerful computing devices, and inexpensive digital communication is changing business and society through five digital forces: globalization, Millenialization, prosumerization, business virtualization, and platformization. [@Gimpel2012]
 
 Globalization reshapes the nature of supply and demand. Consumers enjoy a new world of choice
@@ -151,19 +138,13 @@ Millennialization of consumers has turned consumers into producers, empowered in
 Prosumerization has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents
 Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms
 Platformization: Digital platforms bring together suppliers, customers, and third parties and are replacing traditional middlemen and can often serve to level the playing field by granting small players and new entrants access to formerly closed markets
-
-
 # Strategy / Response:
-
-
 ## Strategy / Response: Macro:
 
 <!-- What shift in business model? -->
 <!-- What assez will you reuse? -->
 <!-- How is moving the market? -->
 <!-- How do you restructure your company? -->
-
-
 
 Platforms to connect to consumers: to reach new audiences through building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses. [@Karimi2015]
 
@@ -177,7 +158,6 @@ Rather than investing in the status quo, resources need to be appropriately allo
 
 (1) first-order dynamic capabilities have a direct association with building digital platform capabilities and with newspaper companies' response to digital disruption in terms of revenue generated from all on-line sources [@Karimi2015]
 (2) digital platform capabilities mediate the relationship between first-order dynamic capabilities and newspaper companies' response performance in terms of number of non-core products. [@Karimi2015]
-
 
 Digital ecodynamics requires a holistic convergence among dynamic capabilities, IT systems, and environmental turbulence. [@Karimi2015]
 
@@ -211,7 +191,6 @@ The use of digital platforms enables firms to break traditional industry boundar
 
 Rather than thinking of scale only in terms of physical factors of production, supply chains, or geographic coverage, we need to think of scale in both physical and digital terms. [@Bharadwaj2013]
 
-
 Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital infrastructure and business strategy are fused, this rapid scaling ability becomes a strategic dynamic capability for the firm to adapt to the dynamic requirements of the digital marketplace. [@Bharadwaj2013]
 
 Network Effects Within Multisided Platforms Create Rapid Scale Potential: Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service. More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partner-ships and on the demand side with interconnections among web pages.  [@Bharadwaj2013]
@@ -219,7 +198,6 @@ Network Effects Within Multisided Platforms Create Rapid Scale Potential: Networ
 Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors. [@Bharadwaj2013]
 
 Scale Through Alliances and Partnerships through shared digital assets. Firms modularize their business processes and rely on plug-and-play capabilities for richly linking digital assets and rely on linkages through application programming interfaces (APIs) and web services. [@Bharadwaj2013]
-
 
 Speed of Digital Business Strategy: time takes on a more central role in digital business settings. [@Bharadwaj2013]
 
@@ -241,7 +219,6 @@ value at a different layer. More nuanced ways to conceptualize the drivers of va
 Value Capture through Coordinated Business Models in Networks: value creation and capture in digital settings often involve complex and dynamic coordination across multiple companies. Business models are not inde-pendent but intersect and interoperate across these different players. [@Bharadwaj2013]
 
 Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium. [@Bharadwaj2013]
-
 
 7. Relentlessly evolving business models at higher velocity
 
@@ -271,14 +248,11 @@ Value Appropriation through Control of Digital Industry Architecture: Apple has 
 
 **Performance management:** Performance transparency is a key highlight. Executives are more informed when making decisions and insights allow decisions to be made on real data and not on assumptions. "We can use data to make better decisions about how we prioritize". [collaboration  enabled better input into the process of decision making and better uptake of the vision after decisions were made.] [@Westerman2011]
 
-
-
 **Transforming business models:**
 
 - **Digitally-modified businesses:** Some firms are finding ways to augment physical with digital offerings. Other firms are staying true to their traditional business, but using digital to transform a new growth business through e-commerce platforms. Other firms are building digital or service wrappers around traditional products. [@Westerman2011]
 - **New digital businesses:** Introducing digital products that complement traditional products or changing business models by reshaping their boundaries through digital. [@Westerman2011]
 - **Digital globalization:** Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
-
 
 **Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation. [@Westerman2011]
 - **Unified Data and Processes:** The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge. [@Westerman2011]
@@ -331,7 +305,6 @@ GE's transformations:  [@Iansiti2014]
 - **contractual**: service agreement. **Share risk**, reducing the total cost of ownership.
 - **expanded customer outcomes**: optimized assets & operations. Use data & analytics to **provide decision support** services.
 
-
 Building software capabilities [@Iansiti2014]
 
 - Problems encountered:
@@ -342,7 +315,6 @@ Building software capabilities [@Iansiti2014]
   - creation of a **common software platform** [@Iansiti2014]
   - **No enforcement of compliance**: "We are going to do this, you can be on the train or not".
   - No dedicated P&L for the software: **Different incentives** that don't create competition with the businesses. [@Iansiti2014]
-
 
 Learning to sell the new model
 
@@ -363,13 +335,11 @@ Approaching Digital Ubiquity [@Iansiti2014]
 - Consider new value-capture modes
 - Use software to extend the boundaries of what you do.
 
-
 Stop staring in the mirror: a key to adapting to dramatically-shifting marketplaces is to reevaluate what makes you successful and how you measure success. The metrics used to measure performance in the prior era may no longer be relevant. [@Gimpel2012]
 
 Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries. [@Gimpel2012]
 
 Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it. [@Gimpel2012]
-
 
 Value creation is the new structure: Structures often become rigid, causing firms to define themselves by what they do, not how they add value. The structures imprudently shift the focus to creating profits for the firm instead of creating value for customers. A focus on value rather than structure frees enterprises to shake off the mentality of "that's not how we do business.". Companies can build a strong competitive offering around core and essential core support functions, while virtualizing other part of the business through outsourcing, partnerships, and strategic alliances. [@Gimpel2012]
 
@@ -377,16 +347,13 @@ Platforms are the future systems of engagement: A platform is a foundational tec
 
 Digital platforms will become the gateways (and bottlenecks) to the market. [@Gimpel2012]
 
-
 Disruptive innovation theory offers explanations for why companies succeed or fail to respond to disruptive innovations. [@Karimi2015]
 First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities. [@Karimi2015]
 Managers [must] focus on the most promising factors for creating first-order dynamic capabilities. [@Karimi2015]
 
-
 Organizational ordinary capabilities are defined as "high-level routine" that confers a set of decision options for producing significant outputs of a particular type". They are the zero-level and "how we earn a living now" capabilities. A capability gap is the distance between a firm's existing configuration of capabilities and the most valuable configuration potentially available post the technological change. [@Karimi2015]
 
 Dynamic capabilities govern the rate of change in organizational ordinary capabilities and are essential in responding to disruptive technological shifts. Dynamic capabilities theory is an extension of the resource-based view of the firm. Dynamic capabilities are theorized as existing at different levels. The first-order dynamic capabilities "extend, modify, change and/or create ordinary capabilities". When deploying first-order dynamic capabilities may not be sufficient, a firm may need to develop second-order dynamic capabilities [@Daniel2014]. The second-order (or higher-order) dynamic capabilities enable spontaneous responsiveness in novel situations and in recessionary conditions [@Daniel2014]. [@Karimi2015]
-
 
 We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt. [@Woodard2013]
 
@@ -429,16 +396,11 @@ If a firm is fortunate enough to be in a position of high-quality design capital
 Firms pursuing digital business strategies must manage a fundamental tension between the need to support flexible adaptation of their products and services to changing market conditions, and the need to provide stable value appropriation mechanisms to extract economic rents and reinvest them in innovative activities. Companies often fuse IT with their products and services for competitive advantage. [@Woodard2013]
 
 We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital. [@Woodard2013]
-
-
-
 ## Strategy / Response: Micro:
 
 <!-- What is your vision of the future culture, behavior and competency of your company? -->
 <!-- What competencies do you need and where? -->
 <!-- What is the role of the executive for this to succeed? -->
-
-
 
 **Transforming customer experience:**
 
@@ -456,32 +418,24 @@ We developed a conceptual framework that emphasizes the strategic importance of 
 
 - **Digital globalization:** Local managers, empowered to make decisions autonomously, also gain a broader view of the business through centralized data, have freedom to tailor business to their local needs, but the responsibility to act in the interests of the larger enterprise.  [@Westerman2011]
 
-
 - **Solution delivery:** Development methods in place are often geared to well-defined requirements and mature technologies but not to emerging digital technologies. Mobile and social media require iterative approaches to learn about what will work in the market. Digital Transformation use technology that is not commonly available in enterprises. Analytics activities often require specific knowledge and temperaments that typical IT developers do not possess. [@Westerman2011]
 
 - **Analytics capabilities:** Information management and analytics were highlighted as major goals by executives across industries. "It's time to harvest the data and turn it into insights." It is seen as a way to gain strategic advantage over competitors, by making more-informed and better decisions and reacting more quickly to changes. [@Westerman2011]
 
-
-
 How four digital technologies (analytics, mobile, social media, and embedded devices) are being used in the enterprise. Analytics, Mobile and Social Media are widespread in large organizations. Customer-experience applications of social media are more common than internal uses, reflecting skepticism about how effective they will be for internal collaboration. Analytics, too, are more common in customer experience applications, reflecting organizations' increasing efforts to target marketing activities and personalize customer experience. Mobile is used widely in both domains. Embedded devices are still an emerging technology. [@Westerman2011]
-
 
 Three levels of usage: [@Westerman2011]
 - **Substitution** is replacement for substantially the same function
 - **Extension** is significantly improving performance or functionality
 - **Breakthrough** is fundamentally redefining a process or function
 
-
 Each is being used to improve customer experience or internal operations. The most common usage of each technology is in substitution. 30 percent of firms are engaging in extension or transformation with Mobile, Social, or Analytics. Usage of embedded devices lags the other technologies. An interesting trend toward transformative opportunities is combining multiple technologies with new management practices. Remote-control equipment and automated factories include both mobile and analytics technologies to improve production. Mobile phones are becoming embedded devices for customer-facing applications. Another firm integrates its social and web-based marketing approaches with its digital product design capabilities and embedded devices in products to be more responsive to emerging consumer preferences. Concept stores combine multiple technologies to test or deliver a new buying experience. Executives are beginning to envision possibilities that cross organizational and technological silos: letting the possibilities drive technology and organization rather than the reverse.  [@Westerman2011]
-
 
 Change the mindset of the marketing by switching: [@Iansiti2014]
 
  _"We are trying to sell them something they don't know they need and they can't see when it works."_
 - from the "box seller" mentality: "**features list** with pricing and discount caps"
 - to a solution-based sales focused on pain points how to enhance **customer's operating performance**
-
-
 
 If it's not VRIN, it's out: Technological innovations can reshape value chains, causing once-strategic resources to lose their value, identify and build upon strategic resources that will remain valuable after the transition. It must be VRIN: valuable, rare, inimitable, and non-substitutable. [@Gimpel2012]
 
@@ -491,7 +445,6 @@ Produce, search, and/or deliver: CIME firms create value by managing only three 
 - Delivery is transmitting or communicating information and information goods
 The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability. [@Gimpel2012]
 CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles. [@Gimpel2012]
-
 
 Determinants of first-order dynamic capabilities:
 - Resources: They are intangible in nature and must be built and cultivated over time. [@Karimi2015]
@@ -516,8 +469,6 @@ Determinants of first-order dynamic capabilities:
 
 Senior management needs to go beyond words, and in addition to leaning back and reviewing improvements in the core products, senior management needs to lean forward and work on growth initiatives for non-core products. [@Karimi2015]
 
-
-
 Processes that govern investment decisions are the most crucial processes in which many organizations' most serious disabilities reside when attempting to respond to disruptive innovations. [@Karimi2015]
 
 Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests. [@Karimi2015]
@@ -528,41 +479,28 @@ Common language for disruptive innovations are able to avoid some of the mental 
 
 Adopt a multimedia mindset and view [your] business as a portfolio of products and services with different business models, pricing, and distribution strategies. A mindset that does not favor the status quo. [@Karimi2015]
 
-
 Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities. [@Karimi2015]
 
 The focus of value creation shifts from value chain to value networks. Include a multi-platform or platform-free mindset by considering all forms of content. [@Karimi2015]
 
 Developing a digital-first mindset, making digital strategy everyone's job, cultivating an open culture that embraces digital innovations. [@Karimi2015]
-
-
 # Implement your strategy / Execute your response
-
 ## Build your Roadmap
+
 <!-- Assets analysis -->
 <!-- Vision creation and target -->
-
 ## Choose decisions to take
+
 <!-- Deloitte updated -->
-
-
-
-
 # Sources (Quotes to move to parts)
-
-## Customer intimacy and other value disciplines [@Treacy1993]
-
-### Dimensions
+#### Customer intimacy and other value disciplines [@Treacy1993]
 
 A foundation book/article about value disciplines and how to use them to trade-off between strategic decision:
 
 - Operational excellence
 - Customer intimacy
 - Product leadership
-
-## Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
-
-### Dimensions
+#### Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
 
 In this article, an analysis of the paradigm shift (_oil age to information age_) in today's organisations with these categories:
 
@@ -621,12 +559,7 @@ In this article, an analysis of the paradigm shift (_oil age to information age_
 |                  competitors                         - Firm as an open system
 |                  - Firm as a closed system
 +----------------+------------------------------------+---------------------------------+
-
-#### Quotes
-
-## Strategic principles for competing in the digital age [@Hirt2014]
-
-### Dimensions
+#### Strategic principles for competing in the digital age [@Hirt2014]
 
 Opportunities and threats:
 
@@ -644,7 +577,6 @@ Opportunities and threats:
 1. Converging global supply and demand
 1. Relentlessly evolving business models at higher velocity
 
-
 Managing the strategic challenges: Six big decisions
 
 - Decision 1: Buy or sell businesses in your portfolio?
@@ -653,10 +585,7 @@ Managing the strategic challenges: Six big decisions
 - Decision 4: Diversify or double down on digital initiatives? (_potential_ link with @Woodard2013: Augment the design capital by augmenting the options or diminish the technical debt)
 - Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? (link with @Karimi2015: depending on the characteristics (size, existing assets, agility needed, risk aversion...), some have integrated or not the digital business unit)
 - Decision 6: Delegate or own the digital agenda?
-
-## McKinsey 7S framework [@McKinsey2008]
-
-### Dimensions
+#### McKinsey 7S framework [@McKinsey2008]
 
 The 7S McKinsey framework, allowing to frame an analysis of an enterprise strategy:
 
@@ -667,10 +596,7 @@ The 7S McKinsey framework, allowing to frame an analysis of an enterprise strate
 - Skills
 - Style
 - Staff
-
-## The rise of AI makes emotional intelligence more important [@Beck2017]
-
-### Dimensions
+#### The rise of AI makes emotional intelligence more important [@Beck2017]
 
 In this article, a description of the 5 steps of the knowledge worker:
 
@@ -679,12 +605,7 @@ In this article, a description of the 5 steps of the knowledge worker:
 3. Interpret the results
 4. Determine a recommended course of action
 5. Implement the course of action
-
-#### Quotes
-
-## The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
-
-### Dimensions
+#### The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
 
 Criteria:
 
@@ -704,10 +625,7 @@ Examples:
 | Social intelligence         | Public relations | Dishwasher   |
 | Creativity                  | Fashion Designer | Count Clerk  |
 | Perception and manipulation | Surgeon          | Telemarketer |
-
-## Exponential organizations [@VanGeest2014]
-
-### Dimensions
+#### Exponential organizations [@VanGeest2014]
 
 A singularity university book about new organizations with hyper-fast growth and their structuring principles:
 
@@ -723,10 +641,7 @@ A singularity university book about new organizations with hyper-fast growth and
   - Algorithms
   - Leveraged assets
   - Engagement
-
-## LEAD Enterprise Value Map [@LEADingPractice]
-
-### Dimensions
+#### LEAD Enterprise Value Map [@LEADingPractice]
 
 Another shareholder value optimization framework structured with:
 
@@ -764,10 +679,7 @@ Another shareholder value optimization framework structured with:
   - Increase revenue through developing new sales & service channels
   - Increase revenue through service & price optimization
   - Increase revenue with existing customers
-
-## Deloitte Enterprise Value Map [@Deloitte2004]
-
-### Dimensions
+#### Deloitte Enterprise Value Map [@Deloitte2004]
 
 A shareholder value optimization framework structured around:
 
@@ -785,10 +697,7 @@ A shareholder value optimization framework structured around:
 - Expectations
   - Company strengths
   - External factors
-
-## Digital America: A tale of the haves and the have-mores [@Manyika2015]
-
-### Dimensions
+#### Digital America: A tale of the haves and the have-mores [@Manyika2015]
 
 Assets:
 
@@ -807,7 +716,6 @@ Labor:
 - Digital spending: idem per worker
 - Digital capital deepening: assets per worker
 - Digitalization of work: Share of tasks & jobs that are digital
-
 
 +:-------------------------+:--------------------------------------------------------+
 | Labor: Increased supply  | - Increased labor force participation                   
@@ -831,13 +739,8 @@ Labor:
 |                          | - Increased fuel efficiency
 |                          | - Decreased waste of raw materials
 +--------------------------+---------------------------------------------------------+
-
-
-#### Quotes
-
-## Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
-
-### Dimensions
+#### Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
+##### Dimensions
 
 A Capgemini report giving recommandations about how to deal with Digital Transformation. There are 3 categories of recommandations:
 
@@ -882,7 +785,6 @@ And with a bonus category of enablers:
 - Solution delivery
 - Analytics capabilities
 - Business and IT integration
-
 
 Four digital technologies:
 
@@ -945,7 +847,6 @@ Digital maturity matrix: Digital intensity vs Transformation management intensit
 - Digital Conservatives
 - Digirati
 
-
 Roadmap:
 
 1. Envision the digital future for your firm
@@ -963,8 +864,7 @@ Roadmap:
   - How do you coordinate investments and activities across silos? What is the best organizational model to coordinate digital initiatives in parallel to the core business?
   - What KPIs and metrics do you need to put in place to monitor the progress of your digital transformation towards your strategic goals?
   - What mechanism do you use to make the necessary adjustments?
-
-#### Quotes
+##### Quotes
 
 **Execution challenges:**
 
@@ -1058,10 +958,7 @@ Digital technology, which transformed the media industry, is now transforming th
 - What mechanism do you use to make the necessary adjustments?
 
 Digital transformation requires skills and influence that only senior leaders possess. Create a transformative vision that is clear and compelling to galvanize the organization. Mindfully consider what parts of your company should move (and why, and when) to make it implementable. Build digital maturity in two dimensions to increase your chances of success. Then take actions and monitor progress to turn your vision into reality.
-
-## Digital ubiquity: How connections, sensors, and data are revolutionizing business [@Iansiti2014]
-
-### Dimensions
+#### Digital ubiquity: How connections, sensors, and data are revolutionizing business [@Iansiti2014]
 
 GE's technical transformation:
 
@@ -1070,29 +967,17 @@ GE's technical transformation:
 - investing in **modern software development** capabilities
 - building **advanced analytics** capabilities
 
-
 GE's marketing & organizational transformations:
 
 - **transactional**: break/fix. **Sell** parts & repair.
 - **contractual**: service agreement. **Share risk**, reducing the total cost of ownership.
 - **expanded customer outcomes**: optimized assets & operations. Use data & analytics to **provide decision support** services.
 
-
 A business model is defined by two things:
 
 - how the organization **creates** value for its customers
 - how the organization **captures** that value
-
-#### Quotes
-
-
-
-
-What to do:
-
-## Digital Business Strategy: Toward a Next Generation of Insights [@Bharadwaj2013]
-
-### Dimensions
+#### Digital Business Strategy: Toward a Next Generation of Insights [@Bharadwaj2013]
 
 Key External Digital Trends
 
@@ -1109,7 +994,6 @@ Key Organizational Shifts
 - Trans-functional Role for IT
 - New Mandate for IT and the CIO
 - Increased Familiarity with IT
-
 
 Described in details here
 
@@ -1141,10 +1025,9 @@ Described in details here
   - leverage value from **multisided business models**
   - capture value through **coordinated business models in networks**
   - appropriate value through the **control of the firm’s digital architecture**
+#### Shaping the Future: Seven Enduring Principles for Fast-changing Industries [@Gimpel2012]
+##### Dimensions
 
-## Shaping the Future: Seven Enduring Principles for Fast-changing Industries [@Gimpel2012]
-
-### Dimensions
 Information goods, powerful computing devices, and inexpensive digital communication is changing business and society through five digital forces
 
 - Globalization
@@ -1158,7 +1041,6 @@ PSD framework to assess the type of activity in the value stream:
 - Production
 - Search
 - Delivery
-
 
 VRIN framework to assess the value of an activity/resource:
 
@@ -1176,10 +1058,8 @@ VRIN framework to assess the value of an activity/resource:
 - Produce, search, and/or deliver
 - Value creation is the new structure
 - Platforms are the future systems of engagement
-
-## The Role of Dynamic Capabilities in Responding to Digital Disruption: A Factor-Based Study of the Newspaper Industry [@Karimi2015]
-
-### Dimensions
+#### The Role of Dynamic Capabilities in Responding to Digital Disruption: A Factor-Based Study of the Newspaper Industry [@Karimi2015]
+##### Dimensions
 
 Determinants of first-order dynamic capabilities:
 
@@ -1194,9 +1074,7 @@ Determinants of first-order dynamic capabilities:
   - Innovative culture (IC)
   - Common language (CL)
   - Multimedia mindset (MM)
-
-
-#### Quotes
+##### Quotes
 
 The resources-processes-values (RPV) framework offers explanations for why big companies succeed or fail to respond to disruptive innovations, [however] the emphasis in the theory has always been on nontechnology and little attention has been paid to the enabling role of technology in responding to disruptive innovations. [@Karimi2015]
 
@@ -1204,9 +1082,7 @@ The resources-processes-values (RPV) framework offers explanations for why big c
 (2) what is the role of such capabilities in building digital platform capabilities?
 (3) do digital platform capabilities mediate the impact of first-order dynamic capabilities on the performance of newspaper companies?
 
-
 Christensen framed disruption as a theory, [but, according to him,] disruptive innovation theory can be further improved by making definitions and measurements more precise, by refining the categories, and by clarifying the mechanism of causality. [@Karimi2015]
-
 
 Three classes of resources are critical for enabling responses to digital disruption:
 
@@ -1222,11 +1098,7 @@ Three research questions were examined in this study:
 responding to digital disruption?
 (2) What is the role of such capabilities in building digital platform capabilities?
 (3) Do digital platform capabilities mediate the impact of first-order dynamic capabilities?
-
-
-## Design Capital and Design Moves: the Logic of Digital Business Strategy [@Woodard2013]
-
-### Dimensions
+#### Design Capital and Design Moves: the Logic of Digital Business Strategy [@Woodard2013]
 
 Design capital:
 
@@ -1238,7 +1110,6 @@ Important contingencies:
 - Resource munificence: organisational slack available
 - Technical capability
 - Ability to transfer the technical debt to the ecosystem
-
 
 Design capital states and strategies:
 
@@ -1256,11 +1127,8 @@ Design capital states and strategies:
   - if resource scarcity and high ability to transfer technical debt to its ecosystem, increase technical debt
   - if resource scarcity and low ability to transfer technical debt to its ecosystem, abandon design options
   - if resource abundance, experimentation & entrepreneurial actions
-
-
-## Options for Formulating a Digital Transformation Strategy [@Hess2016]
-
-### Dimensions
+#### Options for Formulating a Digital Transformation Strategy [@Hess2016]
+##### Dimensions
 
 +----------------+------------------------------------+---------------------------------+
 |Dimension         Question                             Options
@@ -1313,9 +1181,7 @@ Design capital states and strategies:
 |                  Financing of new activities?        - Internal
 |                                                      - External
 +----------------+------------------------------------+---------------------------------+
-
-#### Quotes
-
+##### Quotes
 The market-changing potential of digital technologies is often wider than products, business processes, sales channels or supply chains. Entire business models are being reshaped and frequently overturned. There are many recent examples of organizations that have been unable to keep pace with the new digital reality. [@Hess2016]
 Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider. [@Hess2016]
 The Digital Transformation Framework (DTF) represents a holistic approach to the development of a company-wide digital transformation strategy. A digital transformation strategy identifies the four key dimensions of every digital transformation: Use of technologies, Changes in value creation, Structural changes, Financial aspects. [@Hess2016]
@@ -1418,10 +1284,8 @@ The most important thing for managers charged with formulating their firms' digi
   11. Financing of new activities?
     - Internal
     - External
-
-## Revamping Your Business Through Digital Transformation.
-
-### Dimensions
+#### Revamping Your Business Through Digital Transformation.
+##### Dimensions
 
 Start by rethinking four traditional assumptions that affect:
 
@@ -1443,8 +1307,7 @@ Technologies:
 - 3-D printing
 - Augmented reality
 - Internet of Things
-
-#### Quotes
+##### Quotes
 
 By using mobile devices, social media, analytics and the cloud, savvy companies are transforming the way they do business. For larger companies in more traditional industries, it's easy to think that digital transformation can wait. However, a follower strategy is wrong.
 
@@ -1467,11 +1330,8 @@ PagesJaunes, the French Yellow Pages company, saw that the assets related to pri
 Data should be considered an asset class in its own right [and] analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy."
 
 As digital technology reaches into every corner of the business world, it is creating a new playing field with new rules. digital has reshaped the expectations of customers, the way that employees collaborate and the business models that are possible. New technologies such as robotics, 3-D printing, augmented reality and the "Internet of Things" will soon lead to major business changes. Large traditional companies can out-compete fast-moving digital startups if they embrace the digital environment and find ways to make it theirs. Using pre-digital assumptions will not bring success in the digital world. When it comes to digital innovation, "you ain’t seen nothin’ yet"
-
-## The Business Models Investors Prefer [@PeterWeill2011]
-
-### Dimensions
-
+#### The Business Models Investors Prefer [@PeterWeill2011]
+##### Dimensions
 
 Business model defined by: Asset type & Asset right.
 
@@ -1482,16 +1342,13 @@ The four asset types are:
 - Intangible assets
 - Human assets
 
-
 The four asset rights are:
 
 - Creators
 - Distributors
 - Landlords
 - Brokers
-
-
-#### Quotes
+##### Quotes
 
 we found that in recent years, investors have favored business models focusing on licensing intellectual property.
 Surprisingly, we found there is no universally accepted definition of the important concept of a business model. Our business model framework is based on defining the types of assets a company sells and the rights it grants customers to use those assets. We define four asset types and four ways companies manage asset rights to generate revenue.
@@ -1503,7 +1360,6 @@ The four asset types are:
 - Intangible assets, which include intellectual property such as patents and copyrights, as well as other intangible assets like knowledge, goodwill and brand value
 - Human assets, which include people's time and eﬀort. People of course cannot be legally bought and sold, but their time and knowledge can be "rented out" for a fee.
 
-
 The four rights types sold:
 
 - Creators, which sell ownership of products they have created
@@ -1511,12 +1367,9 @@ The four rights types sold:
 - Landlords, which sell only the right to use assets for a specified period of time
 - Brokers, which receive a fee for matching buyers and sellers without ever taking ownership or custody of the product
 
-
 Disney has dramatically shifted its business model over the last 20 years from renting physical assets like theme parks (to licensing intellectual property), with clear investor buy-in for this strategic shift. Disney stock outperformed the S&P 500 stock index over the last five years.
 
 Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued. Financial and physical landlords were the poorest performing of the common business models, while IP landlords were the second-highest performing. Contractors (that primarily "rent out" human assets) had performance in the middle of the pack.
 
 Innovative manufacturers — which we define as those who invest more than their industry average in research and development — are the top performers in the market. Apple is an example of an innovative manufacturer.
-
-
-# Bibliography
+### Bibliography
