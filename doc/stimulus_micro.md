@@ -1,4 +1,4 @@
-## Influence / Environment: Micro:
+## Stimulus at micro-economic scale
 
 ### Machines change
 
