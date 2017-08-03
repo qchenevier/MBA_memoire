@@ -16,41 +16,68 @@ output:
 ...
 
 # Influence / Environment
+
 ## Influence / Environment: Micro:
-<!-- Starting from the consumer and the individual: what does he expect know? -->
-<!-- What competencies are less or more needed? -->
-<!-- What technologies -->
 
-Innovations create indirect substitutes for consumer time, attention, and money. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society. [@Gimpel2012]
+### Machines change
 
-Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry. [@Karimi2015]
+#### Data & Computing everywhere
+
+In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available. [@Bharadwaj2013]
 
 The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web). [@Bharadwaj2013]
 
-Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space. [@Bharadwaj2013]
+What makes digital technology transformational ? [@Iansiti2014]
+Digital technology has **3 fundamental properties**: [@Iansiti2014]
 
-Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
+- digital signals can be transmitted perfectly without error: **no depreciation with time/usage**
+- digital signals can be replicated indefinitely: **no production cost**
+- digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
 
-Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more. [@Westerman2011]
+Information goods, powerful computing devices, and inexpensive digital communication is changing business and society. [@Gimpel2012]
 
-Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions. [@Hirt2014]
+### Digital technologies & Physical labor: automation / robotics / 3D printing / Additive manufacturing
 
-Improving management decisions as algorithms crunch big data from social technologies or the Internet of Things. Better decision making helps improve performance providing for finer marketing allocations or mitigating operational risks. [@Hirt2014]
+**_No References yet_**
 
-Digital technologies create near-perfect transparency: consumers can switch among digital retailers. This dynamic can commoditize products and services as consumers demand comparable features and simple interactions. [@Hirt2014]
+### Digital technologies & Knowledge labor: analytics / AI / deep learning
 
-the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines [@Hirt2014]
+The Idea that technological advances favor more skilled workers is a twentieth century phenomenon. [@Acemoglu2002] It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves. [@Beck2017]
 
-3. Winner-takes-all dynamics
-5. Growing talent mismatches
-Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014]
+The booming growth of machine learning and artificial intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications - and particularly the implications for our careers. [@Beck2017]
+
+As AI improves, which is happening quickly, a much broader set of "thinking" rather than "doing" jobs will be aﬀected. Jobs, that, until the last few years, we couldn't imagine being done without the participation of an actual, trained human being. [@Beck2017]
+
+Many skilled jobs (like Doctors, Financial advisers, Business consultants) follow the same general workflow: [@Beck2017]
+1. Gather data
+2. Analyze the data
+3. Interpret the results
+4. Determine a recommended course of action
+5. Implement the course of action
+
+It’s easy to see the role of automated systems in data gathering and analysis. We’ve accepted that machines can do these types of tasks efficiently. However, their potential goes much further. [@Beck2017]
+
+Highly skilled workers can command high rates because of three capabilities. Their abilities to go through the early rote tasks quickly and accurately; their experiences and judgment in determining a course of action; and their savviness for helping clients navigate that course. AI and machine
+learning will quickly surpass our abilities on the first two capabilities. [@Beck2017]
+
+Some people may say that we will never trust machines with important decisions such as the management of our health and money, but this is twentieth century thinking. But a new generation is engaging with smart machines that they trust, and often prefer. [@Beck2017]
+
+This is the opportunity of improving management decisions as algorithms crunch big data from social technologies or the Internet of Things. Better decision making helps improve performance providing for finer marketing allocations or mitigating operational risks. [@Hirt2014]
 
 Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives. [@Hirt2014]
 
-6. Converging global supply and demand
-Digital technologies know no borders, and the customer's demand for a unified experience is raising pressure on global companies to standardize offerings. They have come to expect payment systems that work across borders, global distribution, and a uniform customer experience. [@Hirt2014]
+Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014]
+
+Those that want to stay relevant in their professions will need to focus on skills and capabilities that artificial intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next
+decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as artificial intelligence and machine learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education. [@Beck2017]
 
 Low probability of automation: Non-routine work examples: legal writing, truck driving, medical diagnoses, persuading. [@Frey2017]
+
+3 Tasks categories which won't be automated: [@Frey2017]
+
+- **Perception & Manipulation** tasks: in unstructured work environment (personal house vs airport or train station), irregular objects.
+- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value is creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is not possible.
+- **Social intelligence** tasks: involving negotiation, persuasion and care.
 
 Taxonomy of jobs: [@Frey2017]
 
@@ -60,25 +87,37 @@ Taxonomy of jobs: [@Frey2017]
   - Services: because of higher degree of flexibility and physical adaptability
   - Cognitive jobs
 
-Low Probability of off-shoring: [@Frey2017]
-
-- specific work location needed
-- face-to-face personal communication required
-
 Beware: activity that can be off-shored are different than activity that can be automated. E.g.: cashier not off-shorable but replaced by self-service technology. [@Frey2017]
 
-The Idea that technological advances favor more skilled workers is a twentieth century phenomenon. [@Acemoglu2002]
 
-What makes digital technology transformational ? [@Iansiti2014]
-Digital technology has **3 fundamental properties**: [@Iansiti2014]
+### People change
 
-- digital signals can be transmitted perfectly without error: **no depreciation with time/usage**
-- digital signals can be replicated indefinitely: **no production cost**
-- digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
+#### Competition for attention: People expect a dialogue
+
+Innovations create indirect substitutes for consumer time, attention, and money. [@Gimpel2012]
+
+Digital technologies create near-perfect transparency: consumers can switch among digital retailers. This dynamic can commoditize products and services as consumers demand comparable features and simple interactions. [@Hirt2014]
+
+the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines [@Hirt2014]
+
+Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more. [@Westerman2011]
+
+#### Consumer-producer:
+
+Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry. [@Karimi2015]
+
+#### More information means empowerment of consumers and employees
+
+Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space. [@Bharadwaj2013]
+
+Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
+
+Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions. [@Hirt2014]
+
+Digital technologies know no borders, and the customer's demand for a unified experience is raising pressure on global companies to standardize offerings. They have come to expect payment systems that work across borders, global distribution, and a uniform customer experience. [@Hirt2014]
 
 This is because digital resources are “more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society” (Deloitte 2009, p. 2). [@Bharadwaj2013]
 
-In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available. [@Bharadwaj2013]
 ## Influence / Environment: Macro:
 
 <!-- What are your assets in this environment? -->
@@ -138,7 +177,9 @@ Millennialization of consumers has turned consumers into producers, empowered in
 Prosumerization has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents
 Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms
 Platformization: Digital platforms bring together suppliers, customers, and third parties and are replacing traditional middlemen and can often serve to level the playing field by granting small players and new entrants access to formerly closed markets
+
 # Strategy / Response:
+
 ## Strategy / Response: Macro:
 
 <!-- What shift in business model? -->
@@ -396,6 +437,7 @@ If a firm is fortunate enough to be in a position of high-quality design capital
 Firms pursuing digital business strategies must manage a fundamental tension between the need to support flexible adaptation of their products and services to changing market conditions, and the need to provide stable value appropriation mechanisms to extract economic rents and reinvest them in innovative activities. Companies often fuse IT with their products and services for competitive advantage. [@Woodard2013]
 
 We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital. [@Woodard2013]
+
 ## Strategy / Response: Micro:
 
 <!-- What is your vision of the future culture, behavior and competency of your company? -->
@@ -484,15 +526,20 @@ Developing digital non-core products requires new digital platform capabilities.
 The focus of value creation shifts from value chain to value networks. Include a multi-platform or platform-free mindset by considering all forms of content. [@Karimi2015]
 
 Developing a digital-first mindset, making digital strategy everyone's job, cultivating an open culture that embraces digital innovations. [@Karimi2015]
+
 # Implement your strategy / Execute your response
+
 ## Build your Roadmap
 
 <!-- Assets analysis -->
 <!-- Vision creation and target -->
+
 ## Choose decisions to take
 
 <!-- Deloitte updated -->
+
 # Sources (Quotes to move to parts)
+
 #### Customer intimacy and other value disciplines [@Treacy1993]
 
 A foundation book/article about value disciplines and how to use them to trade-off between strategic decision:
@@ -500,6 +547,7 @@ A foundation book/article about value disciplines and how to use them to trade-o
 - Operational excellence
 - Customer intimacy
 - Product leadership
+
 #### Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
 
 In this article, an analysis of the paradigm shift (_oil age to information age_) in today's organisations with these categories:
@@ -559,6 +607,7 @@ In this article, an analysis of the paradigm shift (_oil age to information age_
 |                  competitors                         - Firm as an open system
 |                  - Firm as a closed system
 +----------------+------------------------------------+---------------------------------+
+
 #### Strategic principles for competing in the digital age [@Hirt2014]
 
 Opportunities and threats:
@@ -585,6 +634,7 @@ Managing the strategic challenges: Six big decisions
 - Decision 4: Diversify or double down on digital initiatives? (_potential_ link with @Woodard2013: Augment the design capital by augmenting the options or diminish the technical debt)
 - Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? (link with @Karimi2015: depending on the characteristics (size, existing assets, agility needed, risk aversion...), some have integrated or not the digital business unit)
 - Decision 6: Delegate or own the digital agenda?
+
 #### McKinsey 7S framework [@McKinsey2008]
 
 The 7S McKinsey framework, allowing to frame an analysis of an enterprise strategy:
@@ -596,7 +646,10 @@ The 7S McKinsey framework, allowing to frame an analysis of an enterprise strate
 - Skills
 - Style
 - Staff
+
 #### The rise of AI makes emotional intelligence more important [@Beck2017]
+
+##### Dimensions
 
 In this article, a description of the 5 steps of the knowledge worker:
 
@@ -605,18 +658,19 @@ In this article, a description of the 5 steps of the knowledge worker:
 3. Interpret the results
 4. Determine a recommended course of action
 5. Implement the course of action
+
+##### Quotes
+
+Don't fight the progress of technology. Machine learning and AI have the ability to improve outcomes and lower cost, so don't fight the robots. Examine your own capabilities interacting with, motivating, and assessing people. Invest in developing your emotional intelligence. [@Beck2017]
+
+What you have to oﬀer, what you can do better than any smart machine, is relate to the people around you. [@Beck2017]
+
 #### The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
 
 Criteria:
 
 - **Routine** vs **Non-routine**
 - **Cognitive** vs **Manual**
-
-3 Tasks categories which won't be automated:
-
-- **Perception & Manipulation** tasks: in unstructured work environment (personal house vs airport or train station), irregular objects.
-- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value is creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is not possible.
-- **Social intelligence** tasks: involving negotiation, persuasion and care.
 
 Examples:
 
@@ -625,6 +679,7 @@ Examples:
 | Social intelligence         | Public relations | Dishwasher   |
 | Creativity                  | Fashion Designer | Count Clerk  |
 | Perception and manipulation | Surgeon          | Telemarketer |
+
 #### Exponential organizations [@VanGeest2014]
 
 A singularity university book about new organizations with hyper-fast growth and their structuring principles:
@@ -641,6 +696,7 @@ A singularity university book about new organizations with hyper-fast growth and
   - Algorithms
   - Leveraged assets
   - Engagement
+
 #### LEAD Enterprise Value Map [@LEADingPractice]
 
 Another shareholder value optimization framework structured with:
@@ -679,6 +735,7 @@ Another shareholder value optimization framework structured with:
   - Increase revenue through developing new sales & service channels
   - Increase revenue through service & price optimization
   - Increase revenue with existing customers
+
 #### Deloitte Enterprise Value Map [@Deloitte2004]
 
 A shareholder value optimization framework structured around:
@@ -697,6 +754,7 @@ A shareholder value optimization framework structured around:
 - Expectations
   - Company strengths
   - External factors
+
 #### Digital America: A tale of the haves and the have-mores [@Manyika2015]
 
 Assets:
@@ -739,7 +797,9 @@ Labor:
 |                          | - Increased fuel efficiency
 |                          | - Decreased waste of raw materials
 +--------------------------+---------------------------------------------------------+
+
 #### Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
+
 ##### Dimensions
 
 A Capgemini report giving recommandations about how to deal with Digital Transformation. There are 3 categories of recommandations:
@@ -864,6 +924,7 @@ Roadmap:
   - How do you coordinate investments and activities across silos? What is the best organizational model to coordinate digital initiatives in parallel to the core business?
   - What KPIs and metrics do you need to put in place to monitor the progress of your digital transformation towards your strategic goals?
   - What mechanism do you use to make the necessary adjustments?
+
 ##### Quotes
 
 **Execution challenges:**
@@ -958,6 +1019,7 @@ Digital technology, which transformed the media industry, is now transforming th
 - What mechanism do you use to make the necessary adjustments?
 
 Digital transformation requires skills and influence that only senior leaders possess. Create a transformative vision that is clear and compelling to galvanize the organization. Mindfully consider what parts of your company should move (and why, and when) to make it implementable. Build digital maturity in two dimensions to increase your chances of success. Then take actions and monitor progress to turn your vision into reality.
+
 #### Digital ubiquity: How connections, sensors, and data are revolutionizing business [@Iansiti2014]
 
 GE's technical transformation:
@@ -977,6 +1039,7 @@ A business model is defined by two things:
 
 - how the organization **creates** value for its customers
 - how the organization **captures** that value
+
 #### Digital Business Strategy: Toward a Next Generation of Insights [@Bharadwaj2013]
 
 Key External Digital Trends
@@ -1025,8 +1088,8 @@ Described in details here
   - leverage value from **multisided business models**
   - capture value through **coordinated business models in networks**
   - appropriate value through the **control of the firm’s digital architecture**
+
 #### Shaping the Future: Seven Enduring Principles for Fast-changing Industries [@Gimpel2012]
-##### Dimensions
 
 Information goods, powerful computing devices, and inexpensive digital communication is changing business and society through five digital forces
 
@@ -1058,7 +1121,9 @@ VRIN framework to assess the value of an activity/resource:
 - Produce, search, and/or deliver
 - Value creation is the new structure
 - Platforms are the future systems of engagement
+
 #### The Role of Dynamic Capabilities in Responding to Digital Disruption: A Factor-Based Study of the Newspaper Industry [@Karimi2015]
+
 ##### Dimensions
 
 Determinants of first-order dynamic capabilities:
@@ -1074,6 +1139,7 @@ Determinants of first-order dynamic capabilities:
   - Innovative culture (IC)
   - Common language (CL)
   - Multimedia mindset (MM)
+
 ##### Quotes
 
 The resources-processes-values (RPV) framework offers explanations for why big companies succeed or fail to respond to disruptive innovations, [however] the emphasis in the theory has always been on nontechnology and little attention has been paid to the enabling role of technology in responding to disruptive innovations. [@Karimi2015]
@@ -1098,6 +1164,7 @@ Three research questions were examined in this study:
 responding to digital disruption?
 (2) What is the role of such capabilities in building digital platform capabilities?
 (3) Do digital platform capabilities mediate the impact of first-order dynamic capabilities?
+
 #### Design Capital and Design Moves: the Logic of Digital Business Strategy [@Woodard2013]
 
 Design capital:
@@ -1127,7 +1194,9 @@ Design capital states and strategies:
   - if resource scarcity and high ability to transfer technical debt to its ecosystem, increase technical debt
   - if resource scarcity and low ability to transfer technical debt to its ecosystem, abandon design options
   - if resource abundance, experimentation & entrepreneurial actions
+
 #### Options for Formulating a Digital Transformation Strategy [@Hess2016]
+
 ##### Dimensions
 
 +----------------+------------------------------------+---------------------------------+
@@ -1181,7 +1250,9 @@ Design capital states and strategies:
 |                  Financing of new activities?        - Internal
 |                                                      - External
 +----------------+------------------------------------+---------------------------------+
+
 ##### Quotes
+
 The market-changing potential of digital technologies is often wider than products, business processes, sales channels or supply chains. Entire business models are being reshaped and frequently overturned. There are many recent examples of organizations that have been unable to keep pace with the new digital reality. [@Hess2016]
 Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider. [@Hess2016]
 The Digital Transformation Framework (DTF) represents a holistic approach to the development of a company-wide digital transformation strategy. A digital transformation strategy identifies the four key dimensions of every digital transformation: Use of technologies, Changes in value creation, Structural changes, Financial aspects. [@Hess2016]
@@ -1284,7 +1355,9 @@ The most important thing for managers charged with formulating their firms' digi
   11. Financing of new activities?
     - Internal
     - External
+
 #### Revamping Your Business Through Digital Transformation.
+
 ##### Dimensions
 
 Start by rethinking four traditional assumptions that affect:
@@ -1307,6 +1380,7 @@ Technologies:
 - 3-D printing
 - Augmented reality
 - Internet of Things
+
 ##### Quotes
 
 By using mobile devices, social media, analytics and the cloud, savvy companies are transforming the way they do business. For larger companies in more traditional industries, it's easy to think that digital transformation can wait. However, a follower strategy is wrong.
@@ -1330,7 +1404,9 @@ PagesJaunes, the French Yellow Pages company, saw that the assets related to pri
 Data should be considered an asset class in its own right [and] analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy."
 
 As digital technology reaches into every corner of the business world, it is creating a new playing field with new rules. digital has reshaped the expectations of customers, the way that employees collaborate and the business models that are possible. New technologies such as robotics, 3-D printing, augmented reality and the "Internet of Things" will soon lead to major business changes. Large traditional companies can out-compete fast-moving digital startups if they embrace the digital environment and find ways to make it theirs. Using pre-digital assumptions will not bring success in the digital world. When it comes to digital innovation, "you ain’t seen nothin’ yet"
+
 #### The Business Models Investors Prefer [@PeterWeill2011]
+
 ##### Dimensions
 
 Business model defined by: Asset type & Asset right.
@@ -1348,6 +1424,7 @@ The four asset rights are:
 - Distributors
 - Landlords
 - Brokers
+
 ##### Quotes
 
 we found that in recent years, investors have favored business models focusing on licensing intellectual property.
@@ -1371,5 +1448,6 @@ Disney has dramatically shifted its business model over the last 20 years from r
 
 Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued. Financial and physical landlords were the poorest performing of the common business models, while IP landlords were the second-highest performing. Contractors (that primarily "rent out" human assets) had performance in the middle of the pack.
 
-Innovative manufacturers — which we define as those who invest more than their industry average in research and development — are the top performers in the market. Apple is an example of an innovative manufacturer.
+Innovative manufacturers - which we define as those who invest more than their industry average in research and development - are the top performers in the market. Apple is an example of an innovative manufacturer.
+
 ### Bibliography
