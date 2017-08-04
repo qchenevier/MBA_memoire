@@ -73,80 +73,120 @@ In this article, an analysis of the paradigm shift (_oil age to information age_
 
 ##### Quotes
 
-The 1990's are times of uncertainty. In each country, centrifugal trends generate unprecedented growth and wealth, at one end, and increasing poverty, deterioration and degradation, at the other.
-Basically, the present period is defined as one of transition between two distinct technological styles -or techno-economic paradigms- and at the same time as the period of construction of a new mode of growth.
-Long waves of technological change affect the whole system, the entire structure of society, worldwide.
+_The 1990's are times of uncertainty. In each country, centrifugal trends generate unprecedented growth and wealth, at one end, and increasing poverty, deterioration and degradation, at the other. Basically, the present period is defined as one of transition between two distinct technological styles -or techno-economic paradigms- and at the same time as the period of construction of a new mode of growth. Long waves of technological change affect the whole system, the entire structure of society, worldwide._
+
 The long term fluctuations that we call long waves result of successive couplings and decouplings of two spheres of the system: the techno-economic and the socio-institutional. When a good coupling is achieved between those two spheres, there is a long period of two or three decades of stable growth, perceived as times of prosperity. When a decoupling occurs, it results in equally long periods of irregular growth, recessions and depressions, perceived as bad times.
+
 There are mechanisms inherent to the way technologies diffuse which result in technological revolutions or changes of paradigm every fifty or sixty years. This results in long term patterns of continuity and discontinuity in the techno-economic sphere which require matching transformations at the socio-institutional level. With each technological revolution, it takes decades to reestablish the coherence of the total system. But, once the good match is achieved, a period of prosperity ensues.
-UNDERSTANDING TECHNOLOGY AND ITS MODE OF EVOLUTION
-Technical change is a complex social process involving technical, economic, social and institutional factors in a mesh of interactions. The invention of a new product occurs within the techno-scientific sphere. An innovation is when this invention becomes an economic fact. The first commercial introduction of an innovation transfers it into the techno-economic sphere. The fact with the most far-reaching social consequences is the process of massive adoption.
-Incremental innovations are successive improvements upon existing products and processes. The course of incremental change is relatively predictable.
-A radical innovation, by contrast, is the introduction of a truly new product or process. They can be introduced at any point in time cutting short the life cycle of the products or processes they substitute.
-Every radically new product, when it is first introduced, is relatively primitive. Gradually, it consolidates a position in the market. Then, there is a sort of take-off for a period of successive incremental improvements. At last, the technology reaches maturity. There is a high likelihood that, at maturity, the product will be replaced by another.
-Depending on the type of product, this cycle can last months, years or decades.
 
+**UNDERSTANDING TECHNOLOGY AND ITS MODE OF EVOLUTION**
 
-Technological systems as paths for radical innovations
-“Technological systems” are constellations of innovations, technically and economically interrelated and are related to “generic technologies”, whose natural trajectory of evolution encompasses that of a whole set of interconnected radical innovations.
-From the vantage point of a technological system, then, there is a logic, which joins successive interrelated radical innovations in a common natural trajectory. The widespread impact of a new technological system stems from the “wide adaptability”9 of the contributing innovations and from their multiple character. Yet technology systems, in a manner similar to individual technologies, eventually exhaust their potential for further growth and improvement. So, at the level of technology systems, we re-encounter the same phenomena of continuity and discontinuity in evolution.
-Self-reinforced processes of growth and exhaustion
+_Technical change is a complex social process involving technical, economic, social and institutional factors in a mesh of interactions._ The invention of a new product occurs within the techno-scientific sphere. An innovation is when this invention becomes an economic fact. The first commercial introduction of an innovation transfers it into the techno-economic sphere. The fact with the most far-reaching social consequences is the process of massive adoption.
+
+Incremental innovations are successive improvements upon existing products and processes. The course of incremental change is relatively predictable. _A radical innovation, by contrast, is the introduction of a truly new product or process. They can be introduced at any point in time cutting short the life cycle of the products or processes they substitute._
+
+Every radically new product, when it is first introduced, is relatively primitive. Gradually, it consolidates a position in the market. Then, there is a sort of take-off for a period of successive incremental improvements. At last, the technology reaches maturity. There is a high likelihood that, at maturity, the product will be replaced by another. Depending on the type of product, this cycle can last months, years or decades.
+
+**Technological systems as paths for radical innovations**
+
+_"Technological systems" are constellations of innovations, technically and economically interrelated and are related to "generic technologies"_, whose natural trajectory of evolution encompasses that of a whole set of interconnected radical innovations.
+
+From the vantage point of a technological system, then, there is a logic, which joins successive interrelated radical innovations in a common natural trajectory. The widespread impact of a new technological system stems from the "wide adaptability" of the contributing innovations and from their multiple character. Yet technology systems, in a manner similar to individual technologies, eventually exhaust their potential for further growth and improvement. So, at the level of technology systems, we re-encounter the same phenomena of continuity and discontinuity in evolution.
+
+**Self-reinforced processes of growth and exhaustion**
+
 The process of substitution is not one of eradication but of a slow and painful change in the proportions of the new against the old. However, the end result is a radical change in the structures involved.
+
 The deployment of each technology system involves several interconnected processes of change :
+
 1. The development of surrounding services
 2. The "cultural" adaptation
 3. The setting up of the institutional facilitators
-The adaptations that occur around a particular system generate conditions that strongly favor innovations that are compatible with -or can be fit into- the systems already in place. Externalities reduce the expenses of introducing an innovation and convincing users. Due to more and more powerful externalities, the greater the development of a system, the shorter the life cycle of each radical innovation within it. The life cycle of the radical innovations that appear in the later stages of the development of a system is usually much shorter than that of the earlier ones.
-Technological revolutions as rejuvenation of all systems
-In the early 1970's, the automobile industry had reached maturity. Automobiles had become "commodities" and the future was seen as complete standardization. Few could foresee what happened. Japanese industry developed a distinctly different way of organizing production and markets. The industry was completely renewed and set on a different and very dynamic trajectory of incremental innovation.
+
+_The adaptations that occur around a particular system generate conditions that strongly favor innovations that are compatible with -or can be fit into- the systems already in place. Externalities reduce the expenses of introducing an innovation and convincing users. Due to more and more powerful externalities, the greater the development of a system, the shorter the life cycle of each radical innovation within it._ The life cycle of the radical innovations that appear in the later stages of the development of a system is usually much shorter than that of the earlier ones.
+
+**Technological revolutions as rejuvenation of all systems**
+
+_In the early 1970's, the automobile industry had reached maturity. Automobiles had become "commodities" and the future was seen as complete standardization. Few could foresee what happened. Japanese industry developed a distinctly different way of organizing production and markets. The industry was completely renewed and set on a different and very dynamic trajectory of incremental innovation._
+
 Maturity does not inevitably end in the marginalization of a system, but when many inter-related systems tend to come to maturity more or less simultaneously, a general solution appears in the form of a technological revolution. About every fifty or sixty years, there is the diffusion of a new set of generic technologies, capable of rejuvenating and transforming practically all existing industries.
+
 Schumpeter and others have emphasized the powerfully dynamic nature of each of those great waves. Society has recognized their overarching influence by referring to the periods as the Industrial Revolution, the Railway Era, the Age of Electricity and the Age of the Automobile.
-TECHNO-ECONOMIC PARADIGMS AS COMMON SENSE MODELS TRANSFORMING THE PRODUCTIVE SPHERE
-A cheap input as vehicle of diffusion
-Diffusion in the early phase demands a simple vehicle of propagation : long-term cost effectiveness provided by a “key factor”. Each revolution has its key factor :
-Railways & the steam engine: cheap coal
-Electricity, heavy chemistry and heavy civil engineering: cheap steel
-Asphalt roads and automobiles: cheap petroleum
-Information & telecommunications: cheap electronic chips.
-In each case, the “key factor” steers engineering and investment decisions towards its intensive use.
-Diffusion is self-reinforced
+
+**TECHNO-ECONOMIC PARADIGMS AS COMMON SENSE MODELS TRANSFORMING THE PRODUCTIVE SPHERE**
+
+**A cheap input as vehicle of diffusion**
+
+Diffusion in the early phase demands a simple vehicle of propagation : long-term cost effectiveness provided by a "key factor". _Each revolution has its key factor :_
+
+- Railways & the steam engine: cheap coal
+- Electricity, heavy chemistry and heavy civil engineering: cheap steel
+- Asphalt roads and automobiles: cheap petroleum
+- Information & telecommunications: cheap electronic chips.
+
+In each case, the "key factor" steers engineering and investment decisions towards its intensive use.
+
+**Diffusion is self-reinforced**
+
 New technologies diffuses because of 2 reasons :
-the prevailing technologies are exhausted and their exclusion mechanisms are weakened.
-there are obvious changes in the relative cost structure, which are seen to be permanent.
+- the prevailing technologies are exhausted and their exclusion mechanisms are weakened.
+- there are obvious changes in the relative cost structure, which are seen to be permanent.
+
 The process of switching over becomes self-reinforcing through several feedback loops. The greater the diffusion of its applications, the greater the demand for the "key factor" which leads to economies of scale and lower costs, which widens the range of applications.
-A new paradigm as a quantum jump in potential productivity for all
-Each technological revolution generates also a wave of organizational innovation. The principles of mass production, which achieved the continuous flow of automobiles, diffused across all sectors. The organizational structure based on many layers, functional departments and divisions became the model for effectiveness and efficiency. But today, the adaptability of the Japanese managerial network has been found to be one of the most appropriate forms of organization to take advantage of the flexibility of information technology and is diffusing in more and more sectors.
+
+**A new paradigm as a quantum jump in potential productivity for all**
+
+_Each technological revolution generates also a wave of organizational innovation._ The principles of mass production, which achieved the continuous flow of automobiles, diffused across all sectors. _The organizational structure based on many layers, functional departments and divisions became the model for effectiveness and efficiency. But today, the adaptability of the Japanese managerial network has been found to be one of the most appropriate forms of organization to take advantage of the flexibility of information technology_ and is diffusing in more and more sectors.
+
 So each technological revolution brings at the same time a set of new industries, with a low cost input at the core, and a set of generic all-pervasive technologies and organizational principles capable of renewing all the other productive activities.
-Difficult assimilation: The shaping of a paradigm takes decades
-The paradigm change can take decades. The construction and propagation of a paradigm is difficult. the pioneers can go a long way in impressive growth of production and profits. One of the areas of strong resistance to diffusion is found in the leadership of established firms. It is difficult to believe that the "normal" way of doing things has become old style and ineffective.
-Those who had vast experience in applying the old principles find themselves forced to learn a new way of thinking and behaving. Yet, this internal resistance tends to be overcome by the threat to profits.
-Each technological revolution must make its way in a world fully adapted to the requirements of the previous techno-economic paradigm.
 
+**Difficult assimilation: The shaping of a paradigm takes decades**
 
-STRUCTURAL CHANGE IN THE ECONOMY AND SOCIO-INSTITUTIONAL INERTIA
-The existing institutions take a long time to grasp the transformations taking place. The new technologies are very visible indeed, but their consequences take a long time to reach public awareness. The general framework of socioeconomic regulation has a natural inertia. As a result, the social consequences of each transition are vast and profound, as is the human suffering. They involve widespread unemployment21; the obsolescence of qualifications at all levels, the geographic dislocation of people and activities; the growth of rapid wealth at one end and of growing poverty at the other. It is then that the social pressure for change is clearly felt. So, during paradigm transitions, there are very intense transformations in technology and the economy and a high level of inertia and confusion in the socio-institutional sphere. Thus, long wave transitions are processes of "creative destruction”.
+The paradigm change can take decades. The construction and propagation of a paradigm is difficult. The pioneers can go a long way in impressive growth of production and profits. _One of the areas of strong resistance to diffusion is found in the leadership of established firms. It is difficult to believe that the "normal" way of doing things has become old style and ineffective._
+
+_Those who had vast experience in applying the old principles find themselves forced to learn a new way of thinking and behaving. Yet, this internal resistance tends to be overcome by the threat to profits._ Each technological revolution must make its way in a world fully adapted to the requirements of the previous techno-economic paradigm.
+
+**STRUCTURAL CHANGE IN THE ECONOMY AND SOCIO-INSTITUTIONAL INERTIA**
+
+The existing institutions take a long time to grasp the transformations taking place. The new technologies are very visible indeed, but their consequences take a long time to reach public awareness. The general framework of socioeconomic regulation has a natural inertia. As a result, the social consequences of each transition are vast and profound, as is the human suffering. They involve widespread unemployment; the obsolescence of qualifications at all levels, the geographic dislocation of people and activities; the growth of rapid wealth at one end and of growing poverty at the other. It is then that the social pressure for change is clearly felt. So, during paradigm transitions, there are very intense transformations in technology and the economy and a high level of inertia and confusion in the socio-institutional sphere. Thus, long wave transitions are processes of "creative destruction".
+
 Last time around, to overcome the great depression of the 1930's, it was necessary to surmount the prevailing notions about the superiority of free market mechanisms and accept the establishment of massive and systematic State intervention in the economy, generally following Keynesian principles. Today, almost every one of these innovations, relatively effective and widely accepted until the 1970's, is under question.
-Long waves are related to the internal coherence of the system. About every half century, the techno-economic sphere experiences changes of paradigm which require equally vast changes in the socio-institutional framework. Yet, the changes in the economy take place at a much faster pace than in social institutions. The resulting mismatch brings about the "bad times" (two to three decades). When structural coherence is regained, there are two or three decades of “good times”.
-TECHNO-ORGANISATIONAL PARADIGMS AS GUIDELINES FOR CHANGE IN THE SOCIO-INSTITUTIONAL SPHERE
-The wide space of the possible
+
+Long waves are related to the internal coherence of the system. About every half century, the techno-economic sphere experiences changes of paradigm which require equally vast changes in the socio-institutional framework. Yet, the changes in the economy take place at a much faster pace than in social institutions. The resulting mismatch brings about the "bad times" (two to three decades). When structural coherence is regained, there are two or three decades of "good times".
+
+**TECHNO-ORGANISATIONAL PARADIGMS AS GUIDELINES FOR CHANGE IN THE SOCIO-INSTITUTIONAL SPHERE**
+
+**The wide space of the possible**
+
 For the previous paradigm, we can recognize at least four major modes of growth: Keynesian democracy, Fascism, Socialism and, in the Third World, "State Developmentalism". They all share certain common features :
-Central government, engaged in the economy
-State as the main agent of redistribution of wealth
-"Homogeneity" of consumption styles within the Nation-State
-Central representation of the provinces
-"Mass" character of political parties
-Government by one or very few main political parties
-Separation of political leadership from "technical" management
+
+- Central government, engaged in the economy
+- State as the main agent of redistribution of wealth
+- "Homogeneity" of consumption styles within the Nation-State
+- Central representation of the provinces
+- "Mass" character of political parties
+- Government by one or very few main political parties
+- Separation of political leadership from "technical" management
+
 One can now also see a parallel between the typical forms of organization of the traditional big corporations and that of hospitals, universities, ministries and governments in general.
+
 As the new paradigm unfolds in the economy, its logic propagates towards all of society, modifying the common sense criteria that guide all sorts of organizations and eventually resulting in maximum social synergy.
-The notion of a paradigm can be understood on three levels
-Each techno-economic paradigm is constructed on three inter-related levels:
-New technology systems : microelectronics, software & telecommunications
-New "best practice" model : flexible organizational model
-New “common sense” principles for organizational & institutional design : decentralization, networking, continuous improvement, users/stakeholders involvement in the organization
-The variety of forms of adoption for the new paradigm is immense. And, at each transition, the traditional "left-right" political divide is made more complex by the appearance -in each group- of another divide between the “old paradigm” and the “new paradigm” ideas.
-What the paradigm provides is not the goals but the forms and the technical and organizational tools. The space for institutional creativity is very wide. This means that each crisis is a point of determination in history.
+
+**The notion of a paradigm can be understood on three levels**
+
+_Each techno-economic paradigm is constructed on three inter-related levels:_
+
+- New technology systems : microelectronics, software & telecommunications
+- New "best practice" model : flexible organizational model
+- New "common sense" principles for organizational & institutional design : decentralization, networking, continuous improvement, users/stakeholders involvement in the organization
+
+The variety of forms of adoption for the new paradigm is immense. And, at each transition, the traditional "left-right" political divide is made more complex by the appearance -in each group- of another divide between the "old paradigm" and the "new paradigm" ideas.
+
+_What the paradigm provides is not the goals but the forms and the technical and organizational tools._ The space for institutional creativity is very wide. This means that each crisis is a point of determination in history.
+
 Embracing the new paradigm means facing the future with a commitment to the construction of a framework capable of making best social use of the new wealth creating potential and a willingness to assimilate change and promote creativity at all levels and in all spheres.
-Historically these transition processes have been long and difficult, with a very high cost in human suffering. It is to be hoped that a better understanding of the nature of the transformation could help to alleviate the social cost and to quicken the success of the task of institutional experimentation.
+
+_Historically these transition processes have been long and difficult, with a very high cost in human suffering._ It is to be hoped that a better understanding of the nature of the transformation could help to alleviate the social cost and to quicken the success of the task of institutional experimentation.
 
 #### Strategic principles for competing in the digital age [@Hirt2014]
 
@@ -342,85 +382,155 @@ Labor:
 
 ##### Quotes
 
-In brief
-The United States is digitizing so rapidly that most users are scrambling to adapt.
-Digitization is happening unevenly, and users with advanced digital capabilities are capturing disproportionate benefits.
+**In brief**
+
+The United States is digitizing so rapidly that most users are scrambling to adapt. Digitization is happening unevenly, and users with advanced digital capabilities are capturing disproportionate benefits.
+
 The most explosive growth is now in usage.
+
 Most sectors across the economy are less than 15 percent as digitized as the leading sectors.
+
 Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect.
+
 Currently, there are three big areas of potential : online talent platforms, big data analytics, and the Internet of Things.
+
 There will be more economic dislocation : the day-to-day nature of work will change, companies redefine many roles and job displacement rates could accelerate sharply over the next decade.
+
 Today the race is on to capture value from data analytics and the Internet of Things, but there is no finish line : Digitization involves continuously experimenting and adapting.
-Executive summary
-There is a persistent gap between the digital “haves” and “have-mores”. True disruptors are even gaining the ability to reshape industries to their own advantage. Also, the workers with the most sophisticated digital skills are the “have-mores”.
+
+**Executive summary**
+
+There is a persistent gap between the digital "haves" and "have-mores". True disruptors are even gaining the ability to reshape industries to their own advantage. Also, the workers with the most sophisticated digital skills are the "have-mores".
+
 Usage is exploding as companies build new types of digital assets, putting powerful tools in the hands of employees and devising new ways of working.
+
 Despite a rush of adoption, most sectors have barely closed the gap over the past decade. Companies will redefine many roles, and the rate of job displacement could accelerate sharply. It needs more than a business-as-usual approach to skills development.
+
 The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines.
+
 Digitization, like electricity, is a general-purpose technology that underpins a huge share of economic activity beyond the sector that supplies it.
-THE DIGITAL FRONTIER IS RAPIDLY EVOLVING, AND THOSE AT THE FOREFRONT CAPTURE DISPROPORTIONATE REWARDS
+
+**THE DIGITAL FRONTIER IS RAPIDLY EVOLVING, AND THOSE AT THE FOREFRONT CAPTURE DISPROPORTIONATE REWARDS**
+
 Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it.
-Also a new and more pervasive dynamic appears to be at work : the gap between the digital “haves” and “have-mores” is growing as the most advanced users pull away from everyone else.
+
+Also a new and more pervasive dynamic appears to be at work : the gap between the digital "haves" and "have-mores" is growing as the most advanced users pull away from everyone else.
+
 At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic.
+
 For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects.
-SOME INDUSTRIES AND COMPANIES ARE MORE DIGITIZED THAN OTHERS
+
+**SOME INDUSTRIES AND COMPANIES ARE MORE DIGITIZED THAN OTHERS**
+
 The real value lies in combining digital assets and capabilities with ingenuity.
+
 The MGI Industry Digitization Index examines sectors across the economy through the lens of digital assets, digital usage, and digital workers by considering several indicators:
-Spending on computers, software & telecom, share of assets such as robots and connected cars
-Usage of digital payments, digital marketing, social technologies and CRM
-Share of task description with digital technologies and digital spending and assets per worker.
+
+- Spending on computers, software & telecom, share of assets such as robots and connected cars
+- Usage of digital payments, digital marketing, social technologies and CRM
+- Share of task description with digital technologies and digital spending and assets per worker.
+
 The index highlights where there is room for growth in digital capabilities.
+
 Lagging sectors could experience catch-up growth if the long tail of smaller and less digitized businesses begins to close the gap with leading companies.
-The “have-mores” continue to push the boundaries of digitization, particularly in terms of augmenting what their workers do, while everyone else scrambles to keep up with them.
+
+The "have-mores" continue to push the boundaries of digitization, particularly in terms of augmenting what their workers do, while everyone else scrambles to keep up with them.
+
 Why some sectors went digital sooner ? Four factors shape those outcomes:
-Firm size : larger firms are more digitized
-Complexity of operations: firms with long supply chains are more digitized
-Knowledge intensity: firms with a large share of highly educated workers are more digitized
-Threat of competition : the actual degree of competition is not a factor, but the prospect of competition is, e.g when a sector is becoming deregulated.
-Digital assets determine competitive advantage
+
+- Firm size : larger firms are more digitized
+- Complexity of operations: firms with long supply chains are more digitized
+- Knowledge intensity: firms with a large share of highly educated workers are more digitized
+- Threat of competition : the actual degree of competition is not a factor, but the prospect of competition is, e.g when a sector is becoming deregulated.
+
+**Digital assets determine competitive advantage**
+
 Consider the automotive industry, Consumers now save time by comparing vehicles online and their online activity leaves a data trail that dealers can use.
+
 Information becomes widely available, disrupting traditional intermediaries
+
 Value is shifting from physical intermediaries and asset holders to digital intermediaries and to consumers.
-Value chains break apart, creating openings for specialization and new competitors
+
+**Value chains break apart, creating openings for specialization and new competitors**
+
 Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers.
-Low marginal costs and network effects create hyperscale advantages
+
+**Low marginal costs and network effects create hyperscale advantages**
+
 While physical processes have high marginal costs, low-marginal-cost economics and platform architecture has allowed the most successful high-tech firms to achieve a scale that was once impossible. The power of platform economics is reflected in the gross margins, which can run as high as 80 percent.
-Industry boundaries become blurred
+
+**Industry boundaries become blurred**
+
 Once digital players have established themselves as leaders in one market, they have a striking ability to move into new areas.
+
 Amazon went from selling books to selling every retail and a self-publishing platform and a cloud-based business service.
+
 Google went from internet search to longevity and biotech research, smart home products, venture capital investing and high-speed internet fiber services.
-DIGITIZATION CREATES HUGE BENEFITS FOR CONSUMERS AND MORE COMPLEX EFFECTS ON GROWTH AND EMPLOYMENT
+
+**DIGITIZATION CREATES HUGE BENEFITS FOR CONSUMERS AND MORE COMPLEX EFFECTS ON GROWTH AND EMPLOYMENT**
+
 Consumers have captured a huge range of benefits, but there are negative implications for employment and wages.
 
-Digitization produces significant benefits to consumers and society
+**Digitization produces significant benefits to consumers and society**
+
 Consumers have been big winners in the digital economy, although most of this effect does not show up as GDP. Some tech firms are providing free products or services where traditional businesses once charged fees. In these cases, the consumer gains are siphoning value out of industries.
+
 Digitization has contributed to rapid GDP and productivity growth in the past, but recent gains are blurred.
+
 In the late 1980s, digital adoption grew in many sectors, and productivity growth soon followed, increasing annually by 1.6 percent, nearly 2.5 times as fast as in the preceding 20 years. This was reflect in GDP, which rose nearly 4 percent per year.
+
 But after 2005, these effects vanish from the measured statistics. Total productivity growth has fallen by two-thirds since 2005, while real GDP growth has averaged about 2 percent per year.
+
 The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software. Also, it can take several years for large firms (and whole sectors) to make the changes necessary to capture the full benefits of digital investments.
-Digitization polarizes the labor market, but can help to address some of its inefficiencies
+
+**Digitization polarizes the labor market, but can help to address some of its inefficiencies**
+
 Digitization has contributed to increasingly jobless recoveries from recessions. The postwar US economy took roughly six months to recover lost jobs after every recession. But it took 15 months to restore lost jobs after the 1991 recession, 39 months after 2001, and 43 months after 2008.
+
 Digitization has contributed to hollowing out the middle-skill portion of the US workforce. Since 2000, the US has created 8 million jobs : only low-skill interactive jobs or high-skill interactive jobs. Whereas, 2.5 million production and transaction jobs have been destroyed.
+
 In terms of wages, digitization has accelerated a divergence between the majority of workers and a smaller group at the top. And, since 1980, labor productivity has grown 2.5 times faster than wages, breaking historical patterns.
+
 There is a creation of new occupations : skills and continuous learning matter more than ever.
+
 BY 2025, THREE EFFECTS OF DIGITIZATION ALONE COULD BOOST GDP BY UP TO \$2.2 TRILLION—BUT THE POSSIBILITIES ARE MUCH WIDER.
-AUTOMATION COULD REDEFINE MANY OCCUPATIONS AND ACCELERATE HISTORICAL RATES OF MIDDLE-SKILL JOB DISPLACEMENT
+
+**AUTOMATION COULD REDEFINE MANY OCCUPATIONS AND ACCELERATE HISTORICAL RATES OF MIDDLE-SKILL JOB DISPLACEMENT**
+
 Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but it technology creates the need for new roles.
+
 Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune.
+
 Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates.
-COMPANIES HAVE TO ADAPT TO SURVIVE IN THE DIGITAL ECONOMY
+
+**COMPANIES HAVE TO ADAPT TO SURVIVE IN THE DIGITAL ECONOMY**
+
 Conversely, this is an empowering moment for entrepreneurs; the barriers to entry have never been lower.
-Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being “born digital.”
+
+Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being "born digital."
+
 Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable.
+
 Build—or buy—the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics.
+
 Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity.
+
 Take advantage of new innovation models. Replace closed and rigid R&D operations with more open processes. Users, too, can be engaged.
+
 Emphasize agility and learning over forecasting and planning. Change continues to accelerate, so long-term forecasting exercises are less relevant. Agility is more critical than ever. Companies need a mindset focused on learning, experimenting, and iterating.
+
 Think differently about your workforce. Investing in learning programs make more sense than perpetually recruiting. Companies have to create growth opportunities and other incentives for valued employees to stay.
-POLICY CHALLENGES INCLUDE BUILDING PHYSICAL AND REGULATORY INFRASTRUCTURE AS WELL AS HELPING THE WORKFORCE TRANSITION
+
+**POLICY CHALLENGES INCLUDE BUILDING PHYSICAL AND REGULATORY INFRASTRUCTURE AS WELL AS HELPING THE WORKFORCE TRANSITION**
+
 Governments have a dual challenge. In addition to setting policy, they have significant potential to digitize their own operations.
+
 Encourage participation. Encouraging participation is about encouraging digital literacy and encouraging adoption of digital tools.
+
 Set the rules of the game, but be prepared to learn and adapt. policy framework will require attention to evolving issues such as privacy. Policy making for a more digital economy requires a new mindset. Ongoing innovation calls for a test-and-learn approach to policy.
+
 Help individuals navigate the transition. Policy makers cannot fend off automation, but they can support those who are affected. The first major area for action is skills development. Another major focus area is worker protections, by considering how to modernize the system for delivering benefits.
+
 Keeping up with the relentless pace of digital innovation is both a sprint and a marathon. Individuals will have to keep developing their skills throughout their working lives and adjust to a fast-changing job market.
 
 #### Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
