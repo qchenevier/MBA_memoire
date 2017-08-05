@@ -15,12 +15,16 @@ output:
     latex_engine: xelatex
 ...
 
+\chapterimage{sources/images/manjumping.jpg}
+
 # Impulsion
 
 ``` include
 impulsion_micro.md
 impulsion_macro.md
 ```
+
+\chapterimage{sources/images/forum.jpg}
 
 # Reaction
 
