@@ -1,4 +1,4 @@
-## Stimulus at micro-economic scale
+## Micro-economic scale
 
 ### Machines change
 

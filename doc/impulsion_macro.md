@@ -1,4 +1,4 @@
-## Stimulus at macro-economic scale
+## Macro-economic scale
 
 <!-- What are your assets in this environment? -->
 <!-- Why some assets have less value than before? What assets are dealuating quickly? -->

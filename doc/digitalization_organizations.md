@@ -15,18 +15,18 @@ output:
     latex_engine: xelatex
 ...
 
-# Influence / Environment
+# Impulsion
 
 ``` include
-stimulus_micro.md
-stimulus_macro.md
+impulsion_micro.md
+impulsion_macro.md
 ```
 
-# Strategy / Response:
+# Reaction
 
 ``` include
-response_macro.md
-response_micro.md
+reaction_macro.md
+reaction_micro.md
 ```
 
 # Implement your strategy / Execute your response

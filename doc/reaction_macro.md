@@ -1,4 +1,4 @@
-## Response at macro-economic scale
+## Macro-economic scale
 
 <!-- What shift in business model? -->
 <!-- What assez will you reuse? -->
