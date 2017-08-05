@@ -186,15 +186,26 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
-% Redefines (sub)paragraphs to behave more like sections
+%%%%%%%%%%%%%%%%%%%%%%%% MY STYLE
+
+% DEFINE ocre COLOR
+\usepackage{xcolor} % Required for specifying colors by name
+\definecolor{ocre}{RGB}{243,102,25} % Define the orange color used for highlighting throughout the book
+
+%	SECTION NUMBERING IN THE MARGIN
+\makeatletter
+\renewcommand{\@seccntformat}[1]{
+  \llap{\textcolor{ocre}{\csname the#1\endcsname}\hspace{1em}}
+}
+\makeatother
+
+% MAKES A NEW PAGE FOR FIRST LEVEL TITLES: Redefines (sub)paragraphs to behave more like sections
 \ifx\paragraph\undefined\else
 \let\oldparagraph\paragraph
 \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
 \fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
+
+%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
 
