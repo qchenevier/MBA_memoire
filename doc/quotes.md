@@ -337,7 +337,7 @@ A shareholder value optimization framework structured around:
 
 #### Digital America: A tale of the haves and the have-mores [@Manyika2015]
 
-##### Dimesnsions
+##### Dimensions
 
 Assets:
 
@@ -445,7 +445,7 @@ Why some sectors went digital sooner ? Four factors shape those outcomes:
 
 **Digital assets determine competitive advantage**
 
-Consider the automotive industry, Consumers now save time by comparing vehicles online and their online activity leaves a data trail that dealers can use.
+Consider the automotive industry, Consumers now save time by comparing vehicles on-line and their on-line activity leaves a data trail that dealers can use.
 
 Information becomes widely available, disrupting traditional intermediaries
 
