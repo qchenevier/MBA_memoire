@@ -241,9 +241,9 @@ In this article, a description of the 5 steps of the knowledge worker:
 
 ##### Quotes
 
-Don't fight the progress of technology. Machine learning and AI have the ability to improve outcomes and lower cost, so don't fight the robots. Examine your own capabilities interacting with, motivating, and assessing people. Invest in developing your emotional intelligence. [@Beck2017]
+Don't fight the progress of technology. Machine learning and AI have the ability to improve outcomes and lower cost, so don't fight the robots. Examine your own capabilities interacting with, motivating, and assessing people. Invest in developing your emotional intelligence [@Beck2017].
 
-What you have to oﬀer, what you can do better than any smart machine, is relate to the people around you. [@Beck2017]
+What you have to oﬀer, what you can do better than any smart machine, is relate to the people around you [@Beck2017].
 
 #### The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
 
@@ -384,60 +384,60 @@ Labor:
 
 **In brief**
 
-The most explosive growth is now in usage. [@Manyika2015]
+The most explosive growth is now in usage [@Manyika2015].
 
-Most sectors across the economy are less than 15 percent as digitized as the leading sectors. [@Manyika2015]
+Most sectors across the economy are less than 15 percent as digitized as the leading sectors [@Manyika2015].
 
-Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect. [@Manyika2015]
+Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect [@Manyika2015].
 
-Currently, there are three big areas of potential : online talent platforms, big data analytics, and the Internet of Things. [@Manyika2015]
+Currently, there are three big areas of potential : online talent platforms, big data analytics, and the Internet of Things [@Manyika2015].
 
 **Executive summary**
 
-There is a persistent gap between the digital "haves" and "have-mores". True disruptors are even gaining the ability to reshape industries to their own advantage. Also, the workers with the most sophisticated digital skills are the "have-mores". [@Manyika2015]
+There is a persistent gap between the digital "haves" and "have-mores". True disruptors are even gaining the ability to reshape industries to their own advantage. Also, the workers with the most sophisticated digital skills are the "have-mores" [@Manyika2015].
 
-Usage is exploding as companies build new types of digital assets, putting powerful tools in the hands of employees and devising new ways of working. [@Manyika2015]
+Usage is exploding as companies build new types of digital assets, putting powerful tools in the hands of employees and devising new ways of working [@Manyika2015].
 
-Despite a rush of adoption, most sectors have barely closed the gap over the past decade. Companies will redefine many roles, and the rate of job displacement could accelerate sharply. It needs more than a business-as-usual approach to skills development. [@Manyika2015]
+Despite a rush of adoption, most sectors have barely closed the gap over the past decade. Companies will redefine many roles, and the rate of job displacement could accelerate sharply. It needs more than a business-as-usual approach to skills development [@Manyika2015].
 
-The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines. [@Manyika2015]
+The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines [@Manyika2015].
 
-Digitization, like electricity, is a general-purpose technology that underpins a huge share of economic activity beyond the sector that supplies it. [@Manyika2015]
+Digitization, like electricity, is a general-purpose technology that underpins a huge share of economic activity beyond the sector that supplies it [@Manyika2015].
 
 **THE DIGITAL FRONTIER IS RAPIDLY EVOLVING, AND THOSE AT THE FOREFRONT CAPTURE DISPROPORTIONATE REWARDS**
 
-At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic. [@Manyika2015]
+At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic [@Manyika2015].
 
-For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects. [@Manyika2015]
+For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
 
 **SOME INDUSTRIES AND COMPANIES ARE MORE DIGITIZED THAN OTHERS**
 
-The real value lies in combining digital assets and capabilities with ingenuity. [@Manyika2015]
+The real value lies in combining digital assets and capabilities with ingenuity [@Manyika2015].
 
 The MGI Industry Digitization Index examines sectors across the economy through the lens of digital assets, digital usage, and digital workers by considering several indicators:
 
 - Spending on computers, software & telecom, share of assets such as robots and connected cars
 - Usage of digital payments, digital marketing, social technologies and CRM
-- Share of task description with digital technologies and digital spending and assets per worker. [@Manyika2015]
+- Share of task description with digital technologies and digital spending and assets per worker [@Manyika2015].
 
-The index highlights where there is room for growth in digital capabilities. [@Manyika2015]
+The index highlights where there is room for growth in digital capabilities [@Manyika2015].
 
-Lagging sectors could experience catch-up growth if the long tail of smaller and less digitized businesses begins to close the gap with leading companies. [@Manyika2015]
+Lagging sectors could experience catch-up growth if the long tail of smaller and less digitized businesses begins to close the gap with leading companies [@Manyika2015].
 
-The "have-mores" continue to push the boundaries of digitization, particularly in terms of augmenting what their workers do, while everyone else scrambles to keep up with them. [@Manyika2015]
+The "have-mores" continue to push the boundaries of digitization, particularly in terms of augmenting what their workers do, while everyone else scrambles to keep up with them [@Manyika2015].
 
 Why some sectors went digital sooner ? Four factors shape those outcomes:
 
 - Firm size : larger firms are more digitized
 - Complexity of operations: firms with long supply chains are more digitized
 - Knowledge intensity: firms with a large share of highly educated workers are more digitized
-- Threat of competition : the actual degree of competition is not a factor, but the prospect of competition is, e.g when a sector is becoming deregulated. [@Manyika2015]
+- Threat of competition : the actual degree of competition is not a factor, but the prospect of competition is, e.g when a sector is becoming deregulated [@Manyika2015].
 
 **Digital assets determine competitive advantage**
 
 **Value chains break apart, creating openings for specialization and new competitors**
 
-Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers. [@Manyika2015]
+Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers [@Manyika2015].
 
 **Low marginal costs and network effects create hyperscale advantages**
 
@@ -445,61 +445,61 @@ Digitization allows companies to split jobs into smaller and more specialized ta
 
 **DIGITIZATION CREATES HUGE BENEFITS FOR CONSUMERS AND MORE COMPLEX EFFECTS ON GROWTH AND EMPLOYMENT**
 
-Consumers have captured a huge range of benefits, but there are negative implications for employment and wages. [@Manyika2015]
+Consumers have captured a huge range of benefits, but there are negative implications for employment and wages [@Manyika2015].
 
 **Digitization produces significant benefits to consumers and society**
 
-Consumers have been big winners in the digital economy, although most of this effect does not show up as GDP. Some tech firms are providing free products or services where traditional businesses once charged fees. In these cases, the consumer gains are siphoning value out of industries. [@Manyika2015]
+Consumers have been big winners in the digital economy, although most of this effect does not show up as GDP. Some tech firms are providing free products or services where traditional businesses once charged fees. In these cases, the consumer gains are siphoning value out of industries [@Manyika2015].
 
-Digitization has contributed to rapid GDP and productivity growth in the past, but recent gains are blurred. [@Manyika2015]
+Digitization has contributed to rapid GDP and productivity growth in the past, but recent gains are blurred [@Manyika2015].
 
-In the late 1980s, digital adoption grew in many sectors, and productivity growth soon followed, increasing annually by 1.6 percent, nearly 2.5 times as fast as in the preceding 20 years. This was reflect in GDP, which rose nearly 4 percent per year. [@Manyika2015]
+In the late 1980s, digital adoption grew in many sectors, and productivity growth soon followed, increasing annually by 1.6 percent, nearly 2.5 times as fast as in the preceding 20 years. This was reflect in GDP, which rose nearly 4 percent per year [@Manyika2015].
 
-But after 2005, these effects vanish from the measured statistics. Total productivity growth has fallen by two-thirds since 2005, while real GDP growth has averaged about 2 percent per year. [@Manyika2015]
+But after 2005, these effects vanish from the measured statistics. Total productivity growth has fallen by two-thirds since 2005, while real GDP growth has averaged about 2 percent per year [@Manyika2015].
 
-The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software. Also, it can take several years for large firms (and whole sectors) to make the changes necessary to capture the full benefits of digital investments. [@Manyika2015]
+The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software. Also, it can take several years for large firms (and whole sectors) to make the changes necessary to capture the full benefits of digital investments [@Manyika2015].
 
 **Digitization polarizes the labor market, but can help to address some of its inefficiencies**
 
-BY 2025, THREE EFFECTS OF DIGITIZATION ALONE COULD BOOST GDP BY UP TO \$2.2 TRILLION—BUT THE POSSIBILITIES ARE MUCH WIDER. [@Manyika2015]
+BY 2025, THREE EFFECTS OF DIGITIZATION ALONE COULD BOOST GDP BY UP TO \$2.2 TRILLION—BUT THE POSSIBILITIES ARE MUCH WIDER [@Manyika2015].
 
 **AUTOMATION COULD REDEFINE MANY OCCUPATIONS AND ACCELERATE HISTORICAL RATES OF MIDDLE-SKILL JOB DISPLACEMENT**
 
-Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but it technology creates the need for new roles. [@Manyika2015]
+Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but it technology creates the need for new roles [@Manyika2015].
 
-Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune. [@Manyika2015]
+Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015].
 
-Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates. [@Manyika2015]
+Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates [@Manyika2015].
 
 **COMPANIES HAVE TO ADAPT TO SURVIVE IN THE DIGITAL ECONOMY**
 
-Conversely, this is an empowering moment for entrepreneurs; the barriers to entry have never been lower. [@Manyika2015]
+Conversely, this is an empowering moment for entrepreneurs; the barriers to entry have never been lower [@Manyika2015].
 
 Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being "born digital."
 
-Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. [@Manyika2015]
+Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable [@Manyika2015].
 
-Build—or buy—the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics. [@Manyika2015]
+Build—or buy—the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics [@Manyika2015].
 
-Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity. [@Manyika2015]
+Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity [@Manyika2015].
 
-Take advantage of new innovation models. Replace closed and rigid R&D operations with more open processes. Users, too, can be engaged. [@Manyika2015]
+Take advantage of new innovation models. Replace closed and rigid R&D operations with more open processes. Users, too, can be engaged [@Manyika2015].
 
-Emphasize agility and learning over forecasting and planning. Change continues to accelerate, so long-term forecasting exercises are less relevant. Agility is more critical than ever. Companies need a mindset focused on learning, experimenting, and iterating. [@Manyika2015]
+Emphasize agility and learning over forecasting and planning. Change continues to accelerate, so long-term forecasting exercises are less relevant. Agility is more critical than ever. Companies need a mindset focused on learning, experimenting, and iterating [@Manyika2015].
 
-Think differently about your workforce. Investing in learning programs make more sense than perpetually recruiting. Companies have to create growth opportunities and other incentives for valued employees to stay. [@Manyika2015]
+Think differently about your workforce. Investing in learning programs make more sense than perpetually recruiting. Companies have to create growth opportunities and other incentives for valued employees to stay [@Manyika2015].
 
 **POLICY CHALLENGES INCLUDE BUILDING PHYSICAL AND REGULATORY INFRASTRUCTURE AS WELL AS HELPING THE WORKFORCE TRANSITION**
 
-Governments have a dual challenge. In addition to setting policy, they have significant potential to digitize their own operations. [@Manyika2015]
+Governments have a dual challenge. In addition to setting policy, they have significant potential to digitize their own operations [@Manyika2015].
 
-Encourage participation. Encouraging participation is about encouraging digital literacy and encouraging adoption of digital tools. [@Manyika2015]
+Encourage participation. Encouraging participation is about encouraging digital literacy and encouraging adoption of digital tools [@Manyika2015].
 
-Set the rules of the game, but be prepared to learn and adapt. policy framework will require attention to evolving issues such as privacy. Policy making for a more digital economy requires a new mindset. Ongoing innovation calls for a test-and-learn approach to policy. [@Manyika2015]
+Set the rules of the game, but be prepared to learn and adapt. policy framework will require attention to evolving issues such as privacy. Policy making for a more digital economy requires a new mindset. Ongoing innovation calls for a test-and-learn approach to policy [@Manyika2015].
 
-Help individuals navigate the transition. Policy makers cannot fend off automation, but they can support those who are affected. The first major area for action is skills development. Another major focus area is worker protections, by considering how to modernize the system for delivering benefits. [@Manyika2015]
+Help individuals navigate the transition. Policy makers cannot fend off automation, but they can support those who are affected. The first major area for action is skills development. Another major focus area is worker protections, by considering how to modernize the system for delivering benefits [@Manyika2015].
 
-Keeping up with the relentless pace of digital innovation is both a sprint and a marathon. Individuals will have to keep developing their skills throughout their working lives and adjust to a fast-changing job market. [@Manyika2015]
+Keeping up with the relentless pace of digital innovation is both a sprint and a marathon. Individuals will have to keep developing their skills throughout their working lives and adjust to a fast-changing job market [@Manyika2015].
 
 #### Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
 
@@ -826,22 +826,22 @@ Determinants of first-order dynamic capabilities:
 
 ##### Quotes
 
-The resources-processes-values (RPV) framework offers explanations for why big companies succeed or fail to respond to disruptive innovations, [however] the emphasis in the theory has always been on nontechnology and little attention has been paid to the enabling role of technology in responding to disruptive innovations. [@Karimi2015]
+The resources-processes-values (RPV) framework offers explanations for why big companies succeed or fail to respond to disruptive innovations, [however] the emphasis in the theory has always been on nontechnology and little attention has been paid to the enabling role of technology in responding to disruptive innovations [@Karimi2015].
 
 (1) what are newspaper companies' key RPV factors that create first-order dynamic capabilities for responding to digital disruption?
 (2) what is the role of such capabilities in building digital platform capabilities?
 (3) do digital platform capabilities mediate the impact of first-order dynamic capabilities on the performance of newspaper companies?
 
-Christensen framed disruption as a theory, [but, according to him,] disruptive innovation theory can be further improved by making definitions and measurements more precise, by refining the categories, and by clarifying the mechanism of causality. [@Karimi2015]
+Christensen framed disruption as a theory, [but, according to him,] disruptive innovation theory can be further improved by making definitions and measurements more precise, by refining the categories, and by clarifying the mechanism of causality [@Karimi2015].
 
 Three classes of resources are critical for enabling responses to digital disruption:
 
-- Dedicated financial resources to fund innovation projects. Projects are often seen as unlikely to generate sizable profits, so companies may find it difficult to assign high priorities for those projects. [@Karimi2015]
+- Dedicated financial resources to fund innovation projects. Projects are often seen as unlikely to generate sizable profits, so companies may find it difficult to assign high priorities for those projects [@Karimi2015].
 
-Hypothesis 1: The greater the extent of the first-order dynamic capabilities, the higher a newspaper company's response performance will be in terms of digital revenue generated from all on-line sources. [@Karimi2015]
-Hypothesis 2: The greater the extent of first-order dynamic capabilities, the higher a newspaper company's ability will be to build digital platform capabilities in response to digital disruption. [@Karimi2015]
-Hypothesis 3: The greater the extent of digital platform capabilities, the higher a newspaper company's response performance will be in terms of number of digital non-core products. [@Karimi2015]
-Hypothesis 4: The impact of first-order dynamic capabilities on response performance in terms of number of digital non-core products is mediated by a newspaper company's ability to build digital platform capabilities. [@Karimi2015]
+Hypothesis 1: The greater the extent of the first-order dynamic capabilities, the higher a newspaper company's response performance will be in terms of digital revenue generated from all on-line sources [@Karimi2015].
+Hypothesis 2: The greater the extent of first-order dynamic capabilities, the higher a newspaper company's ability will be to build digital platform capabilities in response to digital disruption [@Karimi2015].
+Hypothesis 3: The greater the extent of digital platform capabilities, the higher a newspaper company's response performance will be in terms of number of digital non-core products [@Karimi2015].
+Hypothesis 4: The impact of first-order dynamic capabilities on response performance in terms of number of digital non-core products is mediated by a newspaper company's ability to build digital platform capabilities [@Karimi2015].
 
 Three research questions were examined in this study:
 (1) What are newspaper companies' key RPV factors that create first-order dynamic capabilities for
@@ -937,55 +937,55 @@ Design capital states and strategies:
 
 ##### Quotes
 
-The market-changing potential of digital technologies is often wider than products, business processes, sales channels or supply chains. Entire business models are being reshaped and frequently overturned. There are many recent examples of organizations that have been unable to keep pace with the new digital reality. [@Hess2016]
-Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider. [@Hess2016]
-The Digital Transformation Framework (DTF) represents a holistic approach to the development of a company-wide digital transformation strategy. A digital transformation strategy identifies the four key dimensions of every digital transformation: Use of technologies, Changes in value creation, Structural changes, Financial aspects. [@Hess2016]
+The market-changing potential of digital technologies is often wider than products, business processes, sales channels or supply chains. Entire business models are being reshaped and frequently overturned. There are many recent examples of organizations that have been unable to keep pace with the new digital reality [@Hess2016].
+Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider [@Hess2016].
+The Digital Transformation Framework (DTF) represents a holistic approach to the development of a company-wide digital transformation strategy. A digital transformation strategy identifies the four key dimensions of every digital transformation: Use of technologies, Changes in value creation, Structural changes, Financial aspects [@Hess2016].
 
 Most IT strategies treat technology in isolation, they often lack the transformational, business-centric orientation needed to realize the potential within a company's business model, products, processes and organizational structures. A digital transformation strategy signposts the way toward digital transformation and guides managers through the transformation process resulting from the integration and use of digital technologies and helps them navigate the complexity and ambiguity of identifying their own digital "sweet spots." [@Hess2016]
 
-We regard size and value focus as crucial dimensions when investigating digital transformation. A firm's main product line will most likely play a crucial role in its digital transformation, because the integration of digital technologies into products is one of the key aspects of digital transformation. [@Hess2016]
+We regard size and value focus as crucial dimensions when investigating digital transformation. A firm's main product line will most likely play a crucial role in its digital transformation, because the integration of digital technologies into products is one of the key aspects of digital transformation [@Hess2016].
 
-To foster the transformation of ideas into new products and services, a dedicated innovation lab was established in 2012. P7S1 generates revenues from its digital products and services both indirectly via advertising and directly via paid content, the sales of virtual goods within online games, or through "freemium" models. Synergies between digital and traditional offerings are actively fostered. [@Hess2016]
-P7S1's pure digital business unit, called "Digital & Adjacent, is led by a board member and is supported strongly by the CEO. The company has also launched a dedicated incubator ("ProSiebenSat.1 Accelerator"). [@Hess2016]
+To foster the transformation of ideas into new products and services, a dedicated innovation lab was established in 2012. P7S1 generates revenues from its digital products and services both indirectly via advertising and directly via paid content, the sales of virtual goods within online games, or through "freemium" models. Synergies between digital and traditional offerings are actively fostered [@Hess2016].
+P7S1's pure digital business unit, called "Digital & Adjacent, is led by a board member and is supported strongly by the CEO. The company has also launched a dedicated incubator ("ProSiebenSat.1 Accelerator") [@Hess2016].
 
-The newspaper publisher MittelBayerische has taken a pragmatic approach to digital technologies. It does not have a department focused on innovation; instead, it introduces established technologies that complement its existing product portfolio. Mittelbayerische believes that the competencies needed for digital transformation should come from within the company and has established a thorough personal development program that helps foster the necessary digital mindset and skill set among existing staff. [@Hess2016]
+The newspaper publisher MittelBayerische has taken a pragmatic approach to digital technologies. It does not have a department focused on innovation; instead, it introduces established technologies that complement its existing product portfolio. Mittelbayerische believes that the competencies needed for digital transformation should come from within the company and has established a thorough personal development program that helps foster the necessary digital mindset and skill set among existing staff [@Hess2016].
 
-Ravensburger Interactive was launched in the 1990s, but was shut down later: activities in this area were too early and were unsuccessful. Ravensburger has entered the e-book and online gaming markets and has begun to develop complementary digital products that enrich its existing analog products. Although IT remains a support function for its core business activities, IT is regarded as a main driver of innovation within the company's digital business unit. Ravensburger has largely refrained from deploying digital technologies on non-content-related business segments and instead has focused on enriching analog products with digital content. Approximately 20% of Ravensburger's digital revenues are generated by these products. New digital products and services that are less closely related to the core business are organized in a dedicated subsidiary called "Ravensburger Digital", deliberately separated from the core business and physically separated from the headquarters to make it more appealing to applicants with different skill sets and to foster innovation. [@Hess2016]
+Ravensburger Interactive was launched in the 1990s, but was shut down later: activities in this area were too early and were unsuccessful. Ravensburger has entered the e-book and online gaming markets and has begun to develop complementary digital products that enrich its existing analog products. Although IT remains a support function for its core business activities, IT is regarded as a main driver of innovation within the company's digital business unit. Ravensburger has largely refrained from deploying digital technologies on non-content-related business segments and instead has focused on enriching analog products with digital content. Approximately 20% of Ravensburger's digital revenues are generated by these products. New digital products and services that are less closely related to the core business are organized in a dedicated subsidiary called "Ravensburger Digital", deliberately separated from the core business and physically separated from the headquarters to make it more appealing to applicants with different skill sets and to foster innovation [@Hess2016].
 
 Use of Technologies Dimension:
 
 - Question 1: How Significant is Your Firm's IT to Achieving Strategic Goals?
   Some firms regard IT as an enabler of new business opportunities. Others, however, use IT to support and fulfill defined business requirements and improvements. Companies with an enabling perspective of IT must carefully monitor digital technologies
 - Question 2: How Ambitious is Your Firm's Approach to New Digital Technologies?
-  Conservative firms may adopt established and widely used technology solutions, while others may deploy new technology solutions at the early stages of their development. A more aggressive approach is to act as an innovator and create and introduce new technology solutions into markets. Firms should consider their existing technological competence, the extent of their technology spending and their size. However, not all media companies have the technological competencies required to become leaders,they should carefully assess their technological ambitions. [@Hess2016]
+  Conservative firms may adopt established and widely used technology solutions, while others may deploy new technology solutions at the early stages of their development. A more aggressive approach is to act as an innovator and create and introduce new technology solutions into markets. Firms should consider their existing technological competence, the extent of their technology spending and their size. However, not all media companies have the technological competencies required to become leaders,they should carefully assess their technological ambitions [@Hess2016].
 
-Changes in Value Creation Dimension: Changes in value creation relate mainly to the degree to which a company has already diversified its business into the digital world, how it plans to generate revenues from digital technologies and to its main business focus after a digital transformation. [@Hess2016]
+Changes in Value Creation Dimension: Changes in value creation relate mainly to the degree to which a company has already diversified its business into the digital world, how it plans to generate revenues from digital technologies and to its main business focus after a digital transformation [@Hess2016].
 
 - Question 3: How "Digital" is Your Interface to the Customer?
-  Many firms want or need to exploit the possibilities of digital technologies and enter new business areas. This means considering how far away it should operate from its traditional core business. The optimal level of diversification is determined by a company's financial background and size. [@Hess2016]
+  Many firms want or need to exploit the possibilities of digital technologies and enter new business areas. This means considering how far away it should operate from its traditional core business. The optimal level of diversification is determined by a company's financial background and size [@Hess2016].
 - Question 4: How Will You Create Revenue from Future Business Operations?
-  Finding new sources of revenue is an indispensable element of a digital transformation strategy. Some companies have tried to overcome constraints by extending their value-chain activities. [@Hess2016]
+  Finding new sources of revenue is an indispensable element of a digital transformation strategy. Some companies have tried to overcome constraints by extending their value-chain activities [@Hess2016].
 - Question 5: What Will Your Future Business Scope Be?
-  Digital technologies may require media companies to rethink the scope of their businesses. Media companies generally maintain their focus on content creation and aggregation, whereas major assets of social media platforms derive from establishing connections between users and profiting from users' content to keep the platforms interesting. In contrast, there are media companies that deliberately shift their product and service portfolios to business areas that are less fundamentally affected by ongoing digital transformation. [@Hess2016]
+  Digital technologies may require media companies to rethink the scope of their businesses. Media companies generally maintain their focus on content creation and aggregation, whereas major assets of social media platforms derive from establishing connections between users and profiting from users' content to keep the platforms interesting. In contrast, there are media companies that deliberately shift their product and service portfolios to business areas that are less fundamentally affected by ongoing digital transformation [@Hess2016].
 - Question 6: Who is in Charge of the Digital Transformation Endeavor?
-  The execution of such a strategy is often delegated to a senior manager. The CIO may also manage the transformation, which is typically the case if the focus is on business processes. [@Hess2016]
+  The execution of such a strategy is often delegated to a senior manager. The CIO may also manage the transformation, which is typically the case if the focus is on business processes [@Hess2016].
 - Question 7: Do You Plan to Integrate New Operations into Existing Structures or Create Separate Entities?
-  Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures. [@Hess2016]
+  Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures [@Hess2016].
 - Question 8: What Types of Operational Changes Do You Expect?
-  New technologies can significantly change the current products and services delivered to customers. Digital technologies can enable changes to business processes. Business processes can be classified as operational, support and management, but the typical focus of digital transformation initiatives is on operational processes. A company must define their processes and assess which of them will be affected by digital transformation. [@Hess2016]
+  New technologies can significantly change the current products and services delivered to customers. Digital technologies can enable changes to business processes. Business processes can be classified as operational, support and management, but the typical focus of digital transformation initiatives is on operational processes. A company must define their processes and assess which of them will be affected by digital transformation [@Hess2016].
 - Question 9: Do You Need to Acquire New Competencies? If so, How Do You Plan to Acquire Them?
-  Managers must carefully assess the firm's existing technology capabilities and identify the new competencies that will be needed. First option is to build on their current capabilities and acquire the required competencies. This approach typically takes time. Another option is to partner with other companies. This approach reduces the risk of failure. If the technological processes required for digital transformation are well structured and not overly complex, outsourcing these processes is another option. But, in the end, retaining the processes and knowledge required for digital transformation in-house means a company can be better positioned to gain a competitive advantage from future digital transformation initiatives. [@Hess2016]
+  Managers must carefully assess the firm's existing technology capabilities and identify the new competencies that will be needed. First option is to build on their current capabilities and acquire the required competencies. This approach typically takes time. Another option is to partner with other companies. This approach reduces the risk of failure. If the technological processes required for digital transformation are well structured and not overly complex, outsourcing these processes is another option. But, in the end, retaining the processes and knowledge required for digital transformation in-house means a company can be better positioned to gain a competitive advantage from future digital transformation initiatives [@Hess2016].
 
-Financial Aspects Dimension: Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action. [@Hess2016]
+Financial Aspects Dimension: Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action [@Hess2016].
 
 - Question 10: How Strong is the Financial Pressure on Your Current Core Business?
-  The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal. [@Hess2016]
+  The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal [@Hess2016].
 - Question 11. How Will You Finance the Digital Transformation Endeavor?
-  If a company is already financially struggling, its options for financing digital transformations will be severely limited. [@Hess2016]
+  If a company is already financially struggling, its options for financing digital transformations will be severely limited [@Hess2016].
 
-For example, the automotive industry has introduced digitally enriched products (such as the "connected car") and new business models (such as free-floating car sharing) and an ongoing automation of product development and production processes. [@Hess2016]
+For example, the automotive industry has introduced digitally enriched products (such as the "connected car") and new business models (such as free-floating car sharing) and an ongoing automation of product development and production processes [@Hess2016].
 
-The most important thing for managers charged with formulating their firms' digital transformation strategies is to know the right questions to ask. [@Hess2016]
+The most important thing for managers charged with formulating their firms' digital transformation strategies is to know the right questions to ask [@Hess2016].
 
 - Use of technologies
   1. Strategic role of IT?
