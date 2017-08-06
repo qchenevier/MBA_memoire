@@ -8,10 +8,10 @@ generate_report="pandoc -N --template=mytemplate.tex --variable mainfont=\""$FON
 
 if eval $generate_report; then
   if ! pgrep -f "qpdfview "$FILE".pdf"; then
-    echo process not found
+    echo qpdfview process not found
     qpdfview "$FILE".pdf &
   else
-    echo process found
+    echo qpdfview process found
     qpdfview_pid=`pgrep -f "qpdfview "$FILE".pdf"`
     xdotool windowactivate `xdotool search --pid "$qpdfview_pid" | tail -1`
   fi
