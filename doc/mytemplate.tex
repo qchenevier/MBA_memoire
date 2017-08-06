@@ -345,13 +345,26 @@ $endfor$
 % DEFAULT CHAPTER IMAGE
 \chapterimage{sources/images/metrofloor.jpg}
 
-
 %----------------------------------------------------------------------------------------
-%	HYPERLINKS IN THE DOCUMENTS
+%	MODIFY TITLE PAGE TO ADD A PICTURE
 %----------------------------------------------------------------------------------------
 
-% \hypersetup{colorlinks=templatecolor,breaklinks=true,urlcolor= templatecolor}
-% \hypersetup{hidelinks,colorlinks=false,breaklinks=true,urlcolor= templatecolor,bookmarksopen=false,pdftitle={Title},pdfauthor={Author}}
+\usepackage{titling}
+
+\setlength{\droptitle}{25em}
+
+\pretitle{%
+  \begin{tikzpicture}[remember picture,overlay]
+  \node at (current page.north west) {
+    \begin{tikzpicture}[remember picture,overlay]
+    \node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[width=\paperwidth]{sources/images/peoplewithview.jpg}};
+    \end{tikzpicture}
+  };
+  \end{tikzpicture}
+  \begin{center}
+    \LARGE
+}
+\posttitle{\end{center}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 
