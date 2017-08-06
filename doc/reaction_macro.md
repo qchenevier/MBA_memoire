@@ -5,6 +5,11 @@
 <!-- How is moving the market? -->
 <!-- How do you restructure your company? -->
 
+
+@Perez2004 analyses each techno-economic paradigm through three inter-related levels:
+- New "best practice" model : flexible organizational model
+- New "common sense" principles for organizational & institutional design : decentralization, networking, continuous improvement, users/stakeholders involvement in the organization
+
 Platforms to connect to consumers: to reach new audiences through building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses [@Karimi2015].
 
 Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].

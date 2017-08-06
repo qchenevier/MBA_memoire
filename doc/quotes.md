@@ -384,6 +384,8 @@ Labor:
 
 **In brief**
 
+Today the race is on to capture value from data analytics and the Internet of Things, but there is no finish line : Digitization involves continuously experimenting and adapting [@Manyika2015].
+
 The most explosive growth is now in usage [@Manyika2015].
 
 Most sectors across the economy are less than 15 percent as digitized as the leading sectors [@Manyika2015].

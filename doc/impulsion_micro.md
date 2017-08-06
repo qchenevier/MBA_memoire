@@ -13,6 +13,10 @@ Each technological revolution has its key factor :
 
 In each case, the "key factor" steers engineering and investment decisions towards its intensive use [@Perez2004].
 
+Each techno-economic paradigm is constructed on three inter-related levels [@Perez2004]:
+
+- New technology systems : microelectronics, software & telecommunications
+
 Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015].
 
 In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available [@Bharadwaj2013].
