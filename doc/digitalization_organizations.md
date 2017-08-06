@@ -7,6 +7,7 @@ sansfont: DejaVu Sans
 monofont: DejaVu Sans Mono
 fontsize: 10pt
 link-citations: true
+templatecolor: 216, 63, 36
 output:
   pdf_document:
     template: /home/quentin/documents/MBA/3_devoirs/memoire/doc/my_template.tex
@@ -33,6 +34,8 @@ reaction_macro.md
 reaction_micro.md
 ```
 
+\chapterimage{sources/images/balconies.jpg}
+
 # Implement your strategy / Execute your response
 
 ## Build your Roadmap
@@ -44,8 +47,12 @@ reaction_micro.md
 
 <!-- Deloitte updated -->
 
+\chapterimage{sources/images/abstractarchi.jpg}
+
 ``` include
 quotes.md
 ```
 
-### Bibliography
+\chapterimage{sources/images/womanalone.jpg}
+
+# Bibliography

@@ -71,14 +71,24 @@ $endif$
 \else
   \usepackage[unicode=true]{hyperref}
 \fi
+
+%%%%%%%%%%%%%%%%%%%%%%%% MY STYLE
+
+% DEFINE templatecolor COLOR
+\usepackage{xcolor} % Required for specifying colors by name
+% \definecolor{templatecolor}{RGB}{243,102,25} % Define the orange color used for highlighting throughout the book
+\definecolor{templatecolor}{RGB}{$if(templatecolor)$$templatecolor$$else$243,102,25$endif$} % Define the orange color used for highlighting throughout the book
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+
 \hypersetup{breaklinks=true,
             bookmarks=true,
             pdfauthor={$author-meta$},
             pdftitle={$title-meta$},
             colorlinks=true,
-            citecolor=$if(citecolor)$$citecolor$$else$blue$endif$,
-            urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
-            linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
+            citecolor=$if(citecolor)$$citecolor$$else$templatecolor$endif$,
+            urlcolor=$if(urlcolor)$$urlcolor$$else$templatecolor$endif$,
+            linkcolor=$if(linkcolor)$$linkcolor$$else$templatecolor$endif$,
             pdfborder={0 0 0}}
 \urlstyle{same}  % don't use monospace font for urls
 \usepackage{fancyhdr}
@@ -188,14 +198,14 @@ $endfor$
 
 %%%%%%%%%%%%%%%%%%%%%%%% MY STYLE
 
-% DEFINE ocre COLOR
-\usepackage{xcolor} % Required for specifying colors by name
-\definecolor{ocre}{RGB}{243,102,25} % Define the orange color used for highlighting throughout the book
+% DEFINE templatecolor COLOR
+% \usepackage{xcolor} % Required for specifying colors by name
+% \definecolor{templatecolor}{RGB}{243,102,25} % Define the orange color used for highlighting throughout the book
 
 %	SECTION NUMBERING IN THE MARGIN
 \makeatletter
 \renewcommand{\@seccntformat}[1]{
-  \llap{\textcolor{ocre}{\csname the#1\endcsname}\hspace{1em}}
+  \llap{\textcolor{templatecolor}{\csname the#1\endcsname}\hspace{1em}}
 }
 \makeatother
 
@@ -224,9 +234,9 @@ $endfor$
 % Chapter text styling
 \titlecontents{chapter}[1.25cm] % Indentation
 {\addvspace{12pt}\large\sffamily\bfseries} % Spacing and font options for chapters
-{\color{ocre!60}\contentslabel[\Large\thecontentslabel]{1.25cm}\color{ocre}} % Chapter number
-{\color{ocre}}
-{\color{ocre!60}\normalsize\;\titlerule*[.5pc]{.}\;\thecontentspage} % Page number
+{\color{templatecolor!60}\contentslabel[\Large\thecontentslabel]{1.25cm}\color{templatecolor}} % Chapter number
+{\color{templatecolor}}
+{\color{templatecolor!60}\normalsize\;\titlerule*[.5pc]{.}\;\thecontentspage} % Page number
 
 % Section text styling
 \titlecontents{section}[1.25cm] % Indentation
@@ -297,7 +307,7 @@ $endfor$
         \node at (current page.north west) {
           \begin{tikzpicture}[remember picture,overlay]
           \node[anchor=north west,inner sep=0pt] at (0,0) {\ifusechapterimage\includegraphics[width=\paperwidth]{\thechapterimage}\fi};
-          \draw[anchor=west] (\Gm@lmargin,-9cm) node [line width=2pt,rounded corners=15pt,draw=ocre,fill=white,fill opacity=0.8,inner sep=15pt]{\strut\makebox[22cm]{}};
+          \draw[anchor=west] (\Gm@lmargin,-9cm) node [line width=2pt,rounded corners=15pt,draw=templatecolor,fill=white,fill opacity=0.8,inner sep=15pt]{\strut\makebox[22cm]{}};
           \draw[anchor=west] (\Gm@lmargin+.3cm,-9cm) node {\huge\sffamily\bfseries\color{black}\thechapter. #1\strut};
           \end{tikzpicture}
         };
@@ -307,7 +317,7 @@ $endfor$
         \node at (current page.north west)
         {\begin{tikzpicture}[remember picture,overlay]
         \node[anchor=north west,inner sep=0pt] at (0,0) {\ifusechapterimage\includegraphics[width=\paperwidth]{\thechapterimage}\fi};
-        \draw[anchor=west] (\Gm@lmargin,-9cm) node [line width=2pt,rounded corners=15pt,draw=ocre,fill=white,fill opacity=0.8,inner sep=15pt]{\strut\makebox[22cm]{}};
+        \draw[anchor=west] (\Gm@lmargin,-9cm) node [line width=2pt,rounded corners=15pt,draw=templatecolor,fill=white,fill opacity=0.8,inner sep=15pt]{\strut\makebox[22cm]{}};
         \draw[anchor=west] (\Gm@lmargin+.3cm,-9cm) node {\huge\sffamily\bfseries\color{black}#1\strut};
         \end{tikzpicture}};
         \end{tikzpicture}
@@ -322,7 +332,7 @@ $endfor$
   \node at (current page.north west) {
     \begin{tikzpicture}[remember picture,overlay]
     \node[anchor=north west,inner sep=0pt] at (0,0) {\ifusechapterimage\includegraphics[width=\paperwidth]{\thechapterimage}\fi};
-    \draw[anchor=west] (\Gm@lmargin,-9cm) node [line width=2pt, rounded corners=15pt, draw=ocre, fill=white, fill opacity=0.8, inner sep=15pt]{\strut\makebox[22cm]{}};
+    \draw[anchor=west] (\Gm@lmargin,-9cm) node [line width=2pt, rounded corners=15pt, draw=templatecolor, fill=white, fill opacity=0.8, inner sep=15pt]{\strut\makebox[22cm]{}};
     \draw[anchor=west] (\Gm@lmargin+.3cm,-9cm) node {\huge\sffamily\bfseries\color{black}#1\strut};
     \end{tikzpicture}
   };
@@ -334,6 +344,14 @@ $endfor$
 
 % DEFAULT CHAPTER IMAGE
 \chapterimage{sources/images/metrofloor.jpg}
+
+
+%----------------------------------------------------------------------------------------
+%	HYPERLINKS IN THE DOCUMENTS
+%----------------------------------------------------------------------------------------
+
+% \hypersetup{colorlinks=templatecolor,breaklinks=true,urlcolor= templatecolor}
+% \hypersetup{hidelinks,colorlinks=false,breaklinks=true,urlcolor= templatecolor,bookmarksopen=false,pdftitle={Title},pdfauthor={Author}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 
