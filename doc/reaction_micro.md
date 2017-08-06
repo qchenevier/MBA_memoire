@@ -4,6 +4,8 @@
 <!-- What competencies do you need and where? -->
 <!-- What is the role of the executive for this to succeed? -->
 
+There is a creation of new occupations : skills and continuous learning matter more than ever. [@Manyika2015]
+
 **Transforming customer experience:**
 
 **Customer understanding:** Firms are exploring social media to understand customer satisfiers and dissatisfiers. Companies are learning to promote their brands more effectively through digital media: social media campaign, educational digital tools, building new on-line communities. Firms are building analytics capability to understand customers and actively conducting experiments in pricing and promotion. [@Westerman2011]

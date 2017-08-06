@@ -1,5 +1,5 @@
 
-# Sources (Quotes to move to parts)
+# Sources (Quotes to move to parts) {-}
 
 #### Customer intimacy and other value disciplines [@Treacy1993]
 
@@ -73,15 +73,13 @@ In this article, an analysis of the paradigm shift (_oil age to information age_
 
 ##### Quotes
 
-_The 1990's are times of uncertainty. In each country, centrifugal trends generate unprecedented growth and wealth, at one end, and increasing poverty, deterioration and degradation, at the other. Basically, the present period is defined as one of transition between two distinct technological styles -or techno-economic paradigms- and at the same time as the period of construction of a new mode of growth. Long waves of technological change affect the whole system, the entire structure of society, worldwide._
-
 The long term fluctuations that we call long waves result of successive couplings and decouplings of two spheres of the system: the techno-economic and the socio-institutional. When a good coupling is achieved between those two spheres, there is a long period of two or three decades of stable growth, perceived as times of prosperity. When a decoupling occurs, it results in equally long periods of irregular growth, recessions and depressions, perceived as bad times.
 
-There are mechanisms inherent to the way technologies diffuse which result in technological revolutions or changes of paradigm every fifty or sixty years. This results in long term patterns of continuity and discontinuity in the techno-economic sphere which require matching transformations at the socio-institutional level. With each technological revolution, it takes decades to reestablish the coherence of the total system. But, once the good match is achieved, a period of prosperity ensues.
+With each technological revolution, it takes decades to reestablish the coherence of the total system. But, once the good match is achieved, a period of prosperity ensues.
 
 **UNDERSTANDING TECHNOLOGY AND ITS MODE OF EVOLUTION**
 
-_Technical change is a complex social process involving technical, economic, social and institutional factors in a mesh of interactions._ The invention of a new product occurs within the techno-scientific sphere. An innovation is when this invention becomes an economic fact. The first commercial introduction of an innovation transfers it into the techno-economic sphere. The fact with the most far-reaching social consequences is the process of massive adoption.
+The invention of a new product occurs within the techno-scientific sphere. An innovation is when this invention becomes an economic fact. The first commercial introduction of an innovation transfers it into the techno-economic sphere. The fact with the most far-reaching social consequences is the process of massive adoption.
 
 Incremental innovations are successive improvements upon existing products and processes. The course of incremental change is relatively predictable. _A radical innovation, by contrast, is the introduction of a truly new product or process. They can be introduced at any point in time cutting short the life cycle of the products or processes they substitute._
 
@@ -148,7 +146,9 @@ _Those who had vast experience in applying the old principles find themselves fo
 
 **STRUCTURAL CHANGE IN THE ECONOMY AND SOCIO-INSTITUTIONAL INERTIA**
 
-The existing institutions take a long time to grasp the transformations taking place. The new technologies are very visible indeed, but their consequences take a long time to reach public awareness. The general framework of socioeconomic regulation has a natural inertia. As a result, the social consequences of each transition are vast and profound, as is the human suffering. They involve widespread unemployment; the obsolescence of qualifications at all levels, the geographic dislocation of people and activities; the growth of rapid wealth at one end and of growing poverty at the other. It is then that the social pressure for change is clearly felt. So, during paradigm transitions, there are very intense transformations in technology and the economy and a high level of inertia and confusion in the socio-institutional sphere. Thus, long wave transitions are processes of "creative destruction".
+The existing institutions take a long time to grasp the transformations taking place. The new technologies are very visible indeed, but their consequences take a long time to reach public awareness.
+
+It is then that the social pressure for change is clearly felt.  Thus, long wave transitions are processes of "creative destruction".
 
 Last time around, to overcome the great depression of the 1930's, it was necessary to surmount the prevailing notions about the superiority of free market mechanisms and accept the establishment of massive and systematic State intervention in the economy, generally following Keynesian principles. Today, almost every one of these innovations, relatively effective and widely accepted until the 1970's, is under question.
 
@@ -384,154 +384,122 @@ Labor:
 
 **In brief**
 
-The United States is digitizing so rapidly that most users are scrambling to adapt. Digitization is happening unevenly, and users with advanced digital capabilities are capturing disproportionate benefits.
+The most explosive growth is now in usage. [@Manyika2015]
 
-The most explosive growth is now in usage.
+Most sectors across the economy are less than 15 percent as digitized as the leading sectors. [@Manyika2015]
 
-Most sectors across the economy are less than 15 percent as digitized as the leading sectors.
+Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect. [@Manyika2015]
 
-Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect.
-
-Currently, there are three big areas of potential : online talent platforms, big data analytics, and the Internet of Things.
-
-There will be more economic dislocation : the day-to-day nature of work will change, companies redefine many roles and job displacement rates could accelerate sharply over the next decade.
-
-Today the race is on to capture value from data analytics and the Internet of Things, but there is no finish line : Digitization involves continuously experimenting and adapting.
+Currently, there are three big areas of potential : online talent platforms, big data analytics, and the Internet of Things. [@Manyika2015]
 
 **Executive summary**
 
-There is a persistent gap between the digital "haves" and "have-mores". True disruptors are even gaining the ability to reshape industries to their own advantage. Also, the workers with the most sophisticated digital skills are the "have-mores".
+There is a persistent gap between the digital "haves" and "have-mores". True disruptors are even gaining the ability to reshape industries to their own advantage. Also, the workers with the most sophisticated digital skills are the "have-mores". [@Manyika2015]
 
-Usage is exploding as companies build new types of digital assets, putting powerful tools in the hands of employees and devising new ways of working.
+Usage is exploding as companies build new types of digital assets, putting powerful tools in the hands of employees and devising new ways of working. [@Manyika2015]
 
-Despite a rush of adoption, most sectors have barely closed the gap over the past decade. Companies will redefine many roles, and the rate of job displacement could accelerate sharply. It needs more than a business-as-usual approach to skills development.
+Despite a rush of adoption, most sectors have barely closed the gap over the past decade. Companies will redefine many roles, and the rate of job displacement could accelerate sharply. It needs more than a business-as-usual approach to skills development. [@Manyika2015]
 
-The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines.
+The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines. [@Manyika2015]
 
-Digitization, like electricity, is a general-purpose technology that underpins a huge share of economic activity beyond the sector that supplies it.
+Digitization, like electricity, is a general-purpose technology that underpins a huge share of economic activity beyond the sector that supplies it. [@Manyika2015]
 
 **THE DIGITAL FRONTIER IS RAPIDLY EVOLVING, AND THOSE AT THE FOREFRONT CAPTURE DISPROPORTIONATE REWARDS**
 
-Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it.
+At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic. [@Manyika2015]
 
-Also a new and more pervasive dynamic appears to be at work : the gap between the digital "haves" and "have-mores" is growing as the most advanced users pull away from everyone else.
-
-At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic.
-
-For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects.
+For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects. [@Manyika2015]
 
 **SOME INDUSTRIES AND COMPANIES ARE MORE DIGITIZED THAN OTHERS**
 
-The real value lies in combining digital assets and capabilities with ingenuity.
+The real value lies in combining digital assets and capabilities with ingenuity. [@Manyika2015]
 
 The MGI Industry Digitization Index examines sectors across the economy through the lens of digital assets, digital usage, and digital workers by considering several indicators:
 
 - Spending on computers, software & telecom, share of assets such as robots and connected cars
 - Usage of digital payments, digital marketing, social technologies and CRM
-- Share of task description with digital technologies and digital spending and assets per worker.
+- Share of task description with digital technologies and digital spending and assets per worker. [@Manyika2015]
 
-The index highlights where there is room for growth in digital capabilities.
+The index highlights where there is room for growth in digital capabilities. [@Manyika2015]
 
-Lagging sectors could experience catch-up growth if the long tail of smaller and less digitized businesses begins to close the gap with leading companies.
+Lagging sectors could experience catch-up growth if the long tail of smaller and less digitized businesses begins to close the gap with leading companies. [@Manyika2015]
 
-The "have-mores" continue to push the boundaries of digitization, particularly in terms of augmenting what their workers do, while everyone else scrambles to keep up with them.
+The "have-mores" continue to push the boundaries of digitization, particularly in terms of augmenting what their workers do, while everyone else scrambles to keep up with them. [@Manyika2015]
 
 Why some sectors went digital sooner ? Four factors shape those outcomes:
 
 - Firm size : larger firms are more digitized
 - Complexity of operations: firms with long supply chains are more digitized
 - Knowledge intensity: firms with a large share of highly educated workers are more digitized
-- Threat of competition : the actual degree of competition is not a factor, but the prospect of competition is, e.g when a sector is becoming deregulated.
+- Threat of competition : the actual degree of competition is not a factor, but the prospect of competition is, e.g when a sector is becoming deregulated. [@Manyika2015]
 
 **Digital assets determine competitive advantage**
 
-Consider the automotive industry, Consumers now save time by comparing vehicles on-line and their on-line activity leaves a data trail that dealers can use.
-
-Information becomes widely available, disrupting traditional intermediaries
-
-Value is shifting from physical intermediaries and asset holders to digital intermediaries and to consumers.
-
 **Value chains break apart, creating openings for specialization and new competitors**
 
-Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers.
+Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers. [@Manyika2015]
 
 **Low marginal costs and network effects create hyperscale advantages**
 
-While physical processes have high marginal costs, low-marginal-cost economics and platform architecture has allowed the most successful high-tech firms to achieve a scale that was once impossible. The power of platform economics is reflected in the gross margins, which can run as high as 80 percent.
-
 **Industry boundaries become blurred**
-
-Once digital players have established themselves as leaders in one market, they have a striking ability to move into new areas.
-
-Amazon went from selling books to selling every retail and a self-publishing platform and a cloud-based business service.
-
-Google went from internet search to longevity and biotech research, smart home products, venture capital investing and high-speed internet fiber services.
 
 **DIGITIZATION CREATES HUGE BENEFITS FOR CONSUMERS AND MORE COMPLEX EFFECTS ON GROWTH AND EMPLOYMENT**
 
-Consumers have captured a huge range of benefits, but there are negative implications for employment and wages.
+Consumers have captured a huge range of benefits, but there are negative implications for employment and wages. [@Manyika2015]
 
 **Digitization produces significant benefits to consumers and society**
 
-Consumers have been big winners in the digital economy, although most of this effect does not show up as GDP. Some tech firms are providing free products or services where traditional businesses once charged fees. In these cases, the consumer gains are siphoning value out of industries.
+Consumers have been big winners in the digital economy, although most of this effect does not show up as GDP. Some tech firms are providing free products or services where traditional businesses once charged fees. In these cases, the consumer gains are siphoning value out of industries. [@Manyika2015]
 
-Digitization has contributed to rapid GDP and productivity growth in the past, but recent gains are blurred.
+Digitization has contributed to rapid GDP and productivity growth in the past, but recent gains are blurred. [@Manyika2015]
 
-In the late 1980s, digital adoption grew in many sectors, and productivity growth soon followed, increasing annually by 1.6 percent, nearly 2.5 times as fast as in the preceding 20 years. This was reflect in GDP, which rose nearly 4 percent per year.
+In the late 1980s, digital adoption grew in many sectors, and productivity growth soon followed, increasing annually by 1.6 percent, nearly 2.5 times as fast as in the preceding 20 years. This was reflect in GDP, which rose nearly 4 percent per year. [@Manyika2015]
 
-But after 2005, these effects vanish from the measured statistics. Total productivity growth has fallen by two-thirds since 2005, while real GDP growth has averaged about 2 percent per year.
+But after 2005, these effects vanish from the measured statistics. Total productivity growth has fallen by two-thirds since 2005, while real GDP growth has averaged about 2 percent per year. [@Manyika2015]
 
-The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software. Also, it can take several years for large firms (and whole sectors) to make the changes necessary to capture the full benefits of digital investments.
+The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software. Also, it can take several years for large firms (and whole sectors) to make the changes necessary to capture the full benefits of digital investments. [@Manyika2015]
 
 **Digitization polarizes the labor market, but can help to address some of its inefficiencies**
 
-Digitization has contributed to increasingly jobless recoveries from recessions. The postwar US economy took roughly six months to recover lost jobs after every recession. But it took 15 months to restore lost jobs after the 1991 recession, 39 months after 2001, and 43 months after 2008.
-
-Digitization has contributed to hollowing out the middle-skill portion of the US workforce. Since 2000, the US has created 8 million jobs : only low-skill interactive jobs or high-skill interactive jobs. Whereas, 2.5 million production and transaction jobs have been destroyed.
-
-In terms of wages, digitization has accelerated a divergence between the majority of workers and a smaller group at the top. And, since 1980, labor productivity has grown 2.5 times faster than wages, breaking historical patterns.
-
-There is a creation of new occupations : skills and continuous learning matter more than ever.
-
-BY 2025, THREE EFFECTS OF DIGITIZATION ALONE COULD BOOST GDP BY UP TO \$2.2 TRILLION—BUT THE POSSIBILITIES ARE MUCH WIDER.
+BY 2025, THREE EFFECTS OF DIGITIZATION ALONE COULD BOOST GDP BY UP TO \$2.2 TRILLION—BUT THE POSSIBILITIES ARE MUCH WIDER. [@Manyika2015]
 
 **AUTOMATION COULD REDEFINE MANY OCCUPATIONS AND ACCELERATE HISTORICAL RATES OF MIDDLE-SKILL JOB DISPLACEMENT**
 
-Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but it technology creates the need for new roles.
+Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but it technology creates the need for new roles. [@Manyika2015]
 
-Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune.
+Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune. [@Manyika2015]
 
-Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates.
+Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates. [@Manyika2015]
 
 **COMPANIES HAVE TO ADAPT TO SURVIVE IN THE DIGITAL ECONOMY**
 
-Conversely, this is an empowering moment for entrepreneurs; the barriers to entry have never been lower.
+Conversely, this is an empowering moment for entrepreneurs; the barriers to entry have never been lower. [@Manyika2015]
 
 Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being "born digital."
 
-Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable.
+Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. [@Manyika2015]
 
-Build—or buy—the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics.
+Build—or buy—the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics. [@Manyika2015]
 
-Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity.
+Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity. [@Manyika2015]
 
-Take advantage of new innovation models. Replace closed and rigid R&D operations with more open processes. Users, too, can be engaged.
+Take advantage of new innovation models. Replace closed and rigid R&D operations with more open processes. Users, too, can be engaged. [@Manyika2015]
 
-Emphasize agility and learning over forecasting and planning. Change continues to accelerate, so long-term forecasting exercises are less relevant. Agility is more critical than ever. Companies need a mindset focused on learning, experimenting, and iterating.
+Emphasize agility and learning over forecasting and planning. Change continues to accelerate, so long-term forecasting exercises are less relevant. Agility is more critical than ever. Companies need a mindset focused on learning, experimenting, and iterating. [@Manyika2015]
 
-Think differently about your workforce. Investing in learning programs make more sense than perpetually recruiting. Companies have to create growth opportunities and other incentives for valued employees to stay.
+Think differently about your workforce. Investing in learning programs make more sense than perpetually recruiting. Companies have to create growth opportunities and other incentives for valued employees to stay. [@Manyika2015]
 
 **POLICY CHALLENGES INCLUDE BUILDING PHYSICAL AND REGULATORY INFRASTRUCTURE AS WELL AS HELPING THE WORKFORCE TRANSITION**
 
-Governments have a dual challenge. In addition to setting policy, they have significant potential to digitize their own operations.
+Governments have a dual challenge. In addition to setting policy, they have significant potential to digitize their own operations. [@Manyika2015]
 
-Encourage participation. Encouraging participation is about encouraging digital literacy and encouraging adoption of digital tools.
+Encourage participation. Encouraging participation is about encouraging digital literacy and encouraging adoption of digital tools. [@Manyika2015]
 
-Set the rules of the game, but be prepared to learn and adapt. policy framework will require attention to evolving issues such as privacy. Policy making for a more digital economy requires a new mindset. Ongoing innovation calls for a test-and-learn approach to policy.
+Set the rules of the game, but be prepared to learn and adapt. policy framework will require attention to evolving issues such as privacy. Policy making for a more digital economy requires a new mindset. Ongoing innovation calls for a test-and-learn approach to policy. [@Manyika2015]
 
-Help individuals navigate the transition. Policy makers cannot fend off automation, but they can support those who are affected. The first major area for action is skills development. Another major focus area is worker protections, by considering how to modernize the system for delivering benefits.
+Help individuals navigate the transition. Policy makers cannot fend off automation, but they can support those who are affected. The first major area for action is skills development. Another major focus area is worker protections, by considering how to modernize the system for delivering benefits. [@Manyika2015]
 
-Keeping up with the relentless pace of digital innovation is both a sprint and a marathon. Individuals will have to keep developing their skills throughout their working lives and adjust to a fast-changing job market.
+Keeping up with the relentless pace of digital innovation is both a sprint and a marathon. Individuals will have to keep developing their skills throughout their working lives and adjust to a fast-changing job market. [@Manyika2015]
 
 #### Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
 

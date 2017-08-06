@@ -4,6 +4,17 @@
 
 #### Data & Computing everywhere
 
+Each technological revolution has its key factor :
+
+- Railways & the steam engine: cheap coal
+- Electricity, heavy chemistry and heavy civil engineering: cheap steel
+- Asphalt roads and automobiles: cheap petroleum
+- Information & telecommunications: cheap electronic chips.
+
+In each case, the "key factor" steers engineering and investment decisions towards its intensive use. [@Perez2004]
+
+Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it. [@Manyika2015]
+
 In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available. [@Bharadwaj2013]
 
 The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web). [@Bharadwaj2013]
@@ -19,7 +30,11 @@ Information goods, powerful computing devices, and inexpensive digital communica
 
 ### Digital technologies & Physical labor: automation / robotics / 3D printing / Additive manufacturing
 
-**_No References yet_**
+Digitization has contributed to increasingly jobless recoveries from recessions. The postwar US economy took roughly six months to recover lost jobs after every recession. But it took 15 months to restore lost jobs after the 1991 recession, 39 months after 2001, and 43 months after 2008. [@Manyika2015]
+
+Digitization has contributed to hollowing out the middle-skill portion of the US workforce. Since 2000, the US has created 8 million jobs : only low-skill interactive jobs or high-skill interactive jobs. Whereas, 2.5 million production and transaction jobs have been destroyed. [@Manyika2015]
+
+In terms of wages, digitization has accelerated a divergence between the majority of workers and a smaller group at the top. And, since 1980, labor productivity has grown 2.5 times faster than wages, breaking historical patterns. [@Manyika2015]
 
 ### Digital technologies & Knowledge labor: analytics / AI / deep learning
 
@@ -73,7 +88,7 @@ Beware: activity that can be off-shored are different than activity that can be 
 
 ### People change
 
-#### Competition for attention: People expect a dialogue
+#### Competition for attention: People want simpler interactions
 
 Innovations create indirect substitutes for consumer time, attention, and money. [@Gimpel2012]
 

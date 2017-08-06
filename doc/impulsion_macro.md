@@ -4,6 +4,18 @@
 <!-- Why some assets have less value than before? What assets are dealuating quickly? -->
 <!-- How are you organized? -->
 
+While physical processes have high marginal costs, low-marginal-cost economics and platform architecture has allowed the most successful high-tech firms to achieve a scale that was once impossible. The power of platform economics is reflected in the gross margins, which can run as high as 80 percent. [@Manyika2015]
+
+Once digital players have established themselves as leaders in one market, they have a striking ability to move into new areas. [@Manyika2015]
+
+Amazon went from selling books to selling every retail and a self-publishing platform and a cloud-based business service. [@Manyika2015]
+
+Google went from internet search to longevity and biotech research, smart home products, venture capital investing and high-speed internet fiber services. [@Manyika2015]
+
+Consider the automotive industry, Consumers now save time by comparing vehicles on-line and their on-line activity leaves a data trail that dealers can use. [@Manyika2015]
+
+Information becomes widely available, disrupting traditional intermediaries: Value is shifting from physical intermediaries and asset holders to digital intermediaries and to consumers. [@Manyika2015]
+
 The complex patterns of dynamic interdependencies among environmental turbulence, dynamic capabilities, and IT systems have resulted in the phenomenon called "digital ecodynamics". [@ElSawy2010]
 
 The digital technologies underlying competitive threats may not be new, but they are being used to new effect. The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors. [@Hirt2014]
