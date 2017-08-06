@@ -16,6 +16,14 @@ output:
     latex_engine: xelatex
 ...
 
+\chapterimage{sources/images/metrofloor.jpg}
+
+# Introduction {-}
+
+``` include
+introduction.md
+```
+
 \chapterimage{sources/images/manjumping.jpg}
 
 # Impulsion
