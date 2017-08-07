@@ -5,7 +5,7 @@
 <!-- How is moving the market? -->
 <!-- How do you restructure your company? -->
 
-#### Convergence IT and business
+### Convergence IT and business
 
 Over time, as firms and industries become more digital and rely on information, communication, and connectivity functionality, we envision that digital business strategy will be the business strategy. At that juncture, there would be no separation between business strategy and digital business strategy. (link with [@Perez2004] with _old vs new common sense_) [@Bharadwaj2013]
 
@@ -21,7 +21,7 @@ Digital business strategy can be viewed as being inherently transfunctional, wit
 
 - **Business and IT integration:** Companies with a history of strained IT and business relationships are handicapped when trying to conduct digital transformation, because of complex IT architectures, unintegrated data, and processes that are not well-enabled through technology. In contrast, companies with a solid IT-business relationship are in a solid position to begin digital transformation. Where strong relationships exist, executives on both sides of the relationship are willing to be flexible in creating new governance mechanisms or digital units without feeling threatened. In most firms, digital transformation is being led by CIOs. Other companies place responsibility for digital in another unit or executive who works closely with the CIO. Another solution is to hire a second CIO to focus on transformation-related activities, working in concert with the CIO who stays focused on keeping the firms' existing platform functional [@Westerman2011].
 
-#### Organizational aims
+### Organizational aims
 
 @Perez2004 analyses each techno-economic paradigm through three inter-related levels:
 - New "best practice" model : flexible organizational model
@@ -29,13 +29,13 @@ Digital business strategy can be viewed as being inherently transfunctional, wit
 
 Speed of Decision Making: technology has allowed firms to speed up decisions that otherwise might be slowed due to information flows up and down the hierarchy through multiple layers of management. Leading companies have invested significantly to provide the capability to access diverse streams of information. Slowness in response could mean customers moving away from companies perceived as being out of tune with the new reality. But there are enormous challenges to access, process, and analyze the massive amounts of data that accumulate as a natural by-product of routine transactions. As companies make investments to process increased amounts of data, we find that few have made corresponding investments in the organizational processes to drive business value from data and information. The value lies not in investing in technology but in how increased access to information drives faster and more effective decisions [@Bharadwaj2013].
 
-#### Adapt your transformation speed
+### Adapt your transformation speed
 
 Firms are experiencing different digital transformation speeds and different results:
 Very few businesses are gaining the full value of technologically-enabled change. Manufacturers' ERP systems have improved process efficiency and are providing better financial data for strategic decisions, but companies have not yet retrained buyers in how to use the information in negotiating with suppliers [@Westerman2011].
 Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience [@Westerman2011].
 
-#### Asses the new potential value of your assets
+### Asses the new potential value of your assets
 
 Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
 
@@ -46,7 +46,7 @@ Newspaper companies often have extensive local data about institutions, business
 
 We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy.  [@Bharadwaj2013]
 
-#### Platforms that create value through building connections
+### Platforms that create value through building connections
 
 The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
 
@@ -60,7 +60,7 @@ Rather than investing in the status quo, resources need to be appropriately allo
 
 Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
 
-#### Leadership & Vision
+### Leadership & Vision
 
 Successful digital transformation comes not from implementing new technologies but from transforming your organization transformation initiatives are centered on re-envisioning customer experience, operational processes and business models. Digital Transformation does not happen bottom up. It must be driven from the top [@Westerman2011].
 
@@ -70,7 +70,7 @@ Despite the hype around innovative digital technologies, most companies still ha
 
 - **Lack of impetus:** Impetus often starts at the very top of the firm. Skepticism can result in bureaucratic investment processes that prevent the firm from engaging in useful digitally enabled experiments and business changes. "We've always been fairly slow in adopting technology because we more or less have the ambition of not being first, but we have become even slower at the same time that technology development has been speeding up." If the company is not experiencing pain, the perceived risk of change may outweigh the potential benefits in the minds of many executives [@Westerman2011].
 
-#### Business-model shift: from product catalog to service catalog to customized service or partnership
+### Business-model shift: from product catalog to service catalog to customized service or partnership
 
 (1) first-order dynamic capabilities have a direct association with building digital platform capabilities and with newspaper companies' response to digital disruption in terms of revenue generated from all on-line sources [@Karimi2015]
 (2) digital platform capabilities mediate the relationship between first-order dynamic capabilities and newspaper companies' response performance in terms of number of non-core products [@Karimi2015].
@@ -78,7 +78,7 @@ Despite the hype around innovative digital technologies, most companies still ha
 - **Digitally-modified businesses:** Some firms are finding ways to augment physical with digital offerings. Other firms are staying true to their traditional business, but using digital to transform a new growth business through e-commerce platforms. Other firms are building digital or service wrappers around traditional products [@Westerman2011].
 - **New digital businesses:** Introducing digital products that complement traditional products or changing business models by reshaping their boundaries through digital [@Westerman2011].
 
-#### Ecosystem & partnering
+### Ecosystem & partnering
 
 Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries [@Bharadwaj2013].
 
@@ -86,11 +86,11 @@ Business ecosystems that are intricately intertwined such that digital business 
 
 Rather than thinking of scale only in terms of physical factors of production, supply chains, or geographic coverage, we need to think of scale in both physical and digital terms [@Bharadwaj2013].
 
-#### Integration & Decentralization: think local, act global  
+### Integration & Decentralization: think local, act global  
 
 - **Digital globalization:** Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
 
-#### Digital capabilities
+### Digital capabilities
 
 Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital infrastructure and business strategy are fused, this rapid scaling ability becomes a strategic dynamic capability for the firm to adapt to the dynamic requirements of the digital marketplace [@Bharadwaj2013].
 
@@ -105,7 +105,7 @@ Scale Through Alliances and Partnerships through shared digital assets. Firms mo
 
 - **IT Difficulties:** Digital initiatives are built on a solid foundation of technology-enabled processes and data, as well as the analytics, solution delivery and relationship capabilities to create and extend that platform. Many companies find their information technology infrastructures and capabilities severely lacking. "We don't retire systems. We just add on top of them, which creates a tremendous amount of expense and complexity." "It is very difficult to get a good understanding of the customer when customer data is spread across so many systems." A history of poor business / IT relations is a difficult foundation for the collaborative work required in digital transformation. "IT is a mess. Their costs are not acceptable. They propose things in 9-10 months where external firms could do them in 3-9 weeks [@Westerman2011].
 
-#### Valuable Assets in a digital world
+### Valuable Assets in a digital world
 
 
 - **Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world?
@@ -119,7 +119,7 @@ Scale Through Alliances and Partnerships through shared digital assets. Firms mo
   - **Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change.
 
 
-#### Other
+### Other
 
 Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors [@Bharadwaj2013].
 
