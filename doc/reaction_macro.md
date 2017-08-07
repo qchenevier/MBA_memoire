@@ -31,29 +31,19 @@ Digital business strategy can be viewed as being inherently transfunctional, wit
 
 - **Business and IT integration:** Companies with a history of strained IT and business relationships are handicapped when trying to conduct digital transformation, because of complex IT architectures, unintegrated data, and processes that are not well-enabled through technology. In contrast, companies with a solid IT-business relationship are in a solid position to begin digital transformation. Where strong relationships exist, executives on both sides of the relationship are willing to be flexible in creating new governance mechanisms or digital units without feeling threatened. In most firms, digital transformation is being led by CIOs. Other companies place responsibility for digital in another unit or executive who works closely with the CIO. Another solution is to hire a second CIO to focus on transformation-related activities, working in concert with the CIO who stays focused on keeping the firms' existing platform functional [@Westerman2011].
 
-- Decision 5: Keep digital businesses separate or integrate them with current nondigital ones?
-  Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios [@Hirt2014].
-
-### Decision-making
-
-Speed of Decision Making: technology has allowed firms to speed up decisions that otherwise might be slowed due to information flows up and down the hierarchy through multiple layers of management. Leading companies have invested significantly to provide the capability to access diverse streams of information. Slowness in response could mean customers moving away from companies perceived as being out of tune with the new reality. But there are enormous challenges to access, process, and analyze the massive amounts of data that accumulate as a natural by-product of routine transactions. As companies make investments to process increased amounts of data, we find that few have made corresponding investments in the organizational processes to drive business value from data and information. The value lies not in investing in technology but in how increased access to information drives faster and more effective decisions [@Bharadwaj2013].
-
-**Performance management:** Performance transparency is a key highlight. Executives are more informed when making decisions and insights allow decisions to be made on real data and not on assumptions. "We can use data to make better decisions about how we prioritize". [collaboration  enabled better input into the process of decision making and better uptake of the vision after decisions were made.] [@Westerman2011]
-
-### Adapt your transformation speed
+Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios [@Hirt2014].
 
 ### Assess the value of your assets
 
 Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
 
-- Decision 1: Buy or sell businesses in your portfolio?
-  The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
+Decision 1: Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
 
 Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
 
 We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy.  [@Bharadwaj2013]
 
-### Managing digital assets
+### Managing digital assets: explore new options or consolidate your platform?
 
 We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt [@Woodard2013].
 
@@ -64,7 +54,7 @@ Design moves are discrete strategic actions that enlarge, reduce, or modify a fi
 Technical debt refers to the expected cost or effort entailed in exercising the options embedded in a firm's design capital. Technical debt is a natural by-product of the design process. Shortages of resources, time, or talent frequently lead designers intentionally to optimize for short-term goals at the expense of making a product or system easy to maintain and evolve. Like financial debt, sometimes technical debt can be necessary [@Woodard2013].
 Option value and technical debt are akin to financial assets and liabilities, and define the net present value of a modular architecture as the difference between the two [@Woodard2013].
 
-### Platforms: Connecting creates Value
+### Platforms: Connecting creates Value: Reassess your position in the value network
 
 The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
 
@@ -78,36 +68,13 @@ Rather than investing in the status quo, resources need to be appropriately allo
 
 Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
 
-Value Creation from Multisided Business Models: multisided revenue models important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture
-value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
+Value Creation from Multisided Business Models: multisided revenue models are important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
 
 The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage [@Bharadwaj2013].
 
 Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market. Executives must shift from thinking about value chains to value networks. Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate [@Gimpel2012].
 
 Digital platforms will become the gateways (and bottlenecks) to the market [@Gimpel2012].
-
-### Leadership & Vision
-
-Successful digital transformation comes not from implementing new technologies but from transforming your organization transformation initiatives are centered on re-envisioning customer experience, operational processes and business models. Digital Transformation does not happen bottom up. It must be driven from the top [@Westerman2011].
-
-Focus on the "how" more than the "what." Successful transformations focus on how to drive change as on the detailed content of the change. A compelling transformative vision will allow people to identify new "whats" to meet or extend the vision [@Westerman2011].
-
-Despite the hype around innovative digital technologies, most companies still have a long way to go in their digital transformation journeys. Leadership is essential. That's a management and people challenge, not just a technology one [@Westerman2011].
-
-- **Lack of impetus:** Impetus often starts at the very top of the firm. Skepticism can result in bureaucratic investment processes that prevent the firm from engaging in useful digitally enabled experiments and business changes. "We've always been fairly slow in adopting technology because we more or less have the ambition of not being first, but we have become even slower at the same time that technology development has been speeding up." If the company is not experiencing pain, the perceived risk of change may outweigh the potential benefits in the minds of many executives [@Westerman2011].
-
-- Decision 6: Delegate or own the digital agenda?
-  Advancing the digital agenda takes lots of senior-management time and attention. An effective digital strategy calls for extensive cross-functional orchestration that may require CEO involvement Faced with the need to sort through functional and regional issues related to digitization, some companies are creating a new role: chief digital officer (or the equivalent), a common way to introduce outside talent with a digital mindset to provide a focus for the digital agenda. Relying on chief digital officers to drive the digital agenda carries some risk of balkanization and they may also sacrifice the big picture for a narrower focus, say, on marketing or social media or lack the influence or authority to get support for execution from the functional units. CEOs can choose to "own" and direct the digital agenda personally, top down [@Hirt2014].
-
-- Decision 2: Lead your customers or follow them?
-  Incumbents too have opportunities for launching disruptive strategies. However, in some situations, the right decision may be to give up digital moves, particularly in industries with high barriers to entry, regulatory complexities, and patents that protect profit streams. Between these extremes lies the all-too-common reality that digital efforts risk cannibalizing products and services and could erode margins. Yet inaction is equally risky. In-house data on existing buyers can help incumbents with large customer bases develop insights. Brand advantages too can help traditional players outflank digital newbies [@Hirt2014].
-
-- **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
-
-- **Coordination issues:** Many firms fail to transform because of coordination difficulties across business units or processes. Units are able to make progress in their own areas, but are unable to influence practices in other units. A firm is even investing in coordination and created a digital division to ensure that all of its digital efforts are being coordinated. A further concern arises from coordination issues between new and traditional businesses or processes: conflict is real, and can be very painful for managers in traditional units that lose when new businesses gain. It often must be addressed through an overarching vision [@Westerman2011].
-
-Senior management needs to go beyond words, and in addition to leaning back and reviewing improvements in the core products, senior management needs to lean forward and work on growth initiatives for non-core products [@Karimi2015].
 
 ### Business-model shift: from product catalog to service catalog to customized service or partnership
 
@@ -150,6 +117,8 @@ GE's transformations:  [@Iansiti2014]
 
 Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013].
 
+The focus of value creation shifts from value chain to value networks [@Karimi2015].
+
 ### Ecosystem & partnering
 
 Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries [@Bharadwaj2013].
@@ -176,17 +145,15 @@ Learning to sell the new model
 - It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market [@Iansiti2014].
 - "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
 
-The focus of value creation shifts from value chain to value networks [@Karimi2015].
+### Integration & Decentralization: think global, act local  
 
-### Integration & Decentralization: think local, act global  
+Digitalization involves a fascinating (yet partial) inversion of information flows and decision chains. Classic hierarchical organizations are based on information flowing bottom-up and decisions being taken at the top, whereas the new paradigm of learning oraganization means more information flowing top-down and decisions being taken at th bottom of the organization.  
 
 - **Digital globalization:** Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
 
 **Process digitization:** Companies historically have used automation to make processes more efficient and scalable. Automation can enable companies to refocus their people on more strategic tasks. ERP for example centralize the HR function, allowing economies of scale through self-service while freeing HR people. It also creates streams of data that can be useful in later data mining efforts. New technologies are extending this trend of gaining benefits beyond efficiency: automated plants reduce labor requirements, improve product quality and enhance environmental, health, and safety performance. Going digital can also help reducing the product development lifecycle [@Westerman2011].
 
 **Worker enablement:** Collaboration and networking tools allow employees to talk with anyone in the company, setting the stage for further changes related to globalization. Digital transformation replaces limited one-way vertical communication with broad communication channels that are both vertical and horizontal.[@Westerman2011]
-
-Value creation is the new structure: Structures often become rigid, causing firms to define themselves by what they do, not how they add value. The structures imprudently shift the focus to creating profits for the firm instead of creating value for customers. A focus on value rather than structure frees enterprises to shake off the mentality of "that's not how we do business.". Companies can build a strong competitive offering around core and essential core support functions, while virtualizing other part of the business through outsourcing, partnerships, and strategic alliances [@Gimpel2012].
 
 Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors [@Bharadwaj2013].
 
@@ -236,6 +203,17 @@ Speed of Product Launches: when traditional firms add digital dimensions to thei
   - **Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation.
   - **Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change.
 
+### Disruption vs Regulation
+
+Decision 2: Lead your customers or follow them?
+Incumbents too have opportunities for launching disruptive strategies. However, in some situations, the right decision may be to give up digital moves, particularly in industries with high barriers to entry, regulatory complexities, and patents that protect profit streams. Between these extremes lies the all-too-common reality that digital efforts risk cannibalizing products and services and could erode margins. Yet inaction is equally risky. In-house data on existing buyers can help incumbents with large customer bases develop insights. Brand advantages too can help traditional players outflank digital newbies [@Hirt2014].
+
+Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries [@Gimpel2012].
+
+Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it [@Gimpel2012].
+
+- **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
+
 ### Other
 
 Speed of Digital Business Strategy: time takes on a more central role in digital business settings [@Bharadwaj2013].
@@ -264,10 +242,6 @@ Approaching Digital Ubiquity [@Iansiti2014]
 - Use software to extend the boundaries of what you do.
 
 Stop staring in the mirror: a key to adapting to dramatically-shifting marketplaces is to reevaluate what makes you successful and how you measure success. The metrics used to measure performance in the prior era may no longer be relevant [@Gimpel2012].
-
-Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries [@Gimpel2012].
-
-Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it [@Gimpel2012].
 
 Resource munificence (or organizational slack available to designers) often proved to be an important contingency in every design capital state. Resource munificence explained why firms in the same state made moves that took them in different "directions" [@Woodard2013].
 
