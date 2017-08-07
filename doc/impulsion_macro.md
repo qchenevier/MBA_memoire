@@ -9,7 +9,7 @@ Although large traditional firms are truly different from digital entrants, many
 Globalization is a driver for some firms: there is a strategic need to expand globally or pressures to generate information and process synergies [@Westerman2011].
 Some firms mentioned M&A as a pressure to transform [@Westerman2011].
 
-### New technological systems
+### Technological systems being used by every industry 
 
 By using mobile devices, social media, analytics and the cloud, savvy companies are transforming the way they do business [@WESTERMAN2015].
 

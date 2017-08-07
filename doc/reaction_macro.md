@@ -13,7 +13,10 @@ Firms are experiencing different digital transformation speeds and different res
 Very few businesses are gaining the full value of technologically-enabled change. Manufacturers' ERP systems have improved process efficiency and are providing better financial data for strategic decisions, but companies have not yet retrained buyers in how to use the information in negotiating with suppliers [@Westerman2011].
 Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience [@Westerman2011].
 
-### Convergence IT and business
+
+### Digital structure as the new backbone
+
+#### Convergence IT and business
 
 Firms pursuing digital business strategies must manage a fundamental tension between the need to support flexible adaptation of their products and services to changing market conditions, and the need to provide stable value appropriation mechanisms to extract economic rents and reinvest them in innovative activities. Companies often fuse IT with their products and services for competitive advantage [@Woodard2013].
 
@@ -33,17 +36,41 @@ Digital business strategy can be viewed as being inherently transfunctional, wit
 
 Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios [@Hirt2014].
 
-### Assess the value of your assets
+#### Digital capabilities
 
-Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
+Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability [@Woodard2013].
 
-Decision 1: Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
+Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities [@Karimi2015].
 
-Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
+Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital infrastructure and business strategy are fused, this rapid scaling ability becomes a strategic dynamic capability for the firm to adapt to the dynamic requirements of the digital marketplace [@Bharadwaj2013].
 
-We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy.  [@Bharadwaj2013]
+**Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation [@Westerman2011].
+- **Unified Data and Processes:** The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge [@Westerman2011].
 
-### Managing digital assets: explore new options or consolidate your platform?
+Scale Through Alliances and Partnerships through shared digital assets. Firms modularize their business processes and rely on plug-and-play capabilities for richly linking digital assets and rely on linkages through application programming interfaces (APIs) and web services [@Bharadwaj2013].
+
+- **Solution delivery:** Companies also need the capabilities to modify their processes or build new methods onto the data and process platform. Some IT departments have established special units to build emerging technology skills and methods. Others look outside the firm for help: Vendor partners can be very effective, but some executives expressed concern about over-reliance on vendors. Several executives described knowledge gaps that existed after they ended a vendor relationship [@Westerman2011].
+
+- **Analytics capabilities:**  Companies with integrated data are able to engage in more powerful analytics strategies. All executives also mentioned that building analytics capability was difficult, requiring skills and culture change in addition to investments [@Westerman2011].
+
+- **IT Difficulties:** Digital initiatives are built on a solid foundation of technology-enabled processes and data, as well as the analytics, solution delivery and relationship capabilities to create and extend that platform. Many companies find their information technology infrastructures and capabilities severely lacking. "We don't retire systems. We just add on top of them, which creates a tremendous amount of expense and complexity." "It is very difficult to get a good understanding of the customer when customer data is spread across so many systems." A history of poor business / IT relations is a difficult foundation for the collaborative work required in digital transformation. "IT is a mess. Their costs are not acceptable. They propose things in 9-10 months where external firms could do them in 3-9 weeks [@Westerman2011].
+
+- **Missing skills:** Emerging technologies are another area where skills may be scarce internally, especially in areas such as mobility and social media. Firms are filling gaps by hiring experts or working with vendors. A firm of the study, aiming to limit long-term HR investment while experimenting with new technologies, is working with vendors who have the right skills. However, it is encountering knowledge integration issues as key skills are located in different vendors [@Westerman2011].
+
+Building software capabilities [@Iansiti2014]
+
+- Problems encountered:
+  - Process: GE has never been known for its agility. 80% the software products they edited were not profitable. "It was taking us **years to build the software and years to get it out the door**" [@Iansiti2014]
+  - Developer Talent: Most of their developers had experience with outdated technologies. They were **reliant on outside vendors**, sometimes for full development [@Iansiti2014].
+- Solutions deployed new GE Software HQ:
+  - "**Co-location** is everything" [@Iansiti2014]
+  - creation of a **common software platform** [@Iansiti2014]
+  - **No enforcement of compliance**: "We are going to do this, you can be on the train or not".
+  - No dedicated P&L for the software: **Different incentives** that don't create competition with the businesses [@Iansiti2014].
+
+Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coor-dinated in networks with complementary products and services [@Bharadwaj2013].
+
+#### Managing digital assets: explore new options or consolidate your platform?
 
 We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt [@Woodard2013].
 
@@ -54,7 +81,37 @@ Design moves are discrete strategic actions that enlarge, reduce, or modify a fi
 Technical debt refers to the expected cost or effort entailed in exercising the options embedded in a firm's design capital. Technical debt is a natural by-product of the design process. Shortages of resources, time, or talent frequently lead designers intentionally to optimize for short-term goals at the expense of making a product or system easy to maintain and evolve. Like financial debt, sometimes technical debt can be necessary [@Woodard2013].
 Option value and technical debt are akin to financial assets and liabilities, and define the net present value of a modular architecture as the difference between the two [@Woodard2013].
 
-### Platforms: Connecting creates Value: Reassess your position in the value network
+### Externally: Value making of through adaptively positioning the organization
+
+#### Valuable Assets in a digital world
+
+Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
+
+Decision 1: Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
+
+Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
+
+We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy.  [@Bharadwaj2013]
+
+**Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world?
+
+**Sales force:** source of customer loyalty is the set of relationships cultivated by a strong sales force. Digital initiatives can threaten to disintermediate salespeople. However, digital transformation can also be used to enhance those relationships.
+
+**Point of sale and distribution channels:** Stores are often a strong source of location-based advantage, even in a digital world.
+
+**Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices.
+
+**Product innovation:** Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time.
+
+**Partnership network:** Trusted relationships can deliver powerful new operating models. A firm is switching from a single value chain link to a value chain orchestrator. Partners cooperated in the project because of years of working together.
+
+**Brand:** Companies with a strong brand are able to leverage it in related offerings. Through mobile web, social media and other digital initiatives, building additional points of contact with customers.
+
+**Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation.
+
+**Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change.
+
+#### Platforms: Connecting creates Value: Reassess your position in the value network
 
 The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
 
@@ -76,7 +133,48 @@ Platforms are the future systems of engagement: A platform is a foundational tec
 
 Digital platforms will become the gateways (and bottlenecks) to the market [@Gimpel2012].
 
-### Business-model shift: from product catalog to service catalog to customized service or partnership
+#### Ecosystem & partnering
+
+Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries [@Bharadwaj2013].
+
+Business ecosystems that are intricately intertwined such that digital business strategy cannot be conceived independently of the business ecosystem, alliances, partnerships, and competitors [@Bharadwaj2013].
+
+Rather than thinking of scale only in terms of physical factors of production, supply chains, or geographic coverage, we need to think of scale in both physical and digital terms [@Bharadwaj2013].
+
+Value Capture through Coordinated Business Models in Networks: value creation and capture in digital settings often involve complex and dynamic coordination across multiple companies. Business models are not inde-pendent but intersect and interoperate across these different players [@Bharadwaj2013].
+
+- Decision 3: Cooperate or compete with new attackers?
+  A large incumbent in an industry that's undergoing digital disruption can feel like a whale attacked by piranhas. It's not feasible to defend all fronts simultaneously, so cooperation with some attackers can make more sense than competing. Like, for exemple, opening software interfaces to multiple third parties [@Hirt2014].
+
+_"Starting from the idea of asset optimization and no unplanned downtime... the maximum customer **value is in the ecosystem**. How **open** do we want this to be ?"_ [@Iansiti2014]
+
+- To build its ecosystem: GE is experimenting with different types of partnerships, like joint-ventures. GE has also partnered with potential competitors (like Intel, Cisco, Accenture, Amazon web services) [@Iansiti2014]
+
+Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness [@Bharadwaj2013].
+
+The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product [@Woodard2013].
+
+Learning to sell the new model
+
+- It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market [@Iansiti2014].
+- "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
+
+### Internally: Organize for speed and customer proximity
+
+#### Embracing Disruption vs Fighting the environment with Regulation
+
+Regulations are slowly adapting to evolutions in society.
+
+Decision 2: Lead your customers or follow them?
+Incumbents too have opportunities for launching disruptive strategies. However, in some situations, the right decision may be to give up digital moves, particularly in industries with high barriers to entry, regulatory complexities, and patents that protect profit streams. Between these extremes lies the all-too-common reality that digital efforts risk cannibalizing products and services and could erode margins. Yet inaction is equally risky. In-house data on existing buyers can help incumbents with large customer bases develop insights. Brand advantages too can help traditional players outflank digital newbies [@Hirt2014].
+
+Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries [@Gimpel2012].
+
+Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it [@Gimpel2012].
+
+- **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
+
+#### Business-model shift: from product catalog to service catalog to customized service or partnership
 
 Sources of Value Creation and Capture: Digital business strategy brings in additional dimensions that alter the nature of value creation and capture [@Bharadwaj2013].
 
@@ -119,33 +217,7 @@ Value Appropriation through Control of Digital Industry Architecture: Apple has 
 
 The focus of value creation shifts from value chain to value networks [@Karimi2015].
 
-### Ecosystem & partnering
-
-Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries [@Bharadwaj2013].
-
-Business ecosystems that are intricately intertwined such that digital business strategy cannot be conceived independently of the business ecosystem, alliances, partnerships, and competitors [@Bharadwaj2013].
-
-Rather than thinking of scale only in terms of physical factors of production, supply chains, or geographic coverage, we need to think of scale in both physical and digital terms [@Bharadwaj2013].
-
-Value Capture through Coordinated Business Models in Networks: value creation and capture in digital settings often involve complex and dynamic coordination across multiple companies. Business models are not inde-pendent but intersect and interoperate across these different players [@Bharadwaj2013].
-
-- Decision 3: Cooperate or compete with new attackers?
-  A large incumbent in an industry that's undergoing digital disruption can feel like a whale attacked by piranhas. It's not feasible to defend all fronts simultaneously, so cooperation with some attackers can make more sense than competing. Like, for exemple, opening software interfaces to multiple third parties [@Hirt2014].
-
-_"Starting from the idea of asset optimization and no unplanned downtime... the maximum customer **value is in the ecosystem**. How **open** do we want this to be ?"_ [@Iansiti2014]
-
-- To build its ecosystem: GE is experimenting with different types of partnerships, like joint-ventures. GE has also partnered with potential competitors (like Intel, Cisco, Accenture, Amazon web services) [@Iansiti2014]
-
-Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness [@Bharadwaj2013].
-
-The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product [@Woodard2013].
-
-Learning to sell the new model
-
-- It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market [@Iansiti2014].
-- "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
-
-### Integration & Decentralization: think global, act local  
+#### Integration & Decentralization: think global, act local  
 
 Digitalization involves a fascinating (yet partial) inversion of information flows and decision chains. Classic hierarchical organizations are based on information flowing bottom-up and decisions being taken at the top, whereas the new paradigm of learning oraganization means more information flowing top-down and decisions being taken at th bottom of the organization.  
 
@@ -156,63 +228,6 @@ Digitalization involves a fascinating (yet partial) inversion of information flo
 **Worker enablement:** Collaboration and networking tools allow employees to talk with anyone in the company, setting the stage for further changes related to globalization. Digital transformation replaces limited one-way vertical communication with broad communication channels that are both vertical and horizontal.[@Westerman2011]
 
 Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors [@Bharadwaj2013].
-
-### Digital capabilities
-
-Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability [@Woodard2013].
-
-Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities [@Karimi2015].
-
-Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital infrastructure and business strategy are fused, this rapid scaling ability becomes a strategic dynamic capability for the firm to adapt to the dynamic requirements of the digital marketplace [@Bharadwaj2013].
-
-**Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation [@Westerman2011].
-- **Unified Data and Processes:** The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge [@Westerman2011].
-
-Scale Through Alliances and Partnerships through shared digital assets. Firms modularize their business processes and rely on plug-and-play capabilities for richly linking digital assets and rely on linkages through application programming interfaces (APIs) and web services [@Bharadwaj2013].
-
-- **Solution delivery:** Companies also need the capabilities to modify their processes or build new methods onto the data and process platform. Some IT departments have established special units to build emerging technology skills and methods. Others look outside the firm for help: Vendor partners can be very effective, but some executives expressed concern about over-reliance on vendors. Several executives described knowledge gaps that existed after they ended a vendor relationship [@Westerman2011].
-
-- **Analytics capabilities:**  Companies with integrated data are able to engage in more powerful analytics strategies. All executives also mentioned that building analytics capability was difficult, requiring skills and culture change in addition to investments [@Westerman2011].
-
-- **IT Difficulties:** Digital initiatives are built on a solid foundation of technology-enabled processes and data, as well as the analytics, solution delivery and relationship capabilities to create and extend that platform. Many companies find their information technology infrastructures and capabilities severely lacking. "We don't retire systems. We just add on top of them, which creates a tremendous amount of expense and complexity." "It is very difficult to get a good understanding of the customer when customer data is spread across so many systems." A history of poor business / IT relations is a difficult foundation for the collaborative work required in digital transformation. "IT is a mess. Their costs are not acceptable. They propose things in 9-10 months where external firms could do them in 3-9 weeks [@Westerman2011].
-
-- **Missing skills:** Emerging technologies are another area where skills may be scarce internally, especially in areas such as mobility and social media. Firms are filling gaps by hiring experts or working with vendors. A firm of the study, aiming to limit long-term HR investment while experimenting with new technologies, is working with vendors who have the right skills. However, it is encountering knowledge integration issues as key skills are located in different vendors [@Westerman2011].
-
-Building software capabilities [@Iansiti2014]
-
-- Problems encountered:
-  - Process: GE has never been known for its agility. 80% the software products they edited were not profitable. "It was taking us **years to build the software and years to get it out the door**" [@Iansiti2014]
-  - Developer Talent: Most of their developers had experience with outdated technologies. They were **reliant on outside vendors**, sometimes for full development [@Iansiti2014].
-- Solutions deployed new GE Software HQ:
-  - "**Co-location** is everything" [@Iansiti2014]
-  - creation of a **common software platform** [@Iansiti2014]
-  - **No enforcement of compliance**: "We are going to do this, you can be on the train or not".
-  - No dedicated P&L for the software: **Different incentives** that don't create competition with the businesses [@Iansiti2014].
-
-Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coor-dinated in networks with complementary products and services [@Bharadwaj2013].
-
-### Valuable Assets in a digital world
-
-- **Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world?
-  - **Sales force:** source of customer loyalty is the set of relationships cultivated by a strong sales force. Digital initiatives can threaten to disintermediate salespeople. However, digital transformation can also be used to enhance those relationships.
-  - **Point of sale and distribution channels:** Stores are often a strong source of location-based advantage, even in a digital world.
-  - **Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices.
-  - **Product innovation:** Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time.
-  - **Partnership network:** Trusted relationships can deliver powerful new operating models. A firm is switching from a single value chain link to a value chain orchestrator. Partners cooperated in the project because of years of working together.
-  - **Brand:** Companies with a strong brand are able to leverage it in related offerings. Through mobile web, social media and other digital initiatives, building additional points of contact with customers.
-  - **Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation.
-  - **Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change.
-
-### Disruption vs Regulation
-
-Decision 2: Lead your customers or follow them?
-Incumbents too have opportunities for launching disruptive strategies. However, in some situations, the right decision may be to give up digital moves, particularly in industries with high barriers to entry, regulatory complexities, and patents that protect profit streams. Between these extremes lies the all-too-common reality that digital efforts risk cannibalizing products and services and could erode margins. Yet inaction is equally risky. In-house data on existing buyers can help incumbents with large customer bases develop insights. Brand advantages too can help traditional players outflank digital newbies [@Hirt2014].
-
-Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries [@Gimpel2012].
-
-Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it [@Gimpel2012].
-
-- **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
 
 ### Other
 
