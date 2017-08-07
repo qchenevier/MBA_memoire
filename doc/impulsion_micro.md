@@ -1,8 +1,6 @@
 ## Micro-economic scale
 
-### Machines change
-
-#### Digital technology
+### Digital technology
 
 Digital technology has **3 fundamental properties**: [@Iansiti2014]
 
@@ -10,7 +8,7 @@ Digital technology has **3 fundamental properties**: [@Iansiti2014]
 - digital signals can be replicated indefinitely: **no production cost**
 - digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
 
-#### Computing & Connectivity everywhere
+### Computing & Connectivity everywhere
 
 Each technological revolution has its key factor :
 
@@ -21,7 +19,7 @@ Each technological revolution has its key factor :
 
 In each case, the "key factor" steers engineering and investment decisions towards its intensive use. New technology systems are built accordingly, based on: microelectronics, software & telecommunications [@Perez2004]. Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015]. The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web) [@Bharadwaj2013]. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society [@Gimpel2012].
 
-#### The rise of "Big data"
+### The rise of "Big data"
 
 In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available [@Bharadwaj2013].
 
@@ -85,9 +83,7 @@ Taxonomy of jobs: [@Frey2017]
 Beware: activity that can be off-shored are different than activity that can be automated. E.g.: cashier not off-shorable but replaced by self-service technology [@Frey2017].
 
 
-### People change
-
-#### Competition for attention: People want simpler interactions
+### Competition for attention: People want simpler interactions
 
 Innovations create indirect substitutes for consumer time, attention, and money [@Gimpel2012].
 
@@ -97,11 +93,13 @@ the degree of consumer attention focused on a relatively small number of brands 
 
 Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more [@Westerman2011].
 
-#### Consumer-producer:
+### Consumer-producer:
 
 Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry [@Karimi2015].
 
-#### More information means empowerment of consumers and employees
+Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others [@Gimpel2012].
+
+### More information means empowerment of consumers and employees
 
 Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space [@Bharadwaj2013].
 
