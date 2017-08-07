@@ -8,6 +8,8 @@ monofont: DejaVu Sans Mono
 fontsize: 10pt
 link-citations: true
 templatecolor: 216, 63, 36
+toc-depth: 3
+secnumdepth: 2
 output:
   pdf_document:
     template: /home/quentin/documents/MBA/3_devoirs/memoire/doc/my_template.tex

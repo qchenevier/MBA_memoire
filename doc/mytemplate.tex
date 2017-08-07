@@ -174,9 +174,13 @@ $endif$
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 $if(numbersections)$
-\setcounter{secnumdepth}{5}
+  $if(secnumdepth)$
+    \setcounter{secnumdepth}{$secnumdepth$}
+  $else$
+    \setcounter{secnumdepth}{5}
+  $endif$
 $else$
-\setcounter{secnumdepth}{0}
+  \setcounter{secnumdepth}{0}
 $endif$
 
 $if(verbatim-in-note)$
@@ -243,7 +247,7 @@ $endfor$
 {\addvspace{3pt}\sffamily\bfseries} % Spacing and font options for sections
 {\contentslabel[\thecontentslabel]{1.25cm}} % Section number
 {}
-{\hfill\color{black}\thecontentspage} % Page number
+{\ \titlerule*[.5pc]{.}\;\thecontentspage} % Page number
 []
 
 % Subsection text styling
@@ -252,6 +256,14 @@ $endfor$
 {\contentslabel[\thecontentslabel]{1.25cm}} % Subsection number
 {}
 {\ \titlerule*[.5pc]{.}\;\thecontentspage} % Page number
+[]
+
+% Subsection text styling
+\titlecontents{subsubsection}[1.25cm] % Indentation
+{\addvspace{1pt}\sffamily\footnotesize} % Spacing and font options for subsections
+{\color{gray}\contentslabel[\thecontentslabel]{1.25cm}\color{gray}} % Subsection number
+{\color{gray}}
+{\color{gray}\hfill\;\thecontentspage} % Page number
 []
 
 %----------------------------------------------------------------------------------------
