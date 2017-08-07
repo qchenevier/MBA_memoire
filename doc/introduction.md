@@ -16,9 +16,9 @@ Also a new and more pervasive dynamic appears to be at work : the gap between th
 
 #### Digitalization is a complex phenomenon impulsing change at all scales {-}
 
-The literature about digitalization and the current technological revolution tries to summarize the main facts about the changes happening in the world and suggest strategies and decisions to take about it. However, each paper is tackling the problem from its own perspective, so it is not easy to understand the phenomenon globally. For example, @Perez2004 analyses each techno-economic paradigm through three inter-related levels: technology systems (microelectronics, software & telecommunications), "best practice" model (flexible organizational model), "common sense" principles for organizational & institutional design (decentralization, networking, continuous improvement, ...). Whereas other authors suggest different ways of analyzing digitalization.
+The literature about digitalization and the current technological revolution tries to summarize the main facts about the changes happening in the world and suggest strategies and decisions to take about it. However, each paper is tackling the problem from its own perspective, so it is not easy to understand the phenomenon globally. For example, @Perez2004 analyses each techno-economic paradigm through three inter-related levels: technology systems (microelectronics, software & telecommunications), "best practice" model (flexible organizational model), "common sense" principles for organizational & institutional design (decentralization, networking, continuous improvement, ...). @Gimpel2012 state that digitalization is changing business and society through five digital forces: globalization, millenialization, prosumerization, business virtualization, and platformization. Whereas other authors suggest different ways of analyzing digitalization.
 
-Without a unifying intellectual framework, it seems uneasy to deal with everyday issues such as:
+Without a unifying intellectual framework to understand digitalization, it seems uneasy to deal with everyday issues such as:
 
 - Is the diffusion of smartphones driving decentralization in an organization?
 - What kind of skill is useful to thrive in a job market where automation and machines seem to be nibbling every job? Should we favor emotional intelligence or computer programming?

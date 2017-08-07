@@ -92,8 +92,10 @@ Common language for disruptive innovations are able to avoid some of the mental 
 
 Adopt a multimedia mindset and view [your] business as a portfolio of products and services with different business models, pricing, and distribution strategies. A mindset that does not favor the status quo [@Karimi2015].
 
-Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities [@Karimi2015].
+The focus of value creation shifts from value chain to value networks [@Karimi2015].
 
-The focus of value creation shifts from value chain to value networks. Include a multi-platform or platform-free mindset by considering all forms of content [@Karimi2015].
+Include a multi-platform or platform-free mindset by considering all forms of content [@Karimi2015].
 
 Developing a digital-first mindset, making digital strategy everyone's job, cultivating an open culture that embraces digital innovations [@Karimi2015].
+
+Organizations need to find out whether their values give them the priority they need to reconfigure their capabilities. If not, values need to be changed first, since values ultimately determine what processes are in place [@Karimi2015].

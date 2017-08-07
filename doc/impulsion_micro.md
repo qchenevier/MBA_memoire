@@ -2,7 +2,15 @@
 
 ### Machines change
 
-#### Data & Computing everywhere
+#### Digital technology
+
+Digital technology has **3 fundamental properties**: [@Iansiti2014]
+
+- digital signals can be transmitted perfectly without error: **no depreciation with time/usage**
+- digital signals can be replicated indefinitely: **no production cost**
+- digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
+
+#### Computing & Connectivity everywhere
 
 Each technological revolution has its key factor :
 
@@ -11,28 +19,15 @@ Each technological revolution has its key factor :
 - Asphalt roads and automobiles: cheap petroleum
 - Information & telecommunications: cheap electronic chips.
 
-In each case, the "key factor" steers engineering and investment decisions towards its intensive use [@Perez2004].
+In each case, the "key factor" steers engineering and investment decisions towards its intensive use. New technology systems are built accordingly, based on: microelectronics, software & telecommunications [@Perez2004]. Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015]. The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web) [@Bharadwaj2013]. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society [@Gimpel2012].
 
-Each techno-economic paradigm is constructed on three inter-related levels [@Perez2004]:
-
-- New technology systems : microelectronics, software & telecommunications
-
-Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015].
+#### The rise of "Big data"
 
 In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available [@Bharadwaj2013].
 
-The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web) [@Bharadwaj2013].
-
-What makes digital technology transformational ? [@Iansiti2014]
-Digital technology has **3 fundamental properties**: [@Iansiti2014]
-
-- digital signals can be transmitted perfectly without error: **no depreciation with time/usage**
-- digital signals can be replicated indefinitely: **no production cost**
-- digital signals can be communicated to the incremental consumer at zero marginal cost: **no transport cost**
-
-Information goods, powerful computing devices, and inexpensive digital communication is changing business and society [@Gimpel2012].
-
 ### Digital technologies & Physical labor: automation / robotics / 3D printing / Additive manufacturing
+
+New technologies such as robotics, 3-D printing, augmented reality and the "Internet of Things" will soon lead to major business changes [@WESTERMAN2015].
 
 Digitization has contributed to increasingly jobless recoveries from recessions. The postwar US economy took roughly six months to recover lost jobs after every recession. But it took 15 months to restore lost jobs after the 1991 recession, 39 months after 2001, and 43 months after 2008 [@Manyika2015].
 
