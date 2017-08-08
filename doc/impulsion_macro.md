@@ -21,12 +21,18 @@ The "plug and play" nature of digital assets causes value chains to disaggregate
 
 [TODO: ADD QUOTE FROM CAPGEMINI AND MCKINSEY REPORT ABOUT USAGE]
 
+More data
+
 #### Talent acquisition vs asset acquisition
 
 Competition to hire talent is now global.
 
 5. Growing talent mismatches
 At the same time, companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business [@Hirt2014].
+
+Between 2012 and 2020, the patch of the digital universe that CIOs and their IT staffs need to manage will become not just bigger but also more complex. The skills, experience, and resources to manage all these bits of data will become scarcer and more specialized, requiring a new, flexible, and scalable IT infrastructure that extends beyond the enterprise [@Gantz2012].
+
+Between 2014 and 2020, the amound of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
 
 #### Low barriers to entry
 
