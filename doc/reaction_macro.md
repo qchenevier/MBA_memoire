@@ -159,7 +159,7 @@ Learning to sell the new model
 - It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market [@Iansiti2014].
 - "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
 
-### Internally: Organize for speed and customer proximity
+### Internally: Organize for speed and customer intimacy
 
 #### Embracing Disruption vs Fighting the environment with Regulation
 

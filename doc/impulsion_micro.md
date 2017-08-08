@@ -21,9 +21,13 @@ Each technological revolution has its key factor :
 
 In each case, the "key factor" steers engineering and investment decisions towards its intensive use. New technology systems are built accordingly, based on: microelectronics, software & telecommunications [@Perez2004]. Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015]. The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web) [@Bharadwaj2013]. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society [@Gimpel2012].
 
+[TODO: ADD QUOTE ABOUT TELECOM TECHNOLOGY, IOT & COMPUTING PENETRATION]
+
 #### The rise of "Big data"
 
 In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available [@Bharadwaj2013].
+
+[TODO: ADD QUOTE ABOUT TELECOM TECHNOLOGY, IOT & COMPUTING PENETRATION]
 
 #### Physical capabilities of Digital technologies: automation / robotics / 3D printing / Additive manufacturing
 
