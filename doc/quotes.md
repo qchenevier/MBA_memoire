@@ -463,7 +463,7 @@ The nature of productivity growth has changed in the past decade. Economic stati
 
 **Digitization polarizes the labor market, but can help to address some of its inefficiencies**
 
-BY 2025, THREE EFFECTS OF DIGITIZATION ALONE COULD BOOST GDP BY UP TO \$2.2 TRILLION—BUT THE POSSIBILITIES ARE MUCH WIDER [@Manyika2015].
+BY 2025, THREE EFFECTS OF DIGITIZATION ALONE COULD BOOST GDP BY UP TO \$2.2 TRILLION-BUT THE POSSIBILITIES ARE MUCH WIDER [@Manyika2015].
 
 **AUTOMATION COULD REDEFINE MANY OCCUPATIONS AND ACCELERATE HISTORICAL RATES OF MIDDLE-SKILL JOB DISPLACEMENT**
 
@@ -481,7 +481,7 @@ Prepare for tougher, 360-degree competition: coming from thousands of small play
 
 Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable [@Manyika2015].
 
-Build—or buy—the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics [@Manyika2015].
+Build-or buy-the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics [@Manyika2015].
 
 Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity [@Manyika2015].
 
@@ -1137,3 +1137,38 @@ Disney has dramatically shifted its business model over the last 20 years from r
 Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued. Financial and physical landlords were the poorest performing of the common business models, while IP landlords were the second-highest performing. Contractors (that primarily "rent out" human assets) had performance in the middle of the pack.
 
 Innovative manufacturers - which we define as those who invest more than their industry average in research and development - are the top performers in the market. Apple is an example of an innovative manufacturer.
+
+#### The Digital Universe in 2020: Big Data, Bigger Digital Shadows, and Biggest Growth in the Far East [@Gantz2012]
+
+The digital universe is made up of images and videos on mobile phones uploaded to YouTube, digital movies populating the pixels of our high-definition TVs, banking data swiped in an ATM, security footage at airports and major events such as the Olympic Games, subatomic collisions recorded by the Large Hadron Collider at CERN, transponders recording highway tolls, voice calls zipping through digital phone lines, and texting as a widespread means of communications [@Gantz2012].
+
+The digital universe lives increasingly in a computing cloud, above terra firma of vast hardware datacenters linked to billions of distributed devices, all governed and defined by increasingly intelligent software. Digital universe is continuously expanding and increasingly complex [@Gantz2012].
+
+From 2005 to 2020, the digital universe will grow by a factor of 300, from 130 exabytes to 40,000 exabytes, or 40 trillion gigabytes (more than 5,200 gigabytes for every man, woman, and child in 2020). From now until 2020, the digital universe will about double every two years [@Gantz2012].
+
+The investment in spending on IT hardware, software, services, telecommunications and staff that could be considered the "infrastructure" of the digital universe and telecommunications will grow by 40% between 2012 and 2020. As a result, the investment per gigabyte (GB) during that same period will drop from \$2.00 to \$0.20. A majority of the information in the digital universe, 68% in 2012, is created and consumed by consumers - watching digital TV, interacting with social media, sending camera phone images and videos between devices and around the Internet, and so on. Yet enterprises have liability or responsibility for nearly 80% of the information in the digital universe [@Gantz2012].
+
+Only a tiny fraction of the digital universe has been explored for analytic value. By 2020, as much as 33% of the digital universe will contain information that might be valuable if analyzed. By 2020, nearly 40% of the information in the digital universe will be "touched" by cloud computing providers - meaning that a byte will be stored or processed in a cloud
+somewhere in its journey. The amount of information individuals create themselves - writing documents, taking pictures, downloading music, etc. - is far less than the amount of information being created about them in the digital universe [@Gantz2012].
+
+First, while the portion of the digital universe holding potential analytic value is growing, only a tiny fraction of territory has been explored. IDC estimates that by 2020, as much as 33% of the digital universe will contain information that might be valuable if analyzed, compared with 25% today. This untapped value could be found in patterns in social media usage, correlations in scientific data from discrete studies, medical information intersected with sociological data, faces in security footage, and so on [@Gantz2012].
+
+The amount of information in the digital universe that is "tagged" accounts for only about 3% of the digital universe in 2012, and that which is analyzed is half a percent of the digital universe [@Gantz2012].
+
+However, the digital universe astronauts among us - the CIOs, data scientists, digital entrepreneurs - already know the value that can be found in this ever- expanding collection of digital bits. Even though China accounts for only 11% of global GDP today, by 2020 it will account for 40% of the PCs, nearly 30% of smartphones, and nearly 30% of Internet users on the planet - not to mention 20% of the world population [@Gantz2012].
+
+- Surveillance footage: as IP cameras continue to proliferate, footage can be captured, analyzed, and tagged in real time. This type of tagging can expedite crime investigations, enhance retail analytics for consumer traffic patterns, and, of course, improve military intelligence [@Gantz2012].
+- Embedded and medical devices. In the future, sensors of all types (including those that may be implanted into the body) will capture vital and nonvital biometrics, all in real time [@Gantz2012].
+- Entertainment and social media. Trends based on crowds can help pick winners and losers in the stock market, and even predict the outcome of elections [@Gantz2012].
+- Consumer images. We say a lot about ourselves when we post pictures of ourselves or our families or friends [@Gantz2012].
+- Transactions: in addition, of course, to the normal transactional data running through enterprise computers in the course of normal data processing today [@Gantz2012].
+
+In 2012, we believe 23% of the information in the digital universe (or 643 exabytes) would be useful for Big Data if it were tagged and analyzed. However, technology is far from where it needs to be, and in practice, we think only 3% of the potentially useful data is tagged, and even less is analyzed [@Gantz2012].
+
+Between 2012 and 2020, the patch of the digital universe that CIOs and their IT staffs need to manage will become not just bigger but also more complex. The skills, experience, and resources to manage all these bits of data will become scarcer and more specialized, requiring a new, flexible, and scalable IT infrastructure that extends beyond the enterprise [@Gantz2012].
+
+To this end, the number of servers (virtual and physical) worldwide will grow by a factor of 10 and the amount of information managed directly by enterprise datacenters will grow by a factor of 14. Meanwhile, the number of IT professionals in the world will grow by less than a factor of 1.5 [@Gantz2012].
+
+By 2020, we'll also be storing a smaller and smaller percentage of our expanding digital universe; yet our digital shadows will be larger than life [@Gantz2012].
+
+The network is growing in importance. Latencies must get shorter. Web sites that gather significant data need to find ways to monetize this asset. Data scientists must be absolutely sure that the intersection of disparate data sets yields repeatable results if new businesses are going to emerge and thrive. Further, companies that deliver the most creative and meaningful ways to display the results of Big Data analytics will be coveted and sought after [@Gantz2012].
