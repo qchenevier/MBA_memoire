@@ -384,13 +384,8 @@ Labor:
 
 **In brief**
 
-Today the race is on to capture value from data analytics and the Internet of Things, but there is no finish line : Digitization involves continuously experimenting and adapting [@Manyika2015].
-
-The most explosive growth is now in usage [@Manyika2015].
 
 Most sectors across the economy are less than 15 percent as digitized as the leading sectors [@Manyika2015].
-
-Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect [@Manyika2015].
 
 Currently, there are three big areas of potential : online talent platforms, big data analytics, and the Internet of Things [@Manyika2015].
 
@@ -398,19 +393,11 @@ Currently, there are three big areas of potential : online talent platforms, big
 
 There is a persistent gap between the digital "haves" and "have-mores". True disruptors are even gaining the ability to reshape industries to their own advantage. Also, the workers with the most sophisticated digital skills are the "have-mores" [@Manyika2015].
 
-Usage is exploding as companies build new types of digital assets, putting powerful tools in the hands of employees and devising new ways of working [@Manyika2015].
-
 Despite a rush of adoption, most sectors have barely closed the gap over the past decade. Companies will redefine many roles, and the rate of job displacement could accelerate sharply. It needs more than a business-as-usual approach to skills development [@Manyika2015].
-
-The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines [@Manyika2015].
 
 Digitization, like electricity, is a general-purpose technology that underpins a huge share of economic activity beyond the sector that supplies it [@Manyika2015].
 
 **THE DIGITAL FRONTIER IS RAPIDLY EVOLVING, AND THOSE AT THE FOREFRONT CAPTURE DISPROPORTIONATE REWARDS**
-
-At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic [@Manyika2015].
-
-For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
 
 **SOME INDUSTRIES AND COMPANIES ARE MORE DIGITIZED THAN OTHERS**
 
@@ -439,8 +426,6 @@ Why some sectors went digital sooner ? Four factors shape those outcomes:
 
 **Value chains break apart, creating openings for specialization and new competitors**
 
-Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers [@Manyika2015].
-
 **Low marginal costs and network effects create hyperscale advantages**
 
 **Industry boundaries become blurred**
@@ -451,15 +436,13 @@ Consumers have captured a huge range of benefits, but there are negative implica
 
 **Digitization produces significant benefits to consumers and society**
 
-Consumers have been big winners in the digital economy, although most of this effect does not show up as GDP. Some tech firms are providing free products or services where traditional businesses once charged fees. In these cases, the consumer gains are siphoning value out of industries [@Manyika2015].
-
 Digitization has contributed to rapid GDP and productivity growth in the past, but recent gains are blurred [@Manyika2015].
 
 In the late 1980s, digital adoption grew in many sectors, and productivity growth soon followed, increasing annually by 1.6 percent, nearly 2.5 times as fast as in the preceding 20 years. This was reflect in GDP, which rose nearly 4 percent per year [@Manyika2015].
 
 But after 2005, these effects vanish from the measured statistics. Total productivity growth has fallen by two-thirds since 2005, while real GDP growth has averaged about 2 percent per year [@Manyika2015].
 
-The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software. Also, it can take several years for large firms (and whole sectors) to make the changes necessary to capture the full benefits of digital investments [@Manyika2015].
+Also, it can take several years for large firms (and whole sectors) to make the changes necessary to capture the full benefits of digital investments [@Manyika2015].
 
 **Digitization polarizes the labor market, but can help to address some of its inefficiencies**
 
@@ -467,29 +450,11 @@ BY 2025, THREE EFFECTS OF DIGITIZATION ALONE COULD BOOST GDP BY UP TO \$2.2 TRIL
 
 **AUTOMATION COULD REDEFINE MANY OCCUPATIONS AND ACCELERATE HISTORICAL RATES OF MIDDLE-SKILL JOB DISPLACEMENT**
 
-Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but it technology creates the need for new roles [@Manyika2015].
-
 Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015].
-
-Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates [@Manyika2015].
 
 **COMPANIES HAVE TO ADAPT TO SURVIVE IN THE DIGITAL ECONOMY**
 
-Conversely, this is an empowering moment for entrepreneurs; the barriers to entry have never been lower [@Manyika2015].
-
-Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being "born digital."
-
-Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable [@Manyika2015].
-
-Build-or buy-the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics [@Manyika2015].
-
-Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity [@Manyika2015].
-
 Take advantage of new innovation models. Replace closed and rigid R&D operations with more open processes. Users, too, can be engaged [@Manyika2015].
-
-Emphasize agility and learning over forecasting and planning. Change continues to accelerate, so long-term forecasting exercises are less relevant. Agility is more critical than ever. Companies need a mindset focused on learning, experimenting, and iterating [@Manyika2015].
-
-Think differently about your workforce. Investing in learning programs make more sense than perpetually recruiting. Companies have to create growth opportunities and other incentives for valued employees to stay [@Manyika2015].
 
 **POLICY CHALLENGES INCLUDE BUILDING PHYSICAL AND REGULATORY INFRASTRUCTURE AS WELL AS HELPING THE WORKFORCE TRANSITION**
 
@@ -500,8 +465,6 @@ Encourage participation. Encouraging participation is about encouraging digital 
 Set the rules of the game, but be prepared to learn and adapt. policy framework will require attention to evolving issues such as privacy. Policy making for a more digital economy requires a new mindset. Ongoing innovation calls for a test-and-learn approach to policy [@Manyika2015].
 
 Help individuals navigate the transition. Policy makers cannot fend off automation, but they can support those who are affected. The first major area for action is skills development. Another major focus area is worker protections, by considering how to modernize the system for delivering benefits [@Manyika2015].
-
-Keeping up with the relentless pace of digital innovation is both a sprint and a marathon. Individuals will have to keep developing their skills throughout their working lives and adjust to a fast-changing job market [@Manyika2015].
 
 #### Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
 
@@ -645,48 +608,42 @@ These elements work together in an iterative approach, constantly communicating 
 2. Invest in digital initiatives and skills.
 3. Lead the change from the top.
 
-**Envision the digital future for your firm**: Many digital transformation initiatives fail to capture all of the value available to them because their vision is not transformative.
+**Engage the organization:** People can be a much bigger obstacle to successful digital transformation than any complex technology. Two main characteristics of communication in a digital world are making mobilizing the workforce easier:
+- Moving away from "cascading" information through traditional hierarchical channels toward enterprise-wide large scale communication: webcasts, internal social networks or PC-based video conferencing [@Westerman2011].
+- Moving away from a one-way "broadcasting" model of communication toward offering people in the organization the opportunity to engage in a real dialogue around the transformation: wikis, discussion forums, blogs and so on. Enterprise 2.0 tools are powerful tools to help mobilize and align the workforce towards digital objectives [@Westerman2011].
+Successful organizations have not only created awareness through communication, but have increased the level of transparency and trust through this open dialogue [@Westerman2011].
 
-- Create a transformative vision
+**Establish digital governance:** Bottom-up digital transformation is rarely successful. Opportunities from digital transformation require top-down ambition setting to put the organization in motion, coordination to turn disconnected or poorly considered digital investments into true platforms [@Westerman2011].
 
-**Invest in digital initiatives and skills:** Transformation does not happen without investment. Business case may not be completely clear. It may be a series of low risk experiments. It often becomes a strategic bet that only senior executives can make. Digital transformation requires understanding the need for investment, managing risk, and making the changes necessary to capitalize on the change.
+**Coordinating mechanisms:** Successful companies in our study had strong leadership for digital initiatives. We found four models for coordinating digital transformation: central coordination, silo, hub and global. Central coordination is the most commonly used model, but no single model clearly outperforms others. Companies lacking effective digital coordination do not get the value possible from their digital transformation initiatives [@Westerman2011].
 
-- Find the right skills
-- Invest in initiatives that advance the vision
-
-**Lead the change from the top:** Top-level vision rarely translates to local-level action unless reinforced through top-down communication and governance. Consistent engagement, backed with appropriate coordination, KPIs, and incentives, make the difficult process of transformation possible.
-
-- **Engage the organization:** People can be a much bigger obstacle to successful digital transformation than any complex technology. Two main characteristics of communication in a digital world are making mobilizing the workforce easier:
-  - Moving away from "cascading" information through traditional hierarchical channels toward enterprise-wide large scale communication: webcasts, internal social networks or PC-based video conferencing.
-  - Moving away from a one-way "broadcasting" model of communication toward offering people in the organization the opportunity to engage in a real dialogue around the transformation: wikis, discussion forums, blogs and so on. Enterprise 2.0 tools are powerful tools to help mobilize and align the workforce towards digital objectives.
-Successful organizations have not only created awareness through communication, but have increased the level of transparency and trust through this open dialogue.
-- **Establish digital governance:** Bottom-up digital transformation is rarely successful. Opportunities from digital transformation require top-down ambition setting to put the organization in motion, coordination to turn disconnected or poorly considered digital investments into true platforms.
-- **Ambition setting:** Once an organization has defined its transformative vision, leaders must translate that vision into a set of ambitions and targets that signal to executives and employees "what good looks like."
-- **Coordinating mechanisms:** Successful companies in our study had strong leadership for digital initiatives. We found four models for coordinating digital transformation: central coordination, silo, hub and global. Central coordination is the most commonly used model, but no single model clearly outperforms others. Companies lacking effective digital coordination do not get the value possible from their digital transformation initiatives.
-- **Monitoring progress through KPIs:** Leaders need to ensure that a transparent set of metrics and KPIs are in place to constantly monitor and review progress towards that ambition. We monitor our progress through a transparent scorecard where everyone can see a quantified assessment of our progress and take actions against it.
+**Monitoring progress through KPIs:** Leaders need to ensure that a transparent set of metrics and KPIs are in place to constantly monitor and review progress towards that ambition. We monitor our progress through a transparent scorecard where everyone can see a quantified assessment of our progress and take actions against it [@Westerman2011].
 
 **The What and The How**
 
-The digital transformation framework has many moving parts because much is required to drive a successful digital transformation.
+The digital transformation framework has many moving parts because much is required to drive a successful digital transformation [@Westerman2011].
 
 - The What
 - The How
 
-The "what" and the "how" represent the digital maturity of an organization. They can be thought about as digital "Style" and "Substance." Many firms in our study are mature at only one, or neither.
+The "what" and the "how" represent the digital maturity of an organization. They can be thought about as digital "Style" and "Substance." Many firms in our study are mature at only one, or neither [@Westerman2011].
 
 **Digital maturity matrix**
 
-- **Digital Beginners** are doing very little with advanced digital capabilities, although they have more traditional digital capabilities such as ERP, internet or e-mail. Many companies are in this quadrant by accident.
-- **Digital Fashionistas** have implemented a large amount of sexy digital "stuff." Digital fashion items may look good together, but they may clash with other items, and they rarely generate synergies. Digital transformation strategy is not founded on real knowledge of how to proceed. We see many fashionistas in B2C businesses, where executives (especially the marketing units) believe they must move fast to keep up with the fast-moving world of consumer electronics, but do not necessarily have a clear vision for how the elements will collectively create value.
-- **Digital Conservatives** understand the need for a strong unifying vision and for governance and internal engagement activities to ensure prudent investment management. They are typically skeptical of the value of new trends, sometimes to their detriment their careful approach may cause them to miss valuable opportunities.
-- **Digirati** firms truly understand how to drive value from digital transformation. They combine a strong shared vision for transformation, careful governance and engagement, and sufficient investment in new opportunities. Through managing the "how" carefully, they develop a digital culture. Through managing the "what" sufficiently, they continuously advance the competitive advantage they draw from implementing digital transformation.
+**Digital Beginners** are doing very little with advanced digital capabilities, although they have more traditional digital capabilities such as ERP, internet or e-mail. Many companies are in this quadrant by accident [@Westerman2011].
+
+**Digital Fashionistas** have implemented a large amount of sexy digital "stuff." Digital fashion items may look good together, but they may clash with other items, and they rarely generate synergies. Digital transformation strategy is not founded on real knowledge of how to proceed. We see many fashionistas in B2C businesses, where executives (especially the marketing units) believe they must move fast to keep up with the fast-moving world of consumer electronics, but do not necessarily have a clear vision for how the elements will collectively create value [@Westerman2011].
+
+**Digital Conservatives** understand the need for a strong unifying vision and for governance and internal engagement activities to ensure prudent investment management. They are typically skeptical of the value of new trends, sometimes to their detriment their careful approach may cause them to miss valuable opportunities [@Westerman2011].
+
+**Digirati** firms truly understand how to drive value from digital transformation. They combine a strong shared vision for transformation, careful governance and engagement, and sufficient investment in new opportunities. Through managing the "how" carefully, they develop a digital culture. Through managing the "what" sufficiently, they continuously advance the competitive advantage they draw from implementing digital transformation [@Westerman2011].
 
 **How to assess your digital maturity? What is your digital maturity?**
 
 - Digital intensity
 - Transformation management intensity
 
-Digital technology, which transformed the media industry, is now transforming the rest of the commercial world. In the way individuals work and collaborate, the way business processes are executed within and across organizational boundaries, or in the way the company understands and services customers, digital technology provides a wealth of opportunity to those willing to change. Globalization is dictating efficient integration through digital processes and collaborative tools. Employees and customers are starting to demand new ways of working.
+Digital technology, which transformed the media industry, is now transforming the rest of the commercial world. In the way individuals work and collaborate, the way business processes are executed within and across organizational boundaries, or in the way the company understands and services customers, digital technology provides a wealth of opportunity to those willing to change. Globalization is dictating efficient integration through digital processes and collaborative tools. Employees and customers are starting to demand new ways of working [@Westerman2011].
 
 1. Envision the digital future for your firm
 - What assets will be valuable in a digitally-transformed business?
@@ -704,7 +661,7 @@ Digital technology, which transformed the media industry, is now transforming th
 - What KPIs and metrics do you need to put in place to monitor the progress of your digital transformation towards your strategic goals?
 - What mechanism do you use to make the necessary adjustments?
 
-Digital transformation requires skills and influence that only senior leaders possess. Create a transformative vision that is clear and compelling to galvanize the organization. Mindfully consider what parts of your company should move (and why, and when) to make it implementable. Build digital maturity in two dimensions to increase your chances of success. Then take actions and monitor progress to turn your vision into reality.
+Digital transformation requires skills and influence that only senior leaders possess. Create a transformative vision that is clear and compelling to galvanize the organization. Mindfully consider what parts of your company should move (and why, and when) to make it implementable. Build digital maturity in two dimensions to increase your chances of success. Then take actions and monitor progress to turn your vision into reality [@Westerman2011].
 
 #### Digital ubiquity: How connections, sensors, and data are revolutionizing business [@Iansiti2014]
 
@@ -940,14 +897,15 @@ Design capital states and strategies:
 ##### Quotes
 
 The market-changing potential of digital technologies is often wider than products, business processes, sales channels or supply chains. Entire business models are being reshaped and frequently overturned. There are many recent examples of organizations that have been unable to keep pace with the new digital reality [@Hess2016].
-Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider [@Hess2016].
-The Digital Transformation Framework (DTF) represents a holistic approach to the development of a company-wide digital transformation strategy. A digital transformation strategy identifies the four key dimensions of every digital transformation: Use of technologies, Changes in value creation, Structural changes, Financial aspects [@Hess2016].
 
-Most IT strategies treat technology in isolation, they often lack the transformational, business-centric orientation needed to realize the potential within a company's business model, products, processes and organizational structures. A digital transformation strategy signposts the way toward digital transformation and guides managers through the transformation process resulting from the integration and use of digital technologies and helps them navigate the complexity and ambiguity of identifying their own digital "sweet spots." [@Hess2016]
+Digital transformation is a complex issue that affects all segments within a company. Managers have to simultaneously balance the exploration and exploitation of their firms' resources and often lack clarity about the different options and elements they need to consider [@Hess2016].
+
+The Digital Transformation Framework (DTF) represents a holistic approach to the development of a company-wide digital transformation strategy. A digital transformation strategy identifies the four key dimensions of every digital transformation: Use of technologies, Changes in value creation, Structural changes, Financial aspects [@Hess2016].
 
 We regard size and value focus as crucial dimensions when investigating digital transformation. A firm's main product line will most likely play a crucial role in its digital transformation, because the integration of digital technologies into products is one of the key aspects of digital transformation [@Hess2016].
 
 To foster the transformation of ideas into new products and services, a dedicated innovation lab was established in 2012. P7S1 generates revenues from its digital products and services both indirectly via advertising and directly via paid content, the sales of virtual goods within online games, or through "freemium" models. Synergies between digital and traditional offerings are actively fostered [@Hess2016].
+
 P7S1's pure digital business unit, called "Digital & Adjacent, is led by a board member and is supported strongly by the CEO. The company has also launched a dedicated incubator ("ProSiebenSat.1 Accelerator") [@Hess2016].
 
 The newspaper publisher MittelBayerische has taken a pragmatic approach to digital technologies. It does not have a department focused on innovation; instead, it introduces established technologies that complement its existing product portfolio. Mittelbayerische believes that the competencies needed for digital transformation should come from within the company and has established a thorough personal development program that helps foster the necessary digital mindset and skill set among existing staff [@Hess2016].
@@ -1140,11 +1098,7 @@ Innovative manufacturers - which we define as those who invest more than their i
 
 #### The Digital Universe in 2020: Big Data, Bigger Digital Shadows, and Biggest Growth in the Far East [@Gantz2012]
 
-The digital universe is made up of images and videos on mobile phones uploaded to YouTube, digital movies populating the pixels of our high-definition TVs, banking data swiped in an ATM, security footage at airports and major events such as the Olympic Games, subatomic collisions recorded by the Large Hadron Collider at CERN, transponders recording highway tolls, voice calls zipping through digital phone lines, and texting as a widespread means of communications [@Gantz2012].
-
 The digital universe lives increasingly in a computing cloud, above terra firma of vast hardware datacenters linked to billions of distributed devices, all governed and defined by increasingly intelligent software. Digital universe is continuously expanding and increasingly complex [@Gantz2012].
-
-From 2005 to 2020, the digital universe will grow by a factor of 300, from 130 exabytes to 40,000 exabytes, or 40 trillion gigabytes (more than 5,200 gigabytes for every man, woman, and child in 2020). From now until 2020, the digital universe will about double every two years [@Gantz2012].
 
 The investment in spending on IT hardware, software, services, telecommunications and staff that could be considered the "infrastructure" of the digital universe and telecommunications will grow by 40% between 2012 and 2020. As a result, the investment per gigabyte (GB) during that same period will drop from \$2.00 to \$0.20. A majority of the information in the digital universe, 68% in 2012, is created and consumed by consumers - watching digital TV, interacting with social media, sending camera phone images and videos between devices and around the Internet, and so on. Yet enterprises have liability or responsibility for nearly 80% of the information in the digital universe [@Gantz2012].
 
@@ -1156,12 +1110,6 @@ First, while the portion of the digital universe holding potential analytic valu
 The amount of information in the digital universe that is "tagged" accounts for only about 3% of the digital universe in 2012, and that which is analyzed is half a percent of the digital universe [@Gantz2012].
 
 However, the digital universe astronauts among us - the CIOs, data scientists, digital entrepreneurs - already know the value that can be found in this ever- expanding collection of digital bits. Even though China accounts for only 11% of global GDP today, by 2020 it will account for 40% of the PCs, nearly 30% of smartphones, and nearly 30% of Internet users on the planet - not to mention 20% of the world population [@Gantz2012].
-
-- Surveillance footage: as IP cameras continue to proliferate, footage can be captured, analyzed, and tagged in real time. This type of tagging can expedite crime investigations, enhance retail analytics for consumer traffic patterns, and, of course, improve military intelligence [@Gantz2012].
-- Embedded and medical devices. In the future, sensors of all types (including those that may be implanted into the body) will capture vital and nonvital biometrics, all in real time [@Gantz2012].
-- Entertainment and social media. Trends based on crowds can help pick winners and losers in the stock market, and even predict the outcome of elections [@Gantz2012].
-- Consumer images. We say a lot about ourselves when we post pictures of ourselves or our families or friends [@Gantz2012].
-- Transactions: in addition, of course, to the normal transactional data running through enterprise computers in the course of normal data processing today [@Gantz2012].
 
 In 2012, we believe 23% of the information in the digital universe (or 643 exabytes) would be useful for Big Data if it were tagged and analyzed. However, technology is far from where it needs to be, and in practice, we think only 3% of the potentially useful data is tagged, and even less is analyzed [@Gantz2012].
 

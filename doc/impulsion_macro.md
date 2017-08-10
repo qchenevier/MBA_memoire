@@ -19,9 +19,11 @@ The digital technologies underlying competitive threats may not be new, but they
 
 The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors [@Hirt2014].
 
-[TODO: ADD QUOTE FROM CAPGEMINI AND MCKINSEY REPORT ABOUT USAGE]
+The most explosive growth is now in usage [@Manyika2015].
 
-More data
+Usage is exploding as companies build new types of digital assets, putting powerful tools in the hands of employees and devising new ways of working [@Manyika2015].
+
+Today the race is on to capture value from data analytics and the Internet of Things, but there is no finish line : Digitization involves continuously experimenting and adapting [@Manyika2015].
 
 #### Talent acquisition vs asset acquisition
 
@@ -34,31 +36,47 @@ Between 2012 and 2020, the patch of the digital universe that CIOs and their IT 
 
 Between 2014 and 2020, the amound of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
 
+For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
+
 #### Low barriers to entry
 
 Prosumerization has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents [@Gimpel2012].
+
+Conversely, this is an empowering moment for entrepreneurs; the barriers to entry have never been lower [@Manyika2015].
 
 2. Competitors emerge from unexpected places
 Digital dynamics often undermine barriers to entry and long-standing sources of product differentiation. Web-based service providers now tap markets without having to build distribution networks of offices. The expense of building brands on-line and the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines in many markets. New competitors can often be smaller companies that will never reach scale but still do a lot of damage to incumbents [@Hirt2014].
 
 Once digital players have established themselves as leaders in one market, they have a striking ability to move into new areas. Amazon went from selling books to selling every retail and a self-publishing platform and a cloud-based business service. Google went from internet search to longevity and biotech research, smart home products, venture capital investing and high-speed internet fiber services [@Manyika2015].
 
+Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being "born digital."
+
 #### Increasing pace of disruption & Self-reinforcing dynamics of disruption
+
+The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines [@Manyika2015].
 
 3. Winner-takes-all dynamics
 Digital businesses reduce transaction and labor costs, increase returns to scale from aggregated data. Scale economies in data and talent often are decisive [@Hirt2014].
+
+Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect [@Manyika2015].
 
 Network Effects Within Multisided Platforms Create Rapid Scale Potential: Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service. More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partner-ships and on the demand side with interconnections among web pages.  [@Bharadwaj2013]
 
 Nearly every executive cited competitive pressures to change. This relates closely to increases in the pace of business. Several executives indicated this was "the new normal" for their industries. None of the executives felt their innovation culture was as strong as it should be [@Westerman2011].
 
+Keeping up with the relentless pace of digital innovation is both a sprint and a marathon [@Manyika2015].
+
 A technology is considered disruptive when its use generates services or physical products with different performance attributes that may not be valued by a company's current customer base. Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades [@Karimi2015].
 
 New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value [@Hirt2014]. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal [@Hirt2014].
 
+At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic [@Manyika2015].
+
 ### Customers, Suppliers & Operations (Customer Intimacy & Operational Efficency)
 
 #### Reducing information asymmetry as a new value creation
+
+Consumers have been big winners in the digital economy, although most of this effect does not show up as GDP. Some tech firms are providing free products or services where traditional businesses once charged fees. In these cases, the consumer gains are siphoning value out of industries [@Manyika2015].
 
 Information becomes widely available, disrupting traditional intermediaries: Value is shifting from physical intermediaries and asset holders to digital intermediaries and to consumers [@Manyika2015]. Internet information is now cheap, open standards have also facilitated open distribution platforms which have further resulted in more flexibility for consumers. Aggregative news services are becoming more important intermediaries [@Karimi2015]. Consider the automotive industry, Consumers now save time by comparing vehicles on-line and their on-line activity leaves a data trail that dealers can use [@Manyika2015].
 
@@ -69,9 +87,13 @@ Globalization reshapes the nature of supply and demand. Consumers enjoy a new wo
 
 Increased Value from Information: the digital business context brings new opportunities to create value from information. Many firms are able to fine-tune their actions and personalize their offerings based on information about customer preferences. Democratization of content as well as the subsequent sharing, remixing, redistribution, and resyndication of content have caused dramatic power shifts in market channels and dis-intermediations that disrupt traditional sources of economic profits while creating fundamentally new sources of value [@Bharadwaj2013].
 
+The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software.
+
 #### Leverage communities of consumer-producers
 
 Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations [@Hirt2014].
+
+Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers [@Manyika2015].
 
 #### Densification of networks: more connections, longer connections
 

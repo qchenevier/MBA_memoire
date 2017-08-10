@@ -25,7 +25,18 @@ In each case, the "key factor" steers engineering and investment decisions towar
 
 #### The rise of "Big data"
 
+The digital universe is made up of images and videos on mobile phones uploaded to YouTube, digital movies populating the pixels of our high-definition TVs, banking data swiped in an ATM, security footage at airports and major events such as the Olympic Games, subatomic collisions recorded by the Large Hadron Collider at CERN, transponders recording highway tolls, voice calls zipping through digital phone lines, and texting as a widespread means of communications [@Gantz2012].
+
 In the past we have operated under conditions of data (information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data, big data create conditions of data (information) abundance due to the massive amount of detailed (and often ready to analyze) data made available [@Bharadwaj2013].
+
+From 2005 to 2020, the digital universe will grow by a factor of 300, from 130 exabytes to 40,000 exabytes, or 40 trillion gigabytes (more than 5,200 gigabytes for every man, woman, and child in 2020). From now until 2020, the digital universe will about double every two years [@Gantz2012].
+
+Examples of exploding (and potentially valuable) data sources:
+- Surveillance footage: as IP cameras continue to proliferate, footage can be captured, analyzed, and tagged in real time. This type of tagging can expedite crime investigations, enhance retail analytics for consumer traffic patterns, and, of course, improve military intelligence [@Gantz2012].
+- Embedded and medical devices. In the future, sensors of all types (including those that may be implanted into the body) will capture vital and nonvital biometrics, all in real time [@Gantz2012].
+- Entertainment and social media. Trends based on crowds can help pick winners and losers in the stock market, and even predict the outcome of elections [@Gantz2012].
+- Consumer images. We say a lot about ourselves when we post pictures of ourselves or our families or friends [@Gantz2012].
+- Transactions: in addition, of course, to the normal transactional data running through enterprise computers in the course of normal data processing today [@Gantz2012].
 
 [TODO: ADD QUOTE ABOUT TELECOM TECHNOLOGY, IOT & COMPUTING PENETRATION]
 
@@ -68,6 +79,10 @@ Software replaces labor in digital businesses. Computers increasingly are perfor
 Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014]
 
 Those that want to stay relevant in their professions will need to focus on skills and capabilities that artificial intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as artificial intelligence and machine learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
+
+Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but IT technology creates the need for new roles [@Manyika2015].
+
+Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates [@Manyika2015].
 
 Low probability of automation: Non-routine work examples: legal writing, truck driving, medical diagnoses, persuading [@Frey2017].
 

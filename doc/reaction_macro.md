@@ -14,7 +14,18 @@ Very few businesses are gaining the full value of technologically-enabled change
 Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience [@Westerman2011].
 
 
+
+
+
 ### Digital structure as the new backbone
+
+Approaching Digital Ubiquity [@Iansiti2014]
+
+- Apply the digital lens to existing products & services
+- Connect your existing assets across companies
+- Examine new modes of value creation
+- Consider new value-capture modes
+- Use software to extend the boundaries of what you do.
 
 #### Convergence IT and business
 
@@ -36,6 +47,8 @@ Digital business strategy can be viewed as being inherently transfunctional, wit
 
 Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios [@Hirt2014].
 
+Most IT strategies treat technology in isolation, they often lack the transformational, business-centric orientation needed to realize the potential within a company's business model, products, processes and organizational structures. A digital transformation strategy signposts the way toward digital transformation and guides managers through the transformation process resulting from the integration and use of digital technologies and helps them navigate the complexity and ambiguity of identifying their own digital "sweet spots." [@Hess2016]
+
 #### Digital capabilities
 
 Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability [@Woodard2013].
@@ -54,6 +67,8 @@ Scale Through Alliances and Partnerships through shared digital assets. Firms mo
 - **Analytics capabilities:**  Companies with integrated data are able to engage in more powerful analytics strategies. All executives also mentioned that building analytics capability was difficult, requiring skills and culture change in addition to investments [@Westerman2011].
 
 - **IT Difficulties:** Digital initiatives are built on a solid foundation of technology-enabled processes and data, as well as the analytics, solution delivery and relationship capabilities to create and extend that platform. Many companies find their information technology infrastructures and capabilities severely lacking. "We don't retire systems. We just add on top of them, which creates a tremendous amount of expense and complexity." "It is very difficult to get a good understanding of the customer when customer data is spread across so many systems." A history of poor business / IT relations is a difficult foundation for the collaborative work required in digital transformation. "IT is a mess. Their costs are not acceptable. They propose things in 9-10 months where external firms could do them in 3-9 weeks [@Westerman2011].
+
+Build or buy the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics [@Manyika2015].
 
 - **Missing skills:** Emerging technologies are another area where skills may be scarce internally, especially in areas such as mobility and social media. Firms are filling gaps by hiring experts or working with vendors. A firm of the study, aiming to limit long-term HR investment while experimenting with new technologies, is working with vendors who have the right skills. However, it is encountering knowledge integration issues as key skills are located in different vendors [@Westerman2011].
 
@@ -80,6 +95,44 @@ Design moves are discrete strategic actions that enlarge, reduce, or modify a fi
 
 Technical debt refers to the expected cost or effort entailed in exercising the options embedded in a firm's design capital. Technical debt is a natural by-product of the design process. Shortages of resources, time, or talent frequently lead designers intentionally to optimize for short-term goals at the expense of making a product or system easy to maintain and evolve. Like financial debt, sometimes technical debt can be necessary [@Woodard2013].
 Option value and technical debt are akin to financial assets and liabilities, and define the net present value of a modular architecture as the difference between the two [@Woodard2013].
+
+Resource munificence (or organizational slack available to designers) often proved to be an important contingency in every design capital state. Resource munificence explained why firms in the same state made moves that took them in different "directions" [@Woodard2013].
+
+Disruptive innovation theory offers explanations for why companies succeed or fail to respond to disruptive innovations [@Karimi2015].
+First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities [@Karimi2015].
+Managers [must] focus on the most promising factors for creating first-order dynamic capabilities [@Karimi2015].
+
+Organizational ordinary capabilities are defined as "high-level routine" that confers a set of decision options for producing significant outputs of a particular type". They are the zero-level and "how we earn a living now" capabilities. A capability gap is the distance between a firm's existing configuration of capabilities and the most valuable configuration potentially available post the technological change [@Karimi2015].
+
+Dynamic capabilities govern the rate of change in organizational ordinary capabilities and are essential in responding to disruptive technological shifts. Dynamic capabilities theory is an extension of the resource-based view of the firm. Dynamic capabilities are theorized as existing at different levels. The first-order dynamic capabilities "extend, modify, change and/or create ordinary capabilities". When deploying first-order dynamic capabilities may not be sufficient, a firm may need to develop second-order dynamic capabilities [@Daniel2014]. The second-order (or higher-order) dynamic capabilities enable spontaneous responsiveness in novel situations and in recessionary conditions [@Daniel2014].
+
+Each of the four firms in our study gained significant advantages as the quality of their design capital improved. All four case firms were constrained by high debt or lack of options (or both) at various times during our observation period [@Woodard2013].
+
+The role of design moves in our conceptual model is to provide a structured way of thinking about the actions taken by firms in pursuit of high-quality design capital [@Woodard2013].
+
+Option-constrained Design Capital. Startup firms and new business units tend to possess option-constrained design capital. Such firms can make two distinct kinds of design moves: increase the option value of its designs, increase its technical debt. When resources are scarce, designers experience pressures to address urgent business needs without the necessary slack to lay a firm foundation for the future. This leads to an accumulation of technical debt. When firms have abundant resources, designers have the necessary slack to enact moves with a longer planning horizon, and often use this opportunity to create options that can be harvested in the future [@Woodard2013].
+
+Proposition 1a: Under option-constrained design capital and resource scarcity, a firm's design moves will tend to increase the technical debt of its design capital [@Woodard2013].
+Proposition 1b: Under option-constrained design capital and resource abundance, a firm's design moves will tend to create design options in its design capital [@Woodard2013].
+
+Debt-constrained Design Capital. In a debt-constrained design capital state, a firm possesses high option value, but it is weighed down by high levels of technical debt. Under resource scarcity, investments in reducing technical debt through additional development efforts are unlikely to be feasible, but firms can also meet their short-term obligations by abandoning debt-laden modules and their associated design options. Debt-constrained firms that have access to abundant resources can afford to reduce their debt without abandoning options [@Woodard2013].
+
+Proposition 2a: Under debt-constrained design capital and resource scarcity, a firm's design moves will tend to abandon design options [@Woodard2013].
+Proposition 2b: Under debt-constrained design capital and resource abundance, a firm's design moves will tend to reduce its technical debt [@Woodard2013].
+
+Low-quality Design Capital. It is a state in which a firm possesses few design options, and its ability to exercise the options it does possess is impeded by high technical debt. When designers face both low-quality design capital and a resource-scarce environment, their choice of design moves is over-constrained. It is unsustainable: either the product or project needs to be "bailed out" or higher management needs to "pull the plug" on it. In the absence of resource constraints, designers can exit a low-quality design capital state either by reducing debt or creating options [@Woodard2013].
+
+Proposition 3a: Under low-quality design capital and resource abundance, a firm's design moves will tend to reduce technical debt if the technical capability of the firm is high [@Woodard2013].
+Proposition 3b: Under low-quality design capital and resource abundance, a firm's design moves will tend to create design options if the technical capability of the firm is low [@Woodard2013].
+
+High-quality Design Capital. High-quality design capital, a state with high option value and low technical debt, can confer unfettered competitive advantage. Differences in a firm's ability to transfer the costs of technical debt to other members of its ecosystem (including end users) provided a systematic explanation for the differing transitions [@Woodard2013].
+
+Proposition 4a: Under high-quality design capital and resource scarcity, a firm's design moves will tend to increase technical debt if the firm's ability to transfer technical debt to other members of its ecosystem is high [@Woodard2013].
+Proposition 4b: Under high-quality design capital and resource scarcity, a firm's design moves will tend to abandon design options if its ability to transfer technical debt to other members of its ecosystem is low [@Woodard2013].
+
+If a firm is fortunate enough to be in a position of high-quality design capital and resource abundance, this describes an under-constrained situation for designers that favors experimentation and entrepreneurial actions. Such an environment requires effective sense-making and the ability to cope with complexity and uncertainty. Firms with high quality design capital tended to create product or service platforms that, in turn, enabled them to sustain a state of high-quality design capital. We observed two distinct kinds of platform strategies: one focused on internal economies of scale and scope, and the other focused on influencing an external ecosystem [@Woodard2013].
+
+We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital [@Woodard2013].
 
 ### Externally: Value making of through adaptively positioning the organization
 
@@ -112,6 +165,17 @@ We need a reconceptualization of the role of digital connections within a firm�
 **Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change.
 
 #### Platforms: Connecting creates Value: Reassess your position in the value network
+
+Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013].
+
+Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery [@Gimpel2012].
+- Production is "making goods available for use."
+- Search is matching different parties together so they can trade
+- Delivery is transmitting or communicating information and information goods
+The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability [@Gimpel2012].
+CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
+
+[TODO: ADD QUOTE FROM @PeterWeill2011: shift your business model]
 
 The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
 
@@ -213,11 +277,17 @@ GE's transformations:  [@Iansiti2014]
 - **contractual**: service agreement. **Share risk**, reducing the total cost of ownership.
 - **expanded customer outcomes**: optimized assets & operations. Use data & analytics to **provide decision support** services.
 
-Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013].
-
 The focus of value creation shifts from value chain to value networks [@Karimi2015].
 
+Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity [@Manyika2015].
+
+Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable [@Manyika2015].
+
 #### Integration & Decentralization: think global, act local  
+
+Speed of Digital Business Strategy: time takes on a more central role in digital business settings [@Bharadwaj2013].
+
+The paradigm is **not displacement and replacement**, but **connectivity and recombination**  [@Iansiti2014]
 
 Digitalization involves a fascinating (yet partial) inversion of information flows and decision chains. Classic hierarchical organizations are based on information flowing bottom-up and decisions being taken at the top, whereas the new paradigm of learning oraganization means more information flowing top-down and decisions being taken at th bottom of the organization.  
 
@@ -228,70 +298,3 @@ Digitalization involves a fascinating (yet partial) inversion of information flo
 **Worker enablement:** Collaboration and networking tools allow employees to talk with anyone in the company, setting the stage for further changes related to globalization. Digital transformation replaces limited one-way vertical communication with broad communication channels that are both vertical and horizontal.[@Westerman2011]
 
 Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors [@Bharadwaj2013].
-
-### Other
-
-Speed of Digital Business Strategy: time takes on a more central role in digital business settings [@Bharadwaj2013].
-
-- **Unclear business case:** "We're still looking at value and cost. For some folks, the most cost-effective technology is still the desktop." Some initiatives can be justified in the traditional way, through quantified economic business cases. Other investments are truly bet-your-company, do-or-die propositions. Firms facing a burning platform often make large changes without a strict financial business case. As with many innovations, digital transformation investments often have unclear business cases. Experiments are often funded "below the radar". Other initiatives are funded as strategic foundation investments. These investments rarely go through the rigor of developing a quantified business case, but rather are undertaken as strategic bets. When enabling larger transformations, executives often use a combination of approaches over time. Analytics is an interesting example: analytics either generate a better risk/return profile or they don't. However, firms often require an investment in infrastructure (integrating data, buying tools or hiring expertise) before they can start to conduct more measurable analytics-based experiments. The real value of digital transformation comes not from the initial investment, but from continuously re-envisioning how capabilities can be extended with digital technology to increase revenue, cut costs or gain other benefits [@Westerman2011].
-
-**Execution challenges:**
-
-GE has responded by: [@Iansiti2014]
-
-- adding **digital sensors** to its machines,
-- connecting them to a **common, cloud-based software platform**
-- investing in **modern software development** capabilities
-- building **advanced analytics** capabilities
-
-The paradigm is **not displacement and replacement**, but **connectivity and recombination**  [@Iansiti2014]
-
-Building out the ecosystem
-
-Approaching Digital Ubiquity [@Iansiti2014]
-
-- Apply the digital lens to existing products & services
-- Connect your existing assets across companies
-- Examine new modes of value creation
-- Consider new value-capture modes
-- Use software to extend the boundaries of what you do.
-
-Stop staring in the mirror: a key to adapting to dramatically-shifting marketplaces is to reevaluate what makes you successful and how you measure success. The metrics used to measure performance in the prior era may no longer be relevant [@Gimpel2012].
-
-Resource munificence (or organizational slack available to designers) often proved to be an important contingency in every design capital state. Resource munificence explained why firms in the same state made moves that took them in different "directions" [@Woodard2013].
-
-Disruptive innovation theory offers explanations for why companies succeed or fail to respond to disruptive innovations [@Karimi2015].
-First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities [@Karimi2015].
-Managers [must] focus on the most promising factors for creating first-order dynamic capabilities [@Karimi2015].
-
-Organizational ordinary capabilities are defined as "high-level routine" that confers a set of decision options for producing significant outputs of a particular type". They are the zero-level and "how we earn a living now" capabilities. A capability gap is the distance between a firm's existing configuration of capabilities and the most valuable configuration potentially available post the technological change [@Karimi2015].
-
-Dynamic capabilities govern the rate of change in organizational ordinary capabilities and are essential in responding to disruptive technological shifts. Dynamic capabilities theory is an extension of the resource-based view of the firm. Dynamic capabilities are theorized as existing at different levels. The first-order dynamic capabilities "extend, modify, change and/or create ordinary capabilities". When deploying first-order dynamic capabilities may not be sufficient, a firm may need to develop second-order dynamic capabilities [@Daniel2014]. The second-order (or higher-order) dynamic capabilities enable spontaneous responsiveness in novel situations and in recessionary conditions [@Daniel2014].
-
-Each of the four firms in our study gained significant advantages as the quality of their design capital improved. All four case firms were constrained by high debt or lack of options (or both) at various times during our observation period [@Woodard2013].
-
-The role of design moves in our conceptual model is to provide a structured way of thinking about the actions taken by firms in pursuit of high-quality design capital [@Woodard2013].
-
-Option-constrained Design Capital. Startup firms and new business units tend to possess option-constrained design capital. Such firms can make two distinct kinds of design moves: increase the option value of its designs, increase its technical debt. When resources are scarce, designers experience pressures to address urgent business needs without the necessary slack to lay a firm foundation for the future. This leads to an accumulation of technical debt. When firms have abundant resources, designers have the necessary slack to enact moves with a longer planning horizon, and often use this opportunity to create options that can be harvested in the future [@Woodard2013].
-
-Proposition 1a: Under option-constrained design capital and resource scarcity, a firm's design moves will tend to increase the technical debt of its design capital [@Woodard2013].
-Proposition 1b: Under option-constrained design capital and resource abundance, a firm's design moves will tend to create design options in its design capital [@Woodard2013].
-
-Debt-constrained Design Capital. In a debt-constrained design capital state, a firm possesses high option value, but it is weighed down by high levels of technical debt. Under resource scarcity, investments in reducing technical debt through additional development efforts are unlikely to be feasible, but firms can also meet their short-term obligations by abandoning debt-laden modules and their associated design options. Debt-constrained firms that have access to abundant resources can afford to reduce their debt without abandoning options [@Woodard2013].
-
-Proposition 2a: Under debt-constrained design capital and resource scarcity, a firm's design moves will tend to abandon design options [@Woodard2013].
-Proposition 2b: Under debt-constrained design capital and resource abundance, a firm's design moves will tend to reduce its technical debt [@Woodard2013].
-
-Low-quality Design Capital. It is a state in which a firm possesses few design options, and its ability to exercise the options it does possess is impeded by high technical debt. When designers face both low-quality design capital and a resource-scarce environment, their choice of design moves is over-constrained. It is unsustainable: either the product or project needs to be "bailed out" or higher management needs to "pull the plug" on it. In the absence of resource constraints, designers can exit a low-quality design capital state either by reducing debt or creating options [@Woodard2013].
-
-Proposition 3a: Under low-quality design capital and resource abundance, a firm's design moves will tend to reduce technical debt if the technical capability of the firm is high [@Woodard2013].
-Proposition 3b: Under low-quality design capital and resource abundance, a firm's design moves will tend to create design options if the technical capability of the firm is low [@Woodard2013].
-
-High-quality Design Capital. High-quality design capital, a state with high option value and low technical debt, can confer unfettered competitive advantage. Differences in a firm's ability to transfer the costs of technical debt to other members of its ecosystem (including end users) provided a systematic explanation for the differing transitions [@Woodard2013].
-
-Proposition 4a: Under high-quality design capital and resource scarcity, a firm's design moves will tend to increase technical debt if the firm's ability to transfer technical debt to other members of its ecosystem is high [@Woodard2013].
-Proposition 4b: Under high-quality design capital and resource scarcity, a firm's design moves will tend to abandon design options if its ability to transfer technical debt to other members of its ecosystem is low [@Woodard2013].
-
-If a firm is fortunate enough to be in a position of high-quality design capital and resource abundance, this describes an under-constrained situation for designers that favors experimentation and entrepreneurial actions. Such an environment requires effective sense-making and the ability to cope with complexity and uncertainty. Firms with high quality design capital tended to create product or service platforms that, in turn, enabled them to sustain a state of high-quality design capital. We observed two distinct kinds of platform strategies: one focused on internal economies of scale and scope, and the other focused on influencing an external ecosystem [@Woodard2013].
-
-We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital [@Woodard2013].

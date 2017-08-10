@@ -43,7 +43,20 @@ Organizations need to find out whether their values give them the priority they 
 
 Adopt a multimedia mindset and view [your] business as a portfolio of products and services with different business models, pricing, and distribution strategies. A mindset that does not favor the status quo [@Karimi2015].
 
-#### Deploy technologies to augment information processing skills
+Emphasize agility and learning over forecasting and planning. Change continues to accelerate, so long-term forecasting exercises are less relevant. Agility is more critical than ever. Companies need a mindset focused on learning, experimenting, and iterating [@Manyika2015].
+
+Think differently about your workforce. Investing in learning programs make more sense than perpetually recruiting. Companies have to create growth opportunities and other incentives for valued employees to stay [@Manyika2015].
+
+Individuals will have to keep developing their skills throughout their working lives and adjust to a fast-changing job market [@Manyika2015].
+
+#### Deploy technologies to improve & accelerate information processing
+
+GE has responded by: [@Iansiti2014]
+
+- adding **digital sensors** to its machines,
+- connecting them to a **common, cloud-based software platform**
+- investing in **modern software development** capabilities
+- building **advanced analytics** capabilities
 
 How four digital technologies (analytics, mobile, social media, and embedded devices) are being used in the enterprise. Analytics, Mobile and Social Media are widespread in large organizations. Customer-experience applications of social media are more common than internal uses, reflecting skepticism about how effective they will be for internal collaboration. Analytics, too, are more common in customer experience applications, reflecting organizations' increasing efforts to target marketing activities and personalize customer experience. Mobile is used widely in both domains. Embedded devices are still an emerging technology [@Westerman2011].
 
@@ -53,6 +66,10 @@ Three levels of usage: [@Westerman2011]
 - **Breakthrough** is fundamentally redefining a process or function
 
 Each is being used to improve customer experience or internal operations. The most common usage of each technology is in substitution. 30 percent of firms are engaging in extension or transformation with Mobile, Social, or Analytics. Usage of embedded devices lags the other technologies. An interesting trend toward transformative opportunities is combining multiple technologies with new management practices. Remote-control equipment and automated factories include both mobile and analytics technologies to improve production. Mobile phones are becoming embedded devices for customer-facing applications. Another firm integrates its social and web-based marketing approaches with its digital product design capabilities and embedded devices in products to be more responsive to emerging consumer preferences. Concept stores combine multiple technologies to test or deliver a new buying experience. [@Westerman2011]
+
+Stop staring in the mirror: a key to adapting to dramatically-shifting marketplaces is to reevaluate what makes you successful and how you measure success. The metrics used to measure performance in the prior era may no longer be relevant [@Gimpel2012].
+
+[TODO: RAJOUTER LIEN AVEC LES DASHBOARDS & INTERFACES DE ExO @VanGeest2014]
 
 [TODO: RAJOUTER UN MAPPING DES TECHNO AVEC LES COGNITIVE CAPABILITIES DE @Beck2017]
 
@@ -79,7 +96,7 @@ Common language for disruptive innovations are able to avoid some of the mental 
 
 One lever for change is to hire new leaders bringing new skills, also bringing a new vision. Senior executives cite a strong vision and frequent communication as essential for driving culture change. Labor relations issues are a stickier source of culture change issues. Employees, fearing job cuts, are strongly resistant [@Westerman2011].
 
-### Leadership: guiding instead of controling
+### Leadership: guiding instead of controlling
 
 #### Leadership & Vision
 
@@ -89,8 +106,6 @@ Focus on the "how" more than the "what." Successful transformations focus on how
 
 Despite the hype around innovative digital technologies, most companies still have a long way to go in their digital transformation journeys. Leadership is essential. That's a management and people challenge, not just a technology one [@Westerman2011].
 
-- **Lack of impetus:** Impetus often starts at the very top of the firm. Skepticism can result in bureaucratic investment processes that prevent the firm from engaging in useful digitally enabled experiments and business changes. "We've always been fairly slow in adopting technology because we more or less have the ambition of not being first, but we have become even slower at the same time that technology development has been speeding up." If the company is not experiencing pain, the perceived risk of change may outweigh the potential benefits in the minds of many executives [@Westerman2011].
-
 - Decision 6: Delegate or own the digital agenda?
 Advancing the digital agenda takes lots of senior-management time and attention. An effective digital strategy calls for extensive cross-functional orchestration that may require CEO involvement Faced with the need to sort through functional and regional issues related to digitization, some companies are creating a new role: chief digital officer (or the equivalent), a common way to introduce outside talent with a digital mindset to provide a focus for the digital agenda. Relying on chief digital officers to drive the digital agenda carries some risk of balkanization and they may also sacrifice the big picture for a narrower focus, say, on marketing or social media or lack the influence or authority to get support for execution from the functional units. CEOs can choose to "own" and direct the digital agenda personally, top down [@Hirt2014].
 
@@ -99,6 +114,20 @@ Advancing the digital agenda takes lots of senior-management time and attention.
 Senior management needs to go beyond words, and in addition to leaning back and reviewing improvements in the core products, senior management needs to lean forward and work on growth initiatives for non-core products [@Karimi2015].
 
 Senior management support (SMS): It not only signals the importance of innovation to the organization but also helps innovative project teams clear the inevitable obstacles to success and harness senior management's wisdom to improve ideas. It supports activities for building an effective project coalition, developing and communicating a vision, and providing resources to support initiatives [@Karimi2015].
+
+**Envision the digital future for your firm**: Many digital transformation initiatives fail to capture all of the value available to them because their vision is not transformative [@Westerman2011].
+
+**Lead the change from the top:** Top-level vision rarely translates to local-level action unless reinforced through top-down communication and governance. Consistent engagement, backed with appropriate coordination, KPIs, and incentives, make the difficult process of transformation possible [@Westerman2011].
+
+**Ambition setting:** Once an organization has defined its transformative vision, leaders must translate that vision into a set of ambitions and targets that signal to executives and employees "what good looks like" [@Westerman2011].
+
+#### Investment decision
+
+**Invest in digital initiatives and skills:** Transformation does not happen without investment. Business case may not be completely clear. It may be a series of low risk experiments. It often becomes a strategic bet that only senior executives can make. Digital transformation requires understanding the need for investment, managing risk, and making the changes necessary to capitalize on the change [@Westerman2011].
+
+- **Unclear business case:** "We're still looking at value and cost. For some folks, the most cost-effective technology is still the desktop." Some initiatives can be justified in the traditional way, through quantified economic business cases. Other investments are truly bet-your-company, do-or-die propositions. Firms facing a burning platform often make large changes without a strict financial business case. As with many innovations, digital transformation investments often have unclear business cases. Experiments are often funded "below the radar". Other initiatives are funded as strategic foundation investments. These investments rarely go through the rigor of developing a quantified business case, but rather are undertaken as strategic bets. When enabling larger transformations, executives often use a combination of approaches over time. Analytics is an interesting example: analytics either generate a better risk/return profile or they don't. However, firms often require an investment in infrastructure (integrating data, buying tools or hiring expertise) before they can start to conduct more measurable analytics-based experiments. The real value of digital transformation comes not from the initial investment, but from continuously re-envisioning how capabilities can be extended with digital technology to increase revenue, cut costs or gain other benefits [@Westerman2011].
+
+- **Lack of impetus:** Impetus often starts at the very top of the firm. Skepticism can result in bureaucratic investment processes that prevent the firm from engaging in useful digitally enabled experiments and business changes. "We've always been fairly slow in adopting technology because we more or less have the ambition of not being first, but we have become even slower at the same time that technology development has been speeding up." If the company is not experiencing pain, the perceived risk of change may outweigh the potential benefits in the minds of many executives [@Westerman2011].
 
 #### Small & independent units to experiment
 
@@ -127,12 +156,3 @@ Change the mindset of the marketing by switching: [@Iansiti2014]
 _"We are trying to sell them something they don't know they need and they can't see when it works."_
 - from the "box seller" mentality: "**features list** with pricing and discount caps"
 - to a solution-based sales focused on pain points how to enhance **customer's operating performance**
-
-### Other
-
-Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery [@Gimpel2012].
-- Production is "making goods available for use."
-- Search is matching different parties together so they can trade
-- Delivery is transmitting or communicating information and information goods
-The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability [@Gimpel2012].
-CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
