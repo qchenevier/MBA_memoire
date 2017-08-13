@@ -26,13 +26,13 @@ A foundation book/article about value disciplines and how to use them to trade-o
     - Flexible company culture.
     - Dynamic markets: speed of change of product assortment
 
-| Dimension          | Product leadership         | Customer Intimacy      | Operational excellence |
-|:-------------------|:---------------------------|:-----------------------|:-----------------------|
-| Value proposition  | State-of-the-art features  | What I need            | Best quality vs price  |
-| Product management | Novelty                    | Diversity              | Efficient              |
-| Organisation style | Speed                      | Adaptation             | Optimization           |
-| Culture            | Flexibility, Collaboration | Autonomy, Intelligence | Measure, Discipline    |
-| Example            | Apple, Tesla               | IBM, Palantir          | MacDonald's, Airbus    |
+| Dimension         | Product leadership        | Customer Intimacy     | Operational excellence |
+|:------------------|:--------------------------|:----------------------|:-----------------------|
+| Value proposition | State-of-the-art features | What I need           | Best quality vs price  |
+| Products          | Novelty                   | Customized            | Cost-effective         |
+| Orga style        | Speed                     | Adaptation            | Optimization           |
+| Culture           | Flexibility/Collaboration | Autonomy/Intelligence | Measure/Discipline     |
+| Example           | Apple, Tesla              | IBM, Palantir         | MacDonald's, Airbus    |
 
 ##### Quotes
 Value leaders in their industry redefined value for customers and built powerful, cohesive business systems that could deliver more of that value than competitors. They raised customers' expectations beyond the competition's reach. They changed what customers valued and how it was delivered, then boosted the level of value that customers expected [@Treacy1993].
@@ -47,39 +47,13 @@ Companies that have taken leadership positions in their industries in the last d
 
 Companies that push the boundaries of one value discipline while meeting industry standards in the other two gain such a lead that competitors find it hard to catch up. Leaders have aligned their entire operating model-that is, the company's culture, business processes, management systems, and computer platforms to serve one value discipline [@Treacy1993].
 
-**Operational Excellence**
-
-Operational excellence describes a specific strategic approach to the production and delivery of products and services. The objective is to lead in price and convenience: to minimize overhead costs, to eliminate intermediate production steps, to reduce transaction and other "friction" costs, and to optimize business processes. They focus on delivering their products or services to customers at competitive prices and with minimal inconvenience [@Treacy1993].
-
-Dell outperformed by cutting dealers out of the distribution process, building to order rather than to inventory, fostering a disciplined, extremely low-cost culture [@Treacy1993].
-
-General Electric reinvented its operating model-the way it made, sold, and distributed appliances. GE introduced the "virtual inventory," a computer-based logistics system that allows stores to operate as though they had hundreds of ranges and refrigerators in the back room when in fact they have none at all. They have instantaneous access to GE's on-line order-processing to place orders for next-day delivery. Dealers have had to give up some independence from the supplier. Virtual inventory works better than real inventory for both dealers and customers and saves about 12% of distribution and marketing costs to GE. With Direct Connect, GE knows that vendors' orders are, in fact, actual sales to customers. GE links its order-processing system to other systems involved in forecasting demand and planning production and distribution. The company now, in effect, manufactures in response to customer demand instead of to inventory. It implemented automated inventory replenishment and invoice-less payments and integrated disparate logistics systems [@Treacy1993].
-
-Companies that have adopted a strategy of operational excellence also have built their operations around information systems that emphasize integration and low-cost transaction processing [@Treacy1993].
-
 **Customer Intimacy**
-
-Those pursuing a strategy of customer intimacy continually tailor and shape products and services to fit an increasingly fine definition of the customer. Customer-intimate companies are willing to spend now to build customer loyalty for the long term. They typically look at the customer's lifetime value to the company, not the value of any single transaction. Their first priority is to make sure the customer gets the right product. Such companies understand well is the difference between profit or loss on a single transaction and profit over the lifetime of their relationship with a single customer. They know that not all customers require the same level of service or will generate the same revenues. They deploy CRMs that segment its services with great eﬃciency, to direct certain value-added services or products to a specific group of clients [@Treacy1993].
-
-Kraft has the information systems, analytical capability, and educated sales force to allow it to develop as many different so-called micro-merchandising programs for a chain that carries its products as the chain has stores. It had to create the organization, build the information systems, and educate and motivate the people required to pursue a strategy of customer intimacy. Kraft decentralized its marketing operation in order to empower the people actually dealing with the customer. It also is giving them the data they need to make intelligent recommendations. Kraft has assembled a centralized information system. Its business processes stress flexibility and responsiveness. Its information systems collect, integrate, and analyze data from many sources. Its organizational structure emphasizes empowerment of people working close to customers, and its hiring and training programs stress the creative decision-making skills required to respond to individual customer needs. Its management systems recognize and utilize such concepts as customer lifetime value [@Treacy1993].
 
 **Product Leadership**
 
-Product leadership is striving to produce a continuous stream of state-of-the-art products and services. They must be creative, which means recognizing and embracing ideas that usually originate outside the company. Innovative companies must commercialize their ideas quickly. All their business and management processes have to be engineered for speed. Product leaders must relentlessly pursue new solutions to the problems that their own latest product or service has just solved. If anyone is going to render their technology obsolete, they prefer to do it themselves [@Treacy1993].
-
-They enjoy the benefits of decentralization (among them, autonomous management, speed, and flexibility). Product leaders work hard at developing an open-mindedness to new ideas. Product leaders create and maintain an environment that encourages employees to bring ideas into the company and, just as important, they listen to and consider these ideas. "Not invented here" is not a part of their vocabularies. Product leaders avoid bureaucracy at all costs because it slows commercialization of their ideas. They "decide today, then implement tomorrow" to shorten their cycle times. They do not plan for events that may never happen, nor do they spend much time on detailed analysis. Their strength lies in reacting to situations as they occur. Fast reaction times are an advantage when dealing with the unknown [@Treacy1993].
-
 Vistakon can move fast and take risks because it is organized like a small, entrepreneurial company [@Treacy1993].
 
-Product leaders are their own fiercest competitors. Product leaders also possess the infrastructure and management systems needed to manage risk well [@Treacy1993].
-
 **Customers types**
-
-One set of potential customers denes value within a matrix of price, convenience, and quality, with price the dominant factor. These customers are less particular about what they buy than they are about getting it at the lowest possible price and with the least possible hassle. The business that succeeds by serving these customers focuses on operational excellence [@Treacy1993].
-
-The second set of customers is more concerned with obtaining precisely what they want or need. Customers in this group ascribe value to a product or service according to how closely it appears to be designed just for them. These customers require a company to focus on customer intimacy [@Treacy1993].
-
-To the third category of customers, new, different, and unusual products count most. These are customers who, are primarily interested in fashion and trends. For a company to succeed in serving these customers, it has to focus on product leadership [@Treacy1993].
 
 **Sustaining the Lead**
 
@@ -91,41 +65,25 @@ Many companies falter simply because they lose sight of their value discipline. 
 
 **Threat of entry**
 
-1. Economies of scale
-2. Product differentiation
-3. Capital requirements
-4. Cost disadvantages independent of size
-5. Access to distribution channels
-6. Government policy
+Factors hindering new entrants:
+
+1. Product differentiation
+1. Cost disadvantages independent of size: experience, location, specific resources
+1. Concentration: Economies of scale
+1. Access to distribution channels
+1. Capital requirements
+1. Government policy
 
 **Powerful suppliers & buyers**
 
-A supplier group is powerful if:
-- Concentration: dominated by a few companies and is more concentrated than the industry it sells to.
-- Differentiation: product is unique or at least differentiated, or if it has built up switching costs.
-- Differentiation: not obliged to contend with other products for sale to the industry.
-- Potential entrant: credible threat of integrating forward into the industry's business.
-- Non-core: not an important customer of the supplier group.
-
-A buyer group is powerful if:
-- Concentration: It is concentrated or purchases in large volumes.
-- Differentiation: The products it purchases from the industry are standard or undifferentiated.
-- Potential entrant: The buyers pose a credible threat of integrating backward to make the industry's product.
-- Non-core: The industry's product is unimportant to the quality of the buyers' products or services.
-- Non-core: The industry's product does not save the buyer money.
-- Marginal Cost: The products it purchases from the industry form a component of its product and represent a significant fraction of its cost.
-- Marginal Cost: It earns low profits, which create great incentive to lower its purchasing costs. Highly profitable buyers, however, are generally less price sensitive.
-
-Summary:
-- Concentration
-- Differentiation
-- Potential entrant
-- Non-core
-- Marginal Cost
+Factor:
+- Concentration of buyer/seller
+- Differentiation of products bought/sold
+- Buyer/seller is a Potential entrant
+- Non-core to the buyer/seller
+- High Marginal Cost to the buyer
 
 **Substitute products**
-
-By placing a ceiling on prices it can charge, substitute products or services limit the potential of an industry, unless it can upgrade the quality of the product or differentiate it. Manifestly, the more attractive the price-performance trade-off offered by substitute products, the firmer the lid placed on the industry's profit potential. Substitutes not only limit profits in normal times; they also reduce the bonanza an industry can reap in boom times.
 
 Substitute products that deserve the most attention strategically are those that:
 
@@ -134,15 +92,11 @@ Substitute products that deserve the most attention strategically are those that
 
 **Jockeying for position**
 
-Rivalry among existing competitors takes the familiar form of jockeying for position-using tactics like price competition, product introduction, and advertising slugfests. Intense rivalry is related to the presence of a number of factors:
-
-- Competitors are numerous or are roughly equal in size and power.
-- Industry growth is slow.
-- The product or service lacks differentiation or switching costs.
-- Fixed costs are high or the product is perishable.
-- Capacity is normally augmented in large increments.
-- Exit barriers are high. Exit barriers, like very specialized assets or management's loyalty to a particular business, keep companies competing even though they may be earning low returns on investment.
-- The rivals are diverse in strategies, origins, and "personalities", and continually run head-on into each other.
+- Concentration: Numerous or similarly sized rivals.
+- Low growth of industry
+- No differentiation or switching costs.
+- High fixed costs or exit barriers.
+- Nemesis: rivals having differing "personalities".
 
 **Formulation of Strategy**
 
@@ -152,75 +106,11 @@ Rivalry among existing competitors takes the familiar form of jockeying for posi
 
 ##### Quotes
 
-The essence of strategy formulation is coping with competition. Yet it is easy to view competition too narrowly and too pessimistically. While one sometimes hears executives complaining to the contrary, intense competition in an industry is neither coincidence nor bad luck.
+The essence of strategy formulation is coping with competition. Yet it is easy to view competition too narrowly and too pessimistically. While one sometimes hears executives complaining to the contrary, intense competition in an industry is neither coincidence nor bad luck [@Porter1979].
 
-Competition is not manifested only in the other players. Competition in an industry is rooted in its underlying economics, and competitive forces exist that go well beyond the established combatants in a particular industry. Customers, suppliers, potential entrants, and substitute products are all competitors that may be more or less prominent or active depending on the industry. Knowledge of these underlying sources of competitive pressure provides the groundwork for a strategic agenda of action.
+Competition is not manifested only in the other players. Competition in an industry is rooted in its underlying economics, and competitive forces exist that go well beyond the established combatants in a particular industry. Customers, suppliers, potential entrants, and substitute products are all competitors that may be more or less prominent or active depending on the industry. Knowledge of these underlying sources of competitive pressure provides the groundwork for a strategic agenda of action [@Porter1979].
 
-The strongest competitive force or forces determine the profitability of an industry and so are of greatest importance in strategy formulation. Even a company with a strong position in an industry unthreatened by potential entrants will earn low returns if it faces a superior or a lower-cost substitute product. Every industry has an underlying structure, or a set of fundamental economic and technical characteristics, that gives rise to these competitive forces.
-
-**Threat of entry**
-
-The seriousness of the threat of entry depends on the barriers present and on the reaction from existing competitors that entrants can expect. There are six major sources of barriers to entry:
-1. Economies of scale: These economies deter entry by forcing the aspirant either to come in on a large scale or to accept a cost disadvantage.
-2. Product differentiation: Brand identification creates a barrier by forcing entrants to spend heavily to overcome customer loyalty.
-3. Capital requirements: The need to invest large financial resources in order to compete creates a barrier to entry, particularly if the capital is required for unrecoverable expenditures in up-front advertising or R&D.
-4. Cost disadvantages independent of size: Entrenched companies may have cost advantages not available to potential rivals, no matter what their size and attainable economies of scale. Such as learning
-curve (and of its first cousin, the experience curve), proprietary technology, access to the best raw materials sources, assets purchased at pre-inflation prices, government subsidies, or favorable locations.
-5. Access to distribution channels: The newcomer on the block must, of course, secure distribution of its product or service. Sometimes this barrier is so high that, to surmount it, a new contestant must create its own distribution channels.
-6. Government policy: The government can limit or even foreclose entry to industries with such controls as license requirements and limits on access to raw materials. There are also indirect entry barriers through controls such as air and water pollution standards and safety regulations.
-
-The company is likely to have second thoughts if incumbents have previously lashed out at new entrants or if:
-- The incumbents possess substantial resources to fight back
-- The incumbents seem likely to cut prices
-- Industry growth is slow, affecting its ability to absorb the new arrival
-
-**Powerful suppliers & buyers**
-
-Suppliers can exert bargaining power on participants in an industry by raising prices or reducing the quality of purchased goods and services.
-
-A supplier group is powerful if:
-
-- It is dominated by a few companies and is more concentrated than the industry it sells to.
-- Its product is unique or at least differentiated, or if it has built up switching costs.
-- It is not obliged to contend with other products for sale to the industry.
-- It poses a credible threat of integrating forward into the industry's business.
-- The industry is not an important customer of the supplier group.
-
-A buyer group is powerful if:
-
-- It is concentrated or purchases in large volumes.
-- The products it purchases from the industry are standard or undifferentiated.
-- The products it purchases from the industry form a component of its product and represent a significant fraction of its cost. Where the product sold by the industry in question is a small fraction of buyers' costs, buyers are usually much less price sensitive.
-- It earns low profits, which create great incentive to lower its purchasing costs. Highly profitable buyers, however, are generally less price sensitive.
-- The industry's product is unimportant to the quality of the buyers' products or services.
-- The industry's product does not save the buyer money.
-- The buyers pose a credible threat of integrating backward to make the industry's product.
-
-A company's choice of suppliers to buy from or buyer groups to sell to should be viewed as a crucial strategic decision. Rarely do all the buyer groups a company sells to enjoy equal power. Segments
-usually exist within that industry that exercise less power (and that are therefore less price sensitive) than others. For example, the replacement market for most products is less price sensitive than the overall market.
-
-As a rule, a company can sell to powerful buyers and still come away with above- average profitability only if it is a low-cost producer in its industry or if its product enjoys some unusual, if not unique, features. If the company lacks a low cost position or a unique product, selling to everyone is self-defeating because the more sales it achieves, the more vulnerable it becomes. The company may have to muster the courage to turn away business and sell only to less potent customers.
-
-**Substitute products**
-
-By placing a ceiling on prices it can charge, substitute products or services limit the potential of an industry, unless it can upgrade the quality of the product or differentiate it. Manifestly, the more attractive the price-performance trade-off offered by substitute products, the firmer the lid placed on the industry's profit potential. Substitutes not only limit profits in normal times; they also reduce the bonanza an industry can reap in boom times.
-
-Substitute products that deserve the most attention strategically are those that:
-- are subject to trends improving their price-performance trade-off with the industry's product
-- are produced by industries earning high profits.
-
-**Jockeying for position**
-
-Rivalry among existing competitors takes the familiar form of jockeying for position-using tactics like price competition, product introduction, and advertising slugfests. Intense rivalry is related to the presence of a number of factors:
-- Competitors are numerous or are roughly equal in size and power.
-- Industry growth is slow.
-- The product or service lacks differentiation or switching costs.
-- Fixed costs are high or the product is perishable.
-- Capacity is normally augmented in large increments.
-- Exit barriers are high. Exit barriers, like very specialized assets or management's loyalty to a particular business, keep companies competing even though they may be earning low returns on investment.
-- The rivals are diverse in strategies, origins, and "personalities", and continually run head-on into each other.
-
-As an industry matures, its growth rate changes, resulting in declining profits and (often) a shakeout. Technological innovation can boost the level of fixed costs in the production process. While a company must live with many of these factors (because they are built into industry economics) it may have some latitude for improving matters through strategic shifts. For example, it may try to raise buyers' switching costs or increase product differentiation.
+The strongest competitive force or forces determine the profitability of an industry and so are of greatest importance in strategy formulation. Even a company with a strong position in an industry unthreatened by potential entrants will earn low returns if it faces a superior or a lower-cost substitute product. Every industry has an underlying structure, or a set of fundamental economic and technical characteristics, that gives rise to these competitive forces [@Porter1979].
 
 **Formulation of Strategy**
 
