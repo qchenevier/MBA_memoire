@@ -4,12 +4,12 @@
 <!-- Why some assets have less value than before? What assets are devaluating quickly? -->
 <!-- How are you organized? -->
 
+### Drivers
+
 Although large traditional firms are truly different from digital entrants, many are starting to transform their businesses successfully through digital technology. Companies face common pressures from customers, employees and competitors [@Westerman2011].
 
 Globalization is a driver for some firms: there is a strategic need to expand globally or pressures to generate information and process synergies [@Westerman2011].
 Some firms mentioned M&A as a pressure to transform [@Westerman2011].
-
-### Competition, New Entrants & Substitution (Product Leadership)
 
 #### Technological systems (not technologies) usage is exploding
 
@@ -38,7 +38,13 @@ Between 2014 and 2020, the amound of data managed per each IT professional will 
 
 For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
 
-#### Low barriers to entry
+### Product leadership disruption
+
+Related primarily to 2 Porter's forces:
+- Threat of New Entrants
+- Threat of Substitutes
+
+#### Low barriers to entry (Product Leadership disruption)
 
 Prosumerization has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents [@Gimpel2012].
 
@@ -51,9 +57,21 @@ Once digital players have established themselves as leaders in one market, they 
 
 Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being "born digital."
 
-#### Increasing pace of disruption & Self-reinforcing dynamics of disruption
+#### Increasing pace of innovation (Product Leadership disruption)
 
 The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines [@Manyika2015].
+
+Nearly every executive cited competitive pressures to change. This relates closely to increases in the pace of business. Several executives indicated this was "the new normal" for their industries. None of the executives felt their innovation culture was as strong as it should be [@Westerman2011].
+
+Keeping up with the relentless pace of digital innovation is both a sprint and a marathon [@Manyika2015].
+
+A technology is considered disruptive when its use generates services or physical products with different performance attributes that may not be valued by a company's current customer base. Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades [@Karimi2015].
+
+New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value [@Hirt2014].
+
+New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal [@Hirt2014].
+
+#### Network effects: Self-reinforcing dynamics of disruption. Porter's Competition (Operational efficiency disruption)
 
 3. Winner-takes-all dynamics
 Digital businesses reduce transaction and labor costs, increase returns to scale from aggregated data. Scale economies in data and talent often are decisive [@Hirt2014].
@@ -62,19 +80,23 @@ Businesses that rely too heavily on a single revenue stream or on playing an int
 
 Network Effects Within Multisided Platforms Create Rapid Scale Potential: Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service. More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partner-ships and on the demand side with interconnections among web pages.  [@Bharadwaj2013]
 
-Nearly every executive cited competitive pressures to change. This relates closely to increases in the pace of business. Several executives indicated this was "the new normal" for their industries. None of the executives felt their innovation culture was as strong as it should be [@Westerman2011].
-
-Keeping up with the relentless pace of digital innovation is both a sprint and a marathon [@Manyika2015].
-
-A technology is considered disruptive when its use generates services or physical products with different performance attributes that may not be valued by a company's current customer base. Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades [@Karimi2015].
-
-New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value [@Hirt2014]. New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal [@Hirt2014].
-
 At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic [@Manyika2015].
 
-### Customers, Suppliers & Operations (Customer Intimacy & Operational Efficency)
+### Customer Intimacy disruption
 
-#### Reducing information asymmetry as a new value creation
+Relates primarily to 1 Porter's forces: Competition rivalry. Customer intimacy disruption impacts customer loyalty.
+
+#### Customization improved by reduced information asymmetry (Customer Intimacy)
+
+Increased Value from Information: the digital business context brings new opportunities to create value from information. Many firms are able to fine-tune their actions and personalize their offerings based on information about customer preferences. Democratization of content as well as the subsequent sharing, remixing, redistribution, and resyndication of content have caused dramatic power shifts in market channels and dis-intermediations that disrupt traditional sources of economic profits while creating fundamentally new sources of value [@Bharadwaj2013].
+
+### Operational Efficency disruption
+
+Related primarily to 2 Porter's forces:
+- Customers bargaining power
+- Suppliers bargaining power
+
+#### Distribution improved by reduced information asymmetry (Operational efficiency)
 
 Consumers have been big winners in the digital economy, although most of this effect does not show up as GDP. Some tech firms are providing free products or services where traditional businesses once charged fees. In these cases, the consumer gains are siphoning value out of industries [@Manyika2015].
 
@@ -85,26 +107,29 @@ Third parties have jumped into this fray, disintermediating relationships betwee
 
 Globalization reshapes the nature of supply and demand. Consumers enjoy a new world of choice [@Gimpel2012].
 
-Increased Value from Information: the digital business context brings new opportunities to create value from information. Many firms are able to fine-tune their actions and personalize their offerings based on information about customer preferences. Democratization of content as well as the subsequent sharing, remixing, redistribution, and resyndication of content have caused dramatic power shifts in market channels and dis-intermediations that disrupt traditional sources of economic profits while creating fundamentally new sources of value [@Bharadwaj2013].
-
 The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software.
 
-#### Leverage communities of consumer-producers
+#### Production improved by leveraging communities of consumer-producers (Operational efficiency disruption)
+
+[TODO: move this quote elsewhere] Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries. (CIME) industries face dramatic changes in revenue streams and shifts in industry dynamics. Power players accustomed to monopoly profits face unprecedented competition. Traditional business models face threats. Communications firms face substitution from over-the-top services [@Gimpel2012].
 
 Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations [@Hirt2014].
 
 Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers [@Manyika2015].
 
-#### Densification of networks: more connections, longer connections
-
-Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries. (CIME) industries face dramatic changes in revenue streams and shifts in industry dynamics. Power players accustomed to monopoly profits face unprecedented competition. Traditional business models face threats. Communications firms face substitution from over-the-top services [@Gimpel2012].
+#### Distribution improved by platformization (Operational efficiency disruption)
 
 6. Converging global supply and demand
-Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways: creation of purely digital goods (digitization is transforming even physical flows of people into virtual flows), enhancing the value of physical flows by the use of "digital wrappers" that pack information around (online reviews or customer ratings, digital tags and sensors connected by wireless communications), creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges [@Hirt2014].
+Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways:
+- creation of purely digital goods (digitization is transforming even physical flows of people into virtual flows)
+- enhancing the value of physical flows by the use of "digital wrappers" that pack information around (online reviews or customer ratings, digital tags and sensors connected by wireless communications)
+- creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges [@Hirt2014].
 
 In B2B markets, corporate purchasers are raising pressure on their suppliers to offer services that are standardized across borders, integrate with other offerings, and can be plugged into the purchasing companies' global business processes easily [@Hirt2014].
 
 Platformization is the emergence of Digital platforms that bring together suppliers, customers, and third parties. They are replacing traditional middlemen and can often serve to level the playing field by granting small players and new entrants access to formerly closed markets [@Gimpel2012]. While physical processes have high marginal costs, low-marginal-cost economics and platform architecture has allowed the most successful high-tech firms to achieve a scale that was once impossible. The power of platform economics is reflected in the gross margins, which can run as high as 80 percent [@Manyika2015].
+
+#### Production improved by outsourcing & virtualization (Operational efficiency disruption)
 
 Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms [@Gimpel2012].
 
