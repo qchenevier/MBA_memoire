@@ -25,6 +25,14 @@ Each technological revolution has its key factor :
 
 In each case, the "key factor" steers engineering and investment decisions towards its intensive use. New technology systems are built accordingly, based on: microelectronics, software & telecommunications [@Perez2004]. Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015]. The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web) [@Bharadwaj2013]. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society [@Gimpel2012].
 
+Futurist Ray Kurzweil made **four signature observations** [@VanGeest2014]:
+1. First, the doubling pattern identified by Gordon Moore in integrated circuits applies to any information technology. Kurzweil calls this the Law of Accelerating Returns (LOAR) and shows that doubling patterns in computation extend all the way back to 1900, far earlier than Moore's original pronouncement.
+2. Second, the driver fueling this phenomenon is information. Once any domain, discipline, technology or industry becomes information-enabled and powered by information flows, its price/performance begins doubling approximately annually.
+3. Third, once that doubling pattern starts, it doesn't stop.
+4. Finally, several key technologies today are now information-enabled and following the same trajectory. Those technologies include artificial intelligence (AI), robotics, biotech and bioinformatics, medicine, neuroscience, data science, 3D printing, nanotechnology and even aspects of energy.
+
+The explosive transition from film to digital photography is now occurring in several accelerating technologies. We are information-enabling everything. An information-enabled environment delivers fundamentally disruptive opportunities. E.g: the cheapest 3D printers now cost only \$ 100, which means that within five years or so most of us will be able to afford 3D printers to fabricate toys, cutlery, tools and fittings- essentially anything we're able to dream up [@VanGeest2014].
+
 [TODO: ADD QUOTE ABOUT TELECOM TECHNOLOGY, IOT & COMPUTING PENETRATION]
 
 #### The rise of "Big data"

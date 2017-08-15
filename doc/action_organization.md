@@ -84,6 +84,11 @@ New market entrants often scale up rapidly at lower cost than legacy players can
 
 New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal [@Hirt2014].
 
+Kurzweil identified a hugely important and fundamental property of technology: when you shift to an information-based environment, the pace of development jumps onto an exponential growth path and price/performance doubles every year or two. Whereas the experts in many fields will project linearly in times of exponential change [@VanGeest2014].
+
+The pace of change isn't going to slow down anytime soon. In fact, Moore's Law all but guarantees that it will continue to speed up -and speed up exponentially- for at least several decades. And given the cross impact into other technologies, if the last fifteen years has seen enormous disruption in the business world, the next fifteen will make that disruption seem tame by comparison  [@VanGeest2014].
+
+
 #### Network effects & self-reinforcing winner-takes-all dynamics
 
 Digital businesses reduce transaction and labor costs, increase returns to scale from aggregated data. Scale economies in data and talent often are decisive [@Hirt2014].
