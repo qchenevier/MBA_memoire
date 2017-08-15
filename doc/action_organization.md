@@ -1,4 +1,4 @@
-## Macro-economic impact
+## Organizations' action
 
 <!-- What are your assets in this environment? -->
 <!-- Why some assets have less value than before? What assets are devaluating quickly? -->

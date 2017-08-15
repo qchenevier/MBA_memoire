@@ -2,7 +2,7 @@
 [TODO: add introduction about Actor Network Theory, citing: http://latourbugblog.blogspot.fr/2009/01/overview-of-latours-reassembling-social.html, and the fact that we will replace Network by "Organization" which is much more undersstandable. Network will refer to Telecom networks. So it is more about "Actor-Organization" analysis, with the actor which could be a machine.]
 [TODO: rename Micro by Actor and Macro by Organization]
 
-## Actor level
+## Actors' action
 
 ### Machines
 

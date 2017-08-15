@@ -28,11 +28,11 @@ introduction.md
 
 \chapterimage{sources/images/manjumping.jpg}
 
-# Impulsion
+# Action
 
 ``` include
-impulsion_micro.md
-impulsion_macro.md
+action_actor.md
+action_organization.md
 ```
 
 \chapterimage{sources/images/forum.jpg}
@@ -40,8 +40,8 @@ impulsion_macro.md
 # Reaction
 
 ``` include
-reaction_macro.md
-reaction_micro.md
+reaction_organization.md
+reaction_actor.md
 ```
 
 \chapterimage{sources/images/balconies.jpg}
