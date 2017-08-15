@@ -4,11 +4,6 @@
 <!-- Why some assets have less value than before? What assets are devaluating quickly? -->
 <!-- How are you organized? -->
 
-Pour comprendre comment vous êtes impacté en tant qu'organisation:
-- Quel type d'organisation vous êtes ? Product, customer ou opération
-- Suivant votre type d'organisation, on liste quels sont les plus grandes forces de porter qui vous impactent ?
-- En passant en revue ces forces, quelles sont les grandes tendances systémiques dues à la digitalisation qui impactent le plus votre manière de créer et capturer de la valeur ?
-
 To understand what are the macro-economic impact as an organization:
 - What type of organisation you are analyzing ?
 - Depending on the type of organisation, what are the influencing factors impacting the efficiency of the organization ?
@@ -20,23 +15,23 @@ Regarding the type of organization, we suggest to segment the organizations usin
 
 Regarding the influencing factors, we introduce a mapping of the 5 forces introduced by @Porter1979 on each type (of "flavor") of organization. Those forces are seen as being more probably the weak points of a certain type of organization, but they are also greatly depending on the industry context in which the organization is evolving. Like for the value disciplines, the purpose is to guide the focus of the analyst on areas which could be more relevant. But the proposed mapping is flexible and ultimately all the influencing factors should be considered.
 
-### Product leadership disruption
+### Product Leadership organizations
 
-#### Product leadership focuses on speed and innovation
+#### Focus on Speed & Innovation
 
-Product leadership is striving to produce a continuous stream of state-of-the-art products and services. Products leaders must be creative, which means recognizing and embracing ideas that usually originate outside the company. Innovative companies must commercialize their ideas quickly. All their business and management processes have to be engineered for speed. Product leaders must relentlessly pursue new solutions to the problems that their own latest product or service has just solved. If anyone is going to render their technology obsolete, they prefer to do it themselves [@Treacy1993].
+Product Leadership is striving to produce a continuous stream of state-of-the-art products and services. Products leaders must be creative, which means recognizing and embracing ideas that usually originate outside the company. Innovative companies must commercialize their ideas quickly. All their business and management processes have to be engineered for speed. Product leaders must relentlessly pursue new solutions to the problems that their own latest product or service has just solved. If anyone is going to render their technology obsolete, they prefer to do it themselves [@Treacy1993].
 
 They enjoy the benefits of decentralization (among them, autonomous management, speed, and flexibility). Product leaders work hard at developing an open-mindedness to new ideas. Product leaders create and maintain an environment that encourages employees to bring ideas into the company and, just as important, they listen to and consider these ideas. "Not invented here" is not a part of their vocabularies. Product leaders avoid bureaucracy at all costs because it slows commercialization of their ideas. They "decide today, then implement tomorrow" to shorten their cycle times. They do not plan for events that may never happen, nor do they spend much time on detailed analysis. Their strength lies in reacting to situations as they occur. Fast reaction times are an advantage when dealing with the unknown [@Treacy1993].
 
 Product leaders are their own fiercest competitors. Product leaders also possess the infrastructure and management systems needed to manage risk well [@Treacy1993].
 
-To the third category of customers, new, different, and unusual products count most. These are customers who, are primarily interested in fashion and trends. For a company to succeed in serving these customers, it has to focus on product leadership [@Treacy1993].
+To the third category of customers, new, different, and unusual products count most. These are customers who, are primarily interested in fashion and trends. For a company to succeed in serving these customers, it has to focus on Product Leadership [@Treacy1993].
 
-#### Product leadership is hindered by Substitute Products and Threat of Entry
+#### Foresee Substitutes and Threat of Entry
 
 Companies focusing on a Product Leadership value discipline, seem to be primarily impacted by 2 Porter's forces:
 - Threat of Entry
-- Substitute products
+- Substitutes
 
 ##### Threat of entry
 
@@ -56,13 +51,13 @@ The company is likely to have second thoughts if incumbents have previously lash
 
 ##### Substitutes
 
-By placing a ceiling on prices it can charge, substitute products or services limit the potential of an industry, unless it can upgrade the quality of the product or differentiate it. Manifestly, the more attractive the price-performance trade-off offered by substitute products, the firmer the lid placed on the industry's profit potential. Substitutes not only limit profits in normal times; they also reduce the bonanza an industry can reap in boom times.
+By placing a ceiling on prices it can charge, substitute products or services limit the potential of an industry, unless it can upgrade the quality of the product or differentiate it. Manifestly, the more attractive the price-performance trade-off offered by substitute products, the firmer the lid placed on the industry's profit potential. Substitutes not only limit profits in normal times; they also reduce the bonanza an industry can reap in boom times [@Porter1979].
 
-Substitute products that deserve the most attention strategically are those that:
+Substitutes that deserve the most attention strategically are those that [@Porter1979]:
 - are subject to trends improving their price-performance trade-off with the industry's product
 - are produced by industries earning high profits.
 
-#### Low barriers to entry
+#### Technology lowers barriers to entry
 
 Prosumerization has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents [@Gimpel2012].
 
@@ -99,21 +94,21 @@ Network Effects Within Multisided Platforms Create Rapid Scale Potential: Networ
 
 At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic [@Manyika2015].
 
-### Customer Intimacy disruption
+### Customer Intimacy
 
-#### Customer Intimacy focuses on adaptation and customization
+#### Focus on Adaptation & Customization
 
-Those pursuing a strategy of customer intimacy continually tailor and shape products and services to fit an increasingly fine definition of the customer. Customer-intimate companies are willing to spend now to build customer loyalty for the long term. They typically look at the customer's lifetime value to the company, not the value of any single transaction. Their first priority is to make sure the customer gets the right product. Such companies understand well is the difference between profit or loss on a single transaction and profit over the lifetime of their relationship with a single customer. They know that not all customers require the same level of service or will generate the same revenues. They deploy CRMs that segment its services with great eﬃciency, to direct certain value-added services or products to a specific group of clients [@Treacy1993].
+Those pursuing a strategy of Customer Intimacy continually tailor and shape products and services to fit an increasingly fine definition of the customer. Customer-intimate companies are willing to spend now to build customer loyalty for the long term. They typically look at the customer's lifetime value to the company, not the value of any single transaction. Their first priority is to make sure the customer gets the right product. Such companies understand well is the difference between profit or loss on a single transaction and profit over the lifetime of their relationship with a single customer. They know that not all customers require the same level of service or will generate the same revenues. They deploy CRMs that segment its services with great eﬃciency, to direct certain value-added services or products to a specific group of clients [@Treacy1993].
 
-Kraft has the information systems, analytical capability, and educated sales force to allow it to develop as many different so-called micro-merchandising programs for a chain that carries its products as the chain has stores. It had to create the organization, build the information systems, and educate and motivate the people required to pursue a strategy of customer intimacy. Kraft decentralized its marketing operation in order to empower the people actually dealing with the customer. It also is giving them the data they need to make intelligent recommendations. Kraft has assembled a centralized information system. Its business processes stress flexibility and responsiveness. Its information systems collect, integrate, and analyze data from many sources. Its organizational structure emphasizes empowerment of people working close to customers, and its hiring and training programs stress the creative decision-making skills required to respond to individual customer needs. Its management systems recognize and utilize such concepts as customer lifetime value [@Treacy1993].
+Kraft has the information systems, analytical capability, and educated sales force to allow it to develop as many different so-called micro-merchandising programs for a chain that carries its products as the chain has stores. It had to create the organization, build the information systems, and educate and motivate the people required to pursue a strategy of Customer Intimacy. Kraft decentralized its marketing operation in order to empower the people actually dealing with the customer. It also is giving them the data they need to make intelligent recommendations. Kraft has assembled a centralized information system. Its business processes stress flexibility and responsiveness. Its information systems collect, integrate, and analyze data from many sources. Its organizational structure emphasizes empowerment of people working close to customers, and its hiring and training programs stress the creative decision-making skills required to respond to individual customer needs. Its management systems recognize and utilize such concepts as customer lifetime value [@Treacy1993].
 
-The second set of customers is more concerned with obtaining precisely what they want or need. Customers in this group ascribe value to a product or service according to how closely it appears to be designed just for them. These customers require a company to focus on customer intimacy [@Treacy1993].
+The second set of customers is more concerned with obtaining precisely what they want or need. Customers in this group ascribe value to a product or service according to how closely it appears to be designed just for them. These customers require a company to focus on Customer Intimacy [@Treacy1993].
 
-#### Customer Intimacy is hindered by Powerful buyers
+#### Foresee Powerful Buyers
 
-Relates primarily to 1 Porter's forces: Powerful buyers. Customer intimacy disruption impacts customer loyalty.
+Customer Intimacy relates primarily to one of Porter's forces: Powerful Buyers.
 
-##### Powerful buyers
+##### Powerful Buyers
 
 Customers likewise can force down prices, demand higher quality or more service, and play competitors off against each other, all at the expense of industry profits [@Porter1979].
 
@@ -131,33 +126,33 @@ A company's choice of buyer groups to sell to should be viewed as a crucial stra
 
 Rarely do all the buyer groups a company sells to enjoy equal power. Segments usually exist within that industry that exercise less power (and that are therefore less price sensitive) than others. For example, the replacement market for most products is less price sensitive than the overall market [@Porter1979].
 
-As a rule, a company can sell to powerful buyers and still come away with above- average profitability only if it is a low-cost producer in its industry or if its product enjoys some unusual, if not unique, features. If the company lacks a low cost position or a unique product, selling to everyone is self-defeating because the more sales it achieves, the more vulnerable it becomes. The company may have to muster the courage to turn away business and sell only to less potent customers [@Porter1979].
+As a rule, a company can sell to Powerful Buyers and still come away with above- average profitability only if it is a low-cost producer in its industry or if its product enjoys some unusual, if not unique, features. If the company lacks a low cost position or a unique product, selling to everyone is self-defeating because the more sales it achieves, the more vulnerable it becomes. The company may have to muster the courage to turn away business and sell only to less potent customers [@Porter1979].
 
 #### Customization improved by reduced information asymmetry
 
 Increased Value from Information: the digital business context brings new opportunities to create value from information. Many firms are able to fine-tune their actions and personalize their offerings based on information about customer preferences. Democratization of content as well as the subsequent sharing, remixing, redistribution, and resyndication of content have caused dramatic power shifts in market channels and dis-intermediations that disrupt traditional sources of economic profits while creating fundamentally new sources of value [@Bharadwaj2013].
 
-### Operational Excellence disruption
+### Operational Excellence
 
-#### Operational Excellence focuses on optimization and cost-effectiveness
+#### Focus on Optimization & Price-performance ratio
 
-Operational excellence describes a specific strategic approach to the production and delivery of products and services. The objective is to lead in price and convenience: to minimize overhead costs, to eliminate intermediate production steps, to reduce transaction and other "friction" costs, and to optimize business processes. They focus on delivering their products or services to customers at competitive prices and with minimal inconvenience [@Treacy1993].
+Operational Excellence describes a specific strategic approach to the production and delivery of products and services. The objective is to lead in price and convenience: to minimize overhead costs, to eliminate intermediate production steps, to reduce transaction and other "friction" costs, and to optimize business processes. They focus on delivering their products or services to customers at competitive prices and with minimal inconvenience [@Treacy1993].
 
 Dell outperformed by cutting dealers out of the distribution process, building to order rather than to inventory, fostering a disciplined, extremely low-cost culture [@Treacy1993].
 
 General Electric reinvented its operating model-the way it made, sold, and distributed appliances. GE introduced the "virtual inventory," a computer-based logistics system that allows stores to operate as though they had hundreds of ranges and refrigerators in the back room when in fact they have none at all. They have instantaneous access to GE's on-line order-processing to place orders for next-day delivery. Dealers have had to give up some independence from the supplier. Virtual inventory works better than real inventory for both dealers and customers and saves about 12% of distribution and marketing costs to GE. With Direct Connect, GE knows that vendors' orders are, in fact, actual sales to customers. GE links its order-processing system to other systems involved in forecasting demand and planning production and distribution. The company now, in effect, manufactures in response to customer demand instead of to inventory. It implemented automated inventory replenishment and invoice-less payments and integrated disparate logistics systems [@Treacy1993].
 
-Companies that have adopted a strategy of operational excellence also have built their operations around information systems that emphasize integration and low-cost transaction processing [@Treacy1993].
+Companies that have adopted a strategy of Operational Excellence also have built their operations around information systems that emphasize integration and low-cost transaction processing [@Treacy1993].
 
-One set of potential customers denes value within a matrix of price, convenience, and quality, with price the dominant factor. These customers are less particular about what they buy than they are about getting it at the lowest possible price and with the least possible hassle. The business that succeeds by serving these customers focuses on operational excellence [@Treacy1993].
+One set of potential customers denes value within a matrix of price, convenience, and quality, with price the dominant factor. These customers are less particular about what they buy than they are about getting it at the lowest possible price and with the least possible hassle. The business that succeeds by serving these customers focuses on Operational Excellence [@Treacy1993].
 
-#### Operational Excellence is hindered by Rivals jockeying for position and Powerful suppliers
+#### Foresee Rivals jockeying for position and Powerful suppliers
 
 Related primarily to 2 Porter's forces:
-- Jockeying for position
+- Rivals jockeying for position
 - Powerful suppliers
 
-##### Jockeying for position
+##### Rivals jockeying for position
 
 Rivalry among existing competitors takes the familiar form of jockeying for position-using tactics like price competition, product introduction, and advertising slugfests. Intense rivalry is related to the presence of a number of factors [@Porter1979]:
 - Competitors are numerous or are roughly equal in size and power.
@@ -254,6 +249,6 @@ At the same time, companies are struggling to find the right talent in areas tha
 
 Between 2012 and 2020, the patch of the digital universe that CIOs and their IT staffs need to manage will become not just bigger but also more complex. The skills, experience, and resources to manage all these bits of data will become scarcer and more specialized, requiring a new, flexible, and scalable IT infrastructure that extends beyond the enterprise [@Gantz2012].
 
-Between 2014 and 2020, the amound of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
+Between 2014 and 2020, the amount of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
 
 For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].

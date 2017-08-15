@@ -29,7 +29,7 @@ A foundation book/article about value disciplines and how to use them to trade-o
 | Dimension         | Product leadership        | Customer Intimacy     | Operational excellence |
 |:------------------|:--------------------------|:----------------------|:-----------------------|
 | Value proposition | State-of-the-art features | What I need           | Best quality vs price  |
-| Products          | Novelty                   | Customized            | Cost-effective         |
+| Products          | Novelty                   | Customized            | Price-performance      |
 | Orga style        | Speed                     | Adaptation            | Optimization           |
 | Culture           | Flexibility/Collaboration | Autonomy/Intelligence | Measure/Discipline     |
 | Example           | Apple, Tesla              | IBM, Palantir         | MacDonald's, Airbus    |
@@ -1695,3 +1695,154 @@ To this end, the number of servers (virtual and physical) worldwide will grow by
 By 2020, we'll also be storing a smaller and smaller percentage of our expanding digital universe; yet our digital shadows will be larger than life [@Gantz2012].
 
 The network is growing in importance. Latencies must get shorter. Web sites that gather significant data need to find ways to monetize this asset. Data scientists must be absolutely sure that the intersection of disparate data sets yields repeatable results if new businesses are going to emerge and thrive. Further, companies that deliver the most creative and meaningful ways to display the results of Big Data analytics will be coveted and sought after [@Gantz2012].
+
+#### Big Bang Disruption [@Downes2013]
+But the strategic model of disruptive innovation assumes that disrupters start
+with a lower-priced, inferior alternative that chips away at the least
+profitable segments, giving an incumbent business time to start a skunkworks
+and develop its own next-generation products.
+The disruption here hasn't come from competitors in the same industry or even
+from companies with a remotely similar business model. Nor did the new
+technology enter at the bottom of a mature market and then follow a carefully
+planned march through larger customer segments.
+We're accustomed to seeing mature products wiped out by new technologies and to
+ever-shorter product life cycles. But now entire product lines— whole
+markets—are being created or destroyed overnight.
+We've found that big-bang disruptions are unplanned and unintentional. They do
+not follow conventional strategic paths or normal patterns of market adoption.
+Besides being cheaper than established oﬀerings, they're also more inventive and
+better integrated with other products and services.
+These oﬀerings' lightning-fast adoption is a function of near-perfect market
+information. Wherever customers are, mobile devices let them search a wide
+range of specialized data sources—  ...... s—to find the best price and quality
+and the next new thing.
+big-bang innovations come out of left field, combining existing technologies
+that don't even seem related to your oﬀerings to achieve a dramatically better
+value proposition. Big-bang disrupters may not even see you as competition.
+They don't share your approach to solving customer needs.
+big-bang disrupters enter the market thanks to three defining characteristics:
+unencumbered development, unconstrained growth, and undisciplined strategy.
+Unencumbered development.
+The innovators who create products at "hackathons" aren't even trying to disrupt
+your business. You're just the collateral damage.
+bigbang innovations:  ...... are often born of rapid-fire, low-cost experiments
+on fast-maturing, ubiquitous technology platforms.
+these innovations are often built out of readily available components that cost
+little or are free.  ...... In the future the most successful innovators may be
+those who simply happen upon the right combination of other people's
+technologies.
+these experiments take place directly in the market, using open platforms built
+on the internet, cloud computing, and fast-cycling mobile devices  ...... In
+the bizarro world of big-bang disrupters, it is perfectly rational to churn out
+dozens of new products and see which ones take hold.
+Unconstrained growth. Big-bang disruptions collapse the product life cycle we
+know: Everett Rogers's classic bell curve of five distinct customer
+segments—innovators, early adopters, early majority, late majority, and
+laggards. Now there are only two segments: trial users, who often participate
+in product  ...... development, and everyone else.
+big-bang disruptions can be marketed to every segment simultaneously, right from
+the start.
+the innovators collectively get it wrong, wrong, wrong—and then unbelievably
+right.  ...... In reality, in today's hyperinformed world, each epic failure
+feeds consumer expectations for the potential of something dramatically better.
+Seemingly random experiments and crash-and-burn flops may actually be your best
+warning of an urgent need for a change in strategy, or "strategic pivot." It's
+like a battlefield, where near misses signal not that your enemies are confused
+or incapable of hitting you but that they are zeroing in on your
+position—walking their fire onto the target, shell by shell—before unloading a
+full barrage on your exact location.
+The new product cycle can be simplified into three basic stages: development,
+deployment, and replacement.
+Undisciplined strategy. Big-bang disrupters contradict everything you know about
+competitive strategy. According to Michael Treacy and Fred Wiersema's classic
+The Discipline of Market Leaders (1995), businesses should align strategic
+goals along one—and only one—of three value disciplines: low cost  ......
+("operational excellence"), constant innovation ("product leadership"), or
+customized oﬀerings ("customer intimacy"). Failing to choose, said the authors,
+meant "ending up in a muddle."
+Big-bang disrupters, however, are thoroughly undisciplined. They start life with
+better performance at a lower price and greater customization. They compete
+with mainstream products on all three value disciplines right from the start.
+Consider the three major costs in a product or
+service: the parts and manufacturing, the embedded technologies and intellectual
+property, and a prorated share of development costs. By continually and
+dramatically lowering all three at  ...... once, today's technology makes it
+possible to sell new products and services more cheaply than the inferior
+alternatives they displace.
+Customers are so accustomed to this eﬀect that they are coming to expect every
+product or service to get cheaper and better with each passing day.
+Under these conditions you can't win simply by becoming more disciplined with
+your current strategy. P  ...... More rigorous strategic focus just blinds you
+to the next wave of disruption coming at you from the side.
+Google Maps Navigation competes with stand-alone GPS devices on all three value
+disciplines: It is clearly the cost leader. It is constantly being updated and
+rereleased, making it the leading  ...... innovator as well. And by oﬀering
+seamless integration with mobile phone contact lists, the web, e-mail, and apps
+such as Yelp, it likewise wins on the dimension of customer intimacy.
+Surviving Big-Bang Disruption
+Upending the Conventional Wisdom  ...... Strategic Discipline
+Conventional Wisdom: Focus on only one strategic "discipline" or "generic
+strategy"—low cost, product innovation, or customer intimacy.  ...... Big-Bang
+Wisdom: Compete on all three disciplines at once.  ...... New-Product Marketing
+Conventional Wisdom: First target a small group of early adopters and later
+enter the mainstream market. Big-Bang Wisdom: Market to all  ...... segments of
+users immediately. Be ready to scale up—and exit—swiftly. Innovation Method
+Conventional Wisdom: Seek innovation in lower-cost, feature-poor technologies
+that meet the needs of underserved customer segments.  ...... Big-Bang Wisdom:
+Seek innovation through rapid-re, low-cost experimentation on popular
+platforms.
+Surviving disruption, his research showed, often required a separate
+organization to incubate a competitive response. If you did everything right
+and the stars aligned, you could then move the new product into the market
+using your company's existing infrastructure and advantages of scale, making up
+quickly for lost time.
+Today, given the potential for "sudden death" from a big bang, you may have no
+time to develop an incubated alternative.
+Big-bang disruptions usually feature not a vertically integrated supply chain
+but a virtually integrated one: They are manufactured and deployed via the
+infrastructure of the cloud.
+See it coming.
+Filter out the noise generated by unencumbered development by finding internal
+or external seers who can predict the future with insight and clarity.
+Your truth tellers may be easy to identify, if not to accept. They may be
+employees far below the ranks of senior management, working on the front lines
+of competition and change. They may not be your employees at all. Longtime
+customers, venture capitalists, industry analysts, and science fiction writers
+may all be truth tellers.
+Truth tellers are often eccentric, and their lucidity can easily be mistaken for
+arrogance and stubbornness.
+The insights of a truth teller may not come in easily digested forms. You need
+to learn not only whom to listen to and when, but also how.
+Slow the disruptive innovation long enough to better it.  ...... You can't stop
+a big-bang disruption once its unconstrained growth has taken oﬀ, but you can
+make it harder for its developers to cash in. Many big-bang disrupters build
+market share and network eﬀects by oﬀering their early products free. You can
+delay their profitability by lowering prices, locking in customers with long-
+term contracts, or forming strategic alliances with advertisers and other
+companies critical to your rivals' plans.
+Meanwhile, look for opportunities to leverage your surviving assets elsewhere. W
+Get closer to the exits, and be ready for a fast escape.  ...... confront the
+reality that even long-successful strategies may be suddenly upended, requiring
+a radical recreation of the business.  ...... you have to prepare for immediate
+evacuation of current markets and be ready to get rid of once-valuable assets.
+Incumbents are often trapped by their balance sheets. Traditional accounting
+still has little to say about the value of expertise, brands, patents, and
+other intangibles. But in a fight against a big-bang disruption, they are the
+most valuable of your existing assets—
+For all other kinds of assets, a big-bang disruption can set oﬀ a rapid decline
+in value, making it important not only to shed those technologies but to do so
+before they become worthless.
+Once customers shift to the new technology, it's too late for a graceful exit—at
+best, it's time for a fire sale.
+Make sure future strategies are built on a platform that can easily be extended
+and experimented with, and quickly scaled both up and down. The profitable life
+of a big-bang disrupter may be short, and you'll need to be ready with the next
+one before someone beats you to it.
+Your Business Is Already Being Disrupted
+Try a new kind of diversication. Diversification has always been a hedge
+against risk in cyclical industries. As industry change becomes less cyclical
+and more volatile, having a diverse set of businesses is vital.
+You can't see big-bang disruption coming.  ...... Old-style disruption posed the
+innovator's dilemma. Big-bang disruption is the innovator's disaster.
+Your current business may be replaced by something more dynamic and unstable but
+also more profitable.
