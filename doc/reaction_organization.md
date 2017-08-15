@@ -13,11 +13,76 @@ Firms are experiencing different digital transformation speeds and different res
 Very few businesses are gaining the full value of technologically-enabled change. Manufacturers' ERP systems have improved process efficiency and are providing better financial data for strategic decisions, but companies have not yet retrained buyers in how to use the information in negotiating with suppliers [@Westerman2011].
 Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience [@Westerman2011].
 
+### Assess your organizational value
 
+#### Assess your internal & absolute value: your assets
 
+##### Platforms: Connecting creates Value: Reassess your position in the value network
 
+Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013].
 
-### Digital structure as the new backbone
+Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery [@Gimpel2012].
+- Production is "making goods available for use."
+- Search is matching different parties together so they can trade
+- Delivery is transmitting or communicating information and information goods
+The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability [@Gimpel2012].
+CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
+
+[TODO: ADD QUOTE FROM @PeterWeill2011: shift your business model]
+
+The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
+
+Platforms to connect to consumers: to reach new audiences through building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses [@Karimi2015].
+
+The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building digital platform capabilities [@Karimi2015].
+
+Our results are deemed generalizable to other industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises [@Karimi2015].
+
+Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks. Organizations need to find out whether processes for their core products are appropriate for developing digital non-core products [@Karimi2015].
+
+Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
+
+Value Creation from Multisided Business Models: multisided revenue models are important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
+
+The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage [@Bharadwaj2013].
+
+Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market. Executives must shift from thinking about value chains to value networks. Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate [@Gimpel2012].
+
+Digital platforms will become the gateways (and bottlenecks) to the market [@Gimpel2012].
+
+##### Valuable Assets in a digital world
+
+Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
+
+Decision 1: Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
+
+Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
+
+We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy.  [@Bharadwaj2013]
+
+**Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world?
+
+**Sales force:** source of customer loyalty is the set of relationships cultivated by a strong sales force. Digital initiatives can threaten to disintermediate salespeople. However, digital transformation can also be used to enhance those relationships.
+
+**Point of sale and distribution channels:** Stores are often a strong source of location-based advantage, even in a digital world.
+
+**Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices.
+
+**Product innovation:** Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time.
+
+**Partnership network:** Trusted relationships can deliver powerful new operating models. A firm is switching from a single value chain link to a value chain orchestrator. Partners cooperated in the project because of years of working together.
+
+**Brand:** Companies with a strong brand are able to leverage it in related offerings. Through mobile web, social media and other digital initiatives, building additional points of contact with customers.
+
+**Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation.
+
+**Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change.
+
+#### Assess your external & relative value: your position in the value network & assets of your competitors
+
+### Transform your organization
+
+#### Update the organization's information processing
 
 Approaching Digital Ubiquity [@Iansiti2014]
 
@@ -27,7 +92,7 @@ Approaching Digital Ubiquity [@Iansiti2014]
 - Consider new value-capture modes
 - Use software to extend the boundaries of what you do.
 
-#### Convergence IT and business
+##### Convergence IT and business
 
 Firms pursuing digital business strategies must manage a fundamental tension between the need to support flexible adaptation of their products and services to changing market conditions, and the need to provide stable value appropriation mechanisms to extract economic rents and reinvest them in innovative activities. Companies often fuse IT with their products and services for competitive advantage [@Woodard2013].
 
@@ -49,7 +114,7 @@ Decision 5: Keep digital businesses separate or integrate them with current nond
 
 Most IT strategies treat technology in isolation, they often lack the transformational, business-centric orientation needed to realize the potential within a company's business model, products, processes and organizational structures. A digital transformation strategy signposts the way toward digital transformation and guides managers through the transformation process resulting from the integration and use of digital technologies and helps them navigate the complexity and ambiguity of identifying their own digital "sweet spots." [@Hess2016]
 
-#### Digital capabilities
+##### Digital capabilities
 
 Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability [@Woodard2013].
 
@@ -85,7 +150,7 @@ Building software capabilities [@Iansiti2014]
 
 Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coor-dinated in networks with complementary products and services [@Bharadwaj2013].
 
-#### Managing digital assets: explore new options or consolidate your platform?
+##### Managing digital assets: explore new options or consolidate your platform?
 
 We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt [@Woodard2013].
 
@@ -134,98 +199,9 @@ If a firm is fortunate enough to be in a position of high-quality design capital
 
 We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital [@Woodard2013].
 
-### Externally: Value making of through adaptively positioning the organization
+#### Organize for Speed & Product Leadership
 
-#### Valuable Assets in a digital world
-
-Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
-
-Decision 1: Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
-
-Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
-
-We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy.  [@Bharadwaj2013]
-
-**Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world?
-
-**Sales force:** source of customer loyalty is the set of relationships cultivated by a strong sales force. Digital initiatives can threaten to disintermediate salespeople. However, digital transformation can also be used to enhance those relationships.
-
-**Point of sale and distribution channels:** Stores are often a strong source of location-based advantage, even in a digital world.
-
-**Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices.
-
-**Product innovation:** Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time.
-
-**Partnership network:** Trusted relationships can deliver powerful new operating models. A firm is switching from a single value chain link to a value chain orchestrator. Partners cooperated in the project because of years of working together.
-
-**Brand:** Companies with a strong brand are able to leverage it in related offerings. Through mobile web, social media and other digital initiatives, building additional points of contact with customers.
-
-**Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation.
-
-**Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change.
-
-#### Platforms: Connecting creates Value: Reassess your position in the value network
-
-Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013].
-
-Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery [@Gimpel2012].
-- Production is "making goods available for use."
-- Search is matching different parties together so they can trade
-- Delivery is transmitting or communicating information and information goods
-The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability [@Gimpel2012].
-CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
-
-[TODO: ADD QUOTE FROM @PeterWeill2011: shift your business model]
-
-The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
-
-Platforms to connect to consumers: to reach new audiences through building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses [@Karimi2015].
-
-The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building digital platform capabilities [@Karimi2015].
-
-Our results are deemed generalizable to other industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises [@Karimi2015].
-
-Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks. Organizations need to find out whether processes for their core products are appropriate for developing digital non-core products [@Karimi2015].
-
-Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
-
-Value Creation from Multisided Business Models: multisided revenue models are important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
-
-The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage [@Bharadwaj2013].
-
-Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market. Executives must shift from thinking about value chains to value networks. Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate [@Gimpel2012].
-
-Digital platforms will become the gateways (and bottlenecks) to the market [@Gimpel2012].
-
-#### Ecosystem & partnering
-
-Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries [@Bharadwaj2013].
-
-Business ecosystems that are intricately intertwined such that digital business strategy cannot be conceived independently of the business ecosystem, alliances, partnerships, and competitors [@Bharadwaj2013].
-
-Rather than thinking of scale only in terms of physical factors of production, supply chains, or geographic coverage, we need to think of scale in both physical and digital terms [@Bharadwaj2013].
-
-Value Capture through Coordinated Business Models in Networks: value creation and capture in digital settings often involve complex and dynamic coordination across multiple companies. Business models are not inde-pendent but intersect and interoperate across these different players [@Bharadwaj2013].
-
-- Decision 3: Cooperate or compete with new attackers?
-  A large incumbent in an industry that's undergoing digital disruption can feel like a whale attacked by piranhas. It's not feasible to defend all fronts simultaneously, so cooperation with some attackers can make more sense than competing. Like, for exemple, opening software interfaces to multiple third parties [@Hirt2014].
-
-_"Starting from the idea of asset optimization and no unplanned downtime... the maximum customer **value is in the ecosystem**. How **open** do we want this to be ?"_ [@Iansiti2014]
-
-- To build its ecosystem: GE is experimenting with different types of partnerships, like joint-ventures. GE has also partnered with potential competitors (like Intel, Cisco, Accenture, Amazon web services) [@Iansiti2014]
-
-Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness [@Bharadwaj2013].
-
-The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product [@Woodard2013].
-
-Learning to sell the new model
-
-- It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market [@Iansiti2014].
-- "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
-
-### Internally: Organize for speed and customer intimacy
-
-#### Embracing Disruption vs Fighting the environment with Regulation
+##### Embracing Disruption vs Fighting the environment with Regulation
 
 Regulations are slowly adapting to evolutions in society.
 
@@ -238,7 +214,9 @@ Join them to beat them: Trying to regulate away disruption is often ineffective.
 
 - **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
 
-#### Business-model shift: from product catalog to service catalog to customized service or partnership
+#### Organize for Customization & Customer Intimacy
+
+##### Business-model shift: from product catalog to service catalog to customized service or partnership
 
 Sources of Value Creation and Capture: Digital business strategy brings in additional dimensions that alter the nature of value creation and capture [@Bharadwaj2013].
 
@@ -283,7 +261,37 @@ Redefine customer engagement. Harness the data to fine-tune customer engagement.
 
 Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable [@Manyika2015].
 
-#### Integration & Decentralization: think global, act local  
+#### Organize for Optimization & Operational Excellence
+
+### To rework
+
+##### Ecosystem & partnering
+
+Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries [@Bharadwaj2013].
+
+Business ecosystems that are intricately intertwined such that digital business strategy cannot be conceived independently of the business ecosystem, alliances, partnerships, and competitors [@Bharadwaj2013].
+
+Rather than thinking of scale only in terms of physical factors of production, supply chains, or geographic coverage, we need to think of scale in both physical and digital terms [@Bharadwaj2013].
+
+Value Capture through Coordinated Business Models in Networks: value creation and capture in digital settings often involve complex and dynamic coordination across multiple companies. Business models are not inde-pendent but intersect and interoperate across these different players [@Bharadwaj2013].
+
+- Decision 3: Cooperate or compete with new attackers?
+  A large incumbent in an industry that's undergoing digital disruption can feel like a whale attacked by piranhas. It's not feasible to defend all fronts simultaneously, so cooperation with some attackers can make more sense than competing. Like, for exemple, opening software interfaces to multiple third parties [@Hirt2014].
+
+_"Starting from the idea of asset optimization and no unplanned downtime... the maximum customer **value is in the ecosystem**. How **open** do we want this to be ?"_ [@Iansiti2014]
+
+- To build its ecosystem: GE is experimenting with different types of partnerships, like joint-ventures. GE has also partnered with potential competitors (like Intel, Cisco, Accenture, Amazon web services) [@Iansiti2014]
+
+Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness [@Bharadwaj2013].
+
+The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product [@Woodard2013].
+
+Learning to sell the new model
+
+- It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market [@Iansiti2014].
+- "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
+
+##### Integration & Decentralization: think global, act local  
 
 Speed of Digital Business Strategy: time takes on a more central role in digital business settings [@Bharadwaj2013].
 
