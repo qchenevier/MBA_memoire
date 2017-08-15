@@ -64,6 +64,8 @@ In terms of wages, digitization has accelerated a divergence between the majorit
 
 #### Cognitive capabilities of Digital technologies: analytics / AI / deep learning
 
+Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune. [@Manyika2015].
+
 The Idea that technological advances favor more skilled workers is a twentieth century phenomenon [@Acemoglu2002]. It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves [@Beck2017].
 
 The booming growth of machine learning and artificial intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications - and particularly the implications for our careers [@Beck2017].

@@ -12,6 +12,11 @@
 
 - **Culture issues:** On another level, previously autonomous country managers require coaching to grow comfortable working in an environment of centralized shared services and standardized processes [@Westerman2011].
 
+**Engage the organization:** People can be a much bigger obstacle to successful digital transformation than any complex technology. Two main characteristics of communication in a digital world are making mobilizing the workforce easier:
+- Moving away from "cascading" information through traditional hierarchical channels toward enterprise-wide large scale communication: webcasts, internal social networks or PC-based video conferencing [@Westerman2011].
+- Moving away from a one-way "broadcasting" model of communication toward offering people in the organization the opportunity to engage in a real dialogue around the transformation: wikis, discussion forums, blogs and so on. Enterprise 2.0 tools are powerful tools to help mobilize and align the workforce towards digital objectives [@Westerman2011].
+Successful organizations have not only created awareness through communication, but have increased the level of transparency and trust through this open dialogue [@Westerman2011].
+
 #### Learning fast & experimenting as a method.
 
 **Experimentation:** Experimentation as the implementation of the lean Startup methodology of testing assumptions and constantly experimenting with controlled risks. A final and critical pre-requisite for experimentation is a willingness to fail. By integrating experimentation as a core value and adopting approaches like Lean Startup, enterprise failures, while still accepted as an inevitable part of risk, can be quick, relatively painless and insightful. Accepting failure free people, ideas and capital for future learning and breakthroughs [@VanGeest2014].
@@ -123,9 +128,17 @@ Speed of Decision Making: technology has allowed firms to speed up decisions tha
 
 #### Leadership & Vision
 
+**Transform leadership.** [@VanGeest2014]
+- Education - Bring in outside sources to update your senior management
+- Board Management - Educate the board so that it is equipped to buy into the CEO's plan for radical change. In addition, track your board using OKRs
+- Implement Diversity - Break up bastions of old-line thinking and replace them with individuals and teams offering diversity in terms of experience and perspective.
+- Skills & Leadership - Keep diversity in mind when appointing to governance and advisory boards. Regularly take your senior leadership through a personal transformation program. Remove anyone who puts his or her own career ahead of the success of the enterprise.
+
 One lever for change is to hire new leaders bringing new skills, also bringing a new vision. Senior executives cite a strong vision and frequent communication as essential for driving culture change. Labor relations issues are a stickier source of culture change issues. Employees, fearing job cuts, are strongly resistant [@Westerman2011].
 
 **Governance challenges:** Benefiting from transformation typically requires changes in processes or decision-making that span traditional organizational or functional structures. Organizational change requires top-down effort to help employees envision a different reality. The largest benefits of digital transformation come from truly transforming activities. This requires a more radical vision: one that offers a view of a different way of working, not just a faster or more efficient one. Unless senior executives establish a transformative vision of the future, managers in the rest of the firm will tend to locally optimize within their own spheres of authority. Whereas an overarching vision can span organizational boundaries. Envisioning a single entity with local offices, rather than a collection of independent units, so that each can rapidly adjust to what is learned in another area. These overarching visions establish a picture of what is legitimate and help to delegitimize local behavior that detracts from a more global approach. More common than a lack of vision is a vision that does not go far enough. Overly limited visions can dramatically affect the value obtained from each digital transformation investment [@Westerman2011].
+
+**Establish digital governance:** Bottom-up digital transformation is rarely successful. Opportunities from digital transformation require top-down ambition setting to put the organization in motion, coordination to turn disconnected or poorly considered digital investments into true platforms [@Westerman2011].
 
 Successful digital transformation comes not from implementing new technologies but from transforming your organization transformation initiatives are centered on re-envisioning customer experience, operational processes and business models. Digital Transformation does not happen bottom up. It must be driven from the top [@Westerman2011].
 

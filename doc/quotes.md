@@ -446,11 +446,11 @@ It takes more than seven years, on average, before a "liquidity event." Companie
 
 **Building and Maintaining a Platform**
 Four steps needed to build a successful platform (as opposed to a successful product):
-1. Identify a pain point or use case for a consumer.
+1. Identify a pain point or use case for a consumer [@VanGeest2014].
 2. Identify a core value unit or social object in any interaction between a producer and consumer. Pictures, jokes, advice, reviews, information: many
-people will be both producers and consumers.
-3. Design a way to facilitate that interaction. Build it as a small prototype that you can curate yourself.
-4. Determine how to build a network around your interaction. ExOs follow four steps in terms of data and APIs:
+people will be both producers and consumers [@VanGeest2014].
+3. Design a way to facilitate that interaction. Build it as a small prototype that you can curate yourself [@VanGeest2014].
+4. Determine how to build a network around your interaction. ExOs follow four steps in terms of data and APIs [@VanGeest2014]:
   1. Gather: The algorithmic process starts with harnessing data, which is gathered via sensors, people, or imported from public datasets.
   2. Organize: The next step is to organize the data. This is known as ETL (extract, transform and load).
   3. Apply: Once the data is accessible, algorithms such as machine or deep learning extract insights, identify trends and tune new algorithms. These are realized via tools such as Hadoop and Pivotal, or even (open source) deep learning algorithms like DeepMind or Skymind.
@@ -460,64 +460,44 @@ With established companies, the solution is inevitably customized: you must star
 
 **Chapter Eight: ExOs for Large Organizations**
 
-**Issues facing large organizations:** Most focus and attention is internal, not external. Emphasis tends to be on technologies with existing expertise; converging technologies or adjacencies tend to be ignored and breakthrough thinking is punished. Reliance on innovation from inside rather than outside.
+**Issues facing large organizations:** Most focus and attention is internal, not external. Emphasis tends to be on technologies with existing expertise; converging technologies or adjacencies tend to be ignored and breakthrough thinking is punished. Reliance on innovation from inside rather than outside [@VanGeest2014].
 
-Transformation isn't easy, a big company is like a supertanker: it takes a long time to turn. There are many examples of big companies morphing: Nokia used to be a tire company, Samsung was once a trading company and Intel got its start in memory chips. GE, a company with a long and distinguished history, has repeatedly reinvented itself.
+Transformation isn't easy, a big company is like a supertanker: it takes a long time to turn. There are many examples of big companies morphing: Nokia used to be a tire company, Samsung was once a trading company and Intel got its start in memory chips. GE, a company with a long and distinguished history, has repeatedly reinvented itself [@VanGeest2014].
 
 Four strategies for large organizations to deploy in an accelerating business world
 
-**Transform leadership.**
-- Education - Bring in outside sources to update your senior management
-- Board Management - Educate the board so that it is equipped to buy into the CEO's plan for radical change. In addition, track your board using OKRs
-- Implement Diversity - Break up bastions of old-line thinking and replace them with individuals and teams offering diversity in terms of experience and perspective.
-- Skills & Leadership - Keep diversity in mind when appointing to governance and advisory boards. Regularly take your senior leadership through a personal transformation program. Remove anyone who puts his or her own career ahead of the success of the enterprise.
+**Partner with, invest in or acquire ExOs.** [@VanGeest2014]
+Large companies must identify and track disruptive ExOs with the aim of observing, partnering with, investing in and/ or acquiring them. The real question then is not whether to acquire an ExO, but when to partner with one, when to invest in one and when to acquire it. A corporation should look to create an internal ExO when [@VanGeest2014]:
 
-**Partner with, invest in or acquire ExOs.**
-Large companies must identify and track disruptive ExOs with the aim of observing,
-partnering with, investing in and/ or acquiring them.
-The real question then is not whether to acquire an ExO, but when to partner
-with
-A corporation should look to create an internal ExO when:
-Acquisition is usually the most appropriate path when a market is strategically
-o An opportunity is one to two adjacencies away from the company's core
-o Urgency is low- there is still time until the market's inflection point.
-...... o The company is able to hire the necessary talent.
-imperative to "own" but you face the following obstacles:
-business- perhaps a different business model, buyer, user or go-to market.
-o It is difficult to hire the right talent. o The market inflection point is
-upon you. o The opportunity is too far removed (3 + adjacencies) from the
-corporation's prevailing model.
-o It is difficult to hire the right talent.
-3. Disrupt[ X]. third strategy is  ...... to leverage disruptive technologies
-themselves  ...... this is a lot harder than it looks, given that the
-organizational structures of established companies exist to suppress disruptive
-influences.
-Move  ...... change-makers in your enterprise to the edges of the organization
-and unleash them as ExOs to disrupt other markets.
-Hire both internal and external Black Ops teams and have them
-Start an internal accelerating technologies lab, leveraging core competencies
-and aiming
-establish startups with a combined goal of defeating one another and disrupting
-the mother ship.
-Partner with Accelerators, Incubators and Hackerspaces. Find an incubator or an
-for moonshot innovations at a budget price.
-accelerator that is a good fit for your organization.
-Chapter Ten: The Exponential Executive
-The ExO concept- the new organizing principle for the information age- is just a
-few years
-C-Level executives are going to find themselves under enormous pressure to
-either "go
-old and thus still evolving into its final form.
-exponential" or deal with the threat presented by new, exponential competitors.
-This chapter answers the following questions:
-o Which technologies will have the most impact on the C-Suite? o What new
-organizational developments must an Exponential Executive track and be
-o What questions and issues will the ExO Executive face in the next five to ten
-years as
-ready for?
-a result of this collective and accelerating change?
+- An opportunity is one to two adjacencies away from the company's core business- perhaps a different business model, buyer, user or go-to market.
+- Urgency is low- there is still time until the market's inflection point.
+- The company is able to hire the necessary talent.
 
-[TODO: extratc quotes from last part of the book on the digital CxO: consulting]
+Acquisition is usually the most appropriate path when a market is strategically imperative to "own" but you face the following obstacles [@VanGeest2014]:
+
+- It is difficult to hire the right talent.
+- The market inflection point is upon you.
+- The opportunity is too far removed (3 + adjacencies) from the corporation's prevailing model.
+
+**Disrupt[ X].** [@VanGeest2014]
+Third strategy is to leverage disruptive technologies themselves: this is a lot harder than it looks, given that the organizational structures of established companies exist to suppress disruptive influences [@VanGeest2014].
+
+Move change-makers in your enterprise to the edges of the organization and unleash them as ExOs to disrupt other markets [@VanGeest2014].
+
+Hire both internal and external Black Ops teams and have them establish startups with a combined goal of defeating one another and disrupting the mother ship [@VanGeest2014].
+
+Start an internal accelerating technologies lab, leveraging core competencies and aiming for moonshot innovations at a budget price [@VanGeest2014].
+
+Partner with Accelerators, Incubators and Hackerspaces. Find an incubator or an accelerator that is a good fit for your organization [@VanGeest2014].
+
+**Chapter Ten: The Exponential Executive**
+The ExO concept, the new organizing principle for the information age, is just a few years old and thus still evolving into its final form. C-Level executives are going to find themselves under enormous pressure to either "go exponential" or deal with the threat presented by new, exponential competitors. This chapter answers the following questions [@VanGeest2014]:
+
+- Which technologies will have the most impact on the C-Suite?
+- What new organizational developments must an Exponential Executive track and be ready for?
+- What questions and issues will the ExO Executive face in the next five to ten years as a result of this collective and accelerating change?
+
+[TODO: extract quotes from last part of the book on the digital CxO: consulting]
 
 #### LEAD Enterprise Value Map [@LEADingPractice]
 
@@ -692,8 +672,6 @@ BY 2025, THREE EFFECTS OF DIGITIZATION ALONE COULD BOOST GDP BY UP TO \$2.2 TRIL
 
 **AUTOMATION COULD REDEFINE MANY OCCUPATIONS AND ACCELERATE HISTORICAL RATES OF MIDDLE-SKILL JOB DISPLACEMENT**
 
-Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015].
-
 **COMPANIES HAVE TO ADAPT TO SURVIVE IN THE DIGITAL ECONOMY**
 
 Take advantage of new innovation models. Replace closed and rigid R&D operations with more open processes. Users, too, can be engaged [@Manyika2015].
@@ -850,16 +828,7 @@ These elements work together in an iterative approach, constantly communicating 
 2. Invest in digital initiatives and skills.
 3. Lead the change from the top.
 
-**Engage the organization:** People can be a much bigger obstacle to successful digital transformation than any complex technology. Two main characteristics of communication in a digital world are making mobilizing the workforce easier:
-- Moving away from "cascading" information through traditional hierarchical channels toward enterprise-wide large scale communication: webcasts, internal social networks or PC-based video conferencing [@Westerman2011].
-- Moving away from a one-way "broadcasting" model of communication toward offering people in the organization the opportunity to engage in a real dialogue around the transformation: wikis, discussion forums, blogs and so on. Enterprise 2.0 tools are powerful tools to help mobilize and align the workforce towards digital objectives [@Westerman2011].
-Successful organizations have not only created awareness through communication, but have increased the level of transparency and trust through this open dialogue [@Westerman2011].
-
-**Establish digital governance:** Bottom-up digital transformation is rarely successful. Opportunities from digital transformation require top-down ambition setting to put the organization in motion, coordination to turn disconnected or poorly considered digital investments into true platforms [@Westerman2011].
-
 **Coordinating mechanisms:** Successful companies in our study had strong leadership for digital initiatives. We found four models for coordinating digital transformation: central coordination, silo, hub and global. Central coordination is the most commonly used model, but no single model clearly outperforms others. Companies lacking effective digital coordination do not get the value possible from their digital transformation initiatives [@Westerman2011].
-
-**Monitoring progress through KPIs:** Leaders need to ensure that a transparent set of metrics and KPIs are in place to constantly monitor and review progress towards that ambition. We monitor our progress through a transparent scorecard where everyone can see a quantified assessment of our progress and take actions against it [@Westerman2011].
 
 **The What and The How**
 
