@@ -88,6 +88,16 @@ Kurzweil identified a hugely important and fundamental property of technology: w
 
 The pace of change isn't going to slow down anytime soon. In fact, Moore's Law all but guarantees that it will continue to speed up -and speed up exponentially- for at least several decades. And given the cross impact into other technologies, if the last fifteen years has seen enormous disruption in the business world, the next fifteen will make that disruption seem tame by comparison  [@VanGeest2014].
 
+**Information Accelerates Everything:** The new information paradigm is accelerating the metabolism of products, companies and industries. In industry after industry, the development cycle for products and services grows ever shorter. Nowhere is this staggering pace of change more apparent than with the consumer Internet. Many products are now launched early, unfinished and in perpetual beta, for the sole purpose of gathering data from users as early as possible to determine how to "finish" the product [@VanGeest2014].
+
+**Disruption is the New Norm:** Every industry is becoming information-based, either by being digitized or by using information to identify under-utilized assets. Collaborative Consumption leverages the internet and social networks to create a more efficient utilization of physical assets, the outsider has all the advantages. With no legacy systems to worry about, as well as the ability to enjoy low overhead and take advantage of the democratization of information and, more important, technology, the newcomer can move quickly and with a minimum of expense. The rate of change is so high everywhere these days that you now must assume that someone will disrupt you, and often from a direction you least expect. The authors see a consistent set of steps around disruptive innovation comprising the following [@VanGeest2014]:
+
+- Domain (or technology) becomes information-enabled
+- Costs drop exponentially and access is democratized
+- Hobbyists come together to form an open source community
+- New combinations of technologies and convergences are introduced
+- New products and services appear that are orders of magnitude better and cheaper
+- The status quo is disrupted (and the domain gets information-enabled)
 
 #### Network effects & self-reinforcing winner-takes-all dynamics
 
@@ -223,6 +233,10 @@ Business virtualization: firms can reduce costs, increase agility, and boost qua
 
 4. Plug-and-play business models
 As digital forces reduce transaction costs, value chains disaggregate. Amazon, for instance, offers businesses logistics, on-line retail "storefronts," and IT services [@Hirt2014].
+
+##### Production & Distributions costs are running towards zero
+
+**Drive To Demonetization:** These days, product development cycles are measured not in months or quarters, but in hours or days. The most important achievements of the Internet during the last decade was that it cut the marginal cost of marketing and sales to nearly zero. It is possible to promote an online product worldwide for a tiny fraction of what it cost just twenty-five years ago. Customer acquisition costs can also be cut to what was once deemed impossible: zero. The new information-enabled technologies will power exponential cost drops not just in sales and marketing, but also across every business function [@VanGeest2014].
 
 ### Other
 

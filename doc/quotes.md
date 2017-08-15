@@ -420,85 +420,11 @@ What else can be information-enabled?
 Two fundamental drivers enable ExOs:
 Some aspect of the company's product has been information-enabled and thus, following Moore's Law, thanks to the fact that information is essentially liquid, major business functions can be transferred outside of the organization- to users, fans, partners or the general public. Massive Transformative Purpose (MTP) Exponential Organizations, almost by definition, think BIG. If a company thinks small, it is unlikely to pursue a business strategy that will achieve rapid growth [@VanGeest2014].
 
-The Massive Transformative Purpose, or MTP, is the higher, aspirational purpose of the organization. The MTP is so inspirational that a community forms around the ExO and spontaneously begins operating on its own, ultimately creating its own community, tribe and culture. It moves the focal point of a team from internal politics to external impact. The biggest imperative of a worthy MTP is its Purpose. An MTP serves as a stabilizing force during periods of random growth and enables organizations to scale with less turbulence. The MTP is not only an effective attractor and retainer for customers and employees but also for the company ecosystem at large (developers, startups, hackers, NGOs, governments, suppliers, partners, etc.) [@VanGeest2014].
-
 Five external characteristics that define an Exponential Organization, for which the acronym SCALE is used:
-
-**Staff on Demand:** In any information-enabled business a large internal staff seems increasingly unnecessary, counterproductive and expensive [@VanGeest2014].
-
-**Community & Crowd:** If you build communities and you do things in public, you don't have to find the right people, they find you. An Exponential Organization interacting with its community is not simply a transaction There are three steps to building a community around an ExO:
-  1. Use the MTP to attract and engage early members. The MTP serves as a gravitational force that attracts constituents into its orbit [@VanGeest2014].
-  2. Nurture the community. Elements of nurturing include listening and giving back [@VanGeest2014].
-  3. Create a platform to automate peer-to-peer engagement. Crowd is pull-based. You open up an idea, funding opportunity or incentive prize and let people find you [@VanGeest2014].
-
-**Algorithms:** The world is pretty much run on algorithms. Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data. ExOs need to follow four steps [@VanGeest2014]:
-  1. Gather: The algorithmic process starts with harnessing data, which is gathered via sensors or humans, or imported from public datasets.
-  2. Organize: The next step is to organize the data, a process known as ETL (extract, transform and load).
-  3. Apply: Once the data is accessible, machine learning tools identify trends and tune new algorithms.
-  4. Expose: The final step is exposing the data, as if it were an open platform. Open data and APIs can be used to enable an ExO’s community to develop valuable services.
-
-**Leveraged Assets:** Recently there's been an accelerating trend towards outsourcing even mission-critical assets. ExOs retain their flexibility precisely by not owning assets, even in strategic areas. This practice optimizes flexibility and allows the enterprise to scale incredibly quickly. Non-ownership, then, is the key to owning the future, except, of course, when it comes to scarce resources and assets. For example, Tesla owns its own factories and Amazon its own warehouses. When the asset in question is rare or extremely scarce, then ownership is a better option. But if your asset is information-based or commoditized at all, then accessing is better than possessing [@VanGeest2014].
-
-**Engagement:** Engagement creates network effects and positive feedback loops with extraordinary reach. The biggest impact of engagement techniques is on customers and the entire external ecosystem. Key attributes of Engagement include [@VanGeest2014]:
-  - Ranking transparency
-  - Self-efficacy (sense of control, agency and impact)
-  - Peer pressure (social comparison)
-  - Eliciting positive rather than negative emotions to drive long-term behavioral change
-  - Instant feedback (short feedback cycles)
-  - Clear, authentic rules, goals and rewards (only reward outputs, not inputs)
-  - Virtual currencies or points
 
 **Chapter Four: Inside the Exponential Organization**
 
-With exponential output, the internal organization needs to be extremely robust, precise and properly tuned to process all the inputs. Those are distinctly different internal operations that encompass everything from their business philosophies to how employees interact with one another, how they measure their performance (and what they value in that performance), and even
-their attitudes toward risk. In fact, especially their attitudes toward risk [@VanGeest2014].
-
-**Interfaces:** Interfaces are filtering and matching processes by which ExOs bridge from SCALE externalities to internal IDEAS control frameworks. They are algorithms and automated workflows that route the output of SCALE externalities to the right people at the right time internally.  These processes start out manual and gradually become automated around the edges. These Interface processes are unique and proprietary to the organization that developed them, and as such comprise a unique type of intellectual property. ExOs invest considerable attention to Interfaces and a great deal of human-centered design thinking is brought to optimize every instantiation. Interfaces manage abundance. While most processes are optimized around scarcity and efficiency, SCALE elements generate large result sets, meaning Interfaces are geared towards filtering and matching [@VanGeest2014].
-
-**Dashboards:** Given the huge amounts of data from customers and employees becoming available, ExOs need a new way to measure and manage the organization: a real-time, adaptable dashboard with all essential company and employee metrics, accessible to everyone in the organization. Many ExOs are adopting the Objectives and Key Results (OKR) method. OKRs are the answer to two simple questions: Where do I want to go? (Objectives) How will I know I'm getting there? (Key Results to ensure progress is made). KPIs are determined top-down, while OKRs are determined
-bottom-up. Objectives are qualitative and Key Results are quantitative. OKRs are about the company's goals and how each employee contributes to those goals. Performance evaluations, which are entirely about evaluating how an employee performed in a given period, are independent of OKRs. Objectives are ambitious and should feel uncomfortable. Dashboards of value metrics, used in conjunction with OKRs, are becoming the de facto standard for measuring ExOs Dashboards are key for ExOs because growing at a rapid pace requires that instrumentation of the business, individual and team assessments be integrated and carried out in real time [@VanGeest2014].
-
-**Experimentation:** Experimentation as the implementation of the lean Startup methodology of testing assumptions and constantly experimenting with controlled risks. A final and critical pre-requisite for experimentation is a willingness to fail. By integrating experimentation as a core value and adopting approaches like Lean Startup, enterprise failures, while still accepted as an inevitable part of risk, can be quick, relatively painless and insightful. Accepting failure free people, ideas and capital for future learning and breakthroughs [@VanGeest2014].
-
-**Autonomy:** A corporate culture that accepts failure benefits from diminished internal politics thanks to trust, transparency and openness. Autonomy as self-organizing, multi-disciplinary teams, operating with decentralized authority. Autonomy does not imply a lack of accountability. "There are still hierarchies in a network, but the hierarchies tend to be competence-based hierarchies, relying more on peer accountability than on authority-based accountability that is, accountability to someone who knows something, rather than to someone simply because they occupy a position, regardless of competence" [@VanGeest2014].
-
-**Social Technologies:** Social Technologies are comprised of seven key elements: Social objects, Activity streams, Task management, File sharing, Telepresence, Virtual worlds
-and Emotional sensing. These elements create transparency and connectedness and, most importantly, lower an organization's information latency. Employee relationship management is just one type of social object that is being information-enabled. Task management is also becoming increasingly social. In the past, it was mostly used as a to-do list, but it is now shifting towards a more Agile approach. Teams are continuously measuring themselves by pushing codes and closing tickets, living by the metrics that task management software provides. File sharing, has recently enjoyed widespread adoption. Telepresence has been around for many years in the form of videoconferencing. While Telepresence lets people interact in a real environment, virtual reality allows interaction, collaboration, coordination and even prototyping in a virtual world. Emotional sensing makes use of sensors, such as health sensors and neurotechnology, within a team or group to create Quantified Employees and a Quantified Workforce to measure everything about themselves and their work, preventing illness, burnout and irritation, and also improving team flow, collaboration and performance. Organizational intimacy is increased, decision latency is reduced, knowledge improves and is more widely spread, and serendipity increases. In short, social technologies enable the real-time enterprise [@VanGeest2014].
-
 **Chapter Five: Implications of Exponential Organizations**
-
-**Information Accelerates Everything:** The new information paradigm is accelerating the metabolism of products, companies and industries. In industry after industry, the development cycle for products and services grows ever shorter. Nowhere is this staggering pace of change more apparent than with the consumer Internet. Many products are now launched early, unfinished and in perpetual beta, for the sole purpose of gathering data from users as early as possible to determine how to "finish" the product [@VanGeest2014].
-
-**Drive To Demonetization:** These days, product development cycles are measured not in months or quarters, but in hours or days. The most important achievements of the Internet during the last decade was that it cut the marginal cost of marketing and sales to nearly zero. It is possible to promote an online product worldwide for a tiny fraction of what it cost just twenty-five years ago. Customer acquisition costs can also be cut to what was once deemed impossible: zero. The new information-enabled technologies will power exponential cost drops not just in sales and marketing, but also across every business function [@VanGeest2014].
-
-**Disruption is the New Norm:** Every industry is becoming information-based, either by being digitized or by using information to identify under-utilized assets. Collaborative Consumption leverages the internet and social networks to create a more efficient utilization of physical assets, the outsider has all the advantages. With no legacy systems to worry about, as well as the ability to enjoy low overhead and take advantage of the democratization of information and, more important, technology, the newcomer can move quickly and with a minimum of expense. The rate of change is so high everywhere these days that you now must assume that someone will disrupt you, and often from a direction you least expect. The authors see a consistent set of steps around disruptive innovation comprising the following [@VanGeest2014]:
-
-- Domain (or technology) becomes information-enabled
-- Costs drop exponentially and access is democratized
-- Hobbyists come together to form an open source community
-- New combinations of technologies and convergences are introduced
-- New products and services appear that are orders of magnitude better and cheaper
-- The status quo is disrupted (and the domain gets information-enabled)
-
-**Beware the "Expert":** The best inventions or solutions rarely come from experts; they almost always come from outsiders: from people who aren't domain experts but who offer a fresh perspective. Experts will be the best people to answer questions and identify key challenges, but will provide outdated solutions to those challenges [@VanGeest2014].
-
-**Death to the Five-Year Plan:** In an exponential world, the five-year plan is not only unworkable, it is seriously counterproductive. The reality is that the future is changing so quickly that any forward look is likely to produce false scenarios. The only solution is to establish a big vision (i.e., an MTP), set an ExO structure into place, implement a one-year plan (at most) and watch it all scale while course-correcting in real time. ExOs, sees five-year plans being replaced with the following elements [@VanGeest2014]:
-
-- MTPs for overall guidance and emotional enrollment.
-- Dashboards to provide real time information on how a business is progressing.
-- Leveraging "Moments of Impact" for clean, productive decision-making.
-- A one-year (at most) operating plan that is connected to the dashboard.
-
-
-**Smaller Beats Bigger:** Scale and size have been desirable traits in an enterprise. The conventional wisdom says that a bigger company could leverage economies of scale and negotiate from strength. All that is changing. The unparalleled and unprecedented ability of a small team
-today to do big things if the exponential technologies described previously are put to use. Both now and in the coming years, adaptability and agility will increasingly eclipse size and scale. A small team can take on much bigger risks than a large one [@VanGeest2014].
-
-**Rent, Don't Own:** An important mechanism empowering individuals and small teams everywhere is
-low-cost access to technology and tools. Cloud computing, which offers the ability to store and manage massive amounts of information with unlimited processing, all on a cost-per-use basis requiring no upfront costs or capital investments. This makes memory almost free. The cloud also puts small companies on the same footing as, or even gives them an advantage over, big companies, which are burdened by expensive internal IT. This rent-not-own philosophy further extends the current craze of collaborative consumption and the sharing economy. Why not rent those assets, reducing up-front investment and leaving the ownership and maintenance of state-of-the-art facilities to someone else? Be it facilities, equipment, computing or people, the concept of renting rather than owning is a major factor contributing to an ExO's agility and flexibility [@VanGeest2014].
-
-**Trust Beats Control and Open Beats Closed:** Autonomy can be a powerful motivator. The Millennial generation is naturally independent, digitally native and resistant to top-down control and hierarchies. To hang on to top talent, companies must embrace an open environment. A new wave of collaborative tools has emerged to allow an organization to monitor each of its teams with little oversight and maximum autonomy. ExOs are learning to deliver self-management, often with extraordinary outcomes, by tracking data on a real-time basis. In an increasingly volatile world, predictable processes and steady, stable environments are now all but extinct. Anything predictable has been or will be automated by AI or robots, leaving the human worker to handle exceptional situations. As a result, the very nature of work is changing and requires more initiative and creativity from every team member. Open trust frameworks cannot be implemented in isolation or simply by fiat. They are an important consequence of implementing Autonomy, Dashboards and/ or Experimentation [@VanGeest2014].
-
-**Everything is Measurable and Anything is Knowable:** The sensor revolution is one of the most important and least celebrated technological revolutions taking place today. ExOs take advantage of this accelerating trend in two ways: by creating new business models on existing data streams or by adding new data streams to old paradigms. We are moving toward a world in which everything will be measured and anything can be knowable, both in the world around us and within our bodies. Plan for this to have a chance at long-term success [@VanGeest2014].
 
 This is perhaps the best time in the history of business to build a new enterprise. Traditional risk areas have been mitigated like never before [@VanGeest2014]:
 
@@ -508,79 +434,49 @@ the only real issue in building a company [@VanGeest2014].
 
 It takes more than seven years, on average, before a "liquidity event." Companies with well-educated thirty-something co-founders who have history together tend to be most successful. The idea of "big pivots" is an outlier, most Unicorns stick to their original vision. The challenge facing every startup lies in discovering how to de-risk each of these areas and, in the process, find a business model in the chosen problem space [@VanGeest2014].
 
-Step 11: Ask Key Questions Periodically
-1. Who is your customer? 2. Which customer problem are you solving?  ...... 3.
-What is your solution and does it improve the status quo by at least 10x? 4.
-How will you market the product or service? 5. How are you selling the product
-or service? 6. How do you turn customers into advocates using viral effects and
-Net Promoter Scores to
-drive down the marginal cost of demand?
-7. How will you scale your customer segment?  ...... 8. How will you drive the
-marginal cost of supply towards zero?
-Step 12: Building and Maintaining a Platform
-four steps needed to build a
-successful platform (as opposed to a successful product): 1. Identify a pain
-point or use case for a consumer. 2. Identify a core value unit or social
-object in any interaction between a producer and
-consumer.  ...... Pictures, jokes, advice, reviews, information  ...... many
-people will be both producers and consumers
-3. Design a way to facilitate that interaction.  ...... build it as a small
-prototype that you can curate yourself.
-4. Determine how to build a network around your interaction.
-ExOs follow four steps in terms of data and APIs:
-1. Gather: The algorithmic process starts with harnessing data, which is
-gathered via sensors,
-2. Organize: The next step is to organize the data. This is known as ETL
-(extract, transform and
-people, or imported from public datasets.
-load).
-3. Apply: Once the data is accessible, algorithms such as machine or deep
-learning extract
-insights, identify trends and tune new algorithms. These are realized via tools
-such as Hadoop and Pivotal, or even (open source) deep learning algorithms like
-DeepMind or Skymind.
-4. Expose: The final step is exposing the data in the form of an open platform.
-Open data and
-APIs can be used such that an ExO's community develops valuable services, new
-...... functionalities and innovations layered on top of the platform by
-remixing published data with their own.
-with established companies, the solution is inevitably customized: you must
-start with what already exists and build from there.  ...... there is no
-universal template for "going exponential."
-Chapter Eight: ExOs for Large Organizations
-issues facing large organizations  ...... Most
-focus and attention is internal, not external. Emphasis tends to be on
-technologies with existing expertise; converging technologies or adjacencies
-tend to be ignored and breakthrough thinking is punished. Reliance on
-innovation from inside rather than outside.
-Transformation isn't
-easy,  ...... A big company is like a supertanker: it takes a long time to turn.
-There are many examples of big companies morphing  ...... Nokia used to be a
-tire company, Samsung was once a trading company and Intel got its start in
-memory chips. GE, a company with a long and distinguished history, has
-repeatedly reinvented itself
-four  ...... strategies for large organizations to deploy in an accelerating
-business world 1. Transform leadership.
-I.  Education - Bring in outside sources to update your senior management
-II.  Board Management - Educate the board so that it is equipped to buy into the
-III.  Implement Diversity - Break up bastions of old-line thinking and replace
-them
-I.  Education - Bring in outside sources to update your senior management
-...... II.  Board Management - Educate the board so that it is equipped to buy
-into the CEO's plan for radical change. In addition, track your board using
-OKRs  ...... III.  Implement Diversity - Break up bastions of old-line thinking
-and replace them with individuals and teams offering diversity in terms of
-experience and perspective.  ...... Skills & Leadership - Keep diversity in
-mind when appointing to governance and advisory boards. Regularly take your
-senior leadership through a personal
-IV.
-2. Partner with, invest in or acquire ExOs. Large companies must identify and
-track disruptive ExOs with the aim of observing,
+**Ask Key Questions Periodically**
+1. Who is your customer?
+2. Which customer problem are you solving?
+3. What is your solution and _does it improve the status quo by at least 10x?_
+4. How will you market the product or service?
+5. How are you selling the product or service?
+6. How do you turn customers into advocates using viral effects and Net Promoter Scores to _drive down the marginal cost of demand?_
+7. How will you scale your customer segment?
+8. How will you _drive the marginal cost of supply towards zero?_
+
+**Building and Maintaining a Platform**
+Four steps needed to build a successful platform (as opposed to a successful product):
+1. Identify a pain point or use case for a consumer.
+2. Identify a core value unit or social object in any interaction between a producer and consumer. Pictures, jokes, advice, reviews, information: many
+people will be both producers and consumers.
+3. Design a way to facilitate that interaction. Build it as a small prototype that you can curate yourself.
+4. Determine how to build a network around your interaction. ExOs follow four steps in terms of data and APIs:
+  1. Gather: The algorithmic process starts with harnessing data, which is gathered via sensors, people, or imported from public datasets.
+  2. Organize: The next step is to organize the data. This is known as ETL (extract, transform and load).
+  3. Apply: Once the data is accessible, algorithms such as machine or deep learning extract insights, identify trends and tune new algorithms. These are realized via tools such as Hadoop and Pivotal, or even (open source) deep learning algorithms like DeepMind or Skymind.
+  4. Expose: The final step is exposing the data in the form of an open platform. Open data and APIs can be used such that an ExO's community develops valuable services, new functionalities and innovations layered on top of the platform by remixing published data with their own.
+
+With established companies, the solution is inevitably customized: you must start with what already exists and build from there. There is no universal template for "going exponential" [@VanGeest2014].
+
+**Chapter Eight: ExOs for Large Organizations**
+
+**Issues facing large organizations:** Most focus and attention is internal, not external. Emphasis tends to be on technologies with existing expertise; converging technologies or adjacencies tend to be ignored and breakthrough thinking is punished. Reliance on innovation from inside rather than outside.
+
+Transformation isn't easy, a big company is like a supertanker: it takes a long time to turn. There are many examples of big companies morphing: Nokia used to be a tire company, Samsung was once a trading company and Intel got its start in memory chips. GE, a company with a long and distinguished history, has repeatedly reinvented itself.
+
+Four strategies for large organizations to deploy in an accelerating business world
+
+**Transform leadership.**
+- Education - Bring in outside sources to update your senior management
+- Board Management - Educate the board so that it is equipped to buy into the CEO's plan for radical change. In addition, track your board using OKRs
+- Implement Diversity - Break up bastions of old-line thinking and replace them with individuals and teams offering diversity in terms of experience and perspective.
+- Skills & Leadership - Keep diversity in mind when appointing to governance and advisory boards. Regularly take your senior leadership through a personal transformation program. Remove anyone who puts his or her own career ahead of the success of the enterprise.
+
+**Partner with, invest in or acquire ExOs.**
+Large companies must identify and track disruptive ExOs with the aim of observing,
 partnering with, investing in and/ or acquiring them.
 The real question then is not whether to acquire an ExO, but when to partner
 with
-transformation program.  ...... Remove anyone who puts his or her own career
-ahead of the success of the enterprise.
 A corporation should look to create an internal ExO when:
 Acquisition is usually the most appropriate path when a market is strategically
 o An opportunity is one to two adjacencies away from the company's core

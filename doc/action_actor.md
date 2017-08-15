@@ -132,6 +132,11 @@ Since digital news and information content can now be produced by amateurs in ad
 
 Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others [@Gimpel2012].
 
+**Community & Crowd:** If you build communities and you do things in public, you don't have to find the right people, they find you. An Exponential Organization interacting with its community is not simply a transaction There are three steps to building a community around an ExO:
+  1. Use the MTP to attract and engage early members. The MTP serves as a gravitational force that attracts constituents into its orbit [@VanGeest2014].
+  2. Nurture the community. Elements of nurturing include listening and giving back [@VanGeest2014].
+  3. Create a platform to automate peer-to-peer engagement. Crowd is pull-based. You open up an idea, funding opportunity or incentive prize and let people find you [@VanGeest2014].
+
 #### More information means empowerment of consumers and employees
 
 Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space [@Bharadwaj2013].

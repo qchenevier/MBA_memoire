@@ -46,6 +46,8 @@ Value Creation from Multisided Business Models: multisided revenue models are im
 
 The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage [@Bharadwaj2013].
 
+**Staff on Demand:** In any information-enabled business a large internal staff seems increasingly unnecessary, counterproductive and expensive [@VanGeest2014].
+
 Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market. Executives must shift from thinking about value chains to value networks. Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate [@Gimpel2012].
 
 Digital platforms will become the gateways (and bottlenecks) to the market [@Gimpel2012].
@@ -124,12 +126,15 @@ Technical capability, or the ability to deploy needed technical skills in execut
 
 Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities [@Karimi2015].
 
-Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital infrastructure and business strategy are fused, this rapid scaling ability becomes a strategic dynamic capability for the firm to adapt to the dynamic requirements of the digital marketplace [@Bharadwaj2013].
-
 **Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation [@Westerman2011].
+
 - **Unified Data and Processes:** The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge [@Westerman2011].
 
-Scale Through Alliances and Partnerships through shared digital assets. Firms modularize their business processes and rely on plug-and-play capabilities for richly linking digital assets and rely on linkages through application programming interfaces (APIs) and web services [@Bharadwaj2013].
+**Algorithms:** The world is pretty much run on algorithms. Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data. ExOs need to follow four steps [@VanGeest2014]:
+  1. Gather: The algorithmic process starts with harnessing data, which is gathered via sensors or humans, or imported from public datasets.
+  2. Organize: The next step is to organize the data, a process known as ETL (extract, transform and load).
+  3. Apply: Once the data is accessible, machine learning tools identify trends and tune new algorithms.
+  4. Expose: The final step is exposing the data, as if it were an open platform. Open data and APIs can be used to enable an ExO’s community to develop valuable services.
 
 - **Solution delivery:** Companies also need the capabilities to modify their processes or build new methods onto the data and process platform. Some IT departments have established special units to build emerging technology skills and methods. Others look outside the firm for help: Vendor partners can be very effective, but some executives expressed concern about over-reliance on vendors. Several executives described knowledge gaps that existed after they ended a vendor relationship [@Westerman2011].
 
@@ -151,8 +156,6 @@ Building software capabilities [@Iansiti2014]
   - creation of a **common software platform** [@Iansiti2014]
   - **No enforcement of compliance**: "We are going to do this, you can be on the train or not".
   - No dedicated P&L for the software: **Different incentives** that don't create competition with the businesses [@Iansiti2014].
-
-Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coor-dinated in networks with complementary products and services [@Bharadwaj2013].
 
 ##### Managing digital assets: explore new options or consolidate your platform?
 
@@ -220,20 +223,64 @@ Join them to beat them: Trying to regulate away disruption is often ineffective.
 
 - **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
 
+##### IT Renting & Staff on-demand increases Up-Down Scaling speed
+
+Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coordinated in networks with complementary products and services [@Bharadwaj2013].
+
+Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital infrastructure and business strategy are fused, this rapid scaling ability becomes a strategic dynamic capability for the firm to adapt to the dynamic requirements of the digital marketplace [@Bharadwaj2013].
+
+**Leveraged Assets:** Recently there's been an accelerating trend towards outsourcing even mission-critical assets. ExOs retain their flexibility precisely by not owning assets, even in strategic areas. This practice optimizes flexibility and allows the enterprise to scale incredibly quickly. Non-ownership, then, is the key to owning the future, except, of course, when it comes to scarce resources and assets. For example, Tesla owns its own factories and Amazon its own warehouses. When the asset in question is rare or extremely scarce, then ownership is a better option. But if your asset is information-based or commoditized at all, then accessing is better than possessing [@VanGeest2014].
+
+Scale Through Alliances and Partnerships through shared digital assets. Firms modularize their business processes and rely on plug-and-play capabilities for richly linking digital assets and rely on linkages through application programming interfaces (APIs) and web services [@Bharadwaj2013].
+
+**Rent, Don't Own:** An important mechanism empowering individuals and small teams everywhere is
+low-cost access to technology and tools. Cloud computing, which offers the ability to store and manage massive amounts of information with unlimited processing, all on a cost-per-use basis requiring no upfront costs or capital investments. This makes memory almost free. The cloud also puts small companies on the same footing as, or even gives them an advantage over, big companies, which are burdened by expensive internal IT. This rent-not-own philosophy further extends the current craze of collaborative consumption and the sharing economy. Why not rent those assets, reducing up-front investment and leaving the ownership and maintenance of state-of-the-art facilities to someone else? Be it facilities, equipment, computing or people, the concept of renting rather than owning is a major factor contributing to an ExO's agility and flexibility [@VanGeest2014].
+
+##### Small & independent units
+
+**Smaller Beats Bigger:** Scale and size have been desirable traits in an enterprise. The conventional wisdom says that a bigger company could leverage economies of scale and negotiate from strength. All that is changing. The unparalleled and unprecedented ability of a small team
+today to do big things if the exponential technologies described previously are put to use. Both now and in the coming years, adaptability and agility will increasingly eclipse size and scale. A small team can take on much bigger risks than a large one [@VanGeest2014].
+
+Dedicated financial resources (DFR): Dedicating these resources to responding to digital disruption can facilitate new growth by avoiding the traps associated with allocating all slack resources to core products and by removing the obstacles that would otherwise limit the potential for innovative ideas to succeed [9, 63] [@Karimi2015].
+
+Dedicated human resources (DHR): Relying just on human resources already allocated to the core products can sharply limit a newspaper company's ability to sell innovative non-core products and to capture new business models [@Karimi2015].
+
+Autonomous growth group (AGG): It is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests. It is a necessary condition when a new venture needs to take an approach that the old venture dislikes or rejects, or when a new venture needs to create new growth that may disrupt the core business. Otherwise, chances are that either a low priority is assigned to new ideas or an old business model may be force-fitted onto the new opportunity [@Karimi2015].
+
+Staged allocation of resources (SAR): It can force innovation teams to zero in quickly on critical assumptions, find cheap ways to test those assumptions, and develop lean and flexible structures for innovation projects. Instead of risking big investments on uncertain strategies, newspaper companies can "invest a little to learn a lot" about the key uncertainties in their approach, reduce the cost and risk of innovation, and encourage smart experiments and risk-mitigation strategies [@Karimi2015].
+
+Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests [@Karimi2015].
+
 #### Organize for Customization & Customer Intimacy
 
+**Customer understanding:** Firms are exploring social media to understand customer satisfiers and dissatisfiers. Companies are learning to promote their brands more effectively through digital media: social media campaign, educational digital tools, building new on-line communities. Firms are building analytics capability to understand customers and actively conducting experiments in pricing and promotion [@Westerman2011].
+
+Learning to sell the new model
+
+- It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market [@Iansiti2014].
+- "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
+
+Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity [@Manyika2015].
+
+**Customer touch points:** Fast and transparent problem resolution builds trust for customers (for example, through a twitter account to answer client complaints). Companies with multiple channels to the customer are experiencing pressure to provide an integrated experience. Some firms are moving beyond simple multi-channel models to enable new forms of digital strategy: they supplements the multichannel experience through a new type of storefront. Several companies are offering self-service via digital tools. These tools allow the customer to save time, while saving the company money [@Westerman2011].
+
+**Top-line growth:** Companies are using technology to enhance in-person sales conversations. Using tablet-based presentations and introducing mobile tools to help sales people and customers engage in analytics-based planning. Analytics help to segment clients. Other firms are using concept stores as flagships for their digital selling innovations. Some firms try to make the life of the customer easier, simplifying their processes through a digital plugin. This streamlines the shopping process [@Westerman2011].
+
 ##### Business-model shift: from product catalog to service catalog to customized service or partnership
+
+**Everything is Measurable and Anything is Knowable:** The sensor revolution is one of the most important and least celebrated technological revolutions taking place today. ExOs take advantage of this accelerating trend in two ways: by creating new business models on existing data streams or by adding new data streams to old paradigms. We are moving toward a world in which everything will be measured and anything can be knowable, both in the world around us and within our bodies. Plan for this to have a chance at long-term success [@VanGeest2014].
+
 
 Sources of Value Creation and Capture: Digital business strategy brings in additional dimensions that alter the nature of value creation and capture [@Bharadwaj2013].
 
 (1) first-order dynamic capabilities have a direct association with building digital platform capabilities and with newspaper companies' response to digital disruption in terms of revenue generated from all on-line sources [@Karimi2015]
 (2) digital platform capabilities mediate the relationship between first-order dynamic capabilities and newspaper companies' response performance in terms of number of non-core products [@Karimi2015].
 
-- **Digitally-modified businesses:** Some firms are finding ways to augment physical with digital offerings. Other firms are staying true to their traditional business, but using digital to transform a new growth business through e-commerce platforms. Other firms are building digital or service wrappers around traditional products [@Westerman2011].
-- **New digital businesses:** Introducing digital products that complement traditional products or changing business models by reshaping their boundaries through digital [@Westerman2011].
+**Digitally-modified businesses:** Some firms are finding ways to augment physical with digital offerings. Other firms are staying true to their traditional business, but using digital to transform a new growth business through e-commerce platforms. Other firms are building digital or service wrappers around traditional products [@Westerman2011].
 
-- Decision 4: Diversify or double down on digital initiatives?
-  Diversification reduces risks, so many companies are tempted to let a thousand flowers bloom. Think like a private-equity fund, seeding multiple initiatives but being disciplined enough to kill off those that don't quickly gain momentum and to bankroll those with genuinely disruptive potential. The alternative is to double down in one area, which may be the right strategy in industries with massive value at stake [@Hirt2014].
+**New digital businesses:** Introducing digital products that complement traditional products or changing business models by reshaping their boundaries through digital [@Westerman2011].
+
+**Diversify or double down on digital initiatives?** Diversification reduces risks, so many companies are tempted to let a thousand flowers bloom. Think like a private-equity fund, seeding multiple initiatives but being disciplined enough to kill off those that don't quickly gain momentum and to bankroll those with genuinely disruptive potential. The alternative is to double down in one area, which may be the right strategy in industries with massive value at stake [@Hirt2014].
 
 Today, many companies are having new competitors, shifting the customer value proposition away from acquiring reliable industrial equipment to deriving new efficiencies and other benefits through advanced analytics and algorithms based on the data generated by that equipment [@Iansiti2014].
 
@@ -263,11 +310,15 @@ GE's transformations:  [@Iansiti2014]
 
 The focus of value creation shifts from value chain to value networks [@Karimi2015].
 
-Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity [@Manyika2015].
-
 Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable [@Manyika2015].
 
 #### Organize for Optimization & Operational Excellence
+
+With exponential output, the internal organization needs to be extremely robust, precise and properly tuned to process all the inputs. Those are distinctly different internal operations that encompass everything from their business philosophies to how employees interact with one another, how they measure their performance (and what they value in that performance), and even their attitudes toward risk. In fact, especially their attitudes toward risk [@VanGeest2014].
+
+**Interfaces:** Interfaces are filtering and matching processes by which ExOs bridge from SCALE externalities to internal IDEAS control frameworks. They are algorithms and automated workflows that route the output of SCALE externalities to the right people at the right time internally.  These processes start out manual and gradually become automated around the edges. These Interface processes are unique and proprietary to the organization that developed them, and as such comprise a unique type of intellectual property. ExOs invest considerable attention to Interfaces and a great deal of human-centered design thinking is brought to optimize every instantiation. Interfaces manage abundance. While most processes are optimized around scarcity and efficiency, SCALE elements generate large result sets, meaning Interfaces are geared towards filtering and matching [@VanGeest2014].
+
+**Dashboards:** Given the huge amounts of data from customers and employees becoming available, ExOs need a new way to measure and manage the organization: a real-time, adaptable dashboard with all essential company and employee metrics, accessible to everyone in the organization. Many ExOs are adopting the Objectives and Key Results (OKR) method. OKRs are the answer to two simple questions: Where do I want to go? (Objectives) How will I know I'm getting there? (Key Results to ensure progress is made). KPIs are determined top-down, while OKRs are determined bottom-up. Objectives are qualitative and Key Results are quantitative. OKRs are about the company's goals and how each employee contributes to those goals. Performance evaluations, which are entirely about evaluating how an employee performed in a given period, are independent of OKRs. Objectives are ambitious and should feel uncomfortable. Dashboards of value metrics, used in conjunction with OKRs, are becoming the de facto standard for measuring ExOs Dashboards are key for ExOs because growing at a rapid pace requires that instrumentation of the business, individual and team assessments be integrated and carried out in real time [@VanGeest2014].
 
 ### To rework
 
@@ -291,11 +342,6 @@ _"Starting from the idea of asset optimization and no unplanned downtime... the 
 Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness [@Bharadwaj2013].
 
 The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product [@Woodard2013].
-
-Learning to sell the new model
-
-- It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market [@Iansiti2014].
-- "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
 
 ##### Integration & Decentralization: think global, act local  
 
