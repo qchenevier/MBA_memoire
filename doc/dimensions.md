@@ -12,13 +12,38 @@ output:
     latex_engine: xelatex
 ...
 
-### Dimensions
+#### Customer intimacy and other value disciplines [@Treacy1993]
+
+##### Dimensions
 
 A foundation book/article about value disciplines and how to use them to trade-off between strategic decision:
 
-- Operational excellence
-- Customer intimacy
-- Product leadership
+- Operational excellence: operations and execution.
+  - Focus: Efficiency, streamlined operations, Supply Chain Management, no-frills, volume.
+  - Value Prop: Reasonable quality at a very low price.
+  - Key points:
+    - Measuring systems are very important. Task oriented vision.
+    - Extremely limited variation in product assortment.
+- Customer intimacy: customer attention and customer service.
+  - Focus: CRM, delivering products and services on time and above customer expectations, lifetime value concepts, reliability, being close to the customer.
+  - Value Prop: A product for you.
+  - Key points:
+    - Employee empowerment gives decision authority to employees that are close to the customer.
+    - Large variation in product assortment.
+- Product leadership: innovation and branding.
+  - Value Prop: Unique product.
+  - Focus: Product development, innovation, design, time to market, high margins in a short time frame
+  - Key points:
+    - Flexible company culture.
+    - Dynamic markets: speed of change of product assortment
+
+| Dimension         | Product leadership        | Customer Intimacy     | Operational excellence |
+|:------------------|:--------------------------|:----------------------|:-----------------------|
+| Value proposition | State-of-the-art features | What I need           | Best quality vs price  |
+| Products          | Novelty                   | Customized            | Price-performance      |
+| Orga style        | Speed                     | Adaptation            | Optimization           |
+| Culture           | Flexibility/Collaboration | Autonomy/Intelligence | Measure/Discipline     |
+| Example           | Apple, Tesla              | IBM, Palantir         | MacDonald's, Airbus    |
 
 ### Dimensions
 
@@ -80,7 +105,116 @@ In this article, an analysis of the paradigm shift (_oil age to information age_
 |                  - Firm as a closed system
 +----------------+------------------------------------+---------------------------------+
 
-### Dimensions
+#### How Competitive Forces Shape Strategy [@Porter1979]
+
+##### Dimensions
+
+**Threat of entry**
+
+Factors hindering new entrants:
+
+1. Product differentiation
+1. Cost disadvantages independent of size: experience, location, specific resources
+1. Concentration: Economies of scale
+1. Access to distribution channels
+1. Capital requirements
+1. Government policy
+
+**Powerful suppliers & buyers**
+
+Factor:
+- Concentration of buyer/seller
+- Differentiation of products bought/sold
+- Buyer/seller is a Potential entrant
+- Non-core to the buyer/seller
+- High Marginal Cost to the buyer
+
+**Substitute products**
+
+Substitute products that deserve the most attention strategically are those that:
+
+- are subject to trends improving their price-performance trade-off with the industry's product
+- are produced by industries earning high profits.
+
+**Jockeying for position**
+
+- Concentration: Numerous or similarly sized rivals.
+- Low growth of industry
+- No differentiation or switching costs.
+- High fixed costs or exit barriers.
+- Nemesis: rivals having differing "personalities".
+
+**Formulation of Strategy**
+
+- Positioning the company
+- Influencing the balance
+- Exploiting industry change
+
+#### Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
+
+##### Dimensions
+
+In this article, an analysis of the paradigm shift (_oil age to information age_) in today's organisations with these categories:
+
+- Command & control
+- Structure & growth
+- Parts & links
+- Style of operation
+- Personnel & training
+- Equipment & investment
+- Production programming
+- Productivity measurement
+- Suppliers, clients and competitors
+
++----------------+------------------------------------+---------------------------------+
+|Dimension         Conventional common-sense            New efficiency principles
++================+====================================+=================================+
+|Command           - Centralized command               - Central goal-setting
+|& control         - Vertical control                  - Local autonomy & horizontal control
+|                  - Cascade                           - self-improving units
++----------------+------------------------------------+---------------------------------+
+|Structure         Stable Pyramid growing              Flexible Network remaining flat
+|& growth          in height
++----------------+------------------------------------+---------------------------------+
+|Parts & links     - Vertical links                    Interactive multifunctional
+|                  - Functional departments            links by product
++----------------+------------------------------------+---------------------------------+
+|Style of          - Optimization                      - Continuous learning Flexible system
+|operation         - Routines & Procedures             - Flexible system
+|                  - "_There is one best way_"         - "_A better way can always be found_"
+|                  - individual tasks                  - group tasks
+|                  - specialization                    - multi-skilled
+|                  - top-down control                  - delegated decision-making
+|                  - bottom-up information             - horizontal information
++----------------+------------------------------------+---------------------------------+
+|Personnel &       - Variable cost                     - Human capital
+|training          - Fixed posts                       - Variable posts
+|                  - Discipline                        - Initiative/Collaboration
++----------------+------------------------------------+---------------------------------+
+|Equipment &       - Dedicated                         - Adaptable & programmable
+|investment        - One optimum plant size            - Many plant size
+|                  - Plant anticipates demand          - Plant growth follows demand
+|                  growth
++----------------+------------------------------------+---------------------------------+
+|Production        - Produce for stock                 - Minimize response time
+|programming       - Use inventory to adapt to         - Adapt rythm to demand variation
+|                  demand variation
++----------------+------------------------------------+---------------------------------+
+|Productivity      - Speficic measure for each         - Total productivity measure for the
+|measurement       department                          whole chain for each product
+|                  - Percent tolerance on              - Zero defects
+|                  quality
++----------------+------------------------------------+---------------------------------+
+|Suppliers,        - Separation from the               - Interaction with the outside world:
+|clients and       outside world: competition          Collaboration with suppliers and
+|competitors       among suppliers and with            with competitors
+|                  competitors                         - Firm as an open system
+|                  - Firm as a closed system
++----------------+------------------------------------+---------------------------------+
+
+#### Strategic principles for competing in the digital age [@Hirt2014]
+
+##### Dimensions
 
 Opportunities and threats:
 
@@ -108,7 +242,8 @@ Managing the strategic challenges: Six big decisions
 - Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? (link with @Karimi2015: depending on the characteristics (size, existing assets, agility needed, risk aversion...), some have integrated or not the digital business unit)
 - Decision 6: Delegate or own the digital agenda?
 
-### Dimensions
+
+#### McKinsey 7S framework [@McKinsey2008]
 
 The 7S McKinsey framework, allowing to frame an analysis of an enterprise strategy:
 
@@ -120,7 +255,7 @@ The 7S McKinsey framework, allowing to frame an analysis of an enterprise strate
 - Style
 - Staff
 
-### Dimensions
+#### The rise of AI makes emotional intelligence more important [@Beck2017]
 
 In this article, a description of the 5 steps of the knowledge worker:
 
@@ -130,18 +265,13 @@ In this article, a description of the 5 steps of the knowledge worker:
 4. Determine a recommended course of action
 5. Implement the course of action
 
-### Dimensions
+
+#### The Future of Employment: How susceptible are jobs to computerization ? [@Frey2017]
 
 Criteria:
 
 - **Routine** vs **Non-routine**
 - **Cognitive** vs **Manual**
-
-3 Tasks categories which won't be automated:
-
-- **Perception & Manipulation** tasks: in unstructured work environment (personal house vs airport or train station), irregular objects.
-- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value is creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is not possible.
-- **Social intelligence** tasks: involving negotiation, persuasion and care.
 
 Examples:
 
@@ -151,8 +281,13 @@ Examples:
 | Creativity                  | Fashion Designer | Count Clerk  |
 | Perception and manipulation | Surgeon          | Telemarketer |
 
+3 Tasks categories which won't be automated:
 
-### Dimensions
+- **Perception & Manipulation** tasks: in unstructured work environment (personal house vs airport or train station), irregular objects.
+- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value is creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is not possible.
+- **Social intelligence** tasks: involving negotiation, persuasion and care.
+
+#### Exponential organizations [@VanGeest2014]
 
 A singularity university book about new organizations with hyper-fast growth and their structuring principles:
 
@@ -169,7 +304,7 @@ A singularity university book about new organizations with hyper-fast growth and
   - Leveraged assets
   - Engagement
 
-### Dimensions
+#### LEAD Enterprise Value Map [@LEADingPractice]
 
 Another shareholder value optimization framework structured with:
 
@@ -208,7 +343,7 @@ Another shareholder value optimization framework structured with:
   - Increase revenue through service & price optimization
   - Increase revenue with existing customers
 
-### Dimensions
+#### Deloitte Enterprise Value Map [@Deloitte2004]
 
 A shareholder value optimization framework structured around:
 
@@ -227,7 +362,7 @@ A shareholder value optimization framework structured around:
   - Company strengths
   - External factors
 
-### Dimensions
+#### Digital America: A tale of the haves and the have-mores [@Manyika2015]
 
 Assets:
 
@@ -246,7 +381,6 @@ Labor:
 - Digital spending: idem per worker
 - Digital capital deepening: assets per worker
 - Digitalization of work: Share of tasks & jobs that are digital
-
 
 +:-------------------------+:--------------------------------------------------------+
 | Labor: Increased supply  | - Increased labor force participation                   
@@ -271,8 +405,7 @@ Labor:
 |                          | - Decreased waste of raw materials
 +--------------------------+---------------------------------------------------------+
 
-
-### Dimensions
+#### Digital Transformation: A Road-Map for Billion-Dollar Organizations [@Westerman2011]
 
 A Capgemini report giving recommandations about how to deal with Digital Transformation. There are 3 categories of recommandations:
 
@@ -317,7 +450,6 @@ And with a bonus category of enablers:
 - Solution delivery
 - Analytics capabilities
 - Business and IT integration
-
 
 Four digital technologies:
 
@@ -380,7 +512,6 @@ Digital maturity matrix: Digital intensity vs Transformation management intensit
 - Digital Conservatives
 - Digirati
 
-
 Roadmap:
 
 1. Envision the digital future for your firm
@@ -399,7 +530,7 @@ Roadmap:
   - What KPIs and metrics do you need to put in place to monitor the progress of your digital transformation towards your strategic goals?
   - What mechanism do you use to make the necessary adjustments?
 
-### Dimensions
+#### Digital ubiquity: How connections, sensors, and data are revolutionizing business [@Iansiti2014]
 
 GE's technical transformation:
 
@@ -408,20 +539,18 @@ GE's technical transformation:
 - investing in **modern software development** capabilities
 - building **advanced analytics** capabilities
 
-
 GE's marketing & organizational transformations:
 
 - **transactional**: break/fix. **Sell** parts & repair.
 - **contractual**: service agreement. **Share risk**, reducing the total cost of ownership.
 - **expanded customer outcomes**: optimized assets & operations. Use data & analytics to **provide decision support** services.
 
-
 A business model is defined by two things:
 
 - how the organization **creates** value for its customers
 - how the organization **captures** that value
 
-### Dimensions
+#### Digital Business Strategy: Toward a Next Generation of Insights [@Bharadwaj2013]
 
 Key External Digital Trends
 
@@ -438,7 +567,6 @@ Key Organizational Shifts
 - Trans-functional Role for IT
 - New Mandate for IT and the CIO
 - Increased Familiarity with IT
-
 
 Described in details here
 
@@ -471,8 +599,8 @@ Described in details here
   - capture value through **coordinated business models in networks**
   - appropriate value through the **control of the firm’s digital architecture**
 
+#### Shaping the Future: Seven Enduring Principles for Fast-changing Industries [@Gimpel2012]
 
-### Dimensions
 Information goods, powerful computing devices, and inexpensive digital communication is changing business and society through five digital forces
 
 - Globalization
@@ -486,7 +614,6 @@ PSD framework to assess the type of activity in the value stream:
 - Production
 - Search
 - Delivery
-
 
 VRIN framework to assess the value of an activity/resource:
 
@@ -505,7 +632,7 @@ VRIN framework to assess the value of an activity/resource:
 - Value creation is the new structure
 - Platforms are the future systems of engagement
 
-### Dimensions
+#### The Role of Dynamic Capabilities in Responding to Digital Disruption: A Factor-Based Study of the Newspaper Industry [@Karimi2015]
 
 Determinants of first-order dynamic capabilities:
 
@@ -521,8 +648,7 @@ Determinants of first-order dynamic capabilities:
   - Common language (CL)
   - Multimedia mindset (MM)
 
-
-### Dimensions
+#### Design Capital and Design Moves: the Logic of Digital Business Strategy [@Woodard2013]
 
 Design capital:
 
@@ -534,7 +660,6 @@ Important contingencies:
 - Resource munificence: organisational slack available
 - Technical capability
 - Ability to transfer the technical debt to the ecosystem
-
 
 Design capital states and strategies:
 
@@ -553,7 +678,7 @@ Design capital states and strategies:
   - if resource scarcity and low ability to transfer technical debt to its ecosystem, abandon design options
   - if resource abundance, experimentation & entrepreneurial actions
 
-### Dimensions
+#### Options for Formulating a Digital Transformation Strategy [@Hess2016]
 
 +----------------+------------------------------------+---------------------------------+
 |Dimension         Question                             Options
@@ -607,7 +732,60 @@ Design capital states and strategies:
 |                                                      - External
 +----------------+------------------------------------+---------------------------------+
 
-### Dimensions
+- Use of technologies
+  1. Strategic role of IT?
+    - Enabler
+    - Supporter
+  2. Technological ambition?
+    - Innovator
+    - Early adopter
+    - Follower
+- Changes in value creation
+  3. Degree of digital diversification?
+    - Electronic sales channels
+    - Cross-media
+    - Enriched-media
+    - Content platforms
+    - Extended business
+  4. Revenue creation?
+    - Paid content
+    - Freemium
+    - Advertising
+    - Complementary products
+  5. Future main business scope?
+    - Content creation
+    - Content aggregation
+    - Content distribution
+    - Management of content platforms
+    - Other
+- Structural changes
+  6. Responsibility for digital transformation strategy?
+    - Group CEO
+    - CEO of business unit
+    - Group CDO
+    - Group CIO
+  7. Organizational positioning of new activities?
+    - Integrated
+    - Separated
+  8. Focus of operational changes?
+    - Products and services
+    - Business processes
+    - Skills
+  9. Building of competencies?
+    - Internally
+    - Partnerships
+    - Company takeovers
+    - External sourcing
+- Financial aspects
+  10. Financial pressure on current core business?
+    - Low
+    - Medium
+    - High
+  11. Financing of new activities?
+    - Internal
+    - External
+
+#### Revamping Your Business Through Digital Transformation. [@WESTERMAN2015]
 
 Start by rethinking four traditional assumptions that affect:
 
@@ -630,8 +808,7 @@ Technologies:
 - Augmented reality
 - Internet of Things
 
-### Dimensions
-
+#### The Business Models Investors Prefer [@PeterWeill2011]
 
 Business model defined by: Asset type & Asset right.
 
@@ -641,7 +818,6 @@ The four asset types are:
 - Physical assets
 - Intangible assets
 - Human assets
-
 
 The four asset rights are:
 
