@@ -18,40 +18,103 @@ Some firms are conducting experiments in different business units, but not condu
 
 #### Assess your internal & absolute value: your assets
 
-##### Platforms: Connecting creates Value: Reassess your position in the value network
+##### Reassess your position in the value network a.k.a your business model
 
-Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013].
+Surprisingly, we found there is no universally accepted definition of the important concept of a business model. Our business model framework is based on defining the types of assets a company sells and the rights it grants customers to use those assets. We define four asset types and four ways companies manage asset rights to generate revenue [@PeterWeill2011].
 
-Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery [@Gimpel2012].
+The four asset types are [@PeterWeill2011]:
+
+- Financial assets, which include cash as well as securities like stocks, bonds and insurance policies
+- Physical assets, which include durable items such as computers, as well as nondurable items such as food
+- Intangible assets, which include intellectual property such as patents and copyrights, as well as other intangible assets like knowledge, goodwill and brand value
+- Human assets, which include people's time and effort. People of course cannot be legally bought and sold, but their time and knowledge can be "rented out" for a fee.
+
+The four rights types sold [@PeterWeill2011]:
+
+- Creators, which sell ownership of products they have created
+- Distributors, which sell ownership of products they bought
+- Landlords, which sell only the right to use assets for a specified period of time
+- Brokers, which receive a fee for matching buyers and sellers without ever taking ownership or custody of the product
+
+Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery [@Gimpel2012]:
+
 - Production is "making goods available for use."
 - Search is matching different parties together so they can trade
 - Delivery is transmitting or communicating information and information goods
+
+Combining thos 2 frameworks, it seems that:
+
+- Search is the activity of Brokers.
+- Production is the activity of Creators.
+- Delivery is activity of Landlords and Distributors.
+
+Examples:
+
+- Telecom carriers and Internet Service Providers
+  - Delivery of Intangible knowledge
+  - Landlords of Physical Telecommunications Infrastructure.
+- Apple's Iphone sold in an Apple store
+  - Production and Delivery of Physical Iphone
+  - Creator and Distributor of Physical Iphone
+- Apple's Iphone leased by a telecom carrier
+  - Delivery of Physical Iphone
+  - Landlord of Physical Iphone
+- Plane ticket by Airline Company
+  - Delivery of Human flight crew and Physical plane seat
+  - Landlord of Physical plane seat and Human flight crew
+- Display of ads by Google
+  - Production & Delivery of Intangible ad space
+  - Creator and Landlord of Intangible ad space
+  - Search between Audience and Advertiser for Intangible ad space
+  - Broker between Audience and Advertiser for Intangible ad space
+
 The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability [@Gimpel2012].
 CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
 
-[TODO: ADD QUOTE FROM @PeterWeill2011: shift your business model]
+According to @Hirt2014, Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways:
+
+- creation of purely digital goods (digitization is transforming even physical flows of people into virtual flows)
+- enhancing the value of physical flows by the use of "digital wrappers" that pack information around (online reviews or customer ratings, digital tags and sensors connected by wireless communications)
+- creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges [@Hirt2014].
+
+Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013]. Similarly, Apple receives payments from Google so that he can remain the default search engine on Apple mobile devices, powered by its propietary operating system, [according to some experts](https://www.cnbc.com/2017/08/14/google-paying-apple-3-billion-to-remain-default-search--bernstein.html). In this example, Apple is controlling the distribution to its captive users and selling it to suppliers.
+
+##### Platforms: the Search / Broker business
 
 The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
 
 Platforms to connect to consumers: to reach new audiences through building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses [@Karimi2015].
 
-The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building digital platform capabilities [@Karimi2015].
+Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market [@Gimpel2012].
 
-Our results are deemed generalizable to other industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises [@Karimi2015].
+Executives must shift from thinking about value chains to value networks [@Gimpel2012].
 
-Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks. Organizations need to find out whether processes for their core products are appropriate for developing digital non-core products [@Karimi2015].
+Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate [@Gimpel2012]. (Note: here in this citation, VRIN is synonym of Value)
 
-Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
+Digital platforms will become the gateways (and bottlenecks) to the market [@Gimpel2012].
 
 Value Creation from Multisided Business Models: multisided revenue models are important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
+
+##### Digital platforms as an IT tool for future improvements & products (digital asset with high option value)
+
+[TODO: A FUSIONNER AVEC L'AUTRE PARAGRAPHE SUR LES PLATEFORMES]
+Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
+
+The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building digital platform capabilities [@Karimi2015].
+
+Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks [@Karimi2015].
+
+Organizations need to find out whether processes for their core products are appropriate for developing digital non-core products [@Karimi2015].
+
+##### Business virtialization and Staff on demand
 
 The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage [@Bharadwaj2013].
 
 **Staff on Demand:** In any information-enabled business a large internal staff seems increasingly unnecessary, counterproductive and expensive [@VanGeest2014].
 
-Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market. Executives must shift from thinking about value chains to value networks. Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate [@Gimpel2012].
-
-Digital platforms will become the gateways (and bottlenecks) to the market [@Gimpel2012].
+---
+[TODO A BOUGER]
+Our results are deemed generalizable to other industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises [@Karimi2015].
 
 ##### Valuable Assets in a digital world
 

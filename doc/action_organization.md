@@ -74,6 +74,8 @@ Once digital players have established themselves as leaders in one market, they 
 
 Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being "born digital."
 
+Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries [@Gimpel2012].
+
 #### Increasing pace of innovation
 
 The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines [@Manyika2015].
@@ -123,11 +125,72 @@ Kraft has the information systems, analytical capability, and educated sales for
 
 The second set of customers is more concerned with obtaining precisely what they want or need. Customers in this group ascribe value to a product or service according to how closely it appears to be designed just for them. These customers require a company to focus on Customer Intimacy [@Treacy1993].
 
-#### Foresee Powerful Buyers
+#### Foresee Powerful suppliers
 
-Customer Intimacy relates primarily to one of Porter's forces: Powerful Buyers.
+Customer Intimacy relates primarily to one of Porter's forces: Powerful suppliers.
 
-##### Powerful Buyers
+##### Powerful suppliers
+
+Suppliers can exert bargaining power on participants in an industry by raising prices or reducing the quality of purchased goods and services [@Porter1979].
+
+A supplier group is powerful if [@Porter1979]:
+
+- It is dominated by a few companies and is more concentrated than the industry it sells to.
+- Its product is unique or at least differentiated, or if it has built up switching costs.
+- It is not obliged to contend with other products for sale to the industry.
+- It poses a credible threat of integrating forward into the industry's business.
+- The industry is not an important customer of the supplier group.
+
+A company's choice of suppliers to buy from should be viewed as a crucial strategic decision [@Porter1979].
+
+#### Consumer are also Information producers, shifting business models
+
+Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations [@Hirt2014].
+
+(CIME) industries face dramatic changes in revenue streams and shifts in industry dynamics. Traditional business models face threats [@Gimpel2012].
+
+#### Customization improved by reduced information asymmetry
+
+Increased Value from Information: the digital business context brings new opportunities to create value from information. Many firms are able to fine-tune their actions and personalize their offerings based on information about customer preferences. Democratization of content as well as the subsequent sharing, remixing, redistribution, and resyndication of content have caused dramatic power shifts in market channels and dis-intermediations that disrupt traditional sources of economic profits while creating fundamentally new sources of value [@Bharadwaj2013].
+
+Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers [@Manyika2015].
+
+### Operational Excellence
+
+#### Focus on Optimization & Price-performance ratio
+
+Operational Excellence describes a specific strategic approach to the production and delivery of products and services. The objective is to lead in price and convenience: to minimize overhead costs, to eliminate intermediate production steps, to reduce transaction and other "friction" costs, and to optimize business processes. They focus on delivering their products or services to customers at competitive prices and with minimal inconvenience [@Treacy1993].
+
+Dell outperformed by cutting dealers out of the distribution process, building to order rather than to inventory, fostering a disciplined, extremely low-cost culture [@Treacy1993].
+
+General Electric reinvented its operating model-the way it made, sold, and distributed appliances. GE introduced the "virtual inventory," a computer-based logistics system that allows stores to operate as though they had hundreds of ranges and refrigerators in the back room when in fact they have none at all. They have instantaneous access to GE's on-line order-processing to place orders for next-day delivery. Dealers have had to give up some independence from the supplier. Virtual inventory works better than real inventory for both dealers and customers and saves about 12% of distribution and marketing costs to GE. With Direct Connect, GE knows that vendors' orders are, in fact, actual sales to customers. GE links its order-processing system to other systems involved in forecasting demand and planning production and distribution. The company now, in effect, manufactures in response to customer demand instead of to inventory. It implemented automated inventory replenishment and invoice-less payments and integrated disparate logistics systems [@Treacy1993].
+
+Companies that have adopted a strategy of Operational Excellence also have built their operations around information systems that emphasize integration and low-cost transaction processing [@Treacy1993].
+
+One set of potential customers denes value within a matrix of price, convenience, and quality, with price the dominant factor. These customers are less particular about what they buy than they are about getting it at the lowest possible price and with the least possible hassle. The business that succeeds by serving these customers focuses on Operational Excellence [@Treacy1993].
+
+#### Foresee Rivals jockeying for position and Powerful buyers
+
+Related primarily to 2 Porter's forces:
+
+- Rivals jockeying for position
+- Powerful buyers
+
+##### Rivals jockeying for position
+
+Rivalry among existing competitors takes the familiar form of jockeying for position-using tactics like price competition, product introduction, and advertising slugfests. Intense rivalry is related to the presence of a number of factors [@Porter1979]:
+
+- Competitors are numerous or are roughly equal in size and power.
+- Industry growth is slow.
+- The product or service lacks differentiation or switching costs.
+- Fixed costs are high or the product is perishable.
+- Capacity is normally augmented in large increments.
+- Exit barriers are high. Exit barriers, like very specialized assets or management's loyalty to a particular business, keep companies competing even though they may be earning low returns on investment.
+- The rivals are diverse in strategies, origins, and "personalities", and continually run head-on into each other.
+
+As an industry matures, its growth rate changes, resulting in declining profits and (often) a shakeout. Technological innovation can boost the level of fixed costs in the production process. While a company must live with many of these factors (because they are built into industry economics) it may have some latitude for improving matters through strategic shifts. For example, it may try to raise buyers' switching costs or increase product differentiation [@Porter1979].
+
+##### Powerful buyers
 
 Customers likewise can force down prices, demand higher quality or more service, and play competitors off against each other, all at the expense of industry profits [@Porter1979].
 
@@ -147,88 +210,24 @@ Rarely do all the buyer groups a company sells to enjoy equal power. Segments us
 
 As a rule, a company can sell to Powerful Buyers and still come away with above- average profitability only if it is a low-cost producer in its industry or if its product enjoys some unusual, if not unique, features. If the company lacks a low cost position or a unique product, selling to everyone is self-defeating because the more sales it achieves, the more vulnerable it becomes. The company may have to muster the courage to turn away business and sell only to less potent customers [@Porter1979].
 
-#### Customization improved by reduced information asymmetry
-
-Increased Value from Information: the digital business context brings new opportunities to create value from information. Many firms are able to fine-tune their actions and personalize their offerings based on information about customer preferences. Democratization of content as well as the subsequent sharing, remixing, redistribution, and resyndication of content have caused dramatic power shifts in market channels and dis-intermediations that disrupt traditional sources of economic profits while creating fundamentally new sources of value [@Bharadwaj2013].
-
-### Operational Excellence
-
-#### Focus on Optimization & Price-performance ratio
-
-Operational Excellence describes a specific strategic approach to the production and delivery of products and services. The objective is to lead in price and convenience: to minimize overhead costs, to eliminate intermediate production steps, to reduce transaction and other "friction" costs, and to optimize business processes. They focus on delivering their products or services to customers at competitive prices and with minimal inconvenience [@Treacy1993].
-
-Dell outperformed by cutting dealers out of the distribution process, building to order rather than to inventory, fostering a disciplined, extremely low-cost culture [@Treacy1993].
-
-General Electric reinvented its operating model-the way it made, sold, and distributed appliances. GE introduced the "virtual inventory," a computer-based logistics system that allows stores to operate as though they had hundreds of ranges and refrigerators in the back room when in fact they have none at all. They have instantaneous access to GE's on-line order-processing to place orders for next-day delivery. Dealers have had to give up some independence from the supplier. Virtual inventory works better than real inventory for both dealers and customers and saves about 12% of distribution and marketing costs to GE. With Direct Connect, GE knows that vendors' orders are, in fact, actual sales to customers. GE links its order-processing system to other systems involved in forecasting demand and planning production and distribution. The company now, in effect, manufactures in response to customer demand instead of to inventory. It implemented automated inventory replenishment and invoice-less payments and integrated disparate logistics systems [@Treacy1993].
-
-Companies that have adopted a strategy of Operational Excellence also have built their operations around information systems that emphasize integration and low-cost transaction processing [@Treacy1993].
-
-One set of potential customers denes value within a matrix of price, convenience, and quality, with price the dominant factor. These customers are less particular about what they buy than they are about getting it at the lowest possible price and with the least possible hassle. The business that succeeds by serving these customers focuses on Operational Excellence [@Treacy1993].
-
-#### Foresee Rivals jockeying for position and Powerful suppliers
-
-Related primarily to 2 Porter's forces:
-
-- Rivals jockeying for position
-- Powerful suppliers
-
-##### Rivals jockeying for position
-
-Rivalry among existing competitors takes the familiar form of jockeying for position-using tactics like price competition, product introduction, and advertising slugfests. Intense rivalry is related to the presence of a number of factors [@Porter1979]:
-
-- Competitors are numerous or are roughly equal in size and power.
-- Industry growth is slow.
-- The product or service lacks differentiation or switching costs.
-- Fixed costs are high or the product is perishable.
-- Capacity is normally augmented in large increments.
-- Exit barriers are high. Exit barriers, like very specialized assets or management's loyalty to a particular business, keep companies competing even though they may be earning low returns on investment.
-- The rivals are diverse in strategies, origins, and "personalities", and continually run head-on into each other.
-
-As an industry matures, its growth rate changes, resulting in declining profits and (often) a shakeout. Technological innovation can boost the level of fixed costs in the production process. While a company must live with many of these factors (because they are built into industry economics) it may have some latitude for improving matters through strategic shifts. For example, it may try to raise buyers' switching costs or increase product differentiation [@Porter1979].
-
-##### Powerful suppliers
-
-Suppliers can exert bargaining power on participants in an industry by raising prices or reducing the quality of purchased goods and services [@Porter1979].
-
-A supplier group is powerful if [@Porter1979]:
-
-- It is dominated by a few companies and is more concentrated than the industry it sells to.
-- Its product is unique or at least differentiated, or if it has built up switching costs.
-- It is not obliged to contend with other products for sale to the industry.
-- It poses a credible threat of integrating forward into the industry's business.
-- The industry is not an important customer of the supplier group.
-
-A company's choice of suppliers to buy from should be viewed as a crucial strategic decision [@Porter1979].
-
-#### Distribution improved by reduced information asymmetry
+#### Reduced information asymmetry information augments the buyers' power
 
 Consumers have been big winners in the digital economy, although most of this effect does not show up as GDP. Some tech firms are providing free products or services where traditional businesses once charged fees. In these cases, the consumer gains are siphoning value out of industries [@Manyika2015].
 
 Information becomes widely available, disrupting traditional intermediaries: Value is shifting from physical intermediaries and asset holders to digital intermediaries and to consumers [@Manyika2015]. Internet information is now cheap, open standards have also facilitated open distribution platforms which have further resulted in more flexibility for consumers. Aggregative news services are becoming more important intermediaries [@Karimi2015]. Consider the automotive industry, Consumers now save time by comparing vehicles on-line and their on-line activity leaves a data trail that dealers can use [@Manyika2015].
 
-1. New pressure on prices and margins
+New pressure on prices and margins
 Third parties have jumped into this fray, disintermediating relationships between companies and their customers. The rise of price-comparison sites and these dynamics create downward pressure on returns across consumer-facing industries, and the disruptive currents are now rippling out to B2B businesses [@Hirt2014].
 
 Globalization reshapes the nature of supply and demand. Consumers enjoy a new world of choice [@Gimpel2012].
 
-The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software.
+Power players accustomed to monopoly profits face unprecedented competition [@Gimpel2012].
 
-#### Production improved by leveraging communities of consumer-producers
-
-[TODO: move this quote elsewhere] Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries. (CIME) industries face dramatic changes in revenue streams and shifts in industry dynamics. Power players accustomed to monopoly profits face unprecedented competition. Traditional business models face threats. Communications firms face substitution from over-the-top services [@Gimpel2012].
-
-Enabling new business or operating models, such as peer-to-peer product innovation (crowd-source features rather than investing heavily in R&D) or customer service (crowd-source customer service, so that users support each other to resolve problems), disintermediate existing customer-supplier relations [@Hirt2014].
-
-Digitization allows companies to split jobs into smaller and more specialized tasks. Producers are better able to create specialized offerings for small markets: e.g.: investment advisory business has become disaggregated. Large retail banks similarly face a growing array of small, tech-enabled challengers [@Manyika2015].
+The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software [@Manyika2015].
 
 #### Distribution improved by platformization
 
-6. Converging global supply and demand
-Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways:
-
-- creation of purely digital goods (digitization is transforming even physical flows of people into virtual flows)
-- enhancing the value of physical flows by the use of "digital wrappers" that pack information around (online reviews or customer ratings, digital tags and sensors connected by wireless communications)
-- creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges [@Hirt2014].
+Communications firms face substitution from over-the-top services [@Gimpel2012].
 
 In B2B markets, corporate purchasers are raising pressure on their suppliers to offer services that are standardized across borders, integrate with other offerings, and can be plugged into the purchasing companies' global business processes easily [@Hirt2014].
 
@@ -268,10 +267,9 @@ Today the race is on to capture value from data analytics and the Internet of Th
 
 #### Talent acquisition vs asset acquisition
 
-Competition to hire talent is now global.
+The competition to hire talent is now global, as technologies evolve faster and technology usage is exploding to increase automation.
 
-5. Growing talent mismatches
-At the same time, companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business [@Hirt2014].
+There are Growing talent mismatches between companies. Companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business [@Hirt2014].
 
 Between 2012 and 2020, the patch of the digital universe that CIOs and their IT staffs need to manage will become not just bigger but also more complex. The skills, experience, and resources to manage all these bits of data will become scarcer and more specialized, requiring a new, flexible, and scalable IT infrastructure that extends beyond the enterprise [@Gantz2012].
 

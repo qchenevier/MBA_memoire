@@ -510,26 +510,13 @@ Large traditional companies can out-compete fast-moving digital startups if they
 
 #### The Business Models Investors Prefer [@PeterWeill2011]
 
-We found that in recent years, investors have favored business models focusing on licensing intellectual property.
-Surprisingly, we found there is no universally accepted definition of the important concept of a business model. Our business model framework is based on defining the types of assets a company sells and the rights it grants customers to use those assets. We define four asset types and four ways companies manage asset rights to generate revenue.
-
-The four asset types are:
-
-- Financial assets, which include cash as well as securities like stocks, bonds and insurance policies
-- Physical assets, which include durable items such as computers, as well as nondurable items such as food
-- Intangible assets, which include intellectual property such as patents and copyrights, as well as other intangible assets like knowledge, goodwill and brand value
-- Human assets, which include people's time and effort. People of course cannot be legally bought and sold, but their time and knowledge can be "rented out" for a fee.
-
-The four rights types sold:
-
-- Creators, which sell ownership of products they have created
-- Distributors, which sell ownership of products they bought
-- Landlords, which sell only the right to use assets for a specified period of time
-- Brokers, which receive a fee for matching buyers and sellers without ever taking ownership or custody of the product
+We found that in recent years, investors have favored business models focusing on licensing intellectual property [@PeterWeill2011].
 
 Disney has dramatically shifted its business model over the last 20 years from renting physical assets like theme parks (to licensing intellectual property), with clear investor buy-in for this strategic shift. Disney stock outperformed the S&P 500 stock index over the last five years.
 
-Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued. Financial and physical landlords were the poorest performing of the common business models, while IP landlords were the second-highest performing. Contractors (that primarily "rent out" human assets) had performance in the middle of the pack.
+Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued. IP landlords were the second-highest performing [@PeterWeill2011].
+
+Financial and physical landlords were the poorest performing of the common business models. Contractors (that primarily "rent out" human assets) had performance in the middle of the pack [@PeterWeill2011].
 
 Innovative manufacturers - which we define as those who invest more than their industry average in research and development - are the top performers in the market. Apple is an example of an innovative manufacturer.
 
