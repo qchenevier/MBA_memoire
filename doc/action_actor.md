@@ -1,7 +1,3 @@
-
-[TODO: add introduction about Actor Network Theory, citing: http://latourbugblog.blogspot.fr/2009/01/overview-of-latours-reassembling-social.html, and the fact that we will replace Network by "Organization" which is much more undersstandable. Network will refer to Telecom networks. So it is more about "Actor-Organization" analysis, with the actor which could be a machine.]
-[TODO: rename Micro by Actor and Macro by Organization]
-
 ## Actors' action
 
 ### Machines
@@ -26,6 +22,7 @@ Each technological revolution has its key factor :
 In each case, the "key factor" steers engineering and investment decisions towards its intensive use. New technology systems are built accordingly, based on: microelectronics, software & telecommunications [@Perez2004]. Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015]. The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web) [@Bharadwaj2013]. Information goods, powerful computing devices, and inexpensive digital communication is changing business and society [@Gimpel2012].
 
 Futurist Ray Kurzweil made **four signature observations** [@VanGeest2014]:
+
 1. First, the doubling pattern identified by Gordon Moore in integrated circuits applies to any information technology. Kurzweil calls this the Law of Accelerating Returns (LOAR) and shows that doubling patterns in computation extend all the way back to 1900, far earlier than Moore's original pronouncement.
 2. Second, the driver fueling this phenomenon is information. Once any domain, discipline, technology or industry becomes information-enabled and powered by information flows, its price/performance begins doubling approximately annually.
 3. Third, once that doubling pattern starts, it doesn't stop.
@@ -44,10 +41,11 @@ In the past we have operated under conditions of data (information) scarcity wit
 From 2005 to 2020, the digital universe will grow by a factor of 300, from 130 exabytes to 40,000 exabytes, or 40 trillion gigabytes (more than 5,200 gigabytes for every man, woman, and child in 2020). From now until 2020, the digital universe will about double every two years [@Gantz2012].
 
 Examples of exploding (and potentially valuable) data sources:
+
 - Surveillance footage: as IP cameras continue to proliferate, footage can be captured, analyzed, and tagged in real time. This type of tagging can expedite crime investigations, enhance retail analytics for consumer traffic patterns, and, of course, improve military intelligence [@Gantz2012].
-- Embedded and medical devices. In the future, sensors of all types (including those that may be implanted into the body) will capture vital and nonvital biometrics, all in real time [@Gantz2012].
-- Entertainment and social media. Trends based on crowds can help pick winners and losers in the stock market, and even predict the outcome of elections [@Gantz2012].
-- Consumer images. We say a lot about ourselves when we post pictures of ourselves or our families or friends [@Gantz2012].
+- Embedded and medical devices: In the future, sensors of all types (including those that may be implanted into the body) will capture vital and nonvital biometrics, all in real time [@Gantz2012].
+- Entertainment and social media: Trends based on crowds can help pick winners and losers in the stock market, and even predict the outcome of elections [@Gantz2012].
+- Consumer images: We say a lot about ourselves when we post pictures of ourselves or our families or friends [@Gantz2012].
 - Transactions: in addition, of course, to the normal transactional data running through enterprise computers in the course of normal data processing today [@Gantz2012].
 
 [TODO: ADD QUOTE ABOUT TELECOM TECHNOLOGY, IOT & COMPUTING PENETRATION]

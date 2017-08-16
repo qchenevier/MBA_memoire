@@ -6,6 +6,7 @@
 <!-- How do you restructure your company? -->
 
 @Perez2004 analyses each techno-economic paradigm through three inter-related levels:
+
 - New "best practice" model : flexible organizational model
 - New "common sense" principles for organizational & institutional design : decentralization, networking, continuous improvement, users/stakeholders involvement in the organization
 

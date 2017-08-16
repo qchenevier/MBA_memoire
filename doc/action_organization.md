@@ -5,6 +5,7 @@
 <!-- How are you organized? -->
 
 To understand what are the macro-economic impact as an organization:
+
 - What type of organisation you are analyzing ?
 - Depending on the type of organisation, what are the influencing factors impacting the efficiency of the organization ?
 - For each influencing factor, what are the current digitalization trends and phenomena modifying these influencing factor ?
@@ -30,6 +31,7 @@ To the third category of customers, new, different, and unusual products count m
 #### Foresee Substitutes and Threat of Entry
 
 Companies focusing on a Product Leadership value discipline, seem to be primarily impacted by 2 Porter's forces:
+
 - Threat of Entry
 - Substitutes
 
@@ -45,6 +47,7 @@ The seriousness of the threat of entry depends on the barriers present and on th
 1. Government policy: The government can limit or even foreclose entry to industries with such controls as license requirements and limits on access to raw materials. There are also indirect entry barriers through controls such as air and water pollution standards and safety regulations [@Porter1979].
 
 The company is likely to have second thoughts if incumbents have previously lashed out at new entrants or if:
+
 - The incumbents possess substantial resources to fight back
 - The incumbents seem likely to cut prices
 - Industry growth is slow, affecting its ability to absorb the new arrival
@@ -54,6 +57,7 @@ The company is likely to have second thoughts if incumbents have previously lash
 By placing a ceiling on prices it can charge, substitute products or services limit the potential of an industry, unless it can upgrade the quality of the product or differentiate it. Manifestly, the more attractive the price-performance trade-off offered by substitute products, the firmer the lid placed on the industry's profit potential. Substitutes not only limit profits in normal times; they also reduce the bonanza an industry can reap in boom times [@Porter1979].
 
 Substitutes that deserve the most attention strategically are those that [@Porter1979]:
+
 - are subject to trends improving their price-performance trade-off with the industry's product
 - are produced by industries earning high profits.
 
@@ -164,12 +168,14 @@ One set of potential customers denes value within a matrix of price, convenie
 #### Foresee Rivals jockeying for position and Powerful suppliers
 
 Related primarily to 2 Porter's forces:
+
 - Rivals jockeying for position
 - Powerful suppliers
 
 ##### Rivals jockeying for position
 
 Rivalry among existing competitors takes the familiar form of jockeying for position-using tactics like price competition, product introduction, and advertising slugfests. Intense rivalry is related to the presence of a number of factors [@Porter1979]:
+
 - Competitors are numerous or are roughly equal in size and power.
 - Industry growth is slow.
 - The product or service lacks differentiation or switching costs.
@@ -219,6 +225,7 @@ Digitization allows companies to split jobs into smaller and more specialized ta
 
 6. Converging global supply and demand
 Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways:
+
 - creation of purely digital goods (digitization is transforming even physical flows of people into virtual flows)
 - enhancing the value of physical flows by the use of "digital wrappers" that pack information around (online reviews or customer ratings, digital tags and sensors connected by wireless communications)
 - creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges [@Hirt2014].

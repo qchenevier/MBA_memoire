@@ -1,4 +1,3 @@
-
 # Sources (Quotes to move to parts) {-}
 
 #### Customer intimacy and other value disciplines [@Treacy1993]
