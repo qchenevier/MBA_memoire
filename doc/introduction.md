@@ -28,25 +28,43 @@ Without a unifying intellectual framework to understand digitalization, it seems
 
 This document aims at summarizing the various research on this topic for the last two decades by exploring 2 dimensions:
 
-- **Impulsion vs Reaction:** What is changing vs what can you do about it? What influencing your behavior? What kind of behavior should be favored? What is the new context for organizations? How can they adapt to it?
-- **Micro-economic scale vs macro-economic scale:** What is happening locally vs what is happening globally? What is happening from the point of view of a mere human? What are the technologies at hand? What are the new systems of technologies and humans?
+Action vs Reaction
+~ This dimension relates to the direction of the perturbation we describe. Like the chinese keyword [**_gǎnyìng_**](https://en.wikipedia.org/wiki/Ganying) meaning _correlative resonance_, which stems from **_gǎn_** meaning _feel, sense, touch, be affected_ and **_yìng_** meaning _respond, answer, adapt to, deal with_, this dimension analyses the fact that change is the result of an interaction between an entity and its environment. Other word assiocations like **Stimulus-Response**, **Input-Output** would have been suitable also. In this context, **Action** refers to the changes which do not originate in the organizations but rather from its environment and its stakeholders. **Reaction** refers to the changes which originate in the organization and modify its behavior towards its environment and stakeholders.
+
+  - What is changing?
+  - What can you do about it?
+  - What is influencing your behavior?
+  - What kind of behavior should be favored?
+  - What is the new context for organizations?
+  - How can they adapt to it?
+
+Actor vs Organization
+~ This dimension relate to the scale at which we describe the perturbation. Like a widely-used sociological tool, named [**Actor-Network theory**](https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory), which describes an organization by identifying the actors which compose it, including machines, and  the network of relations which connects those actors. The term _Network_ has been replaced by _Organization_ because of its strong technological meaning in the field of telecommunications in the context of this report. Other word associations like **Microeconomic-Macroeconomic**, **Unit-Group**, **Small-Big**. In this context, **Actor** refers to all the tangible and intangible entities contained in an organization. The main entities of an organization are the people belonging to that organization. Coherently the other entities we consider are those which can interact with (or be handled by) a human: tangible like a computer, a car, a desk, a smartphone or intangible like an application, a database, a knowledge, a technology, money. **Organization** refers to the combination of those entities through a network of interactions and flows. The classical paradigm of hierarchical organizations with a pyramidal structure is only one of those organizations topologies.
+
+  - What is happening locally vs what is happening globally?
+  - What is happening from the point of view of a mere human?
+  - What are the technologies at hand?
+  - What are the new systems of technologies and humans?
+  - How are organized digitalized organizations?
+
+\bigskip
 
 To understand the whole digitalization phenomenon, we suggest to follow an intellectual journey which encompasses those 2 dimensions:
 
-1. **Impulsion at micro-economic scale**
+1. **Action of Actors**
 
-    What are the digital technologies and how they are used in our daily lives? What are our new behaviors?
+    What are the digital technologies at hand ? How are they used in our daily lives? What are our new behaviors as customers? as employees?
 
-2. **Impulsion at macro-economic scale**
+2. **Action of Organizations**
 
-    From these local drives, What are the new drivers and changes impacting the efficiency of the organizations? How are the systems of humans and machines behaving and changing the market dynamics?
+    From these Actors' level changes, what are the changes impacting the efficiency of the organizations? How are the most efficient organizations behaving? How are they structured? What is changed in the market dynamics?
 
-3. **Reaction at macro-economic scale**
+3. **Reaction of Organizations**
 
-    From these drivers, how an organization should adapt? Where should it be headed by its leaders? What kind of strategy can be envisioned?
+    From these Organizations' level changes, how an organization should adapt? Does it need to change its structure? Where should it be headed by its leaders? What kind of strategy can be envisioned?
 
-4. **Reaction at micro-economic scale**
+4. **Reaction of Actors**
 
-    Having built the strategy, what kind of local action can be triggered to transform the organization? What kind of technologies should be used and how? For each individual, what kind of behavior should be encouraged?
+    From these Organizations' level reaction, what kind of local action can be triggered to transform the organization? What kind of technologies could be used and how? For each individual, what kind of behavior should be encouraged? What are the required competencies of the leaders?
 
 Then, using this intellectual framework, we propose **a tool to support digital transformation efforts for organizations' leaders**.
