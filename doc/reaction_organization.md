@@ -58,27 +58,15 @@ Successful Digital Transformation comes from reshaping the organization to take 
 
 Decision 1: Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
 
-Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
-
 We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy  [@Bharadwaj2013].
+
+Data should be considered an asset class in its own right [and] analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy" [@WESTERMAN2015].
+
+Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
 
 **Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world [@Westerman2011]?
 
-**Sales force:** source of customer loyalty is the set of relationships cultivated by a strong sales force. Digital initiatives can threaten to disintermediate salespeople. However, digital transformation can also be used to enhance those relationships [@Westerman2011].
-
-**Point of sale and distribution channels:** Stores are often a strong source of location-based advantage, even in a digital world [@Westerman2011].
-
-**Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices [@Westerman2011].
-
-**Product innovation:** Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time [@Westerman2011].
-
-**Partnership network:** Trusted relationships can deliver powerful new operating models. A firm is switching from a single value chain link to a value chain orchestrator. Partners cooperated in the project because of years of working together [@Westerman2011].
-
-**Brand:** Companies with a strong brand are able to leverage it in related offerings. Through mobile web, social media and other digital initiatives, building additional points of contact with customers [@Westerman2011].
-
 **Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation [@Westerman2011].
-
-**Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change [@Westerman2011].
 
 Access resources you don't own. In Waze's case, the company made use of the GPS readings already on its users' smartphones. Information is your greatest asset. More reliably than any other asset, information has the potential to double regularly. Rather than simply assembling assets, the key to success is accessing valuable caches of existing information [@VanGeest2014].
 
@@ -210,6 +198,14 @@ We developed a conceptual framework that emphasizes the strategic importance of 
 
 Our organizational structures have evolved to manage scarcity. The concept of ownership works well for scarcity, but accessing or sharing works better in an abundant, information-based world. While the information-based world is now moving exponentially, our organizational structures are still very linear (especially large ones). Matrix structures don't work in an exponential, information-based world. Rapid or disruptive change is something that large, matrixed organizations find extremely difficult [@VanGeest2014].
 
+##### Valuable assets
+
+**Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices [@Westerman2011].
+
+**Product innovation:** Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time [@Westerman2011].
+
+**Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change [@Westerman2011].
+
 ##### Embracing Disruption vs Fighting the environment with Regulation
 
 Regulations are slowly adapting to evolutions in society.
@@ -252,6 +248,15 @@ Staged allocation of resources (SAR): It can force innovation teams to zero in q
 Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests [@Karimi2015].
 
 #### Organize for Customization & Customer Intimacy
+
+##### Valuable assets
+**Sales force:** source of customer loyalty is the set of relationships cultivated by a strong sales force. Digital initiatives can threaten to disintermediate salespeople. However, digital transformation can also be used to enhance those relationships [@Westerman2011].
+
+**Point of sale and distribution channels:** Stores are often a strong source of location-based advantage, even in a digital world [@Westerman2011].
+
+**Brand:** Companies with a strong brand are able to leverage it in related offerings. Through mobile web, social media and other digital initiatives, building additional points of contact with customers [@Westerman2011].
+
+##### Other
 
 **Customer understanding:** Firms are exploring social media to understand customer satisfiers and dissatisfiers. Companies are learning to promote their brands more effectively through digital media: social media campaign, educational digital tools, building new on-line communities. Firms are building analytics capability to understand customers and actively conducting experiments in pricing and promotion [@Westerman2011].
 
@@ -313,6 +318,12 @@ The focus of value creation shifts from value chain to value networks [@Karimi20
 Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable [@Manyika2015].
 
 #### Organize for Optimization & Operational Excellence
+
+##### Valuable assets
+
+**Partnership network:** Trusted relationships can deliver powerful new operating models. A firm is switching from a single value chain link to a value chain orchestrator. Partners cooperated in the project because of years of working together [@Westerman2011].
+
+##### Other
 
 With exponential output, the internal organization needs to be extremely robust, precise and properly tuned to process all the inputs. Those are distinctly different internal operations that encompass everything from their business philosophies to how employees interact with one another, how they measure their performance (and what they value in that performance), and even their attitudes toward risk. In fact, especially their attitudes toward risk [@VanGeest2014].
 
