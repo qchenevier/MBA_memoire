@@ -128,6 +128,9 @@ the degree of consumer attention focused on a relatively small number of brands 
 
 Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more [@Westerman2011].
 
+Beware of assumptions:
+**Our customers really value the human touch.** Not all interactions with humans are actually valuable to customers. Digital innovation can combine no-touch (or limited-touch) service with high customer satisfaction. Some customers today favor self-service over personal interaction. For many young adults in their 20s and early 30s, interacting with a human service representative represents an inconvenience or an extra cost. However, transitioning to a direct-to-consumer model can be difficult: agents or dealers can rebel against what they perceive as a threat to their commissions. But, digital self-service environments can enhance the customer experience and also gather a rich stream of behavioral data that can help boost customer satisfaction and revenues [@WESTERMAN2015].
+
 #### Consumer-producer
 
 Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry [@Karimi2015].

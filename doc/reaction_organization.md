@@ -56,6 +56,9 @@ Digital platforms will become the gateways (and bottlenecks) to the market [@Gim
 
 Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
 
+Beware of the assumption:
+**The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
+
 Decision 1: Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
 
 We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy  [@Bharadwaj2013].
@@ -117,6 +120,8 @@ Developing digital non-core products requires new digital platform capabilities.
 **Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation [@Westerman2011].
 
 **Unified Data and Processes:** The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge [@Westerman2011].
+
+Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors [@Bharadwaj2013].
 
 **Algorithms:** The world is pretty much run on algorithms. Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data. ExOs need to follow four steps [@VanGeest2014]:
   1. Gather: The algorithmic process starts with harnessing data, which is gathered via sensors or humans, or imported from public datasets.
@@ -198,6 +203,10 @@ We developed a conceptual framework that emphasizes the strategic importance of 
 
 Our organizational structures have evolved to manage scarcity. The concept of ownership works well for scarcity, but accessing or sharing works better in an abundant, information-based world. While the information-based world is now moving exponentially, our organizational structures are still very linear (especially large ones). Matrix structures don't work in an exponential, information-based world. Rapid or disruptive change is something that large, matrixed organizations find extremely difficult [@VanGeest2014].
 
+The paradigm is **not displacement and replacement**, but **connectivity and recombination**  [@Iansiti2014]
+
+Speed of Digital Business Strategy: time takes on a more central role in digital business settings [@Bharadwaj2013].
+
 ##### Valuable assets
 
 **Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices [@Westerman2011].
@@ -258,7 +267,12 @@ Staged allocation of funding resources allows for committing small amounts of re
 
 ##### Other
 
+Ongoing streams of performance data open up the possibility of conducting controlled experiments on new ideas. Digital leaders have pursued this kind of A/B testing for years on-line and other companies are experimenting in physical settings. Sellers can adjust product bundling and pricing depending on circumstances. Technology are also changing the economics of manufacturing and making custom manufacturing more efficient [@WESTERMAN2015].
+
 **Customer understanding:** Firms are exploring social media to understand customer satisfiers and dissatisfiers. Companies are learning to promote their brands more effectively through digital media: social media campaign, educational digital tools, building new on-line communities. Firms are building analytics capability to understand customers and actively conducting experiments in pricing and promotion [@Westerman2011].
+
+PagesJaunes, the French Yellow Pages company, saw that the assets related to printing and delivering books would have little use in the new model, but the company's knowledge of local businesses and the relationships its salespeople had with business owners were potentially critical assets going forward. By leveraging existing data and retraining the sales force, the company is attempting to reinvent itself in partnership with former competitor Google Inc. PagesJaunes began ramping up digital revenues in France faster than physical revenues were declining [@WESTERMAN2015].
+
 
 Learning to sell the new model
 
@@ -323,11 +337,18 @@ Build new assets and revenue streams. Digital disruptors have often destroyed mo
 
 **Partnership network:** Trusted relationships can deliver powerful new operating models. A firm is switching from a single value chain link to a value chain orchestrator. Partners cooperated in the project because of years of working together [@Westerman2011].
 
-##### Other
+##### Employee augmentation
 
-With exponential output, the internal organization needs to be extremely robust, precise and properly tuned to process all the inputs. Those are distinctly different internal operations that encompass everything from their business philosophies to how employees interact with one another, how they measure their performance (and what they value in that performance), and even their attitudes toward risk. In fact, especially their attitudes toward risk [@VanGeest2014].
+Beware of the assumption:
+**We've reached the limit of how far we can automate our operational processes.** In the past, automation worked best for standardized repetitive tasks. It also allows you to radically redesign the way your company operates. Beyond just replacing workers, new technologies can augment their activities or free them to do more fulfilling work [@WESTERMAN2015].
+
+**Process digitization:** Companies historically have used automation to make processes more efficient and scalable. Automation can enable companies to refocus their people on more strategic tasks. ERP for example centralize the HR function, allowing economies of scale through self-service while freeing HR people. It also creates streams of data that can be useful in later data mining efforts. New technologies are extending this trend of gaining benefits beyond efficiency: automated plants reduce labor requirements, improve product quality and enhance environmental, health, and safety performance. Going digital can also help reducing the product development lifecycle [@Westerman2011].
 
 **Interfaces:** Interfaces are filtering and matching processes by which ExOs bridge from SCALE externalities to internal IDEAS control frameworks. They are algorithms and automated workflows that route the output of SCALE externalities to the right people at the right time internally.  These processes start out manual and gradually become automated around the edges. These Interface processes are unique and proprietary to the organization that developed them, and as such comprise a unique type of intellectual property. ExOs invest considerable attention to Interfaces and a great deal of human-centered design thinking is brought to optimize every instantiation. Interfaces manage abundance. While most processes are optimized around scarcity and efficiency, SCALE elements generate large result sets, meaning Interfaces are geared towards filtering and matching [@VanGeest2014].
+
+##### Measuring everything
+
+With exponential output, the internal organization needs to be extremely robust, precise and properly tuned to process all the inputs. Those are distinctly different internal operations that encompass everything from their business philosophies to how employees interact with one another, how they measure their performance (and what they value in that performance), and even their attitudes toward risk. In fact, especially their attitudes toward risk [@VanGeest2014].
 
 **Dashboards:** Given the huge amounts of data from customers and employees becoming available, ExOs need a new way to measure and manage the organization: a real-time, adaptable dashboard with all essential company and employee metrics, accessible to everyone in the organization. Many ExOs are adopting the Objectives and Key Results (OKR) method. OKRs are the answer to two simple questions: Where do I want to go? (Objectives) How will I know I'm getting there? (Key Results to ensure progress is made). KPIs are determined top-down, while OKRs are determined bottom-up. Objectives are qualitative and Key Results are quantitative. OKRs are about the company's goals and how each employee contributes to those goals. Performance evaluations, which are entirely about evaluating how an employee performed in a given period, are independent of OKRs. Objectives are ambitious and should feel uncomfortable. Dashboards of value metrics, used in conjunction with OKRs, are becoming the de facto standard for measuring ExOs Dashboards are key for ExOs because growing at a rapid pace requires that instrumentation of the business, individual and team assessments be integrated and carried out in real time [@VanGeest2014].
 
@@ -356,18 +377,13 @@ Speed of Network Formation and Adaptation: The pace of network formation is rapi
 
 The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product [@Woodard2013].
 
-##### Integration & Decentralization: think global, act local  
+##### IT centralization & Employee decentralization: think global, act local  
 
-Speed of Digital Business Strategy: time takes on a more central role in digital business settings [@Bharadwaj2013].
+Beware of the assumption:
+**Working as an integrated company will slow us down and stifle innovation.** Pre-digital wisdom held that centralized companies, while slower to innovate, can be more efficient [and] argued that decentralized companies can be more responsive to local markets. This kind of mind-set forced managers to choose between two suboptimal structures. One of the paradoxes of digital technology is that standardization can actually lead to increased agility. Smart mobile devices, collaboration platforms and big data analytics wire organizations differently. Decentralized companies can have integration where it counts. Integrated systems and centralized processes offer benefits that go beyond efficiency and quality improvement and can also be useful platforms for innovation [@WESTERMAN2015].
 
-The paradigm is **not displacement and replacement**, but **connectivity and recombination**  [@Iansiti2014]
+**Digital globalization:** Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
 
-Digitalization involves a fascinating (yet partial) inversion of information flows and decision chains. Classic hierarchical organizations are based on information flowing bottom-up and decisions being taken at the top, whereas the new paradigm of learning oraganization means more information flowing top-down and decisions being taken at th bottom of the organization.  
+**Culture issues:** On another level, previously autonomous country managers require coaching to grow comfortable working in an environment of centralized shared services and standardized processes [@Westerman2011].
 
-- **Digital globalization:** Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
-
-**Process digitization:** Companies historically have used automation to make processes more efficient and scalable. Automation can enable companies to refocus their people on more strategic tasks. ERP for example centralize the HR function, allowing economies of scale through self-service while freeing HR people. It also creates streams of data that can be useful in later data mining efforts. New technologies are extending this trend of gaining benefits beyond efficiency: automated plants reduce labor requirements, improve product quality and enhance environmental, health, and safety performance. Going digital can also help reducing the product development lifecycle [@Westerman2011].
-
-**Worker enablement:** Collaboration and networking tools allow employees to talk with anyone in the company, setting the stage for further changes related to globalization. Digital transformation replaces limited one-way vertical communication with broad communication channels that are both vertical and horizontal.[@Westerman2011]
-
-Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors [@Bharadwaj2013].
+#### Other

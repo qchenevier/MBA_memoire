@@ -8,14 +8,16 @@
 
 #### 2-way communication instead of 1-way broadcast: Learn to listen
 
-**Worker enablement:** Once-novel technologies such as mobile e-mail, collaboration tools, and video conferencing have now become the norm. Individual level work has, in essence, been virtualized, separating the work process from the location of the work. A firm redesigned its headquarters so that nobody had an assigned desk, even the CEO. Collaboration and networking tools allow employees to talk with anyone in the company. The tools that virtualize individual work, while implemented for cost reasons, have become powerful enablers for knowledge sharing: employees can identify experts and get questions answered in real time [@Westerman2011].
+Digitalization involves a fascinating (yet partial) inversion of information flows and decision chains. Classic hierarchical organizations are based on information flowing bottom-up and decisions being taken at the top, whereas the new paradigm of learning oraganizations means more information flowing top-down and decisions being taken at the bottom of the organization.  
 
-- **Culture issues:** On another level, previously autonomous country managers require coaching to grow comfortable working in an environment of centralized shared services and standardized processes [@Westerman2011].
+**Worker enablement:** Once-novel technologies such as mobile e-mail, collaboration tools, and video conferencing have now become the norm. Individual level work has, in essence, been virtualized, separating the work process from the location of the work. A firm redesigned its headquarters so that nobody had an assigned desk, even the CEO. Collaboration and networking tools allow employees to talk with anyone in the company. The tools that virtualize individual work, while implemented for cost reasons, have become powerful enablers for knowledge sharing: employees can identify experts and get questions answered in real time [@Westerman2011].
 
 **Engage the organization:** People can be a much bigger obstacle to successful digital transformation than any complex technology. Two main characteristics of communication in a digital world are making mobilizing the workforce easier:
 - Moving away from "cascading" information through traditional hierarchical channels toward enterprise-wide large scale communication: webcasts, internal social networks or PC-based video conferencing [@Westerman2011].
 - Moving away from a one-way "broadcasting" model of communication toward offering people in the organization the opportunity to engage in a real dialogue around the transformation: wikis, discussion forums, blogs and so on. Enterprise 2.0 tools are powerful tools to help mobilize and align the workforce towards digital objectives [@Westerman2011].
 Successful organizations have not only created awareness through communication, but have increased the level of transparency and trust through this open dialogue [@Westerman2011].
+
+**Worker enablement:** Collaboration and networking tools allow employees to talk with anyone in the company, setting the stage for further changes related to globalization. Digital transformation replaces limited one-way vertical communication with broad communication channels that are both vertical and horizontal.[@Westerman2011]
 
 #### Learning fast & experimenting as a method.
 
@@ -122,7 +124,6 @@ Speed of Decision Making: technology has allowed firms to speed up decisions tha
   - Virtual currencies or points
 
 **Social Technologies:** Social Technologies are comprised of seven key elements: Social objects, Activity streams, Task management, File sharing, Telepresence, Virtual worlds and Emotional sensing. These elements create transparency and connectedness and, most importantly, lower an organization's information latency. Employee relationship management is just one type of social object that is being information-enabled. Task management is also becoming increasingly social. In the past, it was mostly used as a to-do list, but it is now shifting towards a more Agile approach. Teams are continuously measuring themselves by pushing codes and closing tickets, living by the metrics that task management software provides. File sharing, has recently enjoyed widespread adoption. Telepresence has been around for many years in the form of videoconferencing. While Telepresence lets people interact in a real environment, virtual reality allows interaction, collaboration, coordination and even prototyping in a virtual world. Emotional sensing makes use of sensors, such as health sensors and neurotechnology, within a team or group to create Quantified Employees and a Quantified Workforce to measure everything about themselves and their work, preventing illness, burnout and irritation, and also improving team flow, collaboration and performance. Organizational intimacy is increased, decision latency is reduced, knowledge improves and is more widely spread, and serendipity increases. In short, social technologies enable the real-time enterprise [@VanGeest2014].
-
 
 ### Leadership: guiding instead of controlling
 
