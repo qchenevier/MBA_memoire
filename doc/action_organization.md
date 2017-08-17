@@ -216,8 +216,7 @@ Consumers have been big winners in the digital economy, although most of this ef
 
 Information becomes widely available, disrupting traditional intermediaries: Value is shifting from physical intermediaries and asset holders to digital intermediaries and to consumers [@Manyika2015]. Internet information is now cheap, open standards have also facilitated open distribution platforms which have further resulted in more flexibility for consumers. Aggregative news services are becoming more important intermediaries [@Karimi2015]. Consider the automotive industry, Consumers now save time by comparing vehicles on-line and their on-line activity leaves a data trail that dealers can use [@Manyika2015].
 
-New pressure on prices and margins
-Third parties have jumped into this fray, disintermediating relationships between companies and their customers. The rise of price-comparison sites and these dynamics create downward pressure on returns across consumer-facing industries, and the disruptive currents are now rippling out to B2B businesses [@Hirt2014].
+**New pressure on prices and margins** Third parties have jumped into this fray, disintermediating relationships between companies and their customers. The rise of price-comparison sites and these dynamics create downward pressure on returns across consumer-facing industries, and the disruptive currents are now rippling out to B2B businesses [@Hirt2014].
 
 Globalization reshapes the nature of supply and demand. Consumers enjoy a new world of choice [@Gimpel2012].
 
@@ -232,17 +231,6 @@ Communications firms face substitution from over-the-top services [@Gimpel2012].
 In B2B markets, corporate purchasers are raising pressure on their suppliers to offer services that are standardized across borders, integrate with other offerings, and can be plugged into the purchasing companies' global business processes easily [@Hirt2014].
 
 Platformization is the emergence of Digital platforms that bring together suppliers, customers, and third parties. They are replacing traditional middlemen and can often serve to level the playing field by granting small players and new entrants access to formerly closed markets [@Gimpel2012]. While physical processes have high marginal costs, low-marginal-cost economics and platform architecture has allowed the most successful high-tech firms to achieve a scale that was once impossible. The power of platform economics is reflected in the gross margins, which can run as high as 80 percent [@Manyika2015].
-
-#### Production improved by outsourcing & virtualization
-
-Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms [@Gimpel2012].
-
-4. Plug-and-play business models
-As digital forces reduce transaction costs, value chains disaggregate. Amazon, for instance, offers businesses logistics, on-line retail "storefronts," and IT services [@Hirt2014].
-
-##### Production & Distributions costs are running towards zero
-
-**Drive To Demonetization:** These days, product development cycles are measured not in months or quarters, but in hours or days. The most important achievements of the Internet during the last decade was that it cut the marginal cost of marketing and sales to nearly zero. It is possible to promote an online product worldwide for a tiny fraction of what it cost just twenty-five years ago. Customer acquisition costs can also be cut to what was once deemed impossible: zero. The new information-enabled technologies will power exponential cost drops not just in sales and marketing, but also across every business function [@VanGeest2014].
 
 ### Other
 

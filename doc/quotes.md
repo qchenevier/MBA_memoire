@@ -478,17 +478,7 @@ Ravensburger Interactive was launched in the 1990s, but was shut down later: act
 
 **Who is in Charge of the Digital Transformation Endeavor?** The execution of such a strategy is often delegated to a senior manager. The CIO may also manage the transformation, which is typically the case if the focus is on business processes [@Hess2016].
 
-**Do You Plan to Integrate New Operations into Existing Structures or Create Separate Entities?** Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures [@Hess2016].
-
-**What Types of Operational Changes Do You Expect?** New technologies can significantly change the current products and services delivered to customers. Digital technologies can enable changes to business processes. Business processes can be classified as operational, support and management, but the typical focus of digital transformation initiatives is on operational processes. A company must define their processes and assess which of them will be affected by digital transformation [@Hess2016].
-
 **Do You Need to Acquire New Competencies? If so, How Do You Plan to Acquire Them?** Managers must carefully assess the firm's existing technology capabilities and identify the new competencies that will be needed. First option is to build on their current capabilities and acquire the required competencies. This approach typically takes time. Another option is to partner with other companies. This approach reduces the risk of failure. If the technological processes required for digital transformation are well structured and not overly complex, outsourcing these processes is another option. But, in the end, retaining the processes and knowledge required for digital transformation in-house means a company can be better positioned to gain a competitive advantage from future digital transformation initiatives [@Hess2016].
-
-**Financial Aspects Dimension:** Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action [@Hess2016].
-
-**How Strong is the Financial Pressure on Your Current Core Business?** The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal [@Hess2016].
-
-**How Will You Finance the Digital Transformation Endeavor?** If a company is already financially struggling, its options for financing digital transformations will be severely limited [@Hess2016].
 
 For example, the automotive industry has introduced digitally enriched products (such as the "connected car") and new business models (such as free-floating car sharing) and an ongoing automation of product development and production processes [@Hess2016].
 
@@ -498,11 +488,7 @@ The most important thing for managers charged with formulating their firms' digi
 
 For larger companies in more traditional industries, it's easy to think that digital transformation can wait. However, a follower strategy is wrong [@WESTERMAN2015].
 
-"Digital masters" differ not only in their capability but also in the clarity of their vision. Rather than incrementally adjusting current practices, they search for ways to use today's fast-moving technologies to transform the way they do business [@WESTERMAN2015].
-
 Start by rethinking four traditional assumptions that affect how you relate to your customers, how you run your operations, how you organize and even how you think about your business model [@WESTERMAN2015].
-
-**We've reached the limit of how far we can automate our operational processes.** In the past, automation worked best for standardized repetitive tasks. It also allows you to radically redesign the way your company operates. Beyond just replacing workers, new technologies can augment their activities or free them to do more fulfilling work [@WESTERMAN2015].
 
 As digital technology reaches into every corner of the business world, it is creating a new playing field with new rules. digital has reshaped the expectations of customers, the way that employees collaborate and the business models that are possible [@WESTERMAN2015].
 
@@ -513,12 +499,6 @@ Large traditional companies can out-compete fast-moving digital startups if they
 We found that in recent years, investors have favored business models focusing on licensing intellectual property [@PeterWeill2011].
 
 Disney has dramatically shifted its business model over the last 20 years from renting physical assets like theme parks (to licensing intellectual property), with clear investor buy-in for this strategic shift. Disney stock outperformed the S&P 500 stock index over the last five years.
-
-Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued. IP landlords were the second-highest performing [@PeterWeill2011].
-
-Financial and physical landlords were the poorest performing of the common business models. Contractors (that primarily "rent out" human assets) had performance in the middle of the pack [@PeterWeill2011].
-
-Innovative manufacturers - which we define as those who invest more than their industry average in research and development - are the top performers in the market. Apple is an example of an innovative manufacturer.
 
 #### The Digital Universe in 2020: Big Data, Bigger Digital Shadows, and Biggest Growth in the Far East [@Gantz2012]
 

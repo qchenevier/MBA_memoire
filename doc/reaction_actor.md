@@ -130,6 +130,8 @@ Speed of Decision Making: technology has allowed firms to speed up decisions tha
 
 #### Leadership & Vision
 
+"Digital masters" differ not only in their capability but also in the clarity of their vision. Rather than incrementally adjusting current practices, they search for ways to use today's fast-moving technologies to transform the way they do business [@WESTERMAN2015].
+
 **Transform leadership.** [@VanGeest2014]
 - Education - Bring in outside sources to update your senior management
 - Board Management - Educate the board so that it is equipped to buy into the CEO's plan for radical change. In addition, track your board using OKRs

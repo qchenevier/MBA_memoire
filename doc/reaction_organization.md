@@ -42,7 +42,10 @@ Produce, search, and/or deliver: CIME firms create value by managing only three 
 - Search is matching different parties together so they can trade
 - Delivery is transmitting or communicating information and information goods
 
-Combining thos 2 frameworks, it seems that:
+The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability [@Gimpel2012].
+CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
+
+Combining those 2 frameworks, it seems that:
 
 - Search is the activity of Brokers.
 - Production is the activity of Creators.
@@ -64,12 +67,15 @@ Examples:
   - Landlord of Physical plane seat and Human flight crew
 - Display of ads by Google
   - Production & Delivery of Intangible ad space
-  - Creator and Landlord of Intangible ad space
+  - Creator & Landlord of Intangible ad space
   - Search between Audience and Advertiser for Intangible ad space
   - Broker between Audience and Advertiser for Intangible ad space
 
-The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability [@Gimpel2012].
-CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
+Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013]. Similarly, Apple receives payments from Google so that he can remain the default search engine on Apple mobile devices, powered by its propietary operating system, [according to some experts](https://www.cnbc.com/2017/08/14/google-paying-apple-3-billion-to-remain-default-search--bernstein.html). In this example, Apple is controlling the distribution to its captive users and selling it to suppliers.
+
+##### Value lies in low marginal cost of Information: Production & Distributions costs are running towards zero
+
+The fact that Information can be duplicated infinitely and freely enables low marginal cost economics: past the initial investment, the production & distribution cost tend towards zero. Global flows of products & services are more and more digital.
 
 According to @Hirt2014, Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways:
 
@@ -77,7 +83,24 @@ According to @Hirt2014, Digitization transforms global flows by vastly reducing 
 - enhancing the value of physical flows by the use of "digital wrappers" that pack information around (online reviews or customer ratings, digital tags and sensors connected by wireless communications)
 - creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges [@Hirt2014].
 
-Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013]. Similarly, Apple receives payments from Google so that he can remain the default search engine on Apple mobile devices, powered by its propietary operating system, [according to some experts](https://www.cnbc.com/2017/08/14/google-paying-apple-3-billion-to-remain-default-search--bernstein.html). In this example, Apple is controlling the distribution to its captive users and selling it to suppliers.
+Some authors are even saying that there is a drive To Demonetization: These days, product development cycles are measured not in months or quarters, but in hours or days. The most important achievements of the Internet during the last decade was that it cut the marginal cost of marketing and sales to nearly zero. It is possible to promote an online product worldwide for a tiny fraction of what it cost just twenty-five years ago. Customer acquisition costs can also be cut to what was once deemed impossible: zero. The new information-enabled technologies will power exponential cost drops not just in sales and marketing, but also across every business function [@VanGeest2014].
+
+Those trends are generalizable to all industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises [@Karimi2015].
+
+As seen in the study of @PeterWeill2011, Investors have prefered Firms and Business Models which have exploiting the low marginal costs economics of Information:
+
+- Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued [@PeterWeill2011]. We can understand this trend by 2 trends in physical goods manufacturing:
+
+  - either they augment their product with low-marginal-costs intangible assets: the Apple Iphone wouldn't have any value without the application store. GE's has added sensors to its products to gather and exploit usage data to help improve operational excellence of users.
+  - or they lower their marginal cost by improving their operational excellence through digitalization, like automating production tasks and outsourcing production to more efficient players: Apple is outsourcing its production to Foxconn which invests heavily in robots to replace its workers [@Zuo2016]. In the end, the physical product innovation is tending toward reducing the marginal costs of production.
+
+- IP landlords were the second-highest performing [@PeterWeill2011]. Licensing IP is a business model with very low marginal costs.
+
+Whereas business models with high marginal costs were seen as not performant enough for investors:
+
+- Contractors (that primarily "rent out" human assets) had performance in the middle of the pack [@PeterWeill2011].
+
+- Financial and physical landlords were the poorest performing of the common business models [@PeterWeill2011]. Finance asset are a special type of Information-based asset which doesn't benefit of low marginal cost economics, because Money is "engineered" to maintain its value overtime (according to the main [properties of money](https://en.wikipedia.org/wiki/Money#Properties)) and hence cannot be duplicated infinitely and freely. We can ever create new Information, except for Money, where the creation mechanisms are carefully monitored.  
 
 ##### Platforms: the Search / Broker business
 
@@ -95,47 +118,43 @@ Digital platforms will become the gateways (and bottlenecks) to the market [@Gim
 
 Value Creation from Multisided Business Models: multisided revenue models are important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
 
-##### Digital platforms as an IT tool for future improvements & products (digital asset with high option value)
-
-[TODO: A FUSIONNER AVEC L'AUTRE PARAGRAPHE SUR LES PLATEFORMES]
-Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
-
-The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building digital platform capabilities [@Karimi2015].
-
-Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks [@Karimi2015].
-
-Organizations need to find out whether processes for their core products are appropriate for developing digital non-core products [@Karimi2015].
-
-##### Business virtialization and Staff on demand
+##### Business virtualization and Staff on demand
 
 The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage [@Bharadwaj2013].
 
 **Staff on Demand:** In any information-enabled business a large internal staff seems increasingly unnecessary, counterproductive and expensive [@VanGeest2014].
 
----
-[TODO A BOUGER]
-Our results are deemed generalizable to other industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises [@Karimi2015].
+Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms [@Gimpel2012].
+
+**Plug-and-play business models** As digital forces reduce transaction costs, value chains disaggregate. Amazon, for instance, offers businesses logistics, on-line retail "storefronts," and IT services [@Hirt2014].
 
 ##### Valuable Assets in a digital world
 
+**Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world [@Westerman2011]?
+
 Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
 
-Beware of the assumption:
-**The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
-
-Decision 1: Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
-
-We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy  [@Bharadwaj2013].
+Beware of the assumption: **The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
 
 Data should be considered an asset class in its own right [and] analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy" [@WESTERMAN2015].
 
 Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
 
-**Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world [@Westerman2011]?
+Access resources you don't own. In Waze's case, the company made use of the GPS readings already on its users' smartphones. Information is your greatest asset. More reliably than any other asset, information has the potential to double regularly. Rather than simply assembling assets, the key to success is accessing valuable caches of existing information [@VanGeest2014].
 
 **Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation [@Westerman2011].
 
-Access resources you don't own. In Waze's case, the company made use of the GPS readings already on its users' smartphones. Information is your greatest asset. More reliably than any other asset, information has the potential to double regularly. Rather than simply assembling assets, the key to success is accessing valuable caches of existing information [@VanGeest2014].
+##### Investing, Financing, Divesting
+
+We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy  [@Bharadwaj2013].
+
+**How Will You Finance the Digital Transformation Endeavor?** If a company is already financially struggling, its options for financing digital transformations will be severely limited [@Hess2016].
+
+**Buy or sell businesses in your portfolio?** The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
+
+**Financial Aspects Dimension:** Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action [@Hess2016].
+
+**How Strong is the Financial Pressure on Your Current Core Business?** The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal [@Hess2016].
 
 #### Assess your external & relative value: your position in the value network & assets of your competitors
 
@@ -171,29 +190,46 @@ Digital business strategy can be viewed as being inherently transfunctional, wit
 
 **Business and IT integration:** Companies with a history of strained IT and business relationships are handicapped when trying to conduct digital transformation, because of complex IT architectures, unintegrated data, and processes that are not well-enabled through technology. In contrast, companies with a solid IT-business relationship are in a solid position to begin digital transformation. Where strong relationships exist, executives on both sides of the relationship are willing to be flexible in creating new governance mechanisms or digital units without feeling threatened. In most firms, digital transformation is being led by CIOs. Other companies place responsibility for digital in another unit or executive who works closely with the CIO. Another solution is to hire a second CIO to focus on transformation-related activities, working in concert with the CIO who stays focused on keeping the firms' existing platform functional [@Westerman2011].
 
-Decision 5: Keep digital businesses separate or integrate them with current nondigital ones? Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios [@Hirt2014].
+**Keep digital businesses separate or integrate them with current nondigital ones?** Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios [@Hirt2014].
 
 Most IT strategies treat technology in isolation, they often lack the transformational, business-centric orientation needed to realize the potential within a company's business model, products, processes and organizational structures. A digital transformation strategy signposts the way toward digital transformation and guides managers through the transformation process resulting from the integration and use of digital technologies and helps them navigate the complexity and ambiguity of identifying their own digital "sweet spots." [@Hess2016]
 
-##### Digital capabilities
+**Do You Plan to Integrate New Operations into Existing Structures or Create Separate Entities?** Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures [@Hess2016].
 
-Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability [@Woodard2013].
+##### Digital platforms as a central IT tool for future improvements & products (digital asset with high option value)
+
+Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
+
+The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building digital platform capabilities [@Karimi2015].
+
+Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks [@Karimi2015].
+
+Organizations need to find out whether processes for their core products are appropriate for developing digital non-core products [@Karimi2015].
 
 Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities [@Karimi2015].
 
-**Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation [@Westerman2011].
-
 **Unified Data and Processes:** The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge [@Westerman2011].
+
+One of the first thing deployed in the new GE Software HQ by the new Digital Officer to start building software capabilities:
+
+- creation of a **common software platform** [@Iansiti2014]
+- "**Co-location** is everything" [@Iansiti2014]
+
+##### Digital capabilities are the people working around that platform to improve it
+
+Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability [@Woodard2013].
+
+**Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation [@Westerman2011].
 
 Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors [@Bharadwaj2013].
 
-**Algorithms:** The world is pretty much run on algorithms. Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data. ExOs need to follow four steps [@VanGeest2014]:
-  1. Gather: The algorithmic process starts with harnessing data, which is gathered via sensors or humans, or imported from public datasets.
-  2. Organize: The next step is to organize the data, a process known as ETL (extract, transform and load).
-  3. Apply: Once the data is accessible, machine learning tools identify trends and tune new algorithms.
-  4. Expose: The final step is exposing the data, as if it were an open platform. Open data and APIs can be used to enable an ExO’s community to develop valuable services.
-
 **Solution delivery:** Companies also need the capabilities to modify their processes or build new methods onto the data and process platform. Some IT departments have established special units to build emerging technology skills and methods. Others look outside the firm for help: Vendor partners can be very effective, but some executives expressed concern about over-reliance on vendors. Several executives described knowledge gaps that existed after they ended a vendor relationship [@Westerman2011].
+
+**Algorithms:** The world is pretty much run on algorithms. Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data. ExOs need to follow four steps [@VanGeest2014]:
+1. Gather: The algorithmic process starts with harnessing data, which is gathered via sensors or humans, or imported from public datasets.
+2. Organize: The next step is to organize the data, a process known as ETL (extract, transform and load).
+3. Apply: Once the data is accessible, machine learning tools identify trends and tune new algorithms.
+4. Expose: The final step is exposing the data, as if it were an open platform. Open data and APIs can be used to enable an ExO’s community to develop valuable services.
 
 **Analytics capabilities:**  Companies with integrated data are able to engage in more powerful analytics strategies. All executives also mentioned that building analytics capability was difficult, requiring skills and culture change in addition to investments [@Westerman2011].
 
@@ -215,6 +251,8 @@ Building software capabilities [@Iansiti2014]
   - No dedicated P&L for the software: **Different incentives** that don't create competition with the businesses [@Iansiti2014].
 
 ##### Managing digital assets: explore new options or consolidate your platform?
+
+**[TODO: A RACCOURCIR]**
 
 We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt [@Woodard2013].
 
@@ -349,7 +387,7 @@ Redefine customer engagement. Harness the data to fine-tune customer engagement.
 
 **Top-line growth:** Companies are using technology to enhance in-person sales conversations. Using tablet-based presentations and introducing mobile tools to help sales people and customers engage in analytics-based planning. Analytics help to segment clients. Other firms are using concept stores as flagships for their digital selling innovations. Some firms try to make the life of the customer easier, simplifying their processes through a digital plugin. This streamlines the shopping process [@Westerman2011].
 
-##### Business-model shift: from product catalog to service catalog to customized service or partnership
+##### Business-model shift: Evolve your value proposition: from product to service to partnership
 
 **Everything is Measurable and Anything is Knowable:** The sensor revolution is one of the most important and least celebrated technological revolutions taking place today. ExOs take advantage of this accelerating trend in two ways: by creating new business models on existing data streams or by adding new data streams to old paradigms. We are moving toward a world in which everything will be measured and anything can be knowable, both in the world around us and within our bodies. Plan for this to have a chance at long-term success [@VanGeest2014].
 
@@ -405,6 +443,8 @@ Build new assets and revenue streams. Digital disruptors have often destroyed mo
 
 Beware of the assumption:
 **We've reached the limit of how far we can automate our operational processes.** In the past, automation worked best for standardized repetitive tasks. It also allows you to radically redesign the way your company operates. Beyond just replacing workers, new technologies can augment their activities or free them to do more fulfilling work [@WESTERMAN2015].
+
+**What Types of Operational Changes Do You Expect?** New technologies can significantly change the current products and services delivered to customers. Digital technologies can enable changes to business processes. Business processes can be classified as operational, support and management, but the typical focus of digital transformation initiatives is on operational processes. A company must define their processes and assess which of them will be affected by digital transformation [@Hess2016].
 
 **Process digitization:** Companies historically have used automation to make processes more efficient and scalable. Automation can enable companies to refocus their people on more strategic tasks. ERP for example centralize the HR function, allowing economies of scale through self-service while freeing HR people. It also creates streams of data that can be useful in later data mining efforts. New technologies are extending this trend of gaining benefits beyond efficiency: automated plants reduce labor requirements, improve product quality and enhance environmental, health, and safety performance. Going digital can also help reducing the product development lifecycle [@Westerman2011].
 
