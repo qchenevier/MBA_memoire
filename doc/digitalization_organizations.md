@@ -8,7 +8,7 @@ monofont: DejaVu Sans Mono
 fontsize: 10pt
 link-citations: true
 templatecolor: 216, 63, 36
-toc-depth: 3
+toc-depth: 4
 secnumdepth: 2
 output:
   pdf_document:

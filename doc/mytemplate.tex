@@ -258,12 +258,20 @@ $endfor$
 {\ \titlerule*[.5pc]{.}\;\thecontentspage} % Page number
 []
 
-% Subsection text styling
-\titlecontents{subsubsection}[1.25cm] % Indentation
+% Subsubsection text styling
+\titlecontents{subsubsection}[1.75cm] % Indentation
 {\addvspace{1pt}\sffamily\footnotesize} % Spacing and font options for subsections
 {\color{gray}\contentslabel[\thecontentslabel]{1.25cm}\color{gray}} % Subsection number
 {\color{gray}}
 {\color{gray}\hfill\;\thecontentspage} % Page number
+[]
+
+% Subsubsection text styling
+\titlecontents{paragraph}[2.25cm] % Indentation
+{\addvspace{1pt}\sffamily\scriptsize} % Spacing and font options for subsections
+{\color{gray}\contentslabel[\thecontentslabel]{1.25cm}\color{gray}} % Subsection number
+{\color{gray}}
+{} % Page number
 []
 
 %----------------------------------------------------------------------------------------
