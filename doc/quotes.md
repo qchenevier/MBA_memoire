@@ -195,7 +195,8 @@ Some aspect of the company's product has been information-enabled and thus, foll
 This is perhaps the best time in the history of business to build a new enterprise. Traditional risk areas have been mitigated like never before [@VanGeest2014]:
 
 - Technology risk: Will it work? The technology risk that was once enormous (particularly software) has been reduced over the last twenty years by 150x. Most of the remaining risks concerns mere scalability issues [@VanGeest2014].
-- Market risk: Will people buy the product? Starting in the 2000s, startups could test the market like never before by leveraging A/B testing, Google AdWords campaigns, social media and landing pages. Now an idea could be partially validated before product engineering even began.  - Execution risk: Is the team able to function and pivot as needed? Execution risk remains
+
+- Execution risk: Is the team able to function and pivot as needed? Execution risk remains
 the only real issue in building a company [@VanGeest2014].
 
 It takes more than seven years, on average, before a "liquidity event." Companies with well-educated thirty-something co-founders who have history together tend to be most successful. The idea of "big pivots" is an outlier, most Unicorns stick to their original vision. The challenge facing every startup lies in discovering how to de-risk each of these areas and, in the process, find a business model in the chosen problem space [@VanGeest2014].
@@ -533,10 +534,6 @@ We're accustomed to seeing mature products wiped out by new technologies and to 
 
 These oﬀerings' lightning-fast adoption is a function of near-perfect market information. Wherever customers are, mobile devices let them search a wide range of specialized data sources to find the best price and quality and the next new thing. Big-bang innovations come out of left field, combining existing technologies that don't even seem related to your oﬀerings to achieve a dramatically better
 value proposition. Big-bang disrupters may not even see you as competition. They don't share your approach to solving customer needs. Big-bang disrupters enter the market thanks to three defining characteristics: unencumbered development, unconstrained growth, and undisciplined strategy [@Downes2013].
-
-**Unencumbered development.**
-
-The innovators who create products at "hackathons" aren't even trying to disrupt your business. You're just the collateral damage. Bigbang innovations are often born of rapid-fire, low-cost experiments on fast-maturing, ubiquitous technology platforms. These innovations are often built out of readily available components that cost little or are free. In the future the most successful innovators may be those who simply happen upon the right combination of other people's technologies. These experiments take place directly in the market, using open platforms built on the internet, cloud computing, and fast-cycling mobile devices. In the bizarro world of big-bang disrupters, it is perfectly rational to churn out dozens of new products and see which ones take hold [@Downes2013].
 
 **Unconstrained growth.**
 

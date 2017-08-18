@@ -73,6 +73,12 @@ Examples:
 
 Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013]. Similarly, Apple receives payments from Google so that he can remain the default search engine on Apple mobile devices, powered by its propietary operating system, [according to some experts](https://www.cnbc.com/2017/08/14/google-paying-apple-3-billion-to-remain-default-search--bernstein.html). In this example, Apple is controlling the distribution to its captive users and selling it to suppliers.
 
+@Iansiti2014 defines a business model (a bit simplistically) by these 2 diemsntions: how the organization **creates** value for its customers & how the organization **captures** that value.
+
+Digital transformation changes both: GE creates values by extracting useful data from sensors, by optimizing equipment performance, utilization and maintenance. It captures that value by charging a percentage of the customer's incremental revenue from improved performance [@Iansiti2014]. On one hand, GE is improving its Product Leadership with innovations and optimizations on its product, on the other hand, GE is improving its Customer Intimacy by tailoring its marketing to the client needs.
+
+We can see how GE has shifted its business model: GE is still producing the same type of asset (even if they are improved by digitalization) which are physical goods, but it has changed the type of rights it is selling: GE is not uniquely a Producer, it is also a Landlord. Being a Landlord of the physical goods it produces is a way for GE to gather more easily usage data and to feedback the improvement of its physical goods products.  
+
 ##### Value lies in low marginal cost of Information: Production & Distributions costs are running towards zero
 
 The fact that Information can be duplicated infinitely and freely enables low marginal cost economics: past the initial investment, the production & distribution cost tend towards zero. Global flows of products & services are more and more digital.
@@ -91,7 +97,7 @@ As seen in the study of @PeterWeill2011, Investors have prefered Firms and Busin
 
 - Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued [@PeterWeill2011]. We can understand this trend by 2 trends in physical goods manufacturing:
 
-  - either they augment their product with low-marginal-costs intangible assets: the Apple Iphone wouldn't have any value without the application store. GE's has added sensors to its products to gather and exploit usage data to help improve operational excellence of users.
+  - either they augment their product with low-marginal-costs intangible assets: the Apple Iphone wouldn't have any value without the application store. GE's has added sensors to its products to gather and exploit usage data to help improve operational excellence of users [@Iansiti2014].
   - or they lower their marginal cost by improving their operational excellence through digitalization, like automating production tasks and outsourcing production to more efficient players: Apple is outsourcing its production to Foxconn which invests heavily in robots to replace its workers [@Zuo2016]. In the end, the physical product innovation is tending toward reducing the marginal costs of production.
 
 - IP landlords were the second-highest performing [@PeterWeill2011]. Licensing IP is a business model with very low marginal costs.
@@ -297,7 +303,7 @@ High-quality Design Capital. High-quality design capital, a state with high opti
 Proposition 4a: Under high-quality design capital and resource scarcity, a firm's design moves will tend to increase technical debt if the firm's ability to transfer technical debt to other members of its ecosystem is high [@Woodard2013].
 Proposition 4b: Under high-quality design capital and resource scarcity, a firm's design moves will tend to abandon design options if its ability to transfer technical debt to other members of its ecosystem is low [@Woodard2013].
 
-If a firm is fortunate enough to be in a position of high-quality design capital and resource abundance, this describes an under-constrained situation for designers that favors experimentation and entrepreneurial actions. Such an environment requires effective sense-making and the ability to cope with complexity and uncertainty. Firms with high quality design capital tended to create product or service platforms that, in turn, enabled them to sustain a state of high-quality design capital. We observed two distinct kinds of platform strategies: one focused on internal economies of scale and scope, and the other focused on influencing an external ecosystem [@Woodard2013].
+Firms with high quality design capital tended to create product or service platforms that, in turn, enabled them to sustain a state of high-quality design capital. We observed two distinct kinds of platform strategies: one focused on internal economies of scale and scope, and the other focused on influencing an external ecosystem [@Woodard2013].
 
 We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital [@Woodard2013].
 
@@ -317,18 +323,31 @@ Speed of Digital Business Strategy: time takes on a more central role in digital
 
 **Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change [@Westerman2011].
 
+##### Experimentation: real-time data and high quality digital platform
+
+Ongoing streams of performance data open up the possibility of conducting controlled experiments on new ideas. Digital leaders have pursued this kind of A/B testing for years on-line and other companies are experimenting in physical settings [@WESTERMAN2015].
+
+**Experimentation:** Experimentation as the implementation of the lean Startup methodology of testing assumptions and constantly experimenting with controlled risks [@VanGeest2014].
+
+Market risk: Will people buy the product? Starting in the 2000s, startups could test the market like never before by leveraging A/B testing, Google AdWords campaigns, social media and landing pages. Now an idea could be partially validated before product engineering even began [@VanGeest2014].
+
+**Unencumbered development.** The innovators who create products at "hackathons" aren't even trying to disrupt your business. You're just the collateral damage. Bigbang innovations are often born of rapid-fire, low-cost experiments on fast-maturing, ubiquitous technology platforms. These innovations are often built out of readily available components that cost little or are free. In the future the most successful innovators may be those who simply happen upon the right combination of other people's technologies. These experiments take place directly in the market, using open platforms built on the internet, cloud computing, and fast-cycling mobile devices. In the bizarro world of big-bang disrupters, it is perfectly rational to churn out dozens of new products and see which ones take hold [@Downes2013].
+
+It's easier to innovate and experiment with a high quality design platform:
+
+If a firm is fortunate enough to be in a position of high-quality design capital and resource abundance, this describes an under-constrained situation for designers that favors experimentation and entrepreneurial actions. Such an environment requires effective sense-making and the ability to cope with complexity and uncertainty [@Woodard2013].
+
 ##### Embracing Disruption vs Fighting the environment with Regulation
 
 Regulations are slowly adapting to evolutions in society.
 
-Decision 2: Lead your customers or follow them?
-Incumbents too have opportunities for launching disruptive strategies. However, in some situations, the right decision may be to give up digital moves, particularly in industries with high barriers to entry, regulatory complexities, and patents that protect profit streams. Between these extremes lies the all-too-common reality that digital efforts risk cannibalizing products and services and could erode margins. Yet inaction is equally risky. In-house data on existing buyers can help incumbents with large customer bases develop insights. Brand advantages too can help traditional players outflank digital newbies [@Hirt2014].
+**Lead your customers or follow them?** Incumbents too have opportunities for launching disruptive strategies. However, in some situations, the right decision may be to give up digital moves, particularly in industries with high barriers to entry, regulatory complexities, and patents that protect profit streams. Between these extremes lies the all-too-common reality that digital efforts risk cannibalizing products and services and could erode margins. Yet inaction is equally risky. In-house data on existing buyers can help incumbents with large customer bases develop insights. Brand advantages too can help traditional players outflank digital newbies [@Hirt2014].
 
-Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries [@Gimpel2012].
+**Disrupt yourself:** With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries [@Gimpel2012].
 
-Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it [@Gimpel2012].
+**Join them to beat them:** Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it [@Gimpel2012].
 
-- **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
+**Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
 
 ##### IT Renting & Staff on-demand increases Up-Down Scaling speed
 
@@ -369,12 +388,11 @@ Staged allocation of funding resources allows for committing small amounts of re
 
 ##### Other
 
-Ongoing streams of performance data open up the possibility of conducting controlled experiments on new ideas. Digital leaders have pursued this kind of A/B testing for years on-line and other companies are experimenting in physical settings. Sellers can adjust product bundling and pricing depending on circumstances. Technology are also changing the economics of manufacturing and making custom manufacturing more efficient [@WESTERMAN2015].
+Sellers can adjust product bundling and pricing depending on circumstances. Technology are also changing the economics of manufacturing and making custom manufacturing more efficient [@WESTERMAN2015].
 
 **Customer understanding:** Firms are exploring social media to understand customer satisfiers and dissatisfiers. Companies are learning to promote their brands more effectively through digital media: social media campaign, educational digital tools, building new on-line communities. Firms are building analytics capability to understand customers and actively conducting experiments in pricing and promotion [@Westerman2011].
 
 PagesJaunes, the French Yellow Pages company, saw that the assets related to printing and delivering books would have little use in the new model, but the company's knowledge of local businesses and the relationships its salespeople had with business owners were potentially critical assets going forward. By leveraging existing data and retraining the sales force, the company is attempting to reinvent itself in partnership with former competitor Google Inc. PagesJaunes began ramping up digital revenues in France faster than physical revenues were declining [@WESTERMAN2015].
-
 
 Learning to sell the new model
 
@@ -411,15 +429,6 @@ Many software companies (and not only) have started to transform their business 
 
 - switching from product to service revenue
 - experimenting with outcomes-based business models in cases where revenue might be tied to the efficiencies delivered by an enterprise application
-
-A business model is defined by two things:  [@Iansiti2014]
-
-- how the organization **creates** value for its customers
-- how the organization **captures** that value
-
-Digital transformation changes both:
-
-GE creates values by extracting useful data from sensors, by optimizing equipment performance, utilization and maintenance. It captures that value by charging a percentage of the customer's incremental revenue from improved performance.
 
 GE **sells less** hardware but has developed **mutually profitable partnerships**.  [@Iansiti2014]
 
@@ -460,7 +469,7 @@ With exponential output, the internal organization needs to be extremely robust,
 
 ### To rework
 
-##### Ecosystem & partnering
+##### Ecosystem & partnering beyond Supply chain management
 
 Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries [@Bharadwaj2013].
 
@@ -470,12 +479,11 @@ Rather than thinking of scale only in terms of physical factors of production, s
 
 Value Capture through Coordinated Business Models in Networks: value creation and capture in digital settings often involve complex and dynamic coordination across multiple companies. Business models are not inde-pendent but intersect and interoperate across these different players [@Bharadwaj2013].
 
-- Decision 3: Cooperate or compete with new attackers?
-  A large incumbent in an industry that's undergoing digital disruption can feel like a whale attacked by piranhas. It's not feasible to defend all fronts simultaneously, so cooperation with some attackers can make more sense than competing. Like, for exemple, opening software interfaces to multiple third parties [@Hirt2014].
+**Cooperate or compete with new attackers?** A large incumbent in an industry that's undergoing digital disruption can feel like a whale attacked by piranhas. It's not feasible to defend all fronts simultaneously, so cooperation with some attackers can make more sense than competing. Like, for exemple, opening software interfaces to multiple third parties [@Hirt2014].
 
 _"Starting from the idea of asset optimization and no unplanned downtime... the maximum customer **value is in the ecosystem**. How **open** do we want this to be ?"_ [@Iansiti2014]
 
-- To build its ecosystem: GE is experimenting with different types of partnerships, like joint-ventures. GE has also partnered with potential competitors (like Intel, Cisco, Accenture, Amazon web services) [@Iansiti2014]
+To build its ecosystem: GE is experimenting with different types of partnerships, like joint-ventures. GE has also partnered with potential competitors (like Intel, Cisco, Accenture, Amazon web services) [@Iansiti2014]
 
 Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness [@Bharadwaj2013].
 
