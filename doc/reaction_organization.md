@@ -18,7 +18,7 @@ Some firms are conducting experiments in different business units, but not condu
 
 #### Assess your internal & absolute value: your assets
 
-##### Reassess your position in the value network a.k.a your business model
+#### Analyze your business model: Assets and Rights sold
 
 Surprisingly, we found there is no universally accepted definition of the important concept of a business model. Our business model framework is based on defining the types of assets a company sells and the rights it grants customers to use those assets. We define four asset types and four ways companies manage asset rights to generate revenue [@PeterWeill2011].
 
@@ -79,7 +79,7 @@ Digital transformation changes both: GE creates values by extracting useful data
 
 We can see how GE has shifted its business model: GE is still producing the same type of asset (even if they are improved by digitalization) which are physical goods, but it has changed the type of rights it is selling: GE is not uniquely a Producer, it is also a Landlord. Being a Landlord of the physical goods it produces is a way for GE to gather more easily usage data and to feedback the improvement of its physical goods products.  
 
-##### Value lies in low marginal cost of Information: Production & Distributions costs are running towards zero
+#### Low marginal costs economics: Production & Distributions marginal costs are running towards zero
 
 The fact that Information can be duplicated infinitely and freely enables low marginal cost economics: past the initial investment, the production & distribution cost tend towards zero. Global flows of products & services are more and more digital.
 
@@ -108,33 +108,9 @@ Whereas business models with high marginal costs were seen as not performant eno
 
 - Financial and physical landlords were the poorest performing of the common business models [@PeterWeill2011]. Finance asset are a special type of Information-based asset which doesn't benefit of low marginal cost economics, because Money is "engineered" to maintain its value overtime (according to the main [properties of money](https://en.wikipedia.org/wiki/Money#Properties)) and hence cannot be duplicated infinitely and freely. We can ever create new Information, except for Money, where the creation mechanisms are carefully monitored.  
 
-##### Platforms: the Search / Broker business
+#### Network effects & Data: Digital Assets that grow through combination
 
-The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
-
-Platforms to connect to consumers: to reach new audiences through building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses [@Karimi2015].
-
-Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market [@Gimpel2012].
-
-Executives must shift from thinking about value chains to value networks [@Gimpel2012].
-
-Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate [@Gimpel2012]. (Note: here in this citation, VRIN is synonym of Value)
-
-Digital platforms will become the gateways (and bottlenecks) to the market [@Gimpel2012].
-
-Value Creation from Multisided Business Models: multisided revenue models are important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
-
-##### Business virtualization and Staff on demand
-
-The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage [@Bharadwaj2013].
-
-**Staff on Demand:** In any information-enabled business a large internal staff seems increasingly unnecessary, counterproductive and expensive [@VanGeest2014].
-
-Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms [@Gimpel2012].
-
-**Plug-and-play business models** As digital forces reduce transaction costs, value chains disaggregate. Amazon, for instance, offers businesses logistics, on-line retail "storefronts," and IT services [@Hirt2014].
-
-##### Valuable Assets in a digital world
+Data should be considered an asset class in its own right and analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy" [@WESTERMAN2015].
 
 **Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world [@Westerman2011]?
 
@@ -142,15 +118,13 @@ Successful Digital Transformation comes from reshaping the organization to take 
 
 Beware of the assumption: **The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
 
-Data should be considered an asset class in its own right [and] analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy" [@WESTERMAN2015].
-
 Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
 
 Access resources you don't own. In Waze's case, the company made use of the GPS readings already on its users' smartphones. Information is your greatest asset. More reliably than any other asset, information has the potential to double regularly. Rather than simply assembling assets, the key to success is accessing valuable caches of existing information [@VanGeest2014].
 
 **Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation [@Westerman2011].
 
-##### Investing, Financing, Divesting
+#### Investing, Financing, Divesting
 
 We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy  [@Bharadwaj2013].
 
@@ -161,8 +135,6 @@ We need a reconceptualization of the role of digital connections within a firm�
 **Financial Aspects Dimension:** Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action [@Hess2016].
 
 **How Strong is the Financial Pressure on Your Current Core Business?** The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal [@Hess2016].
-
-#### Assess your external & relative value: your position in the value network & assets of your competitors
 
 ### Transform your organization
 
@@ -442,6 +414,24 @@ The focus of value creation shifts from value chain to value networks [@Karimi20
 
 Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable [@Manyika2015].
 
+##### Platforms: the Search / Broker business
+
+Shifting to a Search / Broker Business by building a platform could be seen as a Customer Intimacy strategy: you can exploit an existing distribution network to help it and you are so much tailoring your offering to customers needs that you are offering your competitors products as well. Now the main actor to tailor the offering is not talented salesman but the search and recommendation algorithms. Amazon is an example: most clients go to this platform even if the number of products sold is tremendous: they know they will find something which suits their needs through the search and recommendations. Without those algorithms, Amazon would be efficient only on the Operational Excellence dimension, because the customer experience on the site would be fairly complex and much closer to wrangling through a storehouse than to going to a tailor.
+
+The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
+
+Platforms to connect to consumers: to reach new audiences through building digital community. Platforms that allow virtual communities to self-form. Platforms to connect to businesses [@Karimi2015].
+
+Platforms are the future systems of engagement: A platform is a foundational technology or service that is used beyond a single firm and is subject to network effects. Platforms provide connectivity, expand variety, match different users with each other (i.e., suppliers and consumers), and set prices within the market [@Gimpel2012].
+
+Executives must shift from thinking about value chains to value networks [@Gimpel2012].
+
+Subject to network effects, size is important for platforms. But scale is not the only deciding factor: VRIN resources will still determine competitive advantage and will drive users toward one network rather than another. If a firm does not have a VRIN role for production, search, or delivery within the platform ecosystem, it will not have a sustainable competitive advantage. And if the platform ecosystem itself is not VRIN, then another platform will dominate [@Gimpel2012]. (Note: here in this citation, VRIN is synonym of Value)
+
+Digital platforms will become the gateways (and bottlenecks) to the market [@Gimpel2012].
+
+Value Creation from Multisided Business Models: multisided revenue models are important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
+
 #### Organize for Optimization & Operational Excellence
 
 ##### Valuable assets
@@ -466,6 +456,16 @@ With exponential output, the internal organization needs to be extremely robust,
 **Dashboards:** Given the huge amounts of data from customers and employees becoming available, ExOs need a new way to measure and manage the organization: a real-time, adaptable dashboard with all essential company and employee metrics, accessible to everyone in the organization. Many ExOs are adopting the Objectives and Key Results (OKR) method. OKRs are the answer to two simple questions: Where do I want to go? (Objectives) How will I know I'm getting there? (Key Results to ensure progress is made). KPIs are determined top-down, while OKRs are determined bottom-up. Objectives are qualitative and Key Results are quantitative. OKRs are about the company's goals and how each employee contributes to those goals. Performance evaluations, which are entirely about evaluating how an employee performed in a given period, are independent of OKRs. Objectives are ambitious and should feel uncomfortable. Dashboards of value metrics, used in conjunction with OKRs, are becoming the de facto standard for measuring ExOs Dashboards are key for ExOs because growing at a rapid pace requires that instrumentation of the business, individual and team assessments be integrated and carried out in real time [@VanGeest2014].
 
 **Monitoring progress through KPIs:** Leaders need to ensure that a transparent set of metrics and KPIs are in place to constantly monitor and review progress towards that ambition. We monitor our progress through a transparent scorecard where everyone can see a quantified assessment of our progress and take actions against it [@Westerman2011].
+
+##### Business virtualization and Staff on demand
+
+The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage [@Bharadwaj2013].
+
+**Staff on Demand:** In any information-enabled business a large internal staff seems increasingly unnecessary, counterproductive and expensive [@VanGeest2014].
+
+Business virtualization: firms can reduce costs, increase agility, and boost quality by partnering with outside firms [@Gimpel2012].
+
+**Plug-and-play business models** As digital forces reduce transaction costs, value chains disaggregate. Amazon, for instance, offers businesses logistics, on-line retail "storefronts," and IT services [@Hirt2014].
 
 ### To rework
 

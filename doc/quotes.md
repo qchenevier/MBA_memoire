@@ -578,4 +578,134 @@ Surviving disruption, his research showed, often required a separate organizatio
   - Big-Bang Wisdom: Market to all segments of users immediately. Be ready to scale up-and exit-swiftly.
 - Innovation Method
   - Conventional Wisdom: Seek innovation in lower-cost, feature-poor technologies that meet the needs of underserved customer segments.
-  - Big-Bang Wisdom: Seek innovation through rapid-re, low-cost experimentation on popular platforms.
+  - Big-Bang Wisdom: Seek innovation through rapid-fire, low-cost experimentation on popular platforms.
+
+#### Information rules: A Strategic Guide to The Network Economy [@Shapiro1999]
+
+As the century closed, the world became smaller. The public rapidly gained access to new and dramatically faster communication technologies. Every day brought forth new technological advances to which the old business models seemed no longer to apply. Yet, somehow, the basic laws of economics asserted themselves. Those who mastered these laws survived in the new environment. Those who did not, failed. A prophecy for the next decade? No. You have just read a description of what happened a hundred years ago when the twentieth-century industrial giants emerged. Using the infrastructure of the emerging electricity and telephone networks, these industrialists transformed the U.S. economy, just as today's Silicon Valley entrepreneurs are drawing on computer and communications infrastructure to transform the world's economy.
+
+Technology changes. Economic laws do not.
+
+Software and hardware are inexorably linked. Indeed, they are a leading example of complements Neither software nor hardware is of much value without the other; they are only valuable because they work together as a system.
+
+**INFORMATION**
+
+We use the term information very broadly. Essentially, anything that can be digitized, encoded as a stream of bits, is information. Regardless of the particular source of value, people are willing to pay for information. As we see, many strategies for purveyors of information are based on the fact that consumers differ greatly in how they value particular information goods.
+
+The cost structure of an information supplier is rather unusual. Since the very nature of competition in information markets is driven by this unusual cost structure.
+
+**The Cost of Producing Information**
+
+Information is costly to produce but cheap to reproduce. Economists say that production of an information good involves high fixed costs but low marginal costs. The cost of producing the first copy of an information good may be substantial, but the cost of producing (or reproducing) additional copies is negligible.
+
+Cost-based pricing just doesn't work: a 10 or 20 percent markup on unit cost makes no sense when unit cost is zero. You must price your information goods according to consumer value, not according to your production cost.
+
+Since people have widely different values for a particular piece of information,
+value-based pricing leads naturally to differential pricing.
+
+For example, one way to differentiate versions of the same information good is to use delay. Investors now pay \$8.95 a month for a Web site that offers portfolio analysis using 20minute delayed stock market quotes but \$50 a month for a service that uses real-time stock market quotes.
+
+**Managing Intellectual Property**
+
+If the creators of an information good can reproduce it cheaply, others can copy it cheaply. It has long been recognized that some form of "privatization" of information helps to ensure its production. But the legal grant of exclusive rights to intellectual property via patents, copyright, and trademarks does not confer complete power to control
+information. Digital information can be perfectly copied and instantaneously transmitted around the world, leading many content producers to view the Internet as one giant, out-of-control copying machine.
+
+Despite this danger, we think that content owners tend to be too conservative with respect to the management of their intellectual property. The history of the video industry is a good example. Hollywood was petrified by the advent of videotape recorders. Ironically, Hollywood now makes more from video than from theater presentations for most productions. The video sales and rental market, once so feared, has become a giant revenue source for Hollywood.
+
+When managing intellectual property, your goal should be to choose the terms and conditions that maximize the value of your intellectual property, not the terms and conditions that maximize the protection.
+
+**Information as an "Experience Good"**
+
+Economists say that a good is an experience good if consumers must experience it to value it. Virtually any new product is an experience good, But information is an experience good every time it's consumed. Information businesses have devised various strategies to get wary consumers to overcome their reluctance to purchase information before they know what they are getting
+
+- First, there are various forms of browsing: you can look at the
+headlines of newspapers and watch previews of movies.
+- But ultimately, most media producers overcome the experience good problem through branding and reputation.
+
+The tension between giving away your information, to let people know what you have to offer, and charging them for it to recover your costs is a fundamental problem in the information economy.
+
+**The Economics of Attention**
+
+Now that information is available so quickly, so ubiquitously, and so inexpensively, it is not surprising that everyone is complaining of information overload. Nobel prize-winning
+"economist Herbert Simon spoke for us all when he said that "a wealth of information creates a poverty of attention". Nowadays the problem is not information access but information overload. The real value produced by an information provider comes in locating, filtering, and communicating what is useful to the consumer. Any idiot can establish a Web presence, and lots of them have. The big problem is letting people know about it.
+
+Selling viewers' attention has always been an attractive way to support information provision. The Internet, a hybrid between a broadcast medium and a point-to-point medium, offers exciting new potentials for matching up customers and suppliers. The Net allows information vendors to move from the conventional broadcast form of advertising to one-to-one marketing. This new, one-to-one marketing benefits both parties in the transaction: the advertiser reaches exactly the market it wants to target, and consumers need give their attention only to ads that are likely to be of interest. Furthermore, by gathering better information about what particular customers want, the information provider can design products that are more highly customized and hence more valuable.
+
+**TECHNOLOGY**
+
+Infrastructure is to information as a bottle is to wine: the technology is the packaging that allows the information to be delivered to end consumers. A single copy of a film would be of little value without a distribution technology. Likewise, computer software is valuable only because computer hardware and network technology are now so powerful and inexpensive. The value of the Web lies in its capacity to provide immediate access to information. Using the Web, information suppliers can distribute up-to-date information dynamically from databases and other repositories.  
+
+Improved information infrastructure has vastly increased our ability to store, retrieve, sort, filter, and distribute information, thereby greatly enhancing the value of the underlying information itself. Content providers cannot operate without infrastructure suppliers, and vice versa. The information economy is about both information and the associated technology.
+
+**Systems Competition**
+
+Systems show up everywhere in information technology: operating systems and applications software, CPUs and memory chips, disk drives and controller cards, video cassette recorders and the videotapes themselves. Usually, one firm cannot hope to offer all the pieces that make up an information system. Instead, different components are made by different manufacturers using very different production and business models. In the information economy, companies selling complementary components, or complementors, are equally important. When you are selling one component of a system, you can't compete if you're not compatible with the rest of the system. The dependence of information technology on systems means that firms must focus not only on their competitors but also on their collaborators. Forming alliances, cultivating partners, and ensuring compatibility (or lack of compatibility!) are critical business decisions.
+
+The history of the Microsoft-Intel partnership is a classic example. Microsoft focused almost exclusively on software, while Intel focused almost exclusively on hardware. They each made numerous strategic alliances and acquisitions that built on their strengths. The key for each company has been to commoditize complementary products without eroding the value of its own core strengths.
+
+**Lock-In and Switching Costs**
+
+Sony and Philips had to deal with considerable consumer switching costs when introducing their CD technology. Fortunately for Sony and Philips, CDs offered significant improvement in convenience, durability, and sound quality over LPs, so consumers were willing to replace their music libraries. Switching costs are significant, and corporate information officers (CIOs) think long and hard about changing systems. Lock-in to historical, legacy systems is commonplace in the network economy. Such lock-in is not absolute, new technologies do displace old ones, but switching costs can dramatically alter firms' strategies and options. In fact, the magnitude of switching costs is itself a strategic choice made by the producer of the system.
+
+Lock-in arises whenever users invest in multiple complementary and durable assets specific to a particular information technology system. More generally, in replacing an old system with a new, incompatible one, you may find it necessary to swap out or duplicate all the components of your system. Switching from Apple to Intel equipment involves not only new hardware but new software. And not only that, the "wetware", the knowledge that you and your employees have built up that enables you to use your hardware and software, has to be updated. This type of situation is the norm in the information economy.
+
+Lock-in can occur on an individual level, a company level, or even a societal level.
+
+**Positive Feedback, Network Externalities, and Standards**
+
+When the value of a product to one user depends on how many other users there are, economists say that this product exhibits network externalities, or network effects. Communications technologies are a prime example: telephones, e-mail, Internet access, fax machines, and modems all exhibit network externalities. Technologies subject to strong network effects tend to exhibit long lead times followed by explosive growth. The pattern results from positive feedback: as the installed base of users grows, more and more users find adoption worthwhile. Eventually, the product achieves critical mass and takes over the market.
+
+But network externalities are not confined to communications networks. They are also powerful in "virtual" networks, such as the network of users. A user benefits from a larger network, since this facilitates the exchange of files and tips and encourages software houses to devote more resources to developing software. Popular hardware and software systems enjoy a significant competitive advantage over less popular systems. As a result, growth is a strategic imperative, not just to achieve the usual production side economies of scale but to achieve the demand side economies of scale generated by network effects.
+
+The key challenge is to obtain critical mass, after that, the going gets easier. Once you have a large enough customer base, the market will build itself.
+
+The company that best understands information systems and complementary products will be best positioned to move rapidly and aggressively.
+
+In competing to become the standard, or at least to achieve critical mass, consumer expectations are critical. In a very real sense, the product that is expected to become the standard will become the standard. Self-fulfilling expectations are one manifestation of positive-feedback economics and 'bandwagon effects. As a result, companies participating in markets with strong network effects seek to convince customers that their products will ultimately become the standard, while rival, incompatible products will soon be orphaned.
+
+Because of the importance of critical mass, because customer expectations are so important in the area of information infrastructure, and because technology is evolving so rapidly, the timing of strategic moves is even more important in the information industry than in others. Moving too early means making compromises in technology and going out on a limb without sufficient allies. Whether you are trying to establish a new information technology or to extend the lifetime of technology that is already popular, you will face critical compatibility decisions.
+
+Another method for achieving critical mass is to assemble a powerful group of strategic partners. For this purpose, partners can be customers, complementers, or even competitors. If you own valuable intellectual property but need to gain critical mass, you must decide whether to promote your technology unilaterally, in the hope that it will become a de facto standard that you can tightly control, or to take various "openness" commitments to help achieve a critical mass.
+
+**Networks and Positive Positive Feedback**
+
+The industrial economy was populated with oligopolies: industries in which a few large firms dominated their markets. This was a comfortable world, in which market shares rose and fell only gradually. This stability in the marketplace was mirrored by lifetime employment of managers. In contrast, the information economy is populated by temporary monopolies. Hardware and software firms vie for dominance, knowing that today's leading technology or architecture will, more likely than not, be toppled in short order by an upstart with superior technology.
+
+There is a central difference between the old and new economies: the old industrial economy was driven by economies of scale; the new information economy is driven by the economics of networks. The key concept is positive feedback.
+
+We are all familiar with physical networks such as telephone networks, railroad networks, and airline networks. Some high-tech networks are much like these "real" networks: networks of compatible fax machines. But many other high-tech products reside in "virtual" networks: the network of Macintosh, the network of Apple iPhone users, the network of Android Users.
+
+In virtual networks, the linkages between the nodes are invisible, but no less critical for market dynamics and competitive strategy. We are in the same computer network if we can use the same software and share the same files. Whether real or virtual, networks have a fundamental economic characteristic: the value of connecting to a network depends on the number of other people already connected to it. This fundamental value proposition goes under many names: network effects, network externalities, and demand-side economies of scale. They all refer to essentially the same point: other things being equal, it's better to be connected to a bigger network than a smaller one.
+
+Positive feedback and network externalities are not a creation of the 1990s. To the contrary, network externalities have long been recognized as critical in the transportation and communications industries, where companies compete by expanding the reach of their networks and where one network can dramatically increase its value by interconnecting with other networks. Anyone trying to navigate the network economy has much to learn from the history of the postal service, railroads, airlines, and telephones.
+
+**POSITIVE FEEDBACK**
+
+Positive feedback makes the strong get stronger and the weak get weaker, leading to extreme outcomes.
+
+The backward cousin of positive feedback is negative feedback. The industrial oligopolies exhibited negative feedback, at least in their mature phase. Attempts by the industry leader to capture share from smaller players would often trigger vigorous responses as smaller players sought to keep capacity utilization from falling. Furthermore, past a certain size, companies found growth difficult owing to the sheer complexity of managing a large enterprise. Sometimes sales fell below a critical mass, and companies went out of business or were acquired by more efficient rivals. But by and large, dramatic changes in market share were uncommon and oligopoly rather than monopoly was the norm.
+
+Positive feedback should not be confused with growth as such. Yes, if a technology is on a roll, as is the Internet today, positive feedback translates into rapid growth: success feeds on itself. This is a virtuous cycle. When two or more firms compete for a market where there is strong positive feedback, only one may emerge as the winner. Economists say that such a market is tippy, meaning that it can tip in favor of one player or another. Examples of tippy markets were the video recorder market in the 1980s (VHS v. Beta) and the personal computer operating systems market of the 1990s (Wintel v. Apple). In its most extreme form, positive feedback can lead to a winner-take-all market in which a single firm or technology vanquishes all others. These dynamics are driven by the strong desire of users to select the technology that ultimately will prevail-that is, to choose the network that has (or will have) the most users.
+
+**DEMAND-SIDE ECONOMIES OF SCALE**
+
+Positive feedback is not entirely new; virtually every industry goes through a positive feedback phase early in its evolution. General Motors was more efficient than the smaller car companies in large part because of its scale. This efficiency fueled further growth by General Motors. This source of positive feedback is known as economies of scale in production: larger firms tend to have lower unit costs (at least up to a point). From today's perspective, we can refer to these traditional economies of scale as supply-side economies of scale. Despite its supply-side economies of scale, General Motors never grew to take over the entire automobile market. Because traditional economies of scale based on manufacturing have generally been exhausted at scales well below
+total market dominance. In other words, positive feedback based on supply-side economies of scale ran into natural limits, at which point negative feedback took over. These limits often arose out of the difficulties of managing enormous organizations.
+
+In the information economy, positive feedback has appeared in a new, more virulent form based on the demand side of the market, not just the supply side. Microsoft's enormous value is not based on the economies of scale in developing software. Oh, sure, there are scale economies in designing software, as for any other information product. But the cost of developing rival operating systems is tiny in comparison with Microsoft's market capitalization. Microsoft's dominance is based on demand-side economies of scale. Microsoft's customers value its operating systems because they are widely used, the de facto industry standard. Rival operating systems just don't have the critical mass to pose much of a threat.
+
+Unlike the supply-side economies of scale, demand-side economies of scale don't dissipate when the market gets large enough. The beautiful if frightening implication: success and failure are driven as much by consumer expectations and luck as by the underlying value of the product. A nudge in the right direction, at the right time, can make all the difference. Marketing strategy designed to influence consumer expectations is critical in network markets.
+
+Positive feedback based on demand-side economies of scale, while far more important now than in the past, is not entirely novel. Any communications network has this feature: the more people using the network, the more valuable it is to each one of them. Transportation networks share similar properties: the more destinations it can reach, the more valuable a nerwork becomes.
+
+Both demand-side economies of scale and supply-side economies of scale have been around for a long time. But the combination of the two that has arisen in many information technology industries is new. The result is a "double whammy" in which growth on the demand side both reduces cost on the supply side and makes the product more attractive to other users-accelerating the growth in demand even more. The result is especially strong positive feedback, causing entire industries to be created or destroyed far more rapidly than during the industrial age.
+
+**NETWORK EXTERNALITIES**
+
+Large networks are more attractive to users than small ones. The term that economists use to describe this effect, network externalities, usefully highlights two aspects of information systems that are crucial for competitive strategy.
+
+First, focus on the word network. It is enlightening to view information technologies in terms of virtual networks, which share many properties with real networks such as communications and transportation networks. We think of all users of Macintosh users as belonging to the "Mac network." Apple is the sponsor of this network. Building a network involves more than just building a product: finding partners, building strategic alliances, and knowing how to get the bandwagon rolling can be every bit as important as engineering design skills.
+
+Second, focus on one of economists' favorite words: externalities. Externalities arise when one market participant affects others without compensation being paid. Like feedback, externalities come in two flavors: negative and positive. The classic example of a negative externality is pollution: my sewage ruins your swimming or drinking water. Happily, network externalities are normally positive, not negative: when I join your network, the network is bigger and better, to your benefit. Positive network externalities give rise to positive feedback: when I buy a fax machine, you are more tempted to get one yourself since you can now use it to communicate with me.
+
+Network externalities are what lie behind Metcalfes law, named after Bob Metcalfe, the inventor of Ethernet. The square of the Metcalfe's law is more a rule of thumb than a law but it does arise in a relatively natural way. If there are n people in a network, and the value of the network to each of them is proportional to the number of other users, then the total value of the network (to all the users) is proportional to n X (n - 1) = n² - n. The value of a network goes up as the square of the number of users.
