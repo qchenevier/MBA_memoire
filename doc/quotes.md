@@ -608,3 +608,62 @@ The cost structure of an information supplier is rather unusual. Since the very 
 **NETWORK EXTERNALITIES**
 
 #### The Pace of Technology Adoption is Speeding Up [@McGrath2013]
+
+#### A simple paradigm for nooconomics, the economy of knowledge [@Aberkane2016]
+
+The purpose of this article is to outline a simple and improvable paradigm for noodynamics, the study of knowledge flows. From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based.
+
+Basic noodynamics
+
+Soudoplatoff has made, in my sense, the clearest formulation of it in recent years, and simpler for the layman than the economically-consecrated "non-rivalry of non-material goods" of Lawrence Lessig.
+
+Soudoplatoff's law: When one shares a material good, one divides it. When one shares an immaterial good, one multiplies it.
+
+Since knowledge is an immaterial good indeed, sharing it does not divide it, but rather multiplies it and also makes it evolve. Its economics, also, is one of fluxes rather than one of stocks, in which ownership must clearly be redefined.
+
+Soudoplatoff's law has many non-trivial implications. Be the good a piece of meat, a reserve of freshwater, an oil deposit or mere territory, the fact that sharing something material divides it has been an endless, and certainly the very most prolific source of conflicts.
+
+Since nooconomics is an economy of fluxes rather than of stock, it is interesting to remark that the legal ownership of knowledge is very different from its practical ownership.
+
+The "KID" paradigm of Peter Drucker, that Information (I) is Data (D) endowed with relevance and purpose, and that converting D into I requires Knowledge (K). We may place all these categories of the knowledge economy along a continuous differential spectrum beginning with data and ending with wisdom.
+
+Another implication of Soudoplatoff's law is to be considered in models of bargaining power, such as the classical forces of Michael Porter, and in the behaviour of maximising agents in general. Indeed, maximising agents are to be expected to behave differently when bargaining over something material and something immaterial.
+
+A simple paradigm for nooconomics
+
+Property 1 - Prolificity: Knowledge is prolific; it is growing exponentially
+
+There is somehow a kind of biology to knowledge, and it surely has an exponential growth. We may consider the list of newly-solved problems a reliable correlate of the "quantity" of knowledge and this list in itself has a doubling time of about seven to nine years.
+
+Property 2 - Collegiality: Humanity makes knowledge collegial, namely "truth is a shattered mirror" and everybody owns a bit.
+
+Since human beings have an ego, they display two very counter-productive tendencies with respect to optimal noodynamics. First human beings tend to consider "their little bit the whole to own", and second, they tend to resist the collectivisation of knowledge.
+
+
+Law 1 - Positive Sum: Knowledge exchanges are positive sum. This is a re-expression of Soudoplatoff's
+law. Material exchanges are null sum, immaterial exchanges, such as knowledge exchanges, are positive sum.
+
+Law 2 - Not instantaneous: Property exchanges may be considered instantaneous, and of course, scalable. However, knowledge exchanges take time. Knowledge exchanges, unlike properties exchanges, are flows.
+
+Law 3 - Superlinear: Property compositions may be linear in general. From a saver's point of view adding one kilograms of rice to another kilograms of rice is something linear, and makes two kilograms of rice. As long as processes are not involved thus, property composition is linear. This does not apply to knowledge compositions however, precisely in that knowledge is a process. The composition of two bits of knowledge systematically generates a third one, which is anywhere between trivial (but non-null) and revolutionary.
+
+We may capture this property with the simple inequality:
+K(A ∧ B) > K(A) ∧ K(B)
+"knowing A and B together is more than knowing A and knowing B separately"
+
+Knowledge may thus be considered to "reproduce" in a way, and the difference between knowing two things separately and knowing them together may be called the "fertility" of knowledge, which is somehow comparable to the notion of entrepreneurial added value. This fertility accounts for the intrinsic prolificity of knowledge.
+
+We may also oversimplify our paradigm by calling the fertility of knowledge "serendipity", that is, the fortuitous creation of novel knowledge from the collision of several distinct bits of knowledge  
+
+What is it that we spend indeed in acquiring conceptual knowledge from a book, a video game or a
+course? Attention and time. The amount of flowed knowledge is proportional to their product, in that spending one hour and zero attention surely implies a null transfer, and spending all one's attention for less than even the subliminal perceptual threshold also implies a null flow.
+
+Equation 1 - Simplest knowledge flow - from an economic point of view
+φ(k) ∝ At
+"the amount of flowed knowledge follows the product of attention and time"
+
+The product of attention and time becomes the most essential currency of nooconomics. The unity of the product At, as the fundamental currency of knowledge transfers, should also be given a simple name. In this article I will simply call them Ats, or "@"". 1 @ is equal to one hour at full attention.
+
+How could we measure attention from an economic point of view? Maximal attention, intuitively, is achieved when one is so much taken by what he is doing that he misses any external stimulus. Let's make the thought experiment of a "knowledge marketplace" (which the Internet has clearly become) as opposed to a "material marketplace". The difference between regular capital and knowledge capital (@) is that, with regular capital, if one visits a marketplace and buys nothing, one's purchasing power has remained essentially the same, which is not the case with knowledge capital, since one, visiting a knowledge marketplace yet buying nothing, would still have spent time and thus reduced one's purchasing power. Knowledge capital flies whether it is used or not, unlike regular capital, and this is the bad news. The economy of knowledge is not one of savings, but one of revenues.
+
+The good news of course is that anybody is born with a certain, non null quantity of @ in his or her lifetime. The knowledge economy is the only one in which everybody is naturally born with a non null purchasing power, assuming an equal access to the knowledge marketplace

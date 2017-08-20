@@ -47,8 +47,6 @@ Examples of currently exploding (and potentially valuable) data sources [@Gantz2
 - Consumer images: We say a lot about ourselves when we post pictures of ourselves or our families or friends.
 - Transactions: in addition, of course, to the normal transactional data running through enterprise computers in the course of normal data processing today.
 
-[TODO: ADD QUOTE ABOUT TELECOM TECHNOLOGY, IOT & COMPUTING PENETRATION]
-
 #### Physical capabilities of Information technology: Automation / Robotics / 3D printing & Additive manufacturing
 
 New technologies such as robotics, 3-D printing, augmented reality and the "Internet of Things" will soon lead to major business changes [@WESTERMAN2015].
@@ -91,36 +89,39 @@ Software replaces labor in digital businesses. Computers increasingly are perfor
 
 Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but IT technology creates the need for new roles [@Manyika2015]. Those that want to stay relevant in their professions will need to focus on skills and capabilities that artificial intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as artificial intelligence and machine learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
 
-3 Tasks categories which won't be automated: [@Frey2017]
+According to @Frey2017, 3 Tasks categories won't be automated: [@Frey2017]
 
-- **Perception & Manipulation** tasks: in unstructured work environment (personal house vs airport or train station), irregular objects.
-- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value is creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is not possible.
+- **Perception & Manipulation** tasks: especially in unstructured work environment (personal house vs airport or train station), irregular objects.
+- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value of creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is difficult.
 - **Social intelligence** tasks: involving negotiation, persuasion and care.
 
 ### Humans
 
-#### Increasing speed of adoption of technologies
+#### Increasing speed of adoption of technologies: the birth of Homo Numericus
 
-Many people suggest that rates of new product introduction and adoption are speeding up.
-
-It took decades for the telephone to reach 50% of households, beginning before 1900. It took five years or less for cellphones to accomplish the same penetration in 1990. And innovations introduced more recently are being adopted more quickly [@McGrath2013].
+Many people suggest that rates of new product introduction and adoption are speeding up since centuries. It seems to be true: It took decades for the telephone to reach 50% of households, beginning before 1900, whereas it took five years or less for cellphones to accomplish the same penetration in 1990. And innovations introduced more recently are being adopted more quickly [@McGrath2013].
 
 It took 30 years for electricity and 25 years for telephones to reach 10% adoption but less than five years for tablet devices to achieve the 10% rate. It took an additional 39 years for telephones to reach 40% penetration and another 15 before they became ubiquitous. Smart phones, on the other hand, accomplished a 40% penetration rate in just 10 years, if we time the first smart phone's introduction from the 2002 shipment of the first BlackBerry that could make phone calls and the first Palm-OS-powered Treo model [@McGrath2013].
 
+This rise of adoption and penetration rates for new technologies suggests that technology is less and less primarily used by new generations, the so-called _Millenials_ or _Y generation_. In fact, these terms uncover less an age reality than technological use reality. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
+
+As a results, the average human on this planet is more connected to all the other humans and communicates more with them than anytime in History. The world has never been so intertwined, in terms of information exchanges, even if the population has never been higher. Information is more available to anyone and anyone is more able to share information.
+
 #### Competition for attention: People want simpler interactions
+
+[TODO: citer Aberkane ici]
+
+**Information is abundant, Attention is scarce:** Now that information is available so quickly, so ubiquitously, and so inexpensively, it is not surprising that everyone is complaining of information overload. Nobel prize-winning "economist Herbert Simon spoke for us all when he said that "a wealth of information creates a poverty of attention". Nowadays the problem is not information access but information overload. The real value produced by an information provider comes in locating, filtering, and communicating what is useful to the consumer. Any idiot can establish a Web presence, and lots of them have. The big problem is letting people know about it [@Shapiro1999].
 
 Innovations create indirect substitutes for consumer time, attention, and money [@Gimpel2012].
 
 Digital technologies create near-perfect transparency: consumers can switch among digital retailers. This dynamic can commoditize products and services as consumers demand comparable features and simple interactions [@Hirt2014].
 
-the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines [@Hirt2014]
+The degree of consumer attention focused on a relatively small number of brands are redrawing battle lines [@Hirt2014]
 
 Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more [@Westerman2011].
 
-Beware of assumptions:
-**Our customers really value the human touch.** Not all interactions with humans are actually valuable to customers. Digital innovation can combine no-touch (or limited-touch) service with high customer satisfaction. Some customers today favor self-service over personal interaction. For many young adults in their 20s and early 30s, interacting with a human service representative represents an inconvenience or an extra cost. However, transitioning to a direct-to-consumer model can be difficult: agents or dealers can rebel against what they perceive as a threat to their commissions. But, digital self-service environments can enhance the customer experience and also gather a rich stream of behavioral data that can help boost customer satisfaction and revenues [@WESTERMAN2015].
-
-**Information is abundant, Attention is scarce:** Now that information is available so quickly, so ubiquitously, and so inexpensively, it is not surprising that everyone is complaining of information overload. Nobel prize-winning "economist Herbert Simon spoke for us all when he said that "a wealth of information creates a poverty of attention". Nowadays the problem is not information access but information overload. The real value produced by an information provider comes in locating, filtering, and communicating what is useful to the consumer. Any idiot can establish a Web presence, and lots of them have. The big problem is letting people know about it [@Shapiro1999].
+Some customers today favor self-service over personal interaction. For many young adults in their 20s and early 30s, interacting with a human service representative represents an inconvenience or an extra cost [@WESTERMAN2015].
 
 #### Consumer-producer
 

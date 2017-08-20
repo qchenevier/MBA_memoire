@@ -378,6 +378,8 @@ Staged allocation of funding resources allows for committing small amounts of re
 
 **Customer touch points:** Fast and transparent problem resolution builds trust for customers (for example, through a twitter account to answer client complaints). Companies with multiple channels to the customer are experiencing pressure to provide an integrated experience. Some firms are moving beyond simple multi-channel models to enable new forms of digital strategy: they supplements the multichannel experience through a new type of storefront. Several companies are offering self-service via digital tools. These tools allow the customer to save time, while saving the company money [@Westerman2011].
 
+But beware of assumptions: **Our customers really value the human touch.** Not all interactions with humans are actually valuable to customers. Digital innovation can combine no-touch (or limited-touch) service with high customer satisfaction. However, transitioning to a direct-to-consumer model can be difficult: agents or dealers can rebel against what they perceive as a threat to their commissions. But, digital self-service environments can enhance the customer experience and also gather a rich stream of behavioral data that can help boost customer satisfaction and revenues [@WESTERMAN2015].
+
 Other firms are using concept stores as flagships for their digital selling innovations [@Westerman2011].
 
 ##### Brand to become the standard
