@@ -14,9 +14,18 @@ Firms are experiencing different digital transformation speeds and different res
 Very few businesses are gaining the full value of technologically-enabled change. Manufacturers' ERP systems have improved process efficiency and are providing better financial data for strategic decisions, but companies have not yet retrained buyers in how to use the information in negotiating with suppliers [@Westerman2011].
 Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience [@Westerman2011].
 
+
+
 ### Assess your organizational value
 
 #### Assess your internal & absolute value: your assets
+
+**Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world [@Westerman2011]?
+
+Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
+
+Beware of the assumption: **The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
+
 
 #### Analyze your business model: Assets and Rights sold
 
@@ -83,6 +92,8 @@ We can see how GE has shifted its business model: GE is still producing the same
 
 The fact that Information can be duplicated infinitely and freely enables low marginal cost economics: past the initial investment, the production & distribution cost tend towards zero. Global flows of products & services are more and more digital.
 
+**Low-marginal costs:** Information is costly to produce but cheap to reproduce. Economists say that production of an information good involves high fixed costs but low marginal costs. The cost of producing the first copy of an information good may be substantial, but the cost of producing (or reproducing) additional copies is negligible [@Shapiro1999].
+
 According to @Hirt2014, Digitization transforms global flows by vastly reducing marginal production and distribution costs in 3 ways:
 
 - creation of purely digital goods (digitization is transforming even physical flows of people into virtual flows)
@@ -90,6 +101,8 @@ According to @Hirt2014, Digitization transforms global flows by vastly reducing 
 - creation of on-line platforms that bring efficiency and speed to production and cross-border exchanges [@Hirt2014].
 
 Some authors are even saying that there is a drive To Demonetization: These days, product development cycles are measured not in months or quarters, but in hours or days. The most important achievements of the Internet during the last decade was that it cut the marginal cost of marketing and sales to nearly zero. It is possible to promote an online product worldwide for a tiny fraction of what it cost just twenty-five years ago. Customer acquisition costs can also be cut to what was once deemed impossible: zero. The new information-enabled technologies will power exponential cost drops not just in sales and marketing, but also across every business function [@VanGeest2014].
+
+For example, specifically for Information Technology, the investment in spending on IT hardware, software, services, telecommunications and staff that could be considered the "infrastructure" of the digital universe and telecommunications will grow by 40% between 2012 and 2020 but the investment per gigabyte (GB) during that same period will drop from \$2.00 to \$0.20 [@Gantz2012].
 
 Those trends are generalizable to all industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises [@Karimi2015].
 
@@ -108,21 +121,11 @@ Whereas business models with high marginal costs were seen as not performant eno
 
 - Financial and physical landlords were the poorest performing of the common business models [@PeterWeill2011]. Finance asset are a special type of Information-based asset which doesn't benefit of low marginal cost economics, because Money is "engineered" to maintain its value overtime (according to the main [properties of money](https://en.wikipedia.org/wiki/Money#Properties)) and hence cannot be duplicated infinitely and freely. We can ever create new Information, except for Money, where the creation mechanisms are carefully monitored.  
 
-#### Network effects & Data: Digital Assets that grow through combination
+#### Data as a digital asset that grow in value through combination
 
 Data should be considered an asset class in its own right and analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy" [@WESTERMAN2015].
 
-**Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world [@Westerman2011]?
-
-Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
-
-Beware of the assumption: **The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
-
-Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
-
 Access resources you don't own. In Waze's case, the company made use of the GPS readings already on its users' smartphones. Information is your greatest asset. More reliably than any other asset, information has the potential to double regularly. Rather than simply assembling assets, the key to success is accessing valuable caches of existing information [@VanGeest2014].
-
-**Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation [@Westerman2011].
 
 #### Investing, Financing, Divesting
 
@@ -136,9 +139,7 @@ We need a reconceptualization of the role of digital connections within a firm�
 
 **How Strong is the Financial Pressure on Your Current Core Business?** The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal [@Hess2016].
 
-### Transform your organization
-
-#### Update the organization's information processing
+### Update the organization's information processing
 
 Approaching Digital Ubiquity [@Iansiti2014]
 
@@ -148,7 +149,7 @@ Approaching Digital Ubiquity [@Iansiti2014]
 - Consider new value-capture modes
 - Use software to extend the boundaries of what you do.
 
-##### Convergence IT and business
+#### Convergence IT and business
 
 Rather than using armies of people or large physical plants, Exponential Organizations are built upon information technologies that take what was once physical in nature and dematerialize it into the digital, on-demand world.
 
@@ -174,7 +175,7 @@ Most IT strategies treat technology in isolation, they often lack the transforma
 
 **Do You Plan to Integrate New Operations into Existing Structures or Create Separate Entities?** Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures [@Hess2016].
 
-##### Digital platforms as a central IT tool for future improvements & products (digital asset with high option value)
+#### Digital platforms as a central tool for future products (design capital with high option value)
 
 Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
 
@@ -193,7 +194,7 @@ One of the first thing deployed in the new GE Software HQ by the new Digital Off
 - creation of a **common software platform** [@Iansiti2014]
 - "**Co-location** is everything" [@Iansiti2014]
 
-##### Digital capabilities are the people working around that platform to improve it
+#### Digital capabilities are the people working around that platform to improve it
 
 Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability [@Woodard2013].
 
@@ -228,7 +229,7 @@ Building software capabilities [@Iansiti2014]
   - **No enforcement of compliance**: "We are going to do this, you can be on the train or not".
   - No dedicated P&L for the software: **Different incentives** that don't create competition with the businesses [@Iansiti2014].
 
-##### Managing digital assets: explore new options or consolidate your platform?
+#### Managing digital assets: explore new options or consolidate your platform?
 
 **[TODO: A RACCOURCIR]**
 
@@ -279,7 +280,7 @@ Firms with high quality design capital tended to create product or service platf
 
 We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital [@Woodard2013].
 
-#### Organize for Speed & Product Leadership
+### Organize for Speed & Product Leadership
 
 Our organizational structures have evolved to manage scarcity. The concept of ownership works well for scarcity, but accessing or sharing works better in an abundant, information-based world. While the information-based world is now moving exponentially, our organizational structures are still very linear (especially large ones). Matrix structures don't work in an exponential, information-based world. Rapid or disruptive change is something that large, matrixed organizations find extremely difficult [@VanGeest2014].
 
@@ -287,15 +288,23 @@ The paradigm is **not displacement and replacement**, but **connectivity and rec
 
 Speed of Digital Business Strategy: time takes on a more central role in digital business settings [@Bharadwaj2013].
 
-##### Valuable assets
+#### Assets for product leadership: Infrastructure & Innovation culture
+
+##### Infrastructure
 
 **Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices [@Westerman2011].
+
+**An hardware and software symbiose:** Infrastructure is to information as a bottle is to wine: the technology is the packaging that allows the information to be delivered to end consumers. A single copy of a film would be of little value without a distribution technology. Likewise, computer software is valuable only because computer hardware and network technology are now so powerful and inexpensive. The value of the Web lies in its capacity to provide immediate access to information. Using the Web, information suppliers can distribute up-to-date information dynamically from databases and other repositories [@Shapiro1999].
+
+Improved information infrastructure has vastly increased our ability to store, retrieve, sort, filter, and distribute information, thereby greatly enhancing the value of the underlying information itself. Content providers cannot operate without infrastructure suppliers, and vice versa. The information economy is about both information and the associated technology [@Shapiro1999].
+
+##### Innovation culture
 
 **Product innovation:** Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time [@Westerman2011].
 
 **Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change [@Westerman2011].
 
-##### Experimentation: real-time data and high quality digital platform
+#### Experimentation: real-time data and high quality digital platform
 
 Ongoing streams of performance data open up the possibility of conducting controlled experiments on new ideas. Digital leaders have pursued this kind of A/B testing for years on-line and other companies are experimenting in physical settings [@WESTERMAN2015].
 
@@ -309,7 +318,7 @@ It's easier to innovate and experiment with a high quality design platform:
 
 If a firm is fortunate enough to be in a position of high-quality design capital and resource abundance, this describes an under-constrained situation for designers that favors experimentation and entrepreneurial actions. Such an environment requires effective sense-making and the ability to cope with complexity and uncertainty [@Woodard2013].
 
-##### Embracing Disruption vs Fighting the environment with Regulation
+#### Embracing Disruption vs Fighting the environment with Regulation
 
 Regulations are slowly adapting to evolutions in society.
 
@@ -321,7 +330,15 @@ Regulations are slowly adapting to evolutions in society.
 
 **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
 
-##### IT Renting & Staff on-demand increases Up-Down Scaling speed
+**Managing Intellectual Property**
+
+If the creators of an information good can reproduce it cheaply, others can copy it cheaply. It has long been recognized that some form of "privatization" of information helps to ensure its production. But the legal grant of exclusive rights to intellectual property via patents, copyright, and trademarks does not confer complete power to control information. Digital information can be perfectly copied and instantaneously transmitted around the world, leading many content producers to view the Internet as one giant, out-of-control copying machine [@Shapiro1999].
+
+Despite this danger, we think that content owners tend to be too conservative with respect to the management of their intellectual property. The history of the video industry is a good example. Hollywood was petrified by the advent of videotape recorders. Ironically, Hollywood now makes more from video than from theater presentations for most productions. The video sales and rental market, once so feared, has become a giant revenue source for Hollywood [@Shapiro1999].
+
+When managing intellectual property, your goal should be to choose the terms and conditions that maximize the value of your intellectual property, not the terms and conditions that maximize the protection [@Shapiro1999].
+
+#### IT Renting & Staff on-demand increases Up-Down Scaling speed
 
 Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coordinated in networks with complementary products and services [@Bharadwaj2013].
 
@@ -334,7 +351,7 @@ Scale Through Alliances and Partnerships through shared digital assets. Firms mo
 **Rent, Don't Own:** An important mechanism empowering individuals and small teams everywhere is
 low-cost access to technology and tools. Cloud computing, which offers the ability to store and manage massive amounts of information with unlimited processing, all on a cost-per-use basis requiring no upfront costs or capital investments. This makes memory almost free. The cloud also puts small companies on the same footing as, or even gives them an advantage over, big companies, which are burdened by expensive internal IT. This rent-not-own philosophy further extends the current craze of collaborative consumption and the sharing economy. Why not rent those assets, reducing up-front investment and leaving the ownership and maintenance of state-of-the-art facilities to someone else? Be it facilities, equipment, computing or people, the concept of renting rather than owning is a major factor contributing to an ExO's agility and flexibility [@VanGeest2014].
 
-##### Small & independent units
+#### Small & independent units
 
 **Smaller Beats Bigger:** Scale and size have been desirable traits in an enterprise. The conventional wisdom says that a bigger company could leverage economies of scale and negotiate from strength. All that is changing. The unparalleled and unprecedented ability of a small team
 today to do big things if the exponential technologies described previously are put to use. Both now and in the coming years, adaptability and agility will increasingly eclipse size and scale. A small team can take on much bigger risks than a large one [@VanGeest2014].
@@ -349,38 +366,71 @@ Staged allocation of resources (SAR): It can force innovation teams to zero in q
 
 Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests [@Karimi2015].
 
-#### Organize for Customization & Customer Intimacy
+### Organize for Customization & Customer Intimacy
 
-##### Valuable assets
+#### Assets for customer intimacy: Sales infrastructure, Brand, Customer knowledge
+
+##### Sales force
+
 **Sales force:** source of customer loyalty is the set of relationships cultivated by a strong sales force. Digital initiatives can threaten to disintermediate salespeople. However, digital transformation can also be used to enhance those relationships [@Westerman2011].
 
 **Point of sale and distribution channels:** Stores are often a strong source of location-based advantage, even in a digital world [@Westerman2011].
 
+**Customer touch points:** Fast and transparent problem resolution builds trust for customers (for example, through a twitter account to answer client complaints). Companies with multiple channels to the customer are experiencing pressure to provide an integrated experience. Some firms are moving beyond simple multi-channel models to enable new forms of digital strategy: they supplements the multichannel experience through a new type of storefront. Several companies are offering self-service via digital tools. These tools allow the customer to save time, while saving the company money [@Westerman2011].
+
+Other firms are using concept stores as flagships for their digital selling innovations [@Westerman2011].
+
+##### Brand to become the standard
+
 **Brand:** Companies with a strong brand are able to leverage it in related offerings. Through mobile web, social media and other digital initiatives, building additional points of contact with customers [@Westerman2011].
 
-##### Other
+In competing to become the standard, or at least to achieve critical mass, consumer expectations are critical. In a very real sense, the product that is expected to become the standard will become the standard. Self-fulfilling expectations are one manifestation of positive-feedback economics and 'bandwagon effects. As a result, companies participating in markets with strong network effects seek to convince customers that their products will ultimately become the standard, while rival, incompatible products will soon be orphaned [@Shapiro1999].
 
-Sellers can adjust product bundling and pricing depending on circumstances. Technology are also changing the economics of manufacturing and making custom manufacturing more efficient [@WESTERMAN2015].
+##### Customer Knowledge
+
+Newspaper companies often have extensive local data about institutions, businesses, and local residents. Newspaper companies could develop a range of digital non-core products such as on-line marketing solutions [@Karimi2015].
+
+**Customer knowledge:** Companies have gathered more and more knowledge about customers. They can start envisioning the next step, monetizing this relationship to launch new products, enhance customer relationships or augment sales via customer-segmentation [@Westerman2011].
 
 **Customer understanding:** Firms are exploring social media to understand customer satisfiers and dissatisfiers. Companies are learning to promote their brands more effectively through digital media: social media campaign, educational digital tools, building new on-line communities. Firms are building analytics capability to understand customers and actively conducting experiments in pricing and promotion [@Westerman2011].
 
 PagesJaunes, the French Yellow Pages company, saw that the assets related to printing and delivering books would have little use in the new model, but the company's knowledge of local businesses and the relationships its salespeople had with business owners were potentially critical assets going forward. By leveraging existing data and retraining the sales force, the company is attempting to reinvent itself in partnership with former competitor Google Inc. PagesJaunes began ramping up digital revenues in France faster than physical revenues were declining [@WESTERMAN2015].
+
+#### Value-based pricing
+
+Sellers can adjust product bundling and pricing depending on circumstances. Technology are also changing the economics of manufacturing and making custom manufacturing more efficient [@WESTERMAN2015].
+
+**Value-based & differential pricing (instead of marginal-cost-based pricing):** Price on value, not on marginal cost: Cost-based pricing just doesn't work: a 10 or 20 percent markup on unit cost makes no sense when unit cost is zero. You must price your information goods according to consumer value, not according to your production cost [@Shapiro1999]. Since people have widely different values for a particular piece of information, value-based pricing leads naturally to differential pricing [@Shapiro1999].
+
+**Top-line growth:** Companies are using technology to enhance in-person sales conversations. Using tablet-based presentations and introducing mobile tools to help sales people and customers engage in analytics-based planning. Analytics help to segment clients [@Westerman2011].
 
 Learning to sell the new model
 
 - It requires an approach that integrates with the client's proprietary **financial and operational data** and an extensive familiarity with the client's balance sheet, financial strategies and approach to the market [@Iansiti2014].
 - "Our sales team has to do a whole range of new spreadsheet calculations and modeling before we even approach a potential customer." [@Iansiti2014]
 
+#### Experience goods selling: Let the customer have a taste  
+
+**Experience goods, balancing giving it to let the customer enjoy it vs selling it:** Economists say that a good is an experience good if consumers must experience it to value it. Virtually any new product is an experience good, But information is an experience good every time it's consumed. Information businesses have devised various strategies to get wary consumers to overcome their reluctance to purchase information before they know what they are getting:
+
+- First, there are various forms of browsing: you can look at the headlines of newspapers and watch previews of movies [@Shapiro1999].
+- But ultimately, most media producers overcome the experience good problem through branding and reputation [@Shapiro1999].
+
+The tension between giving away your information, to let people know what you have to offer, and charging them for it to recover your costs is a fundamental problem in the information economy [@Shapiro1999].
+
+#### Customer Loyalty & Lock-in by manage the switching costs
+
 Redefine customer engagement. Harness the data to fine-tune customer engagement. Design is also playing a more central role. Many companies are forced to sell their products or services in someone else’s ecosystem, which calls for careful strategies around pricing, value retention, and brand integrity [@Manyika2015].
 
-**Customer touch points:** Fast and transparent problem resolution builds trust for customers (for example, through a twitter account to answer client complaints). Companies with multiple channels to the customer are experiencing pressure to provide an integrated experience. Some firms are moving beyond simple multi-channel models to enable new forms of digital strategy: they supplements the multichannel experience through a new type of storefront. Several companies are offering self-service via digital tools. These tools allow the customer to save time, while saving the company money [@Westerman2011].
+**Switching costs (or transferring technical debt):** Sony and Philips had to deal with considerable consumer switching costs when introducing their CD technology. Fortunately for Sony and Philips, CDs offered significant improvement in convenience, durability, and sound quality over LPs, so consumers were willing to replace their music libraries. Switching costs are significant, and corporate information officers (CIOs) think long and hard about changing systems. Lock-in to historical, legacy systems is commonplace in the network economy. Such lock-in is not absolute, new technologies do displace old ones, but switching costs can dramatically alter firms' strategies and options. In fact, the magnitude of switching costs is itself a strategic choice made by the producer of the system [@Shapiro1999].
 
-**Top-line growth:** Companies are using technology to enhance in-person sales conversations. Using tablet-based presentations and introducing mobile tools to help sales people and customers engage in analytics-based planning. Analytics help to segment clients. Other firms are using concept stores as flagships for their digital selling innovations. Some firms try to make the life of the customer easier, simplifying their processes through a digital plugin. This streamlines the shopping process [@Westerman2011].
+Lock-in arises whenever users invest in multiple complementary and durable assets specific to a particular information technology system. More generally, in replacing an old system with a new, incompatible one, you may find it necessary to swap out or duplicate all the components of your system. Switching from Apple to Intel equipment involves not only new hardware but new software. And not only that, the "wetware", the knowledge that you and your employees have built up that enables you to use your hardware and software, has to be updated. This type of situation is the norm in the information economy [@Shapiro1999].
 
-##### Business-model shift: Evolve your value proposition: from product to service to partnership
+Lock-in can occur on an individual level, a company level, or even a societal level [@Shapiro1999].
+
+#### Business-model shift: Evolve your value proposition: from product to service to partnership
 
 **Everything is Measurable and Anything is Knowable:** The sensor revolution is one of the most important and least celebrated technological revolutions taking place today. ExOs take advantage of this accelerating trend in two ways: by creating new business models on existing data streams or by adding new data streams to old paradigms. We are moving toward a world in which everything will be measured and anything can be knowable, both in the world around us and within our bodies. Plan for this to have a chance at long-term success [@VanGeest2014].
-
 
 Sources of Value Creation and Capture: Digital business strategy brings in additional dimensions that alter the nature of value creation and capture [@Bharadwaj2013].
 
@@ -414,9 +464,11 @@ The focus of value creation shifts from value chain to value networks [@Karimi20
 
 Build new assets and revenue streams. Digital disruptors have often destroyed more value than they have created for themselves, giving many of the benefits away to consumers. Businesses need to build a strong digital balance sheet. businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable [@Manyika2015].
 
-##### Platforms: the Search / Broker business
+#### Platforms: the Search / Broker business
 
 Shifting to a Search / Broker Business by building a platform could be seen as a Customer Intimacy strategy: you can exploit an existing distribution network to help it and you are so much tailoring your offering to customers needs that you are offering your competitors products as well. Now the main actor to tailor the offering is not talented salesman but the search and recommendation algorithms. Amazon is an example: most clients go to this platform even if the number of products sold is tremendous: they know they will find something which suits their needs through the search and recommendations. Without those algorithms, Amazon would be efficient only on the Operational Excellence dimension, because the customer experience on the site would be fairly complex and much closer to wrangling through a storehouse than to going to a tailor.
+
+**Attention is targetted: From broadcast to one-to-one marketing:** Selling viewers' attention has always been an attractive way to support information provision. The Internet, a hybrid between a broadcast medium and a point-to-point medium, offers exciting new potentials for matching up customers and suppliers. The Net allows information vendors to move from the conventional broadcast form of advertising to one-to-one marketing. This new, one-to-one marketing benefits both parties in the transaction: the advertiser reaches exactly the market it wants to target, and consumers need give their attention only to ads that are likely to be of interest. Furthermore, by gathering better information about what particular customers want, the information provider can design products that are more highly customized and hence more valuable [@Shapiro1999].
 
 The use of digital platforms enables firms to break traditional industry boundaries and to operate in new spaces and niches [@Bharadwaj2013].
 
@@ -432,13 +484,13 @@ Digital platforms will become the gateways (and bottlenecks) to the market [@Gim
 
 Value Creation from Multisided Business Models: multisided revenue models are important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
 
-#### Organize for Optimization & Operational Excellence
+### Organize for Optimization & Operational Excellence
 
-##### Valuable assets
+#### Valuable assets
 
 **Partnership network:** Trusted relationships can deliver powerful new operating models. A firm is switching from a single value chain link to a value chain orchestrator. Partners cooperated in the project because of years of working together [@Westerman2011].
 
-##### Employee augmentation
+#### Employee augmentation
 
 Beware of the assumption:
 **We've reached the limit of how far we can automate our operational processes.** In the past, automation worked best for standardized repetitive tasks. It also allows you to radically redesign the way your company operates. Beyond just replacing workers, new technologies can augment their activities or free them to do more fulfilling work [@WESTERMAN2015].
@@ -449,7 +501,7 @@ Beware of the assumption:
 
 **Interfaces:** Interfaces are filtering and matching processes by which ExOs bridge from SCALE externalities to internal IDEAS control frameworks. They are algorithms and automated workflows that route the output of SCALE externalities to the right people at the right time internally.  These processes start out manual and gradually become automated around the edges. These Interface processes are unique and proprietary to the organization that developed them, and as such comprise a unique type of intellectual property. ExOs invest considerable attention to Interfaces and a great deal of human-centered design thinking is brought to optimize every instantiation. Interfaces manage abundance. While most processes are optimized around scarcity and efficiency, SCALE elements generate large result sets, meaning Interfaces are geared towards filtering and matching [@VanGeest2014].
 
-##### Measuring everything
+#### Measuring everything
 
 With exponential output, the internal organization needs to be extremely robust, precise and properly tuned to process all the inputs. Those are distinctly different internal operations that encompass everything from their business philosophies to how employees interact with one another, how they measure their performance (and what they value in that performance), and even their attitudes toward risk. In fact, especially their attitudes toward risk [@VanGeest2014].
 
@@ -457,7 +509,7 @@ With exponential output, the internal organization needs to be extremely robust,
 
 **Monitoring progress through KPIs:** Leaders need to ensure that a transparent set of metrics and KPIs are in place to constantly monitor and review progress towards that ambition. We monitor our progress through a transparent scorecard where everyone can see a quantified assessment of our progress and take actions against it [@Westerman2011].
 
-##### Business virtualization and Staff on demand
+#### Business virtualization and Staff on demand
 
 The Speed of Supply Chain Orchestration: End-to-end visibility and ERP deployments have allowed companies to be more efficient. And, coupled with outsourcing of non-core activities to a network of partners, this has allowed companies to optimize their supply chains. In industries marked by fast changes in technology functionality, competitive advantage lies not in just announcing new products (first-mover advantage) but in ensuring the availability of new products on a global basis to capture the fast-mover advantage [@Bharadwaj2013].
 
@@ -467,9 +519,13 @@ Business virtualization: firms can reduce costs, increase agility, and boost qua
 
 **Plug-and-play business models** As digital forces reduce transaction costs, value chains disaggregate. Amazon, for instance, offers businesses logistics, on-line retail "storefronts," and IT services [@Hirt2014].
 
-### To rework
+#### Ecosystem & partnering beyond Supply chain management
 
-##### Ecosystem & partnering beyond Supply chain management
+The company that best understands information systems and complementary products will be best positioned to move rapidly and aggressively [@Shapiro1999].
+
+Because of the importance of critical mass, because customer expectations are so important in the area of information infrastructure, and because technology is evolving so rapidly, the timing of strategic moves is even more important in the information industry than in others. Moving too early means making compromises in technology and going out on a limb without sufficient allies. Whether you are trying to establish a new information technology or to extend the lifetime of technology that is already popular, you will face critical compatibility decisions [@Shapiro1999].
+
+Another method for achieving critical mass is to assemble a powerful group of strategic partners. For this purpose, partners can be customers, complementers, or even competitors. If you own valuable intellectual property but need to gain critical mass, you must decide whether to promote your technology unilaterally, in the hope that it will become a de facto standard that you can tightly control, or to take various "openness" commitments to help achieve a critical mass [@Shapiro1999].
 
 Digital Business Strategy Extends the Scope Beyond Firm Boundaries and Supply Chains to Dynamic Ecosystems That Cross Traditional Industry Boundaries [@Bharadwaj2013].
 
@@ -488,6 +544,8 @@ To build its ecosystem: GE is experimenting with different types of partnerships
 Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness [@Bharadwaj2013].
 
 The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product [@Woodard2013].
+
+### To rework
 
 ##### IT centralization & Employee decentralization: think global, act local  
 
