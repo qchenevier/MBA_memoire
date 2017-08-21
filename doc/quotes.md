@@ -668,93 +668,19 @@ How could we measure attention from an economic point of view? Maximal attention
 
 The good news of course is that anybody is born with a certain, non null quantity of @ in his or her lifetime. The knowledge economy is the only one in which everybody is naturally born with a non null purchasing power, assuming an equal access to the knowledge marketplace [@Aberkane2016].
 
-#### The wisdom hierarchy: representations of the DIKW hierarchy
+#### The wisdom hierarchy: representations of the DIKW hierarchy [@Rowley2007]
 
-The data-information-knowledge-wisdom hierarchy (DIKW), referred to variously as the 'Knowledge Hierarchy', the 'Information Hierarchy' and the 'Knowledge Pyramid' is one of the fundamental, widely recognized and 'taken-for-granted' models in the information and knowledge literatures. The implicit assumption is that data can be used to create information; information can be used to create knowledge, and knowledge can be used to create wisdom.
+The data-information-knowledge-wisdom hierarchy (DIKW), referred to variously as the 'Knowledge Hierarchy', the 'Information Hierarchy' and the 'Knowledge Pyramid' is one of the fundamental, widely recognized and 'taken-for-granted' models in the information and knowledge literatures. The implicit assumption is that data can be used to create information; information can be used to create knowledge, and knowledge can be used to create wisdom [@Rowley2007].
 
 **The origins of the wisdom hierarchy**
 
-Ackoff's article, entitled _From data to wisdom_, proposed a hierarchy with the following levels: data, information, knowledge, understanding and wisdom. Ackoff defines data, information, knowledge, understanding, intelligence and wisdom and explores the processes associated with the transformation between these elements.
-
-- Data are defined as symbols that represent properties of objects, events and their environment. They are the products of observation. But are of no use until they are in a useable (i.e. relevant) form. The difference between data and information is functional, not structural.
-- Information is contained in descriptions, answers to questions that begin with such words as who, what, when and how many. Information systems generate, store, retrieve and process data. Information is inferred from data.
-- Knowledge is know-how, and is what makes possible the transformation of information into instructions. Knowledge can be obtained either by transmission
-from another who has it, by instruction, or by extracting it from experience.
-- Wisdom is the ability to increase effectiveness. Wisdom adds value, which requires the mental function that we call judgement. The ethical and aesthetic values that this implies are inherent to the actor and are unique and personal.
-
-Bellinger et al. [36] have elaborated further on Ackoff's exposition, suggesting understanding supports the transition from each stage to the next. They suggest that moving from data to information involves 'understanding relations', moving from information to knowledge involves 'understanding patterns', and moving from knowledge to wisdom involves 'understanding principles'.
-
 **Defining data**
-The definitions variously suggest that:
-
-- Data has no meaning or value because it is without context and interpretation.
-- Data are discrete, objective facts or observations, which are unorganized and unprocessed, and do not convey any specific meaning.
-- Data items are an elementary and recorded description of things, events, activities and transactions.
-
-Interestingly, these definitions are largely in terms of what data lacks; data lacks meaning or value, is unorganized and unprocessed. They lay the foundations for defining information in terms of data.
 
 **Defining information**
-The concepts of format, structure, organization, meaning and value feature in the various definitions:
-
-- Information is formatted data and can be defined as a representation of reality.
-- Information is data which adds value to the understanding of a subject.
-- Information is data that have been shaped into a form that is meaningful and useful to human beings.
-- Information is data that have been organized so that they have meaning and value to the recipient.
-- Information is data processed for a purpose.
-
-There are a number of definitions of information in common use, which they suggest are:
-
-- Data that have been processed so that they are meaningful.
-- Data that have been processed for a purpose.
-- Data that have been interpreted and understood by the recipient.
-
-The processes associated with converting data into information are: classification, rearranging/sorting, aggregating, performing calculations, and selection. Such processing of data requires a decision about the type of analysis, and this, in turn, requires an interpretation of the content of the data. To be relevant and have a purpose, information must be considered within the context where it is received and used.
-
-To conclude, in both the information systems textbooks and the knowledge management literature, information is defined in terms of data, and is seen to be organized or structured data.
 
 **Defining knowledge**
 
-- Knowledge is an intrinsically ambiguous and equivocal term.
-- There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it.
-
-- Knowledge is the combination of data and information, to which is added expert opinion, skills, and experience, to result in a valuable asset which can be used to aid decision making.
-- Knowledge is data and/or information that have been organized and processed to convey understanding, experience, accumulated learning, and expertise as they apply to a current problem or activity.
-- Knowledge builds on information that is extracted from data. While data is a property of things, knowledge is a property of people that predisposes them to act in a particular way.
-
-Knowledge consists of that mix of contextual information, values, experience, and rules. Knowledge involves the synthesis of multiple sources of information over time. The amount of human contribution increases along the continuum from data to information to knowledge. Some authors differentiate between explicit knowledge and tacit knowledge, suggesting that explicit knowledge can be recorded in information systems, whereas tacit knowledge cannot be recorded since it is part of the human mind. An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area.
-
-To become knowledge, new insights are internalized by establishing links with already existing knowledge, and these links can range from firmly characterized relationships to vague associations. Prior knowledge is used to make sense of received information, and once accepted for inclusion, internalizes the new insights by linking with prior knowledge. Hence, the new knowledge is as much a function of prior knowledge as it is of received inputs.
-
-Some authors mention the importance of the semantic aspects of information in the creation of knowledge. These semantic aspects are founded on our ontological and epistemological assumptions of reality.
-
-In general, they agree that tacit knowledge is embedded in the individual, whilst explicit knowledge is codified and recorded, and as such is designed for sharing.
-
-Knowledge is typically defined with reference to information, but some discuss the processes that convert information into knowledge, whilst others identify the 'added ingredients'. The processes that convert information into knowledge are variously described as:
-
-- synthesis of multiple sources of information over time;
-- belief structuring;  
-- study and experience;
-- organization and processing to convey understanding, experience, accumulated learning and experience; or
-- internalization with reference to cognitive frameworks.
-
-The 'added ingredients' definitions suggest variously that knowledge is:
-
-- a mix of contextual information, values, experience, and rules;
-- information, expert opinion, skills and experience;
-- information combined with understanding and capability;
-- perception, skills, training, common sense, and experience.
-
-Summarizing these definitions, knowledge might be viewed as a mix of information, understanding, capability, experience, skills and values, but it is important to note that not all authors mention all of these elements. They differentiate between tacit knowledge as embedded in the individual and explicit knowledge as residing in documents, databases and other recorded formats.
 
 **Defining wisdom**
-It perhaps has more to do with human intuition, understanding, interpretation and actions, than with systems.
-
-Some authors see wisdom as accumulated knowledge, which allows you to understand how to apply concepts from one domain to new situations or problems. In the knowledge management literature, some authors suggest that Wisdom is the highest level of abstraction, with vision foresight and the ability to see beyond the horizon.
 
 **Variables in the wisdom hierarchy**
-
-Interestingly those authors who draw the hierarchy offer a number of different views on the variables that change between the different levels of the hierarchy:
-- meaning and value
-- human input and computer input
-- algorithmicity and programmability
-- order, structure and human agency

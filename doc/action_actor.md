@@ -2,17 +2,172 @@
 
 ### Machines
 
-#### Information properties
+#### Types of Information: from data to wisdom
 
-We use the term information very broadly. Essentially, anything that can be digitized, encoded as a stream of bits, is information. Regardless of the particular source of value, people are willing to pay for information. As we see, many strategies for purveyors of information are based on the fact that consumers differ greatly in how they value particular information goods [@Shapiro1999].
+First of all, what is Information ? We often hear about terms like _Big Data_, _Information Overflow_, _Knowledge Economy_, _Conventional Wisdom_ (or _Common Sense_). Are Big Data and Information Overflow about the same thing? What is this so-called _Knowledge_ in the Knowledge Economy? Are all those terms referring to the same thing?
+
+The essential nature of information, since it is fundamental to our existence, has been considered by many disciplines, including communications theory, library and information science, information systems, cognitive science, and organization science. This has generated multiple perspectives on the nature of information. Of our mundane and technical concepts information
+is currently one of the most important, most widely used and least understood [@Rowley2007].
+
+The first widely-accepted Information Hierarchy has been proposed quite recently by @Ackoff1989. Ackoff's article, entitled _From data to wisdom_, proposed a hierarchy with the following levels: data, information, knowledge, understanding and wisdom. He defines these elements and explores the processes associated with the transformation between these elements:
+
+- **Data** are defined as symbols that represent properties of objects, events and their environment. They are the products of observation. But are of no use until they are in a useable (i.e. relevant) form. The difference between data and information is functional, not structural [@Ackoff1989].
+- **Information** is contained in descriptions, answers to questions that begin with such words as who, what, when and how many. Information systems generate, store, retrieve and process data. Information is inferred from data [@Ackoff1989].
+- **Knowledge** is know-how, and is what makes possible the transformation of information into instructions. Knowledge can be obtained either by transmission from another who has it, by instruction, or by extracting it from experience [@Ackoff1989].
+- **Wisdom** is the ability to increase effectiveness. Wisdom adds value, which requires the mental function that we call judgement. The ethical and aesthetic values that this implies are inherent to the actor and are unique and personal [@Ackoff1989].
+
+Some authors have elaborated further on Ackoff's exposition, suggesting that **Understanding** supports the transition from each stage to the next. They suggest that moving from data to information involves _understanding relations_, moving from information to knowledge involves _understanding patterns_, and moving from knowledge to wisdom involves _understanding principles_ [@Rowley2007].
+
+#### Data & Information: the realm of machines.
+
+##### Data is meaningless and worthless
+
+There is a strong consensus around the definition of data [@Rowley2007]:
+
+- Data has no meaning or value because it is without context and interpretation.
+- Data are discrete, objective facts or observations, which are unorganized and unprocessed, and do not convey any specific meaning.
+- Data items are an elementary and recorded description of things, events, activities and transactions.
+
+Interestingly, these definitions are largely in terms of what data lacks; data lacks meaning or value, is unorganized and unprocessed. They lay the foundations for defining information in terms of data [@Rowley2007].
+
+Data examples:
+
+- The bits (0/1) on a hard drive.
+- An array containing numbers or text.
+
+##### Information is structured Data
+
+The concepts of format, structure, organization, meaning and value feature in the various definitions [@Rowley2007]:
+
+- Information is formatted data and can be defined as a representation of reality.
+- Information is data which adds value to the understanding of a subject.
+- Information is data that have been shaped into a form that is meaningful and useful to human beings.
+- Information is data that have been organized so that they have meaning and value to the recipient.
+- Information is data processed for a purpose.
+
+There are a number of definitions of information in common use, which they suggest are [@Rowley2007]:
+
+- Data that have been processed so that they are meaningful.
+- Data that have been processed for a purpose.
+- Data that have been interpreted and understood by the recipient.
+
+The processes associated with converting data into information are: classification, rearranging/sorting, aggregating, performing calculations, and selection. Such processing of data requires a decision about the type of analysis, and this, in turn, requires an interpretation of the content of the data. To be relevant and have a purpose, information must be considered within the context where it is received and used [@Rowley2007].
+
+To conclude, in both the information systems textbooks and the knowledge management literature, information is defined in terms of data, and is seen to be organized or structured data [@Rowley2007].
+
+Information examples:
+
+- A list of facts: _The door has been closed at 19:38._
+- A picture (computed from an array of number, given the file format)
+- An array of numbers or text with labels (or column names) and some metadata information about the date and location when the data has been measured, with which instrument.
 
 Information has 3 fundamental properties: [@Iansiti2014]
 
-- Information can be transmitted perfectly without error
-- Information can be replicated indefinitely
-- Information can be communicated to the incremental consumer at zero marginal cost
+- Digital signals can be transmitted perfectly without error
+- Digital signals can be replicated indefinitely
+- Digital signals can be communicated to the incremental consumer at zero marginal cost
 
-Along the report we use interchangeably _Data_, _Information_ and sometimes _Insights_ or _Knowledge_. All those terms refers to the same concept of Information we described above.
+#### Knowledge and Wisdom: the realm of humans
+
+##### Knowledge is semantically combined Information
+
+Knowledge is an intrinsically ambiguous and equivocal term. There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it [@Rowley2007]:
+
+- Knowledge is the combination of data and information, to which is added expert opinion, skills, and experience, to result in a valuable asset which can be used to aid decision making.
+- Knowledge is data and/or information that have been organized and processed to convey understanding, experience, accumulated learning, and expertise as they apply to a current problem or activity.
+- Knowledge builds on information that is extracted from data. While data is a property of things, knowledge is a property of people that predisposes them to act in a particular way.
+
+##### Knowledge exchanges are positive sum
+
+Soudoplatoff's law: When one shares a material good, one divides it. When one shares an immaterial good, one multiplies it [@Aberkane2016].
+
+Since knowledge is an immaterial good, sharing it does not divide it, but rather multiplies it and also makes it evolve. Its economics, also, is one of fluxes rather than one of stocks, in which ownership must clearly be redefined [@Aberkane2016].
+
+- **Positive Sum**: Knowledge exchanges are positive sum. This is a re-expression of Soudoplatoff's law. Material exchanges are null sum, immaterial exchanges, such as knowledge exchanges, are positive sum [@Aberkane2016].
+
+An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area [@Rowley2007].
+
+##### Knowledge and Information value lies in Decision-making
+
+Knowledge consists of that mix of contextual information, values, experience, and rules. Knowledge involves the synthesis of multiple sources of information over time. The amount of human contribution increases along the continuum from data to information to knowledge [@Rowley2007].
+
+From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based [@Aberkane2016].
+
+Knowledge is typically defined with reference to information, but some discuss the processes that convert information into knowledge, whilst others identify the 'added ingredients'. The processes that convert information into knowledge are variously described as [@Rowley2007]:
+
+- synthesis of multiple sources of information over time.
+- belief structuring.  
+- study and experience.
+- organization and processing to convey understanding, experience, accumulated learning and experience.
+- internalization with reference to cognitive frameworks.
+
+The 'added ingredients' definitions suggest variously that knowledge is [@Rowley2007]:
+
+- a mix of contextual information, values, experience, and rules.
+- information, expert opinion, skills and experience.
+- information combined with understanding and capability.
+- perception, skills, training, common sense, and experience.
+
+Summarizing these definitions, knowledge might be viewed as a mix of information, understanding, capability, experience, skills and values, but it is important to note that not all authors mention all of these elements. They differentiate between tacit knowledge as embedded in the individual and explicit knowledge as residing in documents, databases and other recorded formats.
+
+##### Knowledge and Information value lies in Decision-making
+
+The main definition of Value of Information: how much answering a question allows a decision-maker to improve its decision [@Howard1966].
+
+- "answering": Value of Information is dependent of the all possible answers and their relative likelihood.
+- "improve": Value of Information isn't about sleeping better at night. If the expected value of the information (the chance you change your decision after receiving the informaiton times the relative value of the decisions) is lower than the cost of the information, just bite the bullet and don't run the test you were considering.
+- "decision": Value of Information isn't just curiosity. Information has Value only if some decision has to depend on that fact.
+
+##### Knowledge value rises through Combination
+
+To become knowledge, new insights are internalized by establishing links with already existing knowledge, and these links can range from firmly characterized relationships to vague associations. Prior knowledge is used to make sense of received information, and once accepted for inclusion, internalizes the new insights by linking with prior knowledge. Hence, the new knowledge is as much a function of prior knowledge as it is of received inputs. Some authors mention the importance of the semantic aspects of information in the creation of knowledge [@Rowley2007].
+
+**Superlinear**: Property compositions may be linear in general. From a saver's point of view adding one kilograms of rice to another kilograms of rice is something linear, and makes two kilograms of rice. As long as processes are not involved thus, property composition is linear. This does not apply to knowledge compositions however, precisely in that knowledge is a process. The composition of two elements of knowledge systematically generates a third one, which is anywhere between trivial (but non-null) and revolutionary [@Aberkane2016]. In other words, the paradigm for material goods is **not displacement and replacement**, whereas the paradigm for immaterial goods is **connectivity and recombination**  [@Iansiti2014]
+
+Knowledge may thus be considered to "reproduce" in a way, and the difference between knowing two things separately and knowing them together may be called the "fertility" of knowledge, which is somehow comparable to the notion of entrepreneurial added value. This fertility accounts for the intrinsic prolificity of knowledge [@Aberkane2016]. We may also oversimplify our paradigm by calling the fertility of knowledge "serendipity", that is, the fortuitous creation of novel knowledge from the collision of several distinct bits of knowledge [@Aberkane2016].
+
+##### Knowledge transfer between humans is constrained by Time and Attention
+
+Some authors differentiate between explicit knowledge and tacit knowledge, suggesting that explicit knowledge can be recorded in information systems, whereas tacit knowledge cannot be recorded since it is part of the human mind [@Rowley2007].
+
+In general, they agree that tacit knowledge is embedded in the individual, whilst explicit knowledge is codified and recorded, and as such is designed for sharing [@Rowley2007].
+
+**Not instantaneous**: Property exchanges may be considered instantaneous, and of course, scalable. However, knowledge exchanges take time. Knowledge exchanges, unlike properties exchanges, are flows [@Aberkane2016].
+
+What is it that we spend indeed in acquiring conceptual knowledge from a book, a video game or a course? Attention and time. The amount of flowed knowledge is proportional to their product, in that spending one hour and zero attention surely implies a null transfer, and spending all one's attention for less than even the subliminal perceptual threshold also implies a null flow [@Aberkane2016].
+
+Equation 1 - Simplest knowledge flow - from an economic point of view
+φ(k) ∝ At
+**"the amount of flowed knowledge follows the product of attention and time"**
+
+The product of attention and time becomes the most essential currency of nooconomics [@Aberkane2016].
+
+This has been understood already by some media visionaries, as Patrick Lelay, CEO of TF1, the leader of the french TV industry:
+> _There are many ways of talking about television. But, from a business perspective, let's be realistic: basically TF1's job is to help, say, Coca-Cola, to sell its product. For an advertising message to be perceived, the viewer's brain must be available. The purpose of our broadcasts is to make it available, that is, to divert it, to relax it, in order to make it ready between two ads. What we are selling to Coca-Cola is available human brain time._
+
+[Note: the only way to get the Attention and Time of a computer is to code. Software can be seen as Knowledge for computers.]
+
+##### Wisdom is the accumulation of Knowledge
+
+It perhaps has more to do with human intuition, understanding, interpretation and actions, than with systems [@Rowley2007].
+
+Some authors see wisdom as accumulated knowledge, which allows you to understand how to apply concepts from one domain to new situations or problems. In the knowledge management literature, some authors suggest that Wisdom is the highest level of abstraction, with vision foresight and the ability to see beyond the horizon [@Rowley2007].
+
+Wy do we even consider Wisdom in this essay? How this concept could be related to Organizational efficiency? This seems quite counter-intuitive to consider Wisdom at a time when all of our understandings about the economic world and our beliefs seem to be challenged. In fact, it may be one the most important aspect of the knowledge economy, yet underrated by the literature. Some authors suggest that we are currently transiting from one conventional wisdom to another. Others suggest that since knowledge is more and more available, organizations' leaders should focus on spreading a new wisdom, bringing a new vision.
+
+[TODO: Faire des liens avec les autres paragraphes: sur la vision à la toute fin, sur le fait de s'entourer de visionnaires à la toute fin et sur le changement de wisdom (voir Carlota Perez)]
+
+#### A hierarchy transcending the Human-Machine divide
+
+Interestingly those authors who draw the hierarchy offer a number of different views on the variables that change between the different levels of the hierarchy [@Rowley2007]:
+- meaning and value
+- human input and computer input
+- algorithmicity and programmability
+- order, structure and human agency
+
+On one end of the spectrum, Data has no value and no meaning for Humans, is only for Computers to be treated with algorithms. Whereas Wisdom is valuable and meaningful for Humans, cannot be recorded in Computer and cannot be programmatically extracted.
+
+Information and Knowledge being at the interface between Humans and Machines are all the rage in today's technological revolution. Mastering & Understanding the elements at the interface of those two words are the key to understand the current technological revolution
 
 #### Ubiquity of Information technology
 
@@ -66,7 +221,7 @@ During the last 2 decades, we already witnessed that specific computer algorithm
 - IBM's Watson has beaten Jeopardy (a TV Question-Answering contest) Champions in 2011 [@Ferrucci2013]
 - Deepmind's AlphaGo has beaten Go champion Lee Sedol in 2016 [@Hassabis2016]
 
-In less controlled environmentDeep learning is getting good results in more and more scientific fields: Character Recognition in the early 90s, Speech Recognition in the 2010s, Computer Vision in 2014 and now Natural Language Processing (see Yann Lecun's [post on facebook](https://www.facebook.com/yann.lecun/posts/10154498539442143)). Those results are deemed good becase those algorithms are much faster and on par with humans' accuracy on those increasingly complex tasks:
+In less controlled environment, Deep learning (a field of computer science) is getting good results in more and more scientific fields: Character Recognition in the early 90s, Speech Recognition in the 2010s, Computer Vision in 2014 and now Natural Language Processing (see Yann Lecun's [post on facebook](https://www.facebook.com/yann.lecun/posts/10154498539442143)). Those results are deemed good becase those algorithms are much faster and on par with humans' accuracy on those increasingly complex tasks:
 
 - Character Recognition AI is now widely used to process automatically many types of documents (invoices, purchase orders) and in postal sorting offices to read hand-written adresses [@Marinai2005].
 - Speech Recognition AI is now used to power phone-answering-robots in call centers and in search engine applications on smartphones.
