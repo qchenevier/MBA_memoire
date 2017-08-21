@@ -284,8 +284,6 @@ We developed a conceptual framework that emphasizes the strategic importance of 
 
 Our organizational structures have evolved to manage scarcity. The concept of ownership works well for scarcity, but accessing or sharing works better in an abundant, information-based world. While the information-based world is now moving exponentially, our organizational structures are still very linear (especially large ones). Matrix structures don't work in an exponential, information-based world. Rapid or disruptive change is something that large, matrixed organizations find extremely difficult [@VanGeest2014].
 
-The paradigm is **not displacement and replacement**, but **connectivity and recombination**  [@Iansiti2014]
-
 Speed of Digital Business Strategy: time takes on a more central role in digital business settings [@Bharadwaj2013].
 
 #### Assets for product leadership: Infrastructure & Innovation culture
