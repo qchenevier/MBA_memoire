@@ -8,9 +8,9 @@ We use the term information very broadly. Essentially, anything that can be digi
 
 Information has 3 fundamental properties: [@Iansiti2014]
 
-- Information can be transmitted perfectly without error: no depreciation with time/usage
-- Information can be replicated indefinitely: no reproduction cost
-- Information can be communicated to the incremental consumer at zero marginal cost: no transport cost
+- Information can be transmitted perfectly without error
+- Information can be replicated indefinitely
+- Information can be communicated to the incremental consumer at zero marginal cost
 
 Along the report we use interchangeably _Data_, _Information_ and sometimes _Insights_ or _Knowledge_. All those terms refers to the same concept of Information we described above.
 
