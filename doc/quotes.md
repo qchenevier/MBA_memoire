@@ -172,7 +172,7 @@ _Historically these transition processes have been long and difficult, with a ve
 
 #### The rise of AI makes emotional intelligence more important [@Beck2017]
 
-Don't fight the progress of technology. Machine learning and AI have the ability to improve outcomes and lower cost, so don't fight the robots. Examine your own capabilities interacting with, motivating, and assessing people. Invest in developing your emotional intelligence [@Beck2017].
+Don't fight the progress of technology. Machine Learning and AI have the ability to improve outcomes and lower cost, so don't fight the robots. Examine your own capabilities interacting with, motivating, and assessing people. Invest in developing your emotional intelligence [@Beck2017].
 
 What you have to offer, what you can do better than any smart machine, is relate to the people around you [@Beck2017].
 

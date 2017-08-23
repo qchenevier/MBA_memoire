@@ -204,10 +204,10 @@ Scale with Digital Business Strategy Will Increasingly Take Place under Conditio
 
 **Solution delivery:** Companies also need the capabilities to modify their processes or build new methods onto the data and process platform. Some IT departments have established special units to build emerging technology skills and methods. Others look outside the firm for help: Vendor partners can be very effective, but some executives expressed concern about over-reliance on vendors. Several executives described knowledge gaps that existed after they ended a vendor relationship [@Westerman2011].
 
-**Algorithms:** The world is pretty much run on algorithms. Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data. ExOs need to follow four steps [@VanGeest2014]:
+**Algorithms:** To exploit the new possibilities offered by Machine Learning algorithms, ExOs need to follow four steps [@VanGeest2014]:
 1. Gather: The algorithmic process starts with harnessing data, which is gathered via sensors or humans, or imported from public datasets.
 2. Organize: The next step is to organize the data, a process known as ETL (extract, transform and load).
-3. Apply: Once the data is accessible, machine learning tools identify trends and tune new algorithms.
+3. Apply: Once the data is accessible, Machine Learning tools identify trends and tune new algorithms.
 4. Expose: The final step is exposing the data, as if it were an open platform. Open data and APIs can be used to enable an ExO’s community to develop valuable services.
 
 **Analytics capabilities:**  Companies with integrated data are able to engage in more powerful analytics strategies. All executives also mentioned that building analytics capability was difficult, requiring skills and culture change in addition to investments [@Westerman2011].
