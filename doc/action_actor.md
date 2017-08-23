@@ -114,7 +114,7 @@ Information examples:
 - A picture (computed from an array of number, given the file format)
 - An array of numbers or text with labels (or column names) and some metadata information about the date and location when the data has been measured, with which instrument.
 
-#### From Data to Wisdom and from Machines to Humans: meaning and value
+#### From Data & Machines to Wisdom & Humans: meaning and value
 
 Interestingly those authors who draw the hierarchy offer a number of different views on the variables that change between the different levels of the hierarchy [@Rowley2007]:
 - meaning and value
@@ -195,7 +195,7 @@ Many skilled jobs are cognitive jobs (like Doctors, Financial advisers, Business
 
 Highly skilled workers can command high rates because of three capabilities. Their abilities to go through the early rote tasks quickly and accurately; their experiences and judgment in determining a course of action; and their savviness for helping clients navigate that course. AI and Machine Learning will quickly surpass our abilities on the first two capabilities. It’s easy to see the role of automated systems in data gathering and analysis, we’ve accepted that machines can do these types of tasks efficiently. However, their potential goes much further [@Beck2017].
 
-#### Human occupations are Changing
+#### Humans' Activities are redirected towards Meaning & Value
 
 The booming growth of Machine Learning and Artificial Intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications, and particularly the implications for our careers. As AI improves, which is happening quickly, a much broader set of "thinking" rather than "doing" jobs will be aﬀected. Jobs, that, until the last few years, we couldn't imagine being done without the participation of an actual, trained human being [@Beck2017]. Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015]. The Idea that technological advances favor more skilled workers is a twentieth century phenomenon [@Acemoglu2002]. It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves [@Beck2017].
 
@@ -233,7 +233,7 @@ To become knowledge, new insights are internalized by establishing links with al
 
 Knowledge may thus be considered to "reproduce" in a way, and the difference between knowing two things separately and knowing them together may be called the "fertility" of knowledge, which is somehow comparable to the notion of entrepreneurial added value. This fertility accounts for the intrinsic prolificity of knowledge [@Aberkane2016]. We may also oversimplify our paradigm by calling the fertility of knowledge "serendipity", that is, the fortuitous creation of novel knowledge from the collision of several distinct bits of knowledge [@Aberkane2016].
 
-#### Increasing speed of adoption of technologies
+#### Increasing speed of adoption of technologies: Humans are getting more and more wired to Information Technologies
 
 Many people suggest that rates of new product introduction and adoption are speeding up since centuries. It seems to be true: It took decades for the telephone to reach 50% of households, beginning before 1900, whereas it took five years or less for cellphones to accomplish the same penetration in 1990. And innovations introduced more recently are being adopted more quickly [@McGrath2013].
 
@@ -242,6 +242,20 @@ It took 30 years for electricity and 25 years for telephones to reach 10% adopti
 This rise of adoption and penetration rates for new technologies suggests that technology is less and less primarily used by new generations, the so-called _Millenials_ or _Y generation_. In fact, these terms uncover less an age reality than technological use reality. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
 
 As a results, the average human on this planet is more connected to all the other humans and communicates more with them than anytime in History. The world has never been so intertwined, in terms of information exchanges, even if the population has never been higher. Information is more available to anyone and anyone is more able to share information.
+
+#### Less information asymmetry means empowerment of consumers and employees
+
+Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space [@Bharadwaj2013].
+
+Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
+
+Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions [@Hirt2014].
+
+Digital technologies know no borders, and the customer's demand for a unified experience is raising pressure on global companies to standardize offerings. They have come to expect payment systems that work across borders, global distribution, and a uniform customer experience [@Hirt2014].
+
+This is because digital resources are "more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society" [@Bharadwaj2013].
+
+Some people may say that we will never trust machines with important decisions such as the management of our health and money, but this is twentieth century thinking. A new generation (often called Millenials) is engaging with smart machines that they trust, and often prefer [@Beck2017].
 
 #### Everybody is producing Information & Knowledge: the Consumer-producer {#consumer-producer}
 
@@ -254,7 +268,7 @@ Millennialization of consumers has turned consumers into producers, empowered in
 2. Nurture the community. Elements of nurturing include listening and giving back [@VanGeest2014].
 3. Create a platform to automate peer-to-peer engagement. Crowd is pull-based. You open up an idea, funding opportunity or incentive prize and let people find you [@VanGeest2014].
 
-#### Knowledge transfer between humans is constrained by Time and Attention
+#### Knowledge transfer to Humans is constrained by Time and Attention
 
 Some authors differentiate between explicit knowledge and tacit knowledge, suggesting that explicit knowledge can be recorded in information systems, whereas tacit knowledge cannot be recorded since it is part of the human mind [@Rowley2007].
 
@@ -275,20 +289,6 @@ This has been understood already by some media visionaries, as Patrick Lelay, CE
 
 [Note: the only way to get the Attention and Time of a computer is to code. Software can be seen as Knowledge for computers.]
 
-#### Knowledge transfer from Humans to Machines is constrained by Talent
-
-Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014]
-
-The competition to hire talent is now global, as technologies evolve faster and technology usage is exploding to increase automation.
-
-There are Growing talent mismatches between companies. Companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business [@Hirt2014].
-
-Between 2012 and 2020, the patch of the digital universe that CIOs and their IT staffs need to manage will become not just bigger but also more complex. The skills, experience, and resources to manage all these bits of data will become scarcer and more specialized, requiring a new, flexible, and scalable IT infrastructure that extends beyond the enterprise [@Gantz2012].
-
-Between 2014 and 2020, the amount of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
-
-For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
-
 #### Competition for attention: People want simpler interactions
 
 **Information is abundant, Attention is scarce:** Now that information is available so quickly, so ubiquitously, and so inexpensively, it is not surprising that everyone is complaining of information overload. Nobel prize-winning "economist Herbert Simon spoke for us all when he said that "a wealth of information creates a poverty of attention". Nowadays the problem is not information access but information overload. The real value produced by an information provider comes in locating, filtering, and communicating what is useful to the consumer. Any idiot can establish a Web presence, and lots of them have. The big problem is letting people know about it [@Shapiro1999].
@@ -303,19 +303,19 @@ Customers, too, are becoming more demanding. There is an "ever-rising tide of cu
 
 Some customers today favor self-service over personal interaction. For many young adults in their 20s and early 30s, interacting with a human service representative represents an inconvenience or an extra cost [@WESTERMAN2015].
 
-#### Less information asymmetry means empowerment of consumers and employees
+#### Knowledge transfer to Machines is constrained by Design Talent
 
-Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space [@Bharadwaj2013].
+Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014]
 
-Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
+The competition to hire talent is now global, as technologies evolve faster and technology usage is exploding to increase automation.
 
-Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions [@Hirt2014].
+There are Growing talent mismatches between companies. Companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business [@Hirt2014].
 
-Digital technologies know no borders, and the customer's demand for a unified experience is raising pressure on global companies to standardize offerings. They have come to expect payment systems that work across borders, global distribution, and a uniform customer experience [@Hirt2014].
+Between 2012 and 2020, the patch of the digital universe that CIOs and their IT staffs need to manage will become not just bigger but also more complex. The skills, experience, and resources to manage all these bits of data will become scarcer and more specialized, requiring a new, flexible, and scalable IT infrastructure that extends beyond the enterprise [@Gantz2012].
 
-This is because digital resources are "more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society" [@Bharadwaj2013].
+Between 2014 and 2020, the amount of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
 
-Some people may say that we will never trust machines with important decisions such as the management of our health and money, but this is twentieth century thinking. A new generation (often called Millenials) is engaging with smart machines that they trust, and often prefer [@Beck2017].
+For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
 
 #### Wisdom is the accumulation of Knowledge
 
