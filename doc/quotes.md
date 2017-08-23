@@ -684,3 +684,73 @@ The data-information-knowledge-wisdom hierarchy (DIKW), referred to variously as
 **Defining wisdom**
 
 **Variables in the wisdom hierarchy**
+
+#### The Long-Tail Strategy for IT Outsourcing [@Su2015a]
+
+IT outsourcing used to be driven by cost savings. Today, it's also driven by a need for innovation.
+
+Today's rapid pace of technological change has fundamentally transformed global IT outsourcing. Traditionally viewed as a cost-saving measure, IT outsourcing is increasingly leveraged as a strategic tool for acquiring cutting-edge innovation. Many companies are expanding their portfolios of IT suppliers to include smaller, highly innovative companies.
+
+**The Downside to Traditional Outsourcing**
+
+In the past, companies have been advised to optimize their portfolios of IT service providers by relying on several major partners with extensive technology and industry experience. To mitigate the significant lock-in risk associated with such a portfolio, companies have been advised to use shorter-term contracts with well-designed incentives.
+
+Although this approach to outsourcing was designed to ensure economies of scale and gain efficiency, companies also hoped that their outsourcing partners would introduce innovative technologies and associated services. Few business and IT leaders, however, are satisfied with the level of innovation introduced by their suppliers.
+
+Established companies need access to fresh ideas, new technologies, and cutting-edge expertise. In IT, these capabilities are often found among smaller, more agile suppliers.
+
+Many companies have created policies that mandate contracting only with a small group of strategic partners. Yet business-unit leaders tend to circumvent policies and engage the services of niche, value-adding suppliers to keep up with technological changes. This often results in a large set of shadow suppliers working on smaller, fragmented projects, often under the radar of sourcing-management offices.
+
+**The Long-Tail Strategy**
+
+We introduce a "long-tail" strategy for IT outsourcing. This innovative IT-outsourcing model combines a few key partnerships with a dynamically changing and unrestricted number of smaller contracts with other suppliers to deliver specific value propositions beyond the capabilities of the key partners. The small set of key partners assists the client in operating core technologies and business processes while integrating the local, temporary, or experimental capabilities of long-tail suppliers into the company's architecture. This strategy can turn into a reality the seemingly unattainable twin goals of introducing innovation while ensuring cost and efficiency.
+
+**Leveraging the Long Tail for Technology Leadership**
+
+To implement this strategy, Global Bank mobilized distributed, bottom-up decision making among its large number of "program managers", middle-level managers responsible for creating and maintaining IT systems serving particular business functions, while using multilevel, top-down governance to continually evaluate and consolidate the supplier portfolio.
+
+- First, the bank gave its program managers from diverse business units a high level of autonomy in supplier selection for smaller projects. These program managers experimented with hundreds of different niche players
+- Second, the bank incentivized the program managers to develop their own "best-of-breed" suppliers by helping suppliers acquire valuable knowledge about the financial industry. These "groomed" suppliers viewed Global Bank as a strategic client and were willing to invest in the relationship without being promised a longterm commitment. These new applications could be offered to other clients in the financial services industry, since they automated standard industry processes. Legal agreements were negotiated as to how the supplier could sell these new software "assets" and related services while rewarding Global Bank for its intellectual property.
+- The final piece of this new approach was that program managers evangelized their success stories across the organization, promoting "their" successful suppliers among other business units. Through this distributed decision-making process, a portfolio of preferred suppliers emerged. This distributed, internal championing process enabled Global Bank to foster and proactively manage an influx of diverse suppliers that offered unique value propositions.
+
+Instead of seeking a static portfolio with an "optimal" number of limited suppliers, the long tail of suppliers continually brought in new capabilities and technologies. The long-tail strategy can help multinationals tap into the latest technologies, but in order to do so more rapidly than the competition, this strategy requires strong technology design and architecture capabilities.
+
+In the past, developers supporting Toyota Motor North America's consumer portal delivery group tended to create multiple new databases for the applications they created locally. In the new governance model, Toyota created an architecture team that defined key business capabilities, as well as both technology and data standards. By adhering to architectural standards, smaller suppliers can now build new functions and applications that are integrated with Toyota's core infrastructure and data. The shared technology and data platforms offer a wider range of partnerships and accelerate the CPD group's time to market.
+
+It is important to enable dealerships to create their own applications and websites suited to their local needs. To facilitate this local flexibility, Toyota's IT organization has worked with the Toyota National Dealer Advisory Council to vet and finalize a list of 19 Web-development providers from which individual dealerships can choose providers take advantage of Toyota's standardized access portal to its centralized customer database when developing websites and applications for local dealerships.
+
+**Deriving Value From the Long Tail**
+
+Companies that manage their strategic partnerships effectively and institute architectural practices that preserve enterprise platforms can have a much higher number of small niche partnerships. The long-tail part of the portfolio enables the client to acquire emerging technologies and capabilities in an agile fashion.
+
+Companies need to build a special set of sourcing practices that institutionalizes both centralized and decentralized decision making. When it comes to discovering, nurturing, incentivizing, controlling, and integrating relationships with multiple suppliers.
+
+1. Distribute responsibility for scanning for new technologies.
+
+  Introduce informal and formal communication channels so that managers across diverse business units can recommend new technologies and suppliers to their peers. We had a parallel internal development, which we are now thinking of stopping because the new niche supplier is bypassing us. They are just moving much faster than we can. So why don't we jump on their train?
+
+2. Nurture relationships at the tail end.
+
+  Each supplier in the long tail may feel that its role is temporary and focus its best efforts on other clients that are willing to make long-term commitments. It is thus important that the sourcing-management office incentivize suppliers to invest in the relationship. Top-down incentives should be clear: If experimental projects show positive results, the supplier will get internal referrals and potentially make its way into the mix of strategic partners.
+  It is important for managers to realize that the viability of outsourcing relationships often lies in the alignment between the client's IT-sourcing strategies and the supplier's long-term growth strategies.
+  > You always want to be a customer of choice. And to be the customer of choice, you want to have the kind of partnership where you are making your supplier work on some of your most innovative activity. And if you do that consistently and honestly, the suppliers will give [your organization] the most talented resources [it has].
+
+3. Encourage sales pitches from your suppliers.
+
+  Suppliers' technology capabilities, coupled with knowledge acquired from the clients, can become a driver of value creation. Yet clients often express disappointment with their existing suppliers' capacity for innovation. A key idea of the long-tail strategy is to stimulate innovation by inviting both existing and new suppliers to propose new services and win new business.
+
+4. Govern your entire outsourcing portfolio.
+
+  Suppliers emerging from the distributed decision-making process needs to be effectively orchestrated at the enterprise level. The critical role of governance is to distinguish between the company's core processes, which long-term strategic partners can manage for efficiency, security, and scale, and temporary, experimental, local processes that local business or IT managers can outsource to niche suppliers. Governance must also specify standard, repeatable processes for due diligence, contracting, and performance measurement. To evaluate the performance of the portfolio, a company should look into its unit costs for IT services. Continually decreasing costs with sustained or improving service levels are indications of effective, strategic partnerships.
+
+5. Design for integration.
+
+  The long-tail strategy places significant emphasis on the client's integration capability. At the core of this capability are investments made into a strong technical architecture, shared data sources, and common standards develop a holistic and detailed view of different processes within the organization. Architectural investments that build capabilities for integration are expensive, but they save time and money when a company attempts to extend its capabilities with a new technology.
+
+  In this time of rapid technological change, relying on a limited number of suppliers, no matter how diversified, is insufficient.
+
+  Some forward-thinking suppliers are themselves proactively engaging niche technology players in open innovation projects to boost their company's capacity for innovation, but it often takes a long time for their customers to see the results of such open innovation strategies. Meanwhile, their clients can derive great value from establishing a more dynamic, diversified, yet still disciplined approach to creating and managing external relationships.
+
+  Note Quentin: This means by pusuing this strategy that the clients can reduce their suppliers bargaining power by by-passing them and nurturing relationship with suppliers upstream in the value chain.
+
+Implementing this strategy requires three changes in companies' outsourcing culture: From reactive problem-solving thinking to proactive, entrepreneurial thinking; from focus on cost to focus on value created through external innovative capabilities; and from a stable set of partnerships to a dynamic set of relationships.

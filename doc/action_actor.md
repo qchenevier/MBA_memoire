@@ -2,12 +2,18 @@
 
 ### Machines
 
-#### Types of Information: from data to wisdom
+#### Information is the propagation of a message
 
 First of all, what is Information ? We often hear about terms like _Big Data_, _Information Overflow_, _Knowledge Economy_, _Conventional Wisdom_ (or _Common Sense_). Are Big Data and Information Overflow about the same thing? What is this so-called _Knowledge_ in the Knowledge Economy? Are all those terms referring to the same thing?
 
-The essential nature of information, since it is fundamental to our existence, has been considered by many disciplines, including communications theory, library and information science, information systems, cognitive science, and organization science. This has generated multiple perspectives on the nature of information. Of our mundane and technical concepts information
-is currently one of the most important, most widely used and least understood [@Rowley2007].
+The essential nature of information, since it is fundamental to our existence, has been considered by many disciplines, including communications theory, library and information science, information systems, cognitive science, and organization science. This has generated multiple perspectives on the nature of information. Of our mundane and technical concepts information is currently one of the most important, most widely used and least understood [@Rowley2007].
+
+A quick look at the [Information wikipedia page](https://fr.wikipedia.org/wiki/Information) allows us to extract those notions:
+> At its most fundamental level, information is any propagation of cause and effect within a system. Information is conveyed either as the content of a message or through direct or indirect observation of anything. Information was apparently derived from the latin verb _informare_ (to inform) in the sense of "to give form to the mind", "to discipline", "instruct", "teach". Often information can be viewed as a type of input to an organism or system, one which is not important to the organism's or system's existence (unlike food and energy). Information is any type of pattern that influences the formation or transformation of other patterns.
+
+The first thing we can understand is that Information is the propagation of a message.
+
+#### A whole Information spectrum: from Data to Wisdom
 
 The first widely-accepted Information Hierarchy has been proposed quite recently by @Ackoff1989. Ackoff's article, entitled _From data to wisdom_, proposed a hierarchy with the following levels: data, information, knowledge, understanding and wisdom. He defines these elements and explores the processes associated with the transformation between these elements:
 
@@ -18,9 +24,7 @@ The first widely-accepted Information Hierarchy has been proposed quite recently
 
 Some authors have elaborated further on Ackoff's exposition, suggesting that **Understanding** supports the transition from each stage to the next. They suggest that moving from data to information involves _understanding relations_, moving from information to knowledge involves _understanding patterns_, and moving from knowledge to wisdom involves _understanding principles_ [@Rowley2007].
 
-#### Data & Information: the realm of machines.
-
-##### Data is meaningless and worthless
+#### Data is meaningless and worthless
 
 There is a strong consensus around the definition of data [@Rowley2007]:
 
@@ -30,12 +34,18 @@ There is a strong consensus around the definition of data [@Rowley2007]:
 
 Interestingly, these definitions are largely in terms of what data lacks; data lacks meaning or value, is unorganized and unprocessed. They lay the foundations for defining information in terms of data [@Rowley2007].
 
+Data, as seen by computers, has 3 fundamental properties: [@Iansiti2014]
+
+- Digital signals can be transmitted perfectly without error
+- Digital signals can be replicated indefinitely
+- Digital signals can be communicated to the incremental consumer at zero marginal cost
+
 Data examples:
 
 - The bits (0/1) on a hard drive.
 - An array containing numbers or text.
 
-##### Information is structured Data
+#### Information is structured Data
 
 The concepts of format, structure, organization, meaning and value feature in the various definitions [@Rowley2007]:
 
@@ -61,37 +71,17 @@ Information examples:
 - A picture (computed from an array of number, given the file format)
 - An array of numbers or text with labels (or column names) and some metadata information about the date and location when the data has been measured, with which instrument.
 
-Information has 3 fundamental properties: [@Iansiti2014]
-
-- Digital signals can be transmitted perfectly without error
-- Digital signals can be replicated indefinitely
-- Digital signals can be communicated to the incremental consumer at zero marginal cost
-
-#### Knowledge and Wisdom: the realm of humans
-
-##### Knowledge is semantically combined Information
-
-Knowledge is an intrinsically ambiguous and equivocal term. There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it [@Rowley2007]:
-
-- Knowledge is the combination of data and information, to which is added expert opinion, skills, and experience, to result in a valuable asset which can be used to aid decision making.
-- Knowledge is data and/or information that have been organized and processed to convey understanding, experience, accumulated learning, and expertise as they apply to a current problem or activity.
-- Knowledge builds on information that is extracted from data. While data is a property of things, knowledge is a property of people that predisposes them to act in a particular way.
-
-##### Knowledge exchanges are positive sum
+##### Data, Information and Knowledge exchanges are positive sum
 
 Soudoplatoff's law: When one shares a material good, one divides it. When one shares an immaterial good, one multiplies it [@Aberkane2016].
 
 Since knowledge is an immaterial good, sharing it does not divide it, but rather multiplies it and also makes it evolve. Its economics, also, is one of fluxes rather than one of stocks, in which ownership must clearly be redefined [@Aberkane2016].
 
-- **Positive Sum**: Knowledge exchanges are positive sum. This is a re-expression of Soudoplatoff's law. Material exchanges are null sum, immaterial exchanges, such as knowledge exchanges, are positive sum [@Aberkane2016].
-
-An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area [@Rowley2007].
-
-##### Knowledge and Information value lies in Decision-making
-
-Knowledge consists of that mix of contextual information, values, experience, and rules. Knowledge involves the synthesis of multiple sources of information over time. The amount of human contribution increases along the continuum from data to information to knowledge [@Rowley2007].
+**Positive Sum**: Knowledge exchanges are positive sum. This is a re-expression of Soudoplatoff's law. Material exchanges are null sum, immaterial exchanges, such as knowledge exchanges, are positive sum [@Aberkane2016].
 
 From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based [@Aberkane2016].
+
+#### Knowledge is integrated by Human cognition
 
 Knowledge is typically defined with reference to information, but some discuss the processes that convert information into knowledge, whilst others identify the 'added ingredients'. The processes that convert information into knowledge are variously described as [@Rowley2007]:
 
@@ -108,9 +98,19 @@ The 'added ingredients' definitions suggest variously that knowledge is [@Rowley
 - information combined with understanding and capability.
 - perception, skills, training, common sense, and experience.
 
-Summarizing these definitions, knowledge might be viewed as a mix of information, understanding, capability, experience, skills and values, but it is important to note that not all authors mention all of these elements. They differentiate between tacit knowledge as embedded in the individual and explicit knowledge as residing in documents, databases and other recorded formats.
+Knowledge consists of that mix of contextual information, values, experience, and rules. Knowledge involves the synthesis of multiple sources of information over time. The amount of human contribution increases along the continuum from data to information to knowledge [@Rowley2007].
 
-##### Knowledge and Information value lies in Decision-making
+Summarizing these definitions, knowledge might be viewed as a mix of information, understanding, capability, experience, skills and values, but it is important to note that not all authors mention all of these elements. They differentiate between tacit knowledge as embedded in the individual and explicit knowledge as residing in documents, databases and other recorded formats [@Rowley2007].
+
+##### Knowledge's value lies in Decision-making
+
+Knowledge is an intrinsically ambiguous and equivocal term. There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it [@Rowley2007]:
+
+- Knowledge is the combination of data and information, to which is added expert opinion, skills, and experience, to result in a valuable asset which can be used to aid decision making.
+- Knowledge is data and/or information that have been organized and processed to convey understanding, experience, accumulated learning, and expertise as they apply to a current problem or activity.
+- Knowledge builds on information that is extracted from data. While data is a property of things, knowledge is a property of people that predisposes them to act in a particular way.
+
+An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area [@Rowley2007].
 
 The main definition of Value of Information: how much answering a question allows a decision-maker to improve its decision [@Howard1966].
 
@@ -147,7 +147,7 @@ This has been understood already by some media visionaries, as Patrick Lelay, CE
 
 [Note: the only way to get the Attention and Time of a computer is to code. Software can be seen as Knowledge for computers.]
 
-##### Wisdom is the accumulation of Knowledge
+#### Wisdom is the accumulation of Knowledge
 
 It perhaps has more to do with human intuition, understanding, interpretation and actions, than with systems [@Rowley2007].
 
