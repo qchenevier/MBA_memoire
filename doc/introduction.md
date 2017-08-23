@@ -43,13 +43,11 @@ Without a unifying intellectual framework to understand digitalization, it seems
 - What kind of skill is useful to thrive in a job market where automation and machines seem to be nibbling every job? Should we favor emotional intelligence or computer programming?
 - Is the email improving an organization's performance by accelerating communication or worsening it by fostering bureaucracy ?
 
-#### An intellectual framework to understand digitalization {-}
+#### Action-Reaction {-}
 
-This document aims at summarizing the various research from the last two decades on this topic by exploring 2 dimensions:
+The first dimension of Digitalization we will use in this document relates to the direction of the perturbation we describe. Like the chinese keyword [**_gǎnyìng_**](https://en.wikipedia.org/wiki/Ganying) meaning _correlative resonance_, which stems from **_gǎn_** meaning _feel, sense, touch, be affected_ and **_yìng_** meaning _respond, answer, adapt to, deal with_, this dimension analyses the fact that change is the result of an interaction between an entity and its environment. Other word assiocations like **Stimulus-Response**, **Input-Output** would have been suitable also.
 
-Action vs Reaction
-~ This dimension relates to the direction of the perturbation we describe. Like the chinese keyword [**_gǎnyìng_**](https://en.wikipedia.org/wiki/Ganying) meaning _correlative resonance_, which stems from **_gǎn_** meaning _feel, sense, touch, be affected_ and **_yìng_** meaning _respond, answer, adapt to, deal with_, this dimension analyses the fact that change is the result of an interaction between an entity and its environment. Other word assiocations like **Stimulus-Response**, **Input-Output** would have been suitable also.
-~ In this context, **Action** refers to the changes which do not originate in the organizations but rather from its environment and its stakeholders. On the other hand, **Reaction** refers to the changes which originate in the organization and modify its behavior towards its environment and stakeholders.
+In this context, **Action** refers to the changes which do not originate in the organizations but rather from its environment and its stakeholders. On the other hand, **Reaction** refers to the changes which originate in the organization and modify its behavior towards its environment and stakeholders.
 
   - What is changing?
   - What can you do about it?
@@ -58,9 +56,11 @@ Action vs Reaction
   - What is the new context for organizations?
   - How can they adapt to it?
 
-Actor vs Organization
-~ This dimension relate to the scale at which we describe the perturbation. Like a widely-used sociological tool, named [**Actor-Network theory**](https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory), which describes an organization by identifying the actors which compose it, including machines, and  the network of relations which connects those actors. The term _Network_ has been replaced by _Organization_ because of its strong technological meaning in the field of telecommunications in the context of this report. Other word associations like **Microeconomic-Macroeconomic**, **Unit-Group**, **Small-Big** would have been suitable also.
-~ In this context, **Actor** refers to all the tangible and intangible entities contained in an organization. The main entities of an organization are the people belonging to that organization. Coherently the other entities we consider are those which can interact with (or be handled by) a human: tangible like a computer, a car, a desk, a smartphone or intangible like an application, a database, a knowledge, a technology or money. On the other hand, **Organization** refers to the combination of those entities through a network of interactions and flows. An organization could be of any form, but most of the organizations we consider in this report have a hierarchical structure. Hierarchical organizations are pretty common but it is only one type of among others.
+#### Actor-Organization {-}
+
+The second dimenson of Digitalization we will use in this document relates to the scale at which we describe the perturbation. Like a widely-used sociological tool, named [**Actor-Network theory**](https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory), which describes an organization by identifying the actors which compose it, including machines, and  the network of relations which connects those actors. The term _Network_ has been replaced by _Organization_ because of its strong technological meaning in the field of telecommunications in the context of this report. Other word associations like **Microeconomic-Macroeconomic**, **Unit-Group**, **Small-Big** would have been suitable also.
+
+In this context, **Actor** refers to all the tangible and intangible entities contained in an organization. The main entities of an organization are the people belonging to that organization. Coherently the other entities we consider are those which can interact with (or be handled by) a human: tangible like a computer, a car, a desk, a smartphone or intangible like an application, a database, a knowledge, a technology or money. On the other hand, **Organization** refers to the combination of those entities through a network of interactions and flows. An organization could be of any form, but most of the organizations we consider in this report have a hierarchical structure. Hierarchical organizations are pretty common but it is only one type of among others.
 
   - What is happening locally?
   - What is happening globally?
@@ -69,15 +69,15 @@ Actor vs Organization
   - What are the new systems of technologies and humans?
   - How are organized digitalized organizations?
 
-\bigskip
+#### An intellectual journey to understand digitalization {-}
 
-To understand the whole digitalization phenomenon, we suggest to follow an intellectual journey which encompasses those 2 dimensions:
+To understand the whole digitalization phenomenon, we suggest to follow an intellectual journey which encompasses those 2 dimensions: going from inward action at actors' level to inward action at organizational level to outward reaction at organizational level to outward reaction at actors'.
 
-1. **Action of Actors**
+1. **Action on Actors**
 
     What are the digital technologies at hand ? How are they used in our daily lives? What are our new behaviors as customers? as employees?
 
-2. **Action of Organizations**
+2. **Action on Organizations**
 
     From these Actors' level changes, what are the changes impacting the efficiency of the organizations? How are the most efficient organizations behaving? How are they structured? What is changed in the market dynamics?
 

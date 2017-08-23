@@ -1,4 +1,4 @@
-## Actors' action
+## Action on Actors
 
 ### Machines
 
@@ -45,7 +45,7 @@ Data examples:
 - The bits (0/1) on a hard drive.
 - An array containing numbers or text.
 
-#### Information is structured Data
+#### Information is structured Data and is meaningful
 
 The concepts of format, structure, organization, meaning and value feature in the various definitions [@Rowley2007]:
 
@@ -71,7 +71,7 @@ Information examples:
 - A picture (computed from an array of number, given the file format)
 - An array of numbers or text with labels (or column names) and some metadata information about the date and location when the data has been measured, with which instrument.
 
-##### Data, Information and Knowledge exchanges are positive sum
+#### Data, Information and Knowledge exchanges are positive sum
 
 Soudoplatoff's law: When one shares a material good, one divides it. When one shares an immaterial good, one multiplies it [@Aberkane2016].
 
@@ -81,7 +81,7 @@ Since knowledge is an immaterial good, sharing it does not divide it, but rather
 
 From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based [@Aberkane2016].
 
-#### Knowledge is integrated by Human cognition
+#### Knowledge is Information combined by Human cognition
 
 Knowledge is typically defined with reference to information, but some discuss the processes that convert information into knowledge, whilst others identify the 'added ingredients'. The processes that convert information into knowledge are variously described as [@Rowley2007]:
 
@@ -102,7 +102,7 @@ Knowledge consists of that mix of contextual information, values, experience, an
 
 Summarizing these definitions, knowledge might be viewed as a mix of information, understanding, capability, experience, skills and values, but it is important to note that not all authors mention all of these elements. They differentiate between tacit knowledge as embedded in the individual and explicit knowledge as residing in documents, databases and other recorded formats [@Rowley2007].
 
-##### Knowledge's value lies in Decision-making
+#### Knowledge is valuable and relates to Decision-making & Action
 
 Knowledge is an intrinsically ambiguous and equivocal term. There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it [@Rowley2007]:
 
@@ -118,7 +118,7 @@ The main definition of Value of Information: how much answering a question allow
 - "improve": Value of Information isn't about sleeping better at night. If the expected value of the information (the chance you change your decision after receiving the informaiton times the relative value of the decisions) is lower than the cost of the information, just bite the bullet and don't run the test you were considering.
 - "decision": Value of Information isn't just curiosity. Information has Value only if some decision has to depend on that fact.
 
-##### Knowledge value rises through Combination
+#### Knowledge's value rises through Combination
 
 To become knowledge, new insights are internalized by establishing links with already existing knowledge, and these links can range from firmly characterized relationships to vague associations. Prior knowledge is used to make sense of received information, and once accepted for inclusion, internalizes the new insights by linking with prior knowledge. Hence, the new knowledge is as much a function of prior knowledge as it is of received inputs. Some authors mention the importance of the semantic aspects of information in the creation of knowledge [@Rowley2007].
 
@@ -126,7 +126,7 @@ To become knowledge, new insights are internalized by establishing links with al
 
 Knowledge may thus be considered to "reproduce" in a way, and the difference between knowing two things separately and knowing them together may be called the "fertility" of knowledge, which is somehow comparable to the notion of entrepreneurial added value. This fertility accounts for the intrinsic prolificity of knowledge [@Aberkane2016]. We may also oversimplify our paradigm by calling the fertility of knowledge "serendipity", that is, the fortuitous creation of novel knowledge from the collision of several distinct bits of knowledge [@Aberkane2016].
 
-##### Knowledge transfer between humans is constrained by Time and Attention
+#### Knowledge transfer between humans is constrained by Time and Attention
 
 Some authors differentiate between explicit knowledge and tacit knowledge, suggesting that explicit knowledge can be recorded in information systems, whereas tacit knowledge cannot be recorded since it is part of the human mind [@Rowley2007].
 
@@ -155,9 +155,9 @@ Some authors see wisdom as accumulated knowledge, which allows you to understand
 
 Wy do we even consider Wisdom in this essay? How this concept could be related to Organizational efficiency? This seems quite counter-intuitive to consider Wisdom at a time when all of our understandings about the economic world and our beliefs seem to be challenged. In fact, it may be one the most important aspect of the knowledge economy, yet underrated by the literature. Some authors suggest that we are currently transiting from one conventional wisdom to another. Others suggest that since knowledge is more and more available, organizations' leaders should focus on spreading a new wisdom, bringing a new vision.
 
-[TODO: Faire des liens avec les autres paragraphes: sur la vision à la toute fin, sur le fait de s'entourer de visionnaires à la toute fin et sur le changement de wisdom (voir Carlota Perez)]
+See also the part about [Vision](#vision).
 
-#### A hierarchy transcending the Human-Machine divide
+#### The Data-Wisdom hierarchy is linking Machines to Humans
 
 Interestingly those authors who draw the hierarchy offer a number of different views on the variables that change between the different levels of the hierarchy [@Rowley2007]:
 - meaning and value
@@ -171,7 +171,7 @@ Information and Knowledge being at the interface between Humans and Machines are
 
 #### Ubiquity of Information technology
 
-As seen in the introduction, [each technological revolution has its key factor](#technological-revolution) has its key factor and the key factor of the current Information & telecommunications revolution is cheap electronic chips. In each case, the "key factor" steers engineering and investment decisions towards its intensive use. New technology systems are built accordingly, based on: microelectronics, software & telecommunications [@Perez2004].
+As seen in the introduction, [each technological revolution has its key factor](#technological-revolution) and the key factor of the current Information & telecommunications revolution is cheap electronic chips. In each case, the "key factor" steers engineering and investment decisions towards its intensive use. New technology systems are built accordingly, based on: microelectronics, software & telecommunications [@Perez2004].
 
 The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web) [@Bharadwaj2013]. Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015]. Information goods, powerful computing devices, and inexpensive digital communication are changing business and society [@Gimpel2012].
 
@@ -252,7 +252,7 @@ According to @Frey2017, 3 Tasks categories won't be automated: [@Frey2017]
 
 ### Humans
 
-#### Increasing speed of adoption of technologies: the birth of Homo Numericus
+#### Increasing speed of adoption of technologies
 
 Many people suggest that rates of new product introduction and adoption are speeding up since centuries. It seems to be true: It took decades for the telephone to reach 50% of households, beginning before 1900, whereas it took five years or less for cellphones to accomplish the same penetration in 1990. And innovations introduced more recently are being adopted more quickly [@McGrath2013].
 
