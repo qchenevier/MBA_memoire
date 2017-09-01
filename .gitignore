@@ -19,3 +19,5 @@ sources
 
 test_*
 tmp_*
+
+node_modules
