@@ -767,28 +767,6 @@ Technological Uncertainty: individual not sure about the return of his productiv
 - optimal speculation
 - resale of the information (to other market actors that will do consumptive adaptation and/or optimal speculation)
 
-According to @Hirshleifer1971 there are 2 types of uncertainty: market uncertainty and technology uncertainty.
-
-The business of **Information Search** is about reducing market uncertainty by producing Information about market opportunities for each individual, i.e. searching trading partners, reducing the cost of transaction.
-
-The business of **Information Production** is about reducing technological uncertainty by combination of value-less information by creating valuable technological Information or Knowledge (such as event prediction or technological innovation) reducing the cost of production.
-
-Source of Value of Information or Knowledge: **Private, Prior, Sure**.
-
-Capture Value of Information of Knowledge: **Consumptive Adaptation, Optimal Speculation, Resale of the Information**
-
-The most powerful way to capture Value from the Information is to resell it to the actors of the market. That way you are not limited by your engagement (or capacity of engagement) in the market, in fact you may not be engaged at all in the market.
-
-Example:
-I predicted that it will be raining in 1 week, raising the price of umbrellas.
-
-- consumptive adaptation: I buy 1 umbrella now, before that the umbrella price goes up in 1 week. My profit is limited by my consumption.
-- optimal speculation: I use my capital to buy umbrellas at low price now, to resell them in 1 week when the price goes up. My profit is limited by my capital.
-- resale of information: I make a deal with several umbrella manufacturers to sell them my information. My profit is limited by the size of the umbrella market, not by my size in consumption or capital.
-
-If I'm not an actor of this market, I cannot profit from consumptive adaptation or optimal speculation, but I can still profit from reselling Information. If I'm not located where it will be raining in 1 week, I won't be able to sell my umbrellas to the people needing it. But I'm still able to sell the Information to the actors of that market so that they can improve their production capacity.
-
-
 Note on Technical Information or Knowledge:
 
 Foreknowledge is the ability to successfully predict tomorrow's (or next year's) weather. Whatever does actually occur will, in due time, be evident to all; the only aspect of information that may be of advantage is prior knowledge as to what will happen [@Hirshleifer1971].

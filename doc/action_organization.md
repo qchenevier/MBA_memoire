@@ -28,14 +28,7 @@ Product leaders are their own fiercest competitors. Product leaders also possess
 
 To the third category of customers, new, different, and unusual products count most. These are customers who, are primarily interested in fashion and trends. For a company to succeed in serving these customers, it has to focus on Product Leadership [@Treacy1993].
 
-#### Foresee Substitutes and Threat of Entry
-
-Companies focusing on a Product Leadership value discipline, seem to be primarily impacted by 2 Porter's forces:
-
-- Threat of Entry
-- Substitutes
-
-##### Threat of entry
+#### Foresee Threat of entry
 
 The seriousness of the threat of entry depends on the barriers present and on the reaction from existing competitors that entrants can expect. There are six major sources of barriers to entry:
 
@@ -52,7 +45,7 @@ The company is likely to have second thoughts if incumbents have previously lash
 - The incumbents seem likely to cut prices
 - Industry growth is slow, affecting its ability to absorb the new arrival
 
-##### Substitutes
+#### Foresee Substitutes
 
 By placing a ceiling on prices it can charge, substitute products or services limit the potential of an industry, unless it can upgrade the quality of the product or differentiate it. Manifestly, the more attractive the price-performance trade-off offered by substitute products, the firmer the lid placed on the industry's profit potential. Substitutes not only limit profits in normal times; they also reduce the bonanza an industry can reap in boom times [@Porter1979].
 
@@ -176,10 +169,6 @@ The second set of customers is more concerned with obtaining precisely what they
 
 #### Foresee Powerful suppliers
 
-Customer Intimacy relates primarily to one of Porter's forces: Powerful suppliers.
-
-##### Powerful suppliers
-
 Suppliers can exert bargaining power on participants in an industry by raising prices or reducing the quality of purchased goods and services [@Porter1979].
 
 A supplier group is powerful if [@Porter1979]:
@@ -218,14 +207,7 @@ Companies that have adopted a strategy of Operational Excellence also have built
 
 One set of potential customers denes value within a matrix of price, convenience, and quality, with price the dominant factor. These customers are less particular about what they buy than they are about getting it at the lowest possible price and with the least possible hassle. The business that succeeds by serving these customers focuses on Operational Excellence [@Treacy1993].
 
-#### Foresee Rivals jockeying for position and Powerful buyers
-
-Related primarily to 2 Porter's forces:
-
-- Rivals jockeying for position
-- Powerful buyers
-
-##### Rivals jockeying for position
+#### Foresee Rivals jockeying for position
 
 Rivalry among existing competitors takes the familiar form of jockeying for position-using tactics like price competition, product introduction, and advertising slugfests. Intense rivalry is related to the presence of a number of factors [@Porter1979]:
 
@@ -239,7 +221,7 @@ Rivalry among existing competitors takes the familiar form of jockeying for posi
 
 As an industry matures, its growth rate changes, resulting in declining profits and (often) a shakeout. Technological innovation can boost the level of fixed costs in the production process. While a company must live with many of these factors (because they are built into industry economics) it may have some latitude for improving matters through strategic shifts. For example, it may try to raise buyers' switching costs or increase product differentiation [@Porter1979].
 
-##### Powerful buyers
+#### Foresee Powerful buyers
 
 Customers likewise can force down prices, demand higher quality or more service, and play competitors off against each other, all at the expense of industry profits [@Porter1979].
 

@@ -26,6 +26,45 @@ Successful Digital Transformation comes from reshaping the organization to take 
 
 Beware of the assumption: **The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
 
+#### The Information Value Chain
+
+According to @Hirshleifer1971 there are 2 types of economical uncertainty: Market Uncertainty and Technology Uncertainty, and hence, Information is able to create Value by helping Decision making regarding those two uncertainties.
+
+Market uncertainty happens when an individual is imperfectly informed about his market opportunities, i.e. about the supply-demand offers of others: there are costly patterns of search for trading partners, which replace the traditional assumption of costless exchange [@Hirshleifer1971].
+
+Technological uncertainty happens when individuals are unsure about the size of their own commodity endowments and/or about the returns attainable from their own productive investments [@Hirshleifer1971].
+
+Produce, search, and/or deliver: CIME (Communication, Information, Media, Entertainment) firms create value by managing only three types of transactions: production, search, and delivery [@Gimpel2012]:
+
+- Production is "making goods available for use."
+- Search is matching different parties together so they can trade
+- Delivery is transmitting or communicating information and information goods
+
+The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability [@Gimpel2012].
+
+CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
+
+
+The business of **Information Search** is about reducing market uncertainty by producing Information about market opportunities for each individual, i.e. searching trading partners, reducing the cost of transaction.
+
+The business of **Information Production** is about reducing technological uncertainty by combination of value-less information by creating valuable technological Information or Knowledge (such as event prediction or technological innovation) reducing the cost of production.
+
+It is interesting to note that the Delivery of Information is not considered by @Hirshleifer1971 in his model. Maybe the Value of this activity was less striking and less easy to modelize. It could explain why most telecommunication companies (working in the Delivery of Information) are diversifying their activities in the Information Production or Search. The current battle around net neutrality in USA, where Telecom operators are trying to control the Information which is transiting through their pipes is revealing how they they think that the Information Delivery activity is not Value adding enough: they are trying to control the Information Produce and Search to extract value.
+
+To enhance the Decisions of an Actor on a Market, an Information or Knowledge should have the following properties: **Private, Prior, Sure**.
+
+According to @Hirshleifer1971, there are 3 ways to capture the value of an Information or a Knowledge relevant to a market: **Consumptive Adaptation, Optimal Speculation, Resale of the Information**.
+
+The most powerful way to capture Value from the Information is to resell it to the actors of the market. That way you are not limited by your engagement (or capacity of engagement) in the market, in fact you may not be engaged at all in the market.
+
+Example: I predicted that it will be raining in one week, this will raise the price of umbrellas. According to @Hirshleifer1971, I have 3 ways to capture the value of this Information:
+
+- consumptive adaptation: I buy an umbrella now, before that the umbrella price goes up in 1 week. My profit is limited by my consumption.
+- optimal speculation: I use my capital to buy umbrellas at low price now, to resell them in 1 week when the price goes up. My profit is limited by my capital.
+- resale of information: I make a deal with several umbrella manufacturers to sell them my information. My profit is limited by the size of the umbrella market, not by my size in consumption or capital.
+
+If I'm not an actor of this market, I cannot profit from consumptive adaptation or optimal speculation, but I can still profit from reselling Information. If I'm not located where it will be raining in 1 week, I won't be able to sell my umbrellas to the people needing it. But I'm still able to sell the Information to the actors of that market so that they can improve their production capacity.
+
 
 #### Analyze your business model: Assets and Rights sold
 
@@ -45,16 +84,7 @@ The four rights types sold [@PeterWeill2011]:
 - Landlords, which sell only the right to use assets for a specified period of time
 - Brokers, which receive a fee for matching buyers and sellers without ever taking ownership or custody of the product
 
-Produce, search, and/or deliver: CIME firms create value by managing only three types of transactions: production, search, and delivery [@Gimpel2012]:
-
-- Production is "making goods available for use."
-- Search is matching different parties together so they can trade
-- Delivery is transmitting or communicating information and information goods
-
-The PSD framework helps to identify and separate core revenue-generating transactions from supporting, non-core activities, distinctions that often become blurred after long periods of stability [@Gimpel2012].
-CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
-
-Combining those 2 frameworks, it seems that:
+Combining the Produce-Deliver-Search framework with this Business Model framework, it seems that:
 
 - Search is the activity of Brokers.
 - Production is the activity of Creators.

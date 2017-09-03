@@ -41,8 +41,6 @@ Positive-Sum exchanges mean that the actors of an economic system benefit from m
 
 Please note that this rule of thumb does not comprehend the notion of Value, which is studied by Game Thoery and Economics.  
 
-[TODO: move this part next to a value one?] From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based [@Aberkane2016].
-
 #### Data is unstructured, meaningless and worthless
 
 There is a strong consensus around the definition of Data [@Rowley2007]:
@@ -64,7 +62,7 @@ Data examples:
 - The bits (0/1) on a hard drive.
 - An array containing numbers or text.
 
-#### Information is Data structured by a Meaning given by Humans
+#### Information is Data completed by a Meaning
 
 The concepts of format, structure, organization, meaning and value feature in the various definitions [@Rowley2007]:
 
@@ -159,7 +157,6 @@ Knowledge consists of that mix of contextual information, values, experience, an
 
 Summarizing these definitions, knowledge might be viewed as a mix of information, understanding, capability, experience, skills and values, but it is important to note that not all authors mention all of these elements. They differentiate between tacit knowledge as embedded in the individual and explicit knowledge as residing in documents, databases and other recorded formats [@Rowley2007].
 
-#### Knowledge is valuable and relates to Decision-making & Action
 
 Knowledge is an intrinsically ambiguous and equivocal term. There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it [@Rowley2007]:
 
@@ -167,21 +164,59 @@ Knowledge is an intrinsically ambiguous and equivocal term. There is still no co
 - Knowledge is data and/or information that have been organized and processed to convey understanding, experience, accumulated learning, and expertise as they apply to a current problem or activity.
 - Knowledge builds on information that is extracted from data. While data is a property of things, knowledge is a property of people that predisposes them to act in a particular way.
 
+#### Information & Knowledge Value relates to Decision-making & Action
+
 An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area [@Rowley2007].
 
-The main definition of Value of Information: how much answering a question allows a decision-maker to improve its decision [@Howard1966].
+Economically, the main definition of Value of Information is: how much answering a question allows a decision-maker to improve its decision [@Howard1966].
 
 - "answering": Value of Information is dependent of the all possible answers and their relative likelihood.
 - "improve": Value of Information isn't about sleeping better at night. If the expected value of the information (the chance you change your decision after receiving the informaiton times the relative value of the decisions) is lower than the cost of the information, just bite the bullet and don't run the test you were considering.
 - "decision": Value of Information isn't just curiosity. Information has Value only if some decision has to depend on that fact.
 
-#### Knowledge's value rises through Combination
+According to @Hirshleifer1971 there are 2 types of uncertainty: market uncertainty and technology uncertainty.
+
+The business of **Information Search** is about reducing market uncertainty by producing Information about market opportunities for each individual, i.e. searching trading partners, reducing the cost of transaction.
+
+The business of **Information Production** is about reducing technological uncertainty by combination of value-less information by creating valuable technological Information or Knowledge (such as event prediction or technological innovation) reducing the cost of production.
+
+Source of Value of Information or Knowledge: **Private, Prior, Sure**.
+
+Capture Value of Information or Knowledge: **Consumptive Adaptation, Optimal Speculation, Resale of the Information**
+
+The most powerful way to capture Value from the Information is to resell it to the actors of the market. That way you are not limited by your engagement (or capacity of engagement) in the market, in fact you may not be engaged at all in the market.
+
+Example: I predicted that it will be raining in one week, this will raise the price of umbrellas. According to @Hirshleifer1971, I have 3 ways to capture the value of this Information:
+
+- consumptive adaptation: I buy an umbrella now, before that the umbrella price goes up in 1 week. My profit is limited by my consumption.
+- optimal speculation: I use my capital to buy umbrellas at low price now, to resell them in 1 week when the price goes up. My profit is limited by my capital.
+- resale of information: I make a deal with several umbrella manufacturers to sell them my information. My profit is limited by the size of the umbrella market, not by my size in consumption or capital.
+
+If I'm not an actor of this market, I cannot profit from consumptive adaptation or optimal speculation, but I can still profit from reselling Information. If I'm not located where it will be raining in 1 week, I won't be able to sell my umbrellas to the people needing it. But I'm still able to sell the Information to the actors of that market so that they can improve their production capacity.
+
+#### Knowledge grows through Combination
 
 To become knowledge, new insights are internalized by establishing links with already existing knowledge, and these links can range from firmly characterized relationships to vague associations. Prior knowledge is used to make sense of received information, and once accepted for inclusion, internalizes the new insights by linking with prior knowledge. Hence, the new knowledge is as much a function of prior knowledge as it is of received inputs. Some authors mention the importance of the semantic aspects of information in the creation of knowledge [@Rowley2007].
 
 **Superlinear**: Property compositions may be linear in general. From a saver's point of view adding one kilograms of rice to another kilograms of rice is something linear, and makes two kilograms of rice. As long as processes are not involved thus, property composition is linear. This does not apply to knowledge compositions however, precisely in that knowledge is a process. The composition of two elements of knowledge systematically generates a third one, which is anywhere between trivial (but non-null) and revolutionary [@Aberkane2016]. In other words, the paradigm for material goods is **not displacement and replacement**, whereas the paradigm for immaterial goods is **connectivity and recombination**  [@Iansiti2014]
 
 Knowledge may thus be considered to "reproduce" in a way, and the difference between knowing two things separately and knowing them together may be called the "fertility" of knowledge, which is somehow comparable to the notion of entrepreneurial added value. This fertility accounts for the intrinsic prolificity of knowledge [@Aberkane2016]. We may also oversimplify our paradigm by calling the fertility of knowledge "serendipity", that is, the fortuitous creation of novel knowledge from the collision of several distinct bits of knowledge [@Aberkane2016].
+
+From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based [@Aberkane2016].
+
+#### Humans' Activities are redirected towards Meaning & Value [TODO: change this title]
+
+The booming growth of Machine Learning and Artificial Intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications, and particularly the implications for our careers. As AI improves, which is happening quickly, a much broader set of "thinking" rather than "doing" jobs will be aﬀected. Jobs, that, until the last few years, we couldn't imagine being done without the participation of an actual, trained human being [@Beck2017]. Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015]. The Idea that technological advances favor more skilled workers is a twentieth century phenomenon [@Acemoglu2002]. It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves [@Beck2017].
+
+Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines [@Hirt2014]. Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates [@Manyika2015]. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives [@Hirt2014].
+
+Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but IT technology creates the need for new roles [@Manyika2015]. Those that want to stay relevant in their professions will need to focus on skills and capabilities that Artificial Intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as Artificial Intelligence and Machine Learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
+
+According to @Frey2017, 3 Tasks categories won't be automated: [@Frey2017]
+
+- **Perception & Manipulation** tasks: especially in unstructured work environment (personal house vs airport or train station), irregular objects.
+- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value of creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is difficult.
+- **Social intelligence** tasks: involving negotiation, persuasion and care.
 
 #### Algorithms are a transcription of Human Knowledge and we are getting better at transcribing it.
 
@@ -218,20 +253,6 @@ Many skilled jobs are cognitive jobs (like Doctors, Financial advisers, Business
 5. Implement the course of action
 
 Highly skilled workers can command high rates because of three capabilities. Their abilities to go through the early rote tasks quickly and accurately; their experiences and judgment in determining a course of action; and their savviness for helping clients navigate that course. AI and Machine Learning will quickly surpass our abilities on the first two capabilities. It’s easy to see the role of automated systems in data gathering and analysis, we’ve accepted that machines can do these types of tasks efficiently. However, their potential goes much further [@Beck2017].
-
-#### Humans' Activities are redirected towards Meaning & Value
-
-The booming growth of Machine Learning and Artificial Intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications, and particularly the implications for our careers. As AI improves, which is happening quickly, a much broader set of "thinking" rather than "doing" jobs will be aﬀected. Jobs, that, until the last few years, we couldn't imagine being done without the participation of an actual, trained human being [@Beck2017]. Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015]. The Idea that technological advances favor more skilled workers is a twentieth century phenomenon [@Acemoglu2002]. It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves [@Beck2017].
-
-Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines [@Hirt2014]. Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates [@Manyika2015]. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives [@Hirt2014].
-
-Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but IT technology creates the need for new roles [@Manyika2015]. Those that want to stay relevant in their professions will need to focus on skills and capabilities that Artificial Intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as Artificial Intelligence and Machine Learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
-
-According to @Frey2017, 3 Tasks categories won't be automated: [@Frey2017]
-
-- **Perception & Manipulation** tasks: especially in unstructured work environment (personal house vs airport or train station), irregular objects.
-- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value of creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is difficult.
-- **Social intelligence** tasks: involving negotiation, persuasion and care.
 
 #### Human Physical skills are trivialized by Automation / Robotics / 3D printing & Additive manufacturing
 
