@@ -1,4 +1,4 @@
-## Actors' reaction
+## Response of Actors
 
 <!-- What is your vision of the future culture, behavior and competency of your company? -->
 <!-- What competencies do you need and where? -->

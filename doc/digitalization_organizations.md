@@ -28,7 +28,7 @@ introduction.md
 
 \chapterimage{sources/images/manjumping.jpg}
 
-# Action
+# Stimulus
 
 ``` include
 action_actor.md
@@ -37,7 +37,7 @@ action_organization.md
 
 \chapterimage{sources/images/forum.jpg}
 
-# Reaction
+# Response
 
 ``` include
 reaction_organization.md

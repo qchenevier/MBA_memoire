@@ -752,3 +752,124 @@ Companies need to build a special set of sourcing practices that institutionaliz
   Note Quentin: This means by pusuing this strategy that the clients can reduce their suppliers bargaining power by by-passing them and nurturing relationship with suppliers upstream in the value chain.
 
 Implementing this strategy requires three changes in companies' outsourcing culture: From reactive problem-solving thinking to proactive, entrepreneurial thinking; from focus on cost to focus on value created through external innovative capabilities; and from a stable set of partnerships to a dynamic set of relationships.
+
+#### The Private and Social Value of Information and the Reward to Inventive Activity [@Hirshleifer1971]
+
+According to @Hirshleifer1971 there are 2 types of uncertainty: market uncertainty and technology uncertainty.
+
+Market uncertainty: The individual is imperfectly informed about his market opportunities, i.e., about the supply-demand offers of other individuals. In consequence, costly patterns of search for trading partners replace the traditional assumption of costless exchange [@Hirshleifer1971].
+
+
+Individuals are unsure about their own commodity endowment and/or about the returns attainable form their own productive investments. They are subject to technological uncertainty [@Hirshleifer1971].
+
+The traditional position has been that the excess of the social over the private knowledge leads to underinvestment in inventive activity. The main reason is that information, viewed as a product, is only imperfectly appropriable by its discoverer (Patents are a device to achieve appropriability). But there is an unrecognized force operating in the opposite direction: the _distributive_ aspect of access to superior information [@Hirshleifer1971].
+
+This advantage provides a motivation for the private acquisition and dissemination of technological information that is quite apart from any social usefulnell of that information.
+
+This paper concentrates upon a distinction between foreknowledge and discovery.
+
+Foreknowledge is ability to successfully predict tommorow's weather. The only aspect of information that may be of advantage is prior knowledge as to what will happen.
+
+
+
+A number of recent papers' have dealt with the economics of information in a context in which each individual is fully certain about his own endowment and productive opportunities. In those papers, **the individual is imperfectly informed only about his market opportunities, i.e., about the supply-demand offers of other individuals. In consequence, costly patterns of search for trading partners replace the traditional assumption of costless exchange.**
+
+This paper deals with an entirely different aspect of the economics of information. We here revert to the textbook assumption that markets are perfect and costless. The individual is always fully acquainted with the supply-demand offers of all potential traders, and an equilibrium integrating all individuals' supply-demand offers is at- tained instantaneously. **Individuals are unsure only about the size of their own commodity endowments and/or about the returns attainable from their own productive investments. They are subject to technological uncertainty** rather than market uncertainty.
+
+Technological uncertainty brings immediately to mind the economics of research and invention. **The traditional position has been that the excess of the social over the private value of new technological knowledge leads to underinvestment in inventive activity. The main reason is that information, viewed as a product, is only imperfectly appropriable by its discoverer.** But this paper will show that there is a hitherto unrecognized force operating in the opposite direction. What has been scarcely appreciated in the literature, if recognized at all, is **the distributive aspect of access to superior information**. It will be seen below how this advantage **provides a motivation for the private acquisition and dissemination of technological information that** is quite apart from, and may even **exist in the absence of, any social usefulness of that information.**
+
+Foreknowledge Versus Discovery
+
+Within the category of technological (as opposed to market) information, different sorts of knowledge are associated with rather different private incentives and social efficiency conditions. This paper concentrates upon a **distinction between** what will be called **foreknowledge** on the one hand, **and discovery** on the other. The type of information represented by **foreknowledge is** exemplified by **ability to Successfully predict tomorrow's (or next year's) weather.** Here we have a stochastic situation: with particular probabilities the future weather might be hot or cold, rainy or dry, etc. But **whatever does actually occur will, in due time, be evident to all; the only aspect of information that may be of advantage is prior knowledge as to what will happen.** **Discovery**, in contrast, **is correct recognition of something that possibly already exists, though hidden from view.** Examples include the determination of the properties of materials, of physical laws, even of mathematical attributes (e.g., the millionth digit in the decimal expansion of Pi. The essential point is that in such cases **Nature will not autonomously reveal the information; only human action can extract it.** **Foreknowledge information is conceptually simpler to deal with, involving as it does only the value of priority in time of superior knowledge;** this topic will be taken up first below.
+
+Elements of the Economics of Foreknowledge
+
+The acquisition of information will take the form of warranted revisions in the probability estimates and that enter into preference functions and so guide decisions.
+
+In what follows it will be essential to distinguish **private** information (available only to a single individual) from **public** information (available to everyone).
+
+It will also be important to keep in mind the distinction between information that is **prior** to, and information that is **posterior** to, the individual consumption-investment decisions that must be made at t=0.
+
+Still another distinction is that between **sure** information (as to which future state will obtain) and **merely better** information, the latter would represent a sharper focusing of subjective probabilities that does not entirely eliminate uncertainty.
+
+The Value of Foreknowledge:
+
+There is a possibility of still greater gain for the privately informed individual if he is permitted to speculate rather than merely move directly to his preferred consumptive position. Assuming private knowledge that a state was to obtain, an optimally speculating individual would first convert not just his holdings but rather all of his wealth to holdings at the old price relationships. The anticipation here is that the true information will become public, prior to the finalizing of the consumption-investment decisions.
+
+Note that  **the individual with private information would have every incentive to publicize that information, after making his speculative commitment.**
+
+So far, two reaction modes of the privately informed individual have been considered : **consumptive adaptation, and optimal speculation**.
+
+A third and even more attractive possibility is **resale of the information** itself. **The potential gain then becomes enormous, since the individual is no longer constrained by his personal commodity endowment.** However, it may not be easy for an informed individual to authenticate possession of valuable foreknowledge for resale purposes. After all, anyone could claim to have such knowledge.
+
+The crucial point remains that the community as a whole obtains no benefit, under pure exchange, from either the acquisition or the dissemination (by resale or otherwise) of private foreknowledge. The contrast between the private profitability and the social uselessness of foreknowledge may seem surprising.
+
+Information is widely considered to be a classic example of a "collective good," the type of commodity for which private incentives are supposed to lead to under-provision rather than over-provision on the market. Indeed, there may be something of a collective-good aspect to the market information alluded to earlier: information that helps improve an otherwise imperfect process of exchange. But the expenditure of real resources for the production of technological information is socially wasteful in pure exchange, as the expenditure of resources for an increase in the quantity of money by mining gold is wasteful, and for essentially the same reason.
+
+Just as a smaller quantity of money serves monetary functions as well as a larger, the price level adjusting correspondingly, so a larger amount of foreknowledge serves no social purpose under pure exchange that the smaller amount did not.
+
+The Value of Foreknowledge:
+
+Production and Exchange
+
+Private foreknowledge makes possible large private profit without leading to socially useful activity. The individual would have just as much incentive as under pure exchange (even more, in fact) to expend real resources in generating socially useless private information.
+
+What of the value of public information?
+
+However, it remains true that the value of private foreknowledge is enormously greater to any individual than the value to him of public foreknowledge.
+
+Evidently, the possibilities with private information are far superior (still leaving aside the prospect of much greater gains through speculation and/or resale). Thus, the incentives for the use of resources to generate private information remain excessive.
+
+What about speculation and resale?
+
+Having undertaken a speculative commitment, it is in the interest of the informed individual to publicize the information. Whether or not involved in speculation, the informed individual would find it advantageous wherever possible to resell the information. Under pure exchange, where foreknowledge is socially valueless, devotion of resources to dissemination is only a further social waste. In a regime of production, however, universal dissemination would improve the choice of investments.
+
+The partial dissemination that would ensue from private publicizing or through resale would also tend to shift prices and lead to some productive adaptation. Thus, in a regime of Production, the dissemination of information has social utility, against which gain must be offset, of course, any resource cost of the dissemination process.
+
+Distributive Considerations, Public Information, and Homogeneity of Beliefs
+
+The key factor underlying all the results obtained above is the distributive significance of private foreknowledge. When private information fails to lead to improved productive alignments (as must necessarily be the case in a world of pure exchange, and also in a regime of production unless there is dissemination effected in the interests of speculation or resale), it is evident that the individual's source of gain can only be at the expense of his fellows. But even where information is disseminated and does lead to improved productive commitments, the distributive transfer gain will surely be far greater than the relatively minor productive gain the individual might reap from the redirection of his own real investment commitments.
+
+Will public information have distributive implications, and if so, will this consideration provide additional private motivation for the generation of public information? The nature and direction of possible distribution effects turn upon the timing of information acquisition in comparison with the schedule of trading. Two alternative timing patterns will be considered here: 1) The information is publicly released before the opening of trading, or 2) the individuals trade to their consumptive optimum positions prior to the release of the information, with another round of trading permitted afterward.
+
+That public information has distributive implications does not, however, lead necessarily to the conclusion that private individuals will want to generate public information.
+
+With inhomogeneity of beliefs every person may be better informed, in his own opinion! Thus, the generation of public information is (from his point of view) nothing other than the dissemination of information already privately available to him. He will expect to reap speculative profits from this process. But so Will other individuals, with quite opposed opinions!
+
+These considerations may be clarified by reference to a well-known activity for the generation of public information: horse racing. Viewed as a research activity, horse racing may be presumed to have a small positive social value: the identification of faster horses works "to improve the breed." This consideration is evidently a very minor motivating factor for the activity in comparison with the opportunity to speculate upon one's supposedly superior knowledge. Without differences of opinion, it is said, there would be no horse races. That is, the social value is insufficient to motivate the research, the activity is founded upon the contradictory expectations of speculative gain.
+
+So conflict of beliefs may enormously compound the speculative factor that, even from the point of view of a single individual, tends to promote excessive investment in information-generating activity.
+
+The Value of Discovery Information
+
+The acquisition of technological information usually refers to the detection of properties of Nature that permit the development of new tools or the utilization of new techniques. This is the type of information categorized as discovery above, in which Nature's secret Will not be autonomously revealed but must be extracted by man. The necessity for human interposition makes the analysis of the value of discovery information somewhat more complex than the analysis of foreknowledge information.
+
+For concreteness, consider the following situation. Suppose that if an alloy with an enormously high melting point of can be created, extremely cheap thermonuclear power will become feasible. The underlying state of the world is not the result of a probabilistic process: such an alloy may in fact be possible to create (state a) or may not (state b). While this is not a stochastic situation, it has been shown to be useful even in such circumstances to summarize our uncertainty in the form of a probability distribution."
+
+Thus, just as in the case of foreknowledge, we can assume that individuals assign probabilities and to the two underlying states of the world. However, even if the favorable state a is the true one, Nature is not going to tell us herself. In the discovery situation, no news is bad. From the point of view of any individual, however, the picture may not be very different from that analyzed under the heading of foreknowledge. For any individual there is a certain probability of "good news" (discovery of the alloy), due to the actions of other men if not of his own. We can think of a compound event which consists of the joint happenings "State a is true (the required alloy is possible) and this fact is successfully exploited (the alloy is created) within the time-period envisaged."
+
+Evidently, the probability of good news is generally less than the probability attached to the more favorable state of Nature. And similarly, if the event B is defined in complementary way as representing "no news" (identical With "bad news" in the circumstances considered), we have the individual's decisions, for example, whether to invest in a productive process whose profitability will be highly sensitive to the prospect of cheap thermonuclear power, will run in terms of the probabilities of good and bad news rather than the probabilities attached to the states of nature.
+
+As before it would be in his interest to speculate and/or resell the information, in which case prices will tend to shift. The obvious way of acquiring the private information in question is, of course, by performing technological research.
+
+By a now familiar argument we can show once again that the distributive advantage of private information provides an incentive for information-generating activity that may quite possibly be in excess of the social value of the information.
+
+The conclusions reached in the analysis of foreknowledge with respect to public information again carry over to the discovery situation.
+
+Public information is socially valuable in redirecting productive decisions, and to that extent individuals will rationally combine (through government and other instruments) to generate public information (or, in some cases, it will pay even a single individual to do so). But disparities of beliefs (differences in probability estimates) may lead to agreement upon a procedure of generating public information where social costs exceed the social benefit.
+
+
+
+Two categories of technological information were considered : 1) foreknowledge of states of the world that will in time be revealed by Nature herself (e.g., weather), and 2) discovery of hidden properties of Nature that can only be laid bare by human action. Prior information that remains private was shown to be of no social value, in the sense of being purely redistributive, not leading to any improvement in productive arrangements.
+
+There is an incentive for individuals to expend resources in a socially wasteful way in the generation of such information. Public information, in contrast, does affect productive decisions in a socially appropriate way. Speculative profits from the price reevaluations to be anticipated provide the knowledgeable individual with an incentive to disseminate (publicize) his private information.
+
+Still greater profit is possible if the information can be resold. In a world of pure exchange, there will in general be private over-investment in information: resources committed to acquisition and to dissemination are both wasted from the social point of view.
+
+In a world of production, however, the gains from productive rearrangements due to the information must be offset against the costs of acquisition and dissemination; there may or may not be private over-investment.
+
+Distributive considerations enter also into the motivation for the acquisition of public information, to the extent that the prospect of such information imposes a distributive risk upon individuals, due, for example, to possible revaluation of endowment holdings. There will be an aversion to socially neutral and even (to some degree) to socially beneficial public information.
+
+Probably more important is a force acting in the opposed direction. With inhomogeneous beliefs, individuals with differing opinions will tend each to believe that revelation of new information will favor his own speculative commitments. Hence, a group of such individuals might willingly cooperate in making expenditures far in excess of the social value of the information to be acquired.
+
+The standard literature on the economics of research and invention argues that there tends to be private underinvestment in inventive activity, due mainly to the imperfect appropriability of knowledge. The contention made is that, even with a patent system, the inventor can only hope to capture some fraction of the technological benefits due to his discovery. This literature overlooks the consideration that there will be, aside from the technological benefits, pecuniary effects (wealth redistributions due to price revaluations) from the release of the new information. The innovator, first in the field with the information, is able through speculation or resale of the information to capture portion of these pecuniary effects. This fact is socially useful in motivating release of the information. Even though practical considerations limit the effective scale and consequent impact of speculation and/or resale, the gains thus achievable eliminate any a priori anticipation of underinvestment in the generation of new technological knowledge.

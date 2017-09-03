@@ -1,4 +1,4 @@
-## Organizations' reaction
+## Response of Organizations
 
 <!-- What shift in business model? -->
 <!-- What assez will you reuse? -->

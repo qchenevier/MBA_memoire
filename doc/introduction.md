@@ -35,7 +35,7 @@ Also a new and more pervasive dynamic appears to be at work : the gap between th
 
 The literature about digitalization and the current technological revolution tries to summarize the main facts, suggests strategies to follow and decisions to take about it. However, each paper is tackling the problem from its own perspective, so it is not easy to understand the phenomenon globally.
 
-For example, @Perez2004 analyses each techno-economic paradigm through three inter-related levels: technology systems (microelectronics, software & telecommunications), "best practice" model (flexible organizational model), "common sense" principles for organizational & institutional design (decentralization, networking, continuous improvement, ...). @Gimpel2012 states that digitalization is changing business and society through five digital forces: globalization, millenialization, prosumerization, business virtualization, and platformization. Whereas other authors suggest different ways of analyzing digitalization.
+For example, @Perez2004 analyses each techno-economic paradigm through three inter-related levels: Technology Systems (microelectronics, software & telecommunications), "Best Practice" Model (flexible organizational model), "Common Sense" Principles for Organizational & Institutional Design (decentralization, networking, continuous improvement, ...). @Gimpel2012 states that digitalization is changing business and society through five digital forces: Globalization, Millenialization, Prosumerization, Business Virtualization and Platformization. Whereas other authors suggest different dimensions to analyze digitalization.
 
 Without a unifying intellectual framework to understand digitalization, it seems uneasy to deal with everyday issues such as:
 
@@ -43,11 +43,13 @@ Without a unifying intellectual framework to understand digitalization, it seems
 - What kind of skill is useful to thrive in a job market where automation and machines seem to be nibbling every job? Should we favor emotional intelligence or computer programming?
 - Is the email improving an organization's performance by accelerating communication or worsening it by fostering bureaucracy ?
 
-#### Action-Reaction {-}
+Digitalization is impulsing change at all scales, it is a perturbation being transmitted and amplified through an environment made of mesh of humans and machines interconnected by relations, as would a fire in a forest or a meme in a community. Digitalization is spreading from one organization to another and through organizations as people change their behavior as they become accustomed to new technologies.
 
-The first dimension of Digitalization we will use in this document relates to the direction of the perturbation we describe. Like the chinese keyword [**_gǎnyìng_**](https://en.wikipedia.org/wiki/Ganying) meaning _correlative resonance_, which stems from **_gǎn_** meaning _feel, sense, touch, be affected_ and **_yìng_** meaning _respond, answer, adapt to, deal with_, this dimension analyses the fact that change is the result of an interaction between an entity and its environment. Other word assiocations like **Stimulus-Response**, **Input-Output** would have been suitable also.
+#### Stimulus-Response {-}
 
-In this context, **Action** refers to the changes which do not originate in the organizations but rather from its environment and its stakeholders. On the other hand, **Reaction** refers to the changes which originate in the organization and modify its behavior towards its environment and stakeholders.
+The first dimension of Digitalization we will use in this document relates to the direction of the perturbation we describe: is it inward, i.e. a **Stimulus**? or outward, i.e. a **Response**? This dimension encompasses the fact that change is the result of an interaction between an entity and its environment, as meant by the chinese keyword [**_gǎnyìng_**](https://en.wikipedia.org/wiki/Ganying) meaning _correlative resonance_ (which stems from **_gǎn_** meaning _feel, sense, touch, be affected_ and **_yìng_** meaning _respond, answer, adapt to, deal with_). Other word assiocations like **Action-Reaction**, **Input-Output** would have been suitable also.
+
+In this context, **Stimulus** refers to the changes which do not originate in the organizations but rather from its environment and its stakeholders. On the other hand, **Response** refers to the changes which originate in the organization and modify its behavior towards its environment and stakeholders.
 
   - What is changing?
   - What can you do about it?
@@ -58,35 +60,35 @@ In this context, **Action** refers to the changes which do not originate in the 
 
 #### Actor-Organization {-}
 
-The second dimenson of Digitalization we will use in this document relates to the scale at which we describe the perturbation. Like a widely-used sociological tool, named [**Actor-Network theory**](https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory), which describes an organization by identifying the actors which compose it, including machines, and  the network of relations which connects those actors. The term _Network_ has been replaced by _Organization_ because of its strong technological meaning in the field of telecommunications in the context of this report. Other word associations like **Microeconomic-Macroeconomic**, **Unit-Group**, **Small-Big** would have been suitable also.
+The second dimenson of Digitalization we will use in this document relates to the scale at which we describe the perturbation: does it impact a single entity, i.e. an **Actor**? or a group of entities, i.e. an **Organization**? Thus we inspire from a widely-used sociological tool, named [**Actor-Network theory**](https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory), which describes an Organization by identifying the Actors which compose it, including machines, and the Network of relations which connects those actors. In other words, an Organization is defined by its Network of Actors. The term _Network_ has been replaced by _Organization_ because of its strong technological meaning in the field of telecommunications in the context of this report. Other word associations like **Microeconomic-Macroeconomic**, **Unit-Group**, **Small-Big** would have been suitable also.
 
-In this context, **Actor** refers to all the tangible and intangible entities contained in an organization. The main entities of an organization are the people belonging to that organization. Coherently the other entities we consider are those which can interact with (or be handled by) a human: tangible like a computer, a car, a desk, a smartphone or intangible like an application, a database, a knowledge, a technology or money. On the other hand, **Organization** refers to the combination of those entities through a network of interactions and flows. An organization could be of any form, but most of the organizations we consider in this report have a hierarchical structure. Hierarchical organizations are pretty common but it is only one type of among others.
+In this context, **Actor** refers to all the tangible and intangible entities contained in an organization. The main entities of an organization are the people belonging to that organization. Coherently, the other entities we consider are those which can interact with (or can be handled by) a human: tangible like a computer, a car, a desk, a smartphone or intangible like an application, a database, a knowledge, a technology or money. On the other hand, **Organization** refers to the combination of those entities through a network of interactions and flows. An organization could be of any form, but most of the organizations we consider in this report have a hierarchical structure. Hierarchical organizations are pretty common but it is only one type among others.
 
   - What is happening locally?
   - What is happening globally?
   - What is happening from the point of view of a mere human?
   - What are the technologies at hand?
   - What are the new systems of technologies and humans?
-  - How are organized digitalized organizations?
+  - How are organized Digital Organizations?
 
 #### An intellectual journey to understand digitalization {-}
 
-To understand the whole digitalization phenomenon, we suggest to follow an intellectual journey which encompasses those 2 dimensions: going from inward action at actors' level to inward action at organizational level to outward reaction at organizational level to outward reaction at actors'.
+To understand the whole Digitalization phenomenon, we suggest to follow an intellectual journey which encompasses those 2 dimensions: going from inward Stimulus at Actors' level to inward Stimulus at Organizational level to outward Response at Organizational level to outward Response at Actors' level.
 
-1. **Action on Actors**
+1. **Stimulus from Actors**
 
     What are the digital technologies at hand ? How are they used in our daily lives? What are our new behaviors as customers? as employees?
 
-2. **Action on Organizations**
+2. **Stimulus from Organizations**
 
-    From these Actors' level changes, what are the changes impacting the efficiency of the organizations? How are the most efficient organizations behaving? How are they structured? What is changed in the market dynamics?
+    From these stimuli at actors' level, what are the changes impacting the efficiency of organizations? How are the most efficient organizations behaving? How are they structured? What is changed in the market dynamics?
 
-3. **Reaction of Organizations**
+3. **Response of Organizations**
 
-    From these Organizations' level changes, how an organization should adapt? Does it need to change its structure? Where should it be headed by its leaders? What kind of strategy can be envisioned?
+    From these stimuli at organizational level, how an organization should adapt? Does it need to change its structure? Where should it be headed by its leaders? What kind of strategy can be envisioned?
 
-4. **Reaction of Actors**
+4. **Response of Actors**
 
-    From these Organizations' level reaction, what kind of local action can be triggered to transform the organization? What kind of technologies could be used and how? For each individual, what kind of behavior should be encouraged? What are the required competencies of the leaders?
+    From these responses at organizational level, what kind of local action can be triggered? What kind of technologies could be used and how? For each individual, what kind of behavior should be encouraged? What are the required competencies of the leaders?
 
-Then, using this intellectual framework, we propose **a tool to support digital transformation efforts for organizations' leaders**.
+Then, using this intellectual framework, we propose **a tool to support digital transformation efforts for Organizations' leaders**.
