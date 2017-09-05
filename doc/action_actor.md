@@ -320,7 +320,7 @@ Digitization has contributed to hollowing out the middle-skill portion of the US
 
 In terms of wages, digitization has accelerated a divergence between the majority of workers and a smaller group at the top. And, since 1980, labor productivity has grown 2.5 times faster than wages, breaking historical patterns [@Manyika2015].
 
-#### Humans are producing more and more Information
+#### Humans are producing more and more Information {#prosumerization}
 
 Many people suggest that rates of new product introduction and adoption are speeding up since centuries. It seems to be true: It took decades for the telephone to reach 50% of households, beginning before 1900, whereas it took five years or less for cellphones to accomplish the same penetration in 1990. And innovations introduced more recently are being adopted more quickly [@McGrath2013].
 
@@ -328,7 +328,7 @@ It took 30 years for electricity and 25 years for telephones to reach 10% adopti
 
 This rise of adoption and penetration rates for new technologies suggests that technology is less and less primarily used by new generations, the so-called _Millenials_ or _Y generation_. In fact, these so-called generations are bounded less by an age criterion than by a technological use one. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
 
-This increased technology usage means that people are producing more and more information directly by giving feedback or indirectly throught the usage statistics of their devices. This is the rise of the _consumer-producer_:
+This increased technology usage means that people are producing more and more information directly by giving feedback or indirectly throught the usage statistics of their devices. This is the rise of the _consumer-producer_, a phenomenon called _Prosumerization_ or _Millenialization_:
 
 - Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others [@Gimpel2012].
 - Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry [@Karimi2015].

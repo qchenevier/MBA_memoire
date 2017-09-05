@@ -539,13 +539,9 @@ The new product cycle can be simplified into three basic stages: development, de
 
 **Undisciplined strategy.**
 
-Big-bang disrupters contradict everything you know about competitive strategy. According to Michael Treacy and Fred Wiersema's classic _The Discipline of Market Leaders_ (and their article @Treacy1993), businesses should align strategic goals along one-and only one-of three value disciplines: low cost ("operational excellence"), constant innovation ("product leadership"), or customized oﬀerings ("customer intimacy"). Failing to choose, said the authors, meant "ending up in a muddle" [@Downes2013].
+Big-bang disrupters contradict everything you know about competitive strategy.
 
-Big-bang disrupters, however, are thoroughly undisciplined. They start life with better performance at a lower price and greater customization. They compete with mainstream products on all three value disciplines right from the start. Consider the three major costs in a product or service: the parts and manufacturing, the embedded technologies and intellectual property, and a prorated share of development costs. By continually and dramatically lowering all three at once, today's technology makes it possible to sell new products and services more cheaply than the inferior alternatives they displace [@Downes2013].
-
-Customers are so accustomed to this eﬀect that they are coming to expect every product or service to get cheaper and better with each passing day. Under these conditions you can't win simply by becoming more disciplined with your current strategy. More rigorous strategic focus just blinds you to the next wave of disruption coming at you from the side [@Downes2013].
-
-Google Maps Navigation competes with stand-alone GPS devices on all three value disciplines: It is clearly the cost leader. It is constantly being updated and rereleased, making it the leading innovator as well. And by oﬀering seamless integration with mobile phone contact lists, the web, e-mail, and apps such as Yelp, it likewise wins on the dimension of customer intimacy [@Downes2013].
+Customers are so accustomed to this eﬀect that they are coming to expect every product or service to get cheaper and better with each passing day [@Downes2013].
 
 **Surviving Big-Bang Disruption.**
 

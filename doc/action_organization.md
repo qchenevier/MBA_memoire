@@ -4,17 +4,31 @@
 <!-- Why some assets have less value than before? What assets are devaluating quickly? -->
 <!-- How are you organized? -->
 
-To understand what are the macro-economic impact as an organization:
+#### Value Disciplines and Competitive forces to analyze Organizations
 
-- What type of organisation you are analyzing ?
-- Depending on the type of organisation, what are the influencing factors impacting the efficiency of the organization ?
-- For each influencing factor, what are the current digitalization trends and phenomena modifying these influencing factor ?
+To understand what are the macro-economic impacts as an organization:
+
+- What type of organization you are analyzing ?
+- Depending on the type of organization, what are the influencing factors impacting the efficiency of the organization ?
+- For each influencing factor, what are the current trends and phenomena modifying these influencing factor ?
 
 Basically, this mental path is following those 3 questions: Who are you ? What are your weak points ? What could hit those weak points ?
 
 Regarding the type of organization, we suggest to segment the organizations using the 3 value disciplines introduced by @Treacy1993. Those 3 value disciplines are not mutually exclusive and should be viewed more as "flavors" than "separate groups". Depending on the size of the organization, it could be focusing on more than one value discipline.
 
-Regarding the influencing factors, we introduce a mapping of the 5 forces introduced by @Porter1979 on each type (of "flavor") of organization. Those forces are seen as being more probably the weak points of a certain type of organization, but they are also greatly depending on the industry context in which the organization is evolving. Like for the value disciplines, the purpose is to guide the focus of the analyst on areas which could be more relevant. But the proposed mapping is flexible and ultimately all the influencing factors should be considered.
+Regarding the influencing factors, we introduce a mapping of the 5 competitive forces introduced by @Porter1979 on each type (or "flavor") of organization. Those forces are seen as being more probably the weak points for a certain type of organization, but they are also greatly depending on the industry context in which the organization is evolving.
+
+The purpose of using the value disciplines and the competitive forces and this mapping between them is to help guide the focus of the analyst on areas which could be more relevant.  Those frameworks are well in the business analysis field, so this will help make connections with analysts' previous experiences. Yet the proposed mapping is flexible and ultimately all the influencing factors should be considered.
+
+#### Digitalization is abolishing former constraints on Strategy
+
+According to @Treacy1993, businesses should align strategic goals along one of three value disciplines: low cost ("operational excellence"), constant innovation ("product leadership"), or customized oﬀerings ("customer intimacy"). Failing to choose, said the authors, meant "ending up in a muddle" [@Downes2013].
+
+Disrupters, however, are thoroughly undisciplined. They start life with better performance at a lower price and greater customization. They compete with mainstream products on all three value disciplines right from the start. Consider the three major costs in a product or service: the parts and manufacturing, the embedded technologies and intellectual property, and a prorated share of development costs. By continually and dramatically lowering all three at once, today's technology makes it possible to sell new products and services more cheaply than the inferior alternatives they displace [@Downes2013].
+
+Google Maps Navigation competes with stand-alone GPS devices on all three value disciplines: It is clearly the cost leader. It is constantly being updated and rereleased, making it the leading innovator as well. And by oﬀering seamless integration with mobile phone contact lists, the web, e-mail, and apps such as Yelp, it likewise wins on the dimension of customer intimacy [@Downes2013].
+
+Under these conditions you can't win simply by becoming more disciplined with your current strategy. More rigorous strategic focus just blinds you to the next wave of disruption coming at you from the side [@Downes2013].
 
 ### Product Leadership organizations
 
@@ -56,48 +70,45 @@ Substitutes that deserve the most attention strategically are those that [@Porte
 
 #### Technology lowers barriers to entry
 
-Prosumerization has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents [@Gimpel2012].
+Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries [@Gimpel2012].
 
-Conversely, this is an empowering moment for entrepreneurs; the barriers to entry have never been lower [@Manyika2015].
+Prosumerization (see [this part](#prosumerization) for more information) has lowered the break-even point for producers and given birth to low-overhead startups that can compete directly with capital-intensive incumbents [@Gimpel2012]. Digital dynamics often undermine barriers to entry and long-standing sources of product differentiation [@Hirt2014]. This is an empowering moment for entrepreneurs: the barriers to entry have never been lower [@Manyika2015].
 
-2. Competitors emerge from unexpected places
-Digital dynamics often undermine barriers to entry and long-standing sources of product differentiation. Web-based service providers now tap markets without having to build distribution networks of offices. The expense of building brands on-line and the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines in many markets. New competitors can often be smaller companies that will never reach scale but still do a lot of damage to incumbents [@Hirt2014].
+Competitors emerge from unexpected places: Web-based service providers now tap markets without having to build distribution networks of offices. The expense of building brands on-line and the degree of consumer attention focused on a relatively small number of brands are redrawing battle lines in many markets. New competitors can often be smaller companies that will never reach scale but still do a lot of damage to incumbents [@Hirt2014]. Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being "born digital" [@Manyika2015].
 
 Once digital players have established themselves as leaders in one market, they have a striking ability to move into new areas. Amazon went from selling books to selling every retail and a self-publishing platform and a cloud-based business service. Google went from internet search to longevity and biotech research, smart home products, venture capital investing and high-speed internet fiber services [@Manyika2015].
-
-Prepare for tougher, 360-degree competition: coming from thousands of small players in the largest marketplaces and ecosystems, such as small Chinese manufacturers on Alibaba. These small enterprises have the advantage of being "born digital."
-
-Innovation presents great challenges to executives in the communications, information, media, and entertainment (CIME) industries [@Gimpel2012].
 
 #### Increasing pace of innovation
 
 Today, a typical automotive design cycle is approximately 24 to 36 months, which is much faster than the 60-month life cycle from five years ago [@McGrath2013].
 
-The new world of the Exponential Organization or ExO is a place where neither age nor size nor reputation nor even current sales guarantee that you will be around tomorrow. The lifespan of a company is going to get even shorter in the years to come as giant corporations aren't just forced to compete with, but are annihilated -seemingly overnight- by a new breed of companies that harnesses the power of exponential technologies [@VanGeest2014].
-
-Those enterprises that don't jump aboard soon will be left on the ash heap of history joining Iridium, Kodak, Polaroid, Philco, Blockbuster, Nokia and a host of other once-great, industry-dominant corporations unable to adapt to rapid technological change [@VanGeest2014].
-
-Both demand-side economies of scale and supply-side economies of scale have been around for a long time. But the combination of the two that has arisen in many information technology industries is new. The result is a "double whammy" in which growth on the demand side both reduces cost on the supply side and makes the product more attractive to other users-accelerating the growth in demand even more. The result is especially strong positive feedback, causing entire industries to be created or destroyed far more rapidly than during the industrial age [@Shapiro1999].
-
-The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines [@Manyika2015].
-
 Nearly every executive cited competitive pressures to change. This relates closely to increases in the pace of business. Several executives indicated this was "the new normal" for their industries. None of the executives felt their innovation culture was as strong as it should be [@Westerman2011].
 
 Keeping up with the relentless pace of digital innovation is both a sprint and a marathon [@Manyika2015].
 
-A technology is considered disruptive when its use generates services or physical products with different performance attributes that may not be valued by a company's current customer base. Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades [@Karimi2015].
-
-New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value [@Hirt2014].
-
-New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal [@Hirt2014].
-
 Kurzweil identified a hugely important and fundamental property of technology: when you shift to an information-based environment, the pace of development jumps onto an exponential growth path and price/performance doubles every year or two. Whereas the experts in many fields will project linearly in times of exponential change [@VanGeest2014].
-
-The pace of change isn't going to slow down anytime soon. In fact, Moore's Law all but guarantees that it will continue to speed up -and speed up exponentially- for at least several decades. And given the cross impact into other technologies, if the last fifteen years has seen enormous disruption in the business world, the next fifteen will make that disruption seem tame by comparison  [@VanGeest2014].
 
 **Information Accelerates Everything:** The new information paradigm is accelerating the metabolism of products, companies and industries. In industry after industry, the development cycle for products and services grows ever shorter. Nowhere is this staggering pace of change more apparent than with the consumer Internet. Many products are now launched early, unfinished and in perpetual beta, for the sole purpose of gathering data from users as early as possible to determine how to "finish" the product [@VanGeest2014].
 
-**Disruption is the New Norm:** Every industry is becoming information-based, either by being digitized or by using information to identify under-utilized assets. Collaborative Consumption leverages the internet and social networks to create a more efficient utilization of physical assets, the outsider has all the advantages. With no legacy systems to worry about, as well as the ability to enjoy low overhead and take advantage of the democratization of information and, more important, technology, the newcomer can move quickly and with a minimum of expense. The rate of change is so high everywhere these days that you now must assume that someone will disrupt you, and often from a direction you least expect. The authors see a consistent set of steps around disruptive innovation comprising the following [@VanGeest2014]:
+The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines [@Manyika2015].
+
+The pace of change isn't going to slow down anytime soon. In fact, Moore's Law all but guarantees that it will continue to speed up -and speed up exponentially- for at least several decades. And given the cross impact into other technologies, if the last fifteen years has seen enormous disruption in the business world, the next fifteen will make that disruption seem tame by comparison  [@VanGeest2014].
+
+#### Due to the increased of innovation, the rate of disruption increases
+
+Disruption has no consensual definition. However, it seems to be mostly used to depict the fact some innovations can push some incumbents out of market, barely letting them the ability to adapt. It is the fact some customer needs are met by innovations radically different from the previous state-of-the-art.    
+
+Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades [@Karimi2015].
+
+Neither age nor size nor reputation nor even current sales guarantee that you will be around tomorrow. The lifespan of a company is going to get even shorter in the years to come as giant corporations aren't just forced to compete with, but are annihilated -seemingly overnight- by a new breed of companies that harnesses the power of exponential technologies [@VanGeest2014].
+
+Those enterprises that don't jump aboard soon will be left on the ash heap of history joining Iridium, Kodak, Polaroid, Philco, Blockbuster, Nokia and a host of other once-great, industry-dominant corporations unable to adapt to rapid technological change [@VanGeest2014].
+
+Both demand-side economies of scale and supply-side economies of scale (see [this part](#information-dynamics) for more information) have been around for a long time. But the combination of the two that has arisen in many information technology industries is new. The result is a "double whammy" in which growth on the demand side both reduces cost on the supply side and makes the product more attractive to other users-accelerating the growth in demand even more. The result is especially strong positive feedback, causing entire industries to be created or destroyed far more rapidly than during the industrial age [@Shapiro1999]. New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value [@Hirt2014].
+
+New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal [@Hirt2014].
+
+Disruption is the New Norm: Every industry is becoming information-based, either by being digitized or by using information to identify under-utilized assets. Collaborative Consumption leverages the internet and social networks to create a more efficient utilization of physical assets, the outsider has all the advantages. With no legacy systems to worry about, as well as the ability to enjoy low overhead and take advantage of the democratization of information and, more important, technology, the newcomer can move quickly and with a minimum of expense. The rate of change is so high everywhere these days that you now must assume that someone will disrupt you, and often from a direction you least expect. There is a consistent set of steps around disruptive innovation comprising the following [@VanGeest2014]:
 
 - Domain (or technology) becomes information-enabled
 - Costs drop exponentially and access is democratized
@@ -126,7 +137,7 @@ Second, focus on one of economists' favorite words: externalities. Externalities
 
 Network externalities are what lie behind Metcalfes law, named after Bob Metcalfe, the inventor of Ethernet. The square of the Metcalfe's law is more a rule of thumb than a law but it does arise in a relatively natural way. If there are n people in a network, and the value of the network to each of them is proportional to the number of other users, then the total value of the network (to all the users) is proportional to n X (n - 1) = n² - n. The value of a network goes up as the square of the number of users [@Shapiro1999].
 
-#### Positive feedback & Self-reinforcing dynamics of Information industry
+#### Positive feedback & Self-reinforcing dynamics of Information industry {#information-dynamics}
 
 Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect [@Manyika2015].
 
