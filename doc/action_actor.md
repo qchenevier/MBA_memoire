@@ -1,6 +1,6 @@
 ## Stimulus from Actors
 
-### Machines
+### Information is the medium bonding Machines and Humans
 
 #### Information is the propagation of a message
 
@@ -27,21 +27,7 @@ Some authors have elaborated further on Ackoff's exposition, suggesting that **U
 
 All Informations have not the same level of complexity and value. Currently, we are creating Machines which are increasingly better at creating and processing the simplest Information goods: Data and Information. At the same time, Humans are increasingly creating and sharing the more complex Information goods: Knowledge and Wisdom. As we will see, it has several implications regarding the Value associated to the processing of this different kinds of Information goods by Humans.
 
-#### Data, Information and Knowledge flows are Positive-Sum
-
-Data, Information, Knowledge and Wisdom are all immaterial goods. And hence have different properties than material goods when they are exchanged. One of the most clear formulation of their different properties has been coined by the french writer Serge Soudoplatoff (cited by @Aberkane2016):
-
-> When one shares a material good, one divides it. When one shares an immaterial good, one multiplies it.
-
-Since knowledge is an immaterial good, sharing it does not divide it, but rather multiplies it and also makes it evolve. Its economics, also, is one of fluxes rather than one of stocks, in which ownership must clearly be redefined [@Aberkane2016].
-
-As a result, Knowledge exchanges are Positive-Sum. This is a re-expression of Soudoplatoff's law. Material exchanges are Zero-Sum, immaterial exchanges, such as knowledge exchanges, are positive sum [@Aberkane2016].
-
-Positive-Sum exchanges mean that the actors of an economic system benefit from maximizing globally the amount of immaterial exchanges. Immaterial goods economics are not subject to all the limitations of material goods due to management of scarcity, depletion, etc.
-
-Please note that this rule of thumb does not comprehend the notion of Value, which is studied by Game Thoery and Economics.  
-
-#### Data is unstructured, meaningless and worthless
+#### Data is a raw signal: unstructured, meaningless and worthless
 
 There is a strong consensus around the definition of Data [@Rowley2007]:
 
@@ -88,6 +74,118 @@ Information examples:
 - A picture (computed from an array of number, given the file format)
 - An array of numbers or text with labels (or column names) and some metadata information about the date and location when the data has been measured, with which instrument.
 
+#### From the Data of Machines to the Wisdom of Humans: Meaning and Value
+
+Interestingly those authors who draw the hierarchy offer a number of different views on the variables that change between the different levels of the hierarchy [@Rowley2007]:
+
+- meaning and value
+- human input and computer input
+- algorithmicity and programmability
+- order, structure and human agency
+
+On one end of the spectrum, Data has no value and no meaning for Humans, is only for Computers to be treated with algorithms. Whereas Wisdom is valuable and meaningful for Humans, cannot be recorded in a computer and cannot be programmatically extracted.
+
+Information and Knowledge being at the interface between Humans and Machines are all the rage in today's technological revolution. Mastering an understanding the elements at the interface of those two worlds are the key to understand the current technological revolution. Now, the Humanity is learning to use Machines to deliver Meaning & Value, i.e. answering questions for better decisions, to Humans. This is the paradigm of the current techno-economic revolution.
+
+#### Knowledge is a combination of Informations into an Algorithm
+
+Knowledge is typically defined with reference to information, but some discuss the processes that convert information into knowledge, whilst others identify the 'added ingredients'. The processes that convert information into knowledge are variously described as [@Rowley2007]:
+
+- synthesis of multiple sources of information over time.
+- belief structuring.  
+- study and experience.
+- organization and processing to convey understanding, experience, accumulated learning and experience.
+- internalization with reference to cognitive frameworks.
+
+The 'added ingredients' definitions suggest variously that knowledge is [@Rowley2007]:
+
+- a mix of contextual information, values, experience, and rules.
+- information, expert opinion, skills and experience.
+- information combined with understanding and capability.
+- perception, skills, training, common sense, and experience.
+
+Knowledge is an intrinsically ambiguous and equivocal term. There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it [@Rowley2007]:
+
+- Knowledge is the combination of data and information, to which is added expert opinion, skills, and experience, to result in a valuable asset which can be used to aid decision making.
+- Knowledge is data and/or information that have been organized and processed to convey understanding, experience, accumulated learning, and expertise as they apply to a current problem or activity.
+- Knowledge builds on information that is extracted from data. While data is a property of things, knowledge is a property of people that predisposes them to act in a particular way.
+
+What we understand here is that Knowledge is no more than an Algorithm, i.e. a list of steps to combine Information into a more valuable Information result. Having discovered patterns in Information, a Human is able to produce a Knowledge of those patterns to create useful Information from useless Information.
+
+There is a difference between tacit knowledge which is embedded in the individual and explicit knowledge which is residing in documents, databases and other recorded formats [@Rowley2007]. So Human Knowledge can be extracted and stored into Machines with some effort.  
+
+In mathematics and computer science, an [Algorithm](https://en.wikipedia.org/wiki/Algorithm) is a self-contained sequence of actions to be performed. Algorithms can perform calculation, data processing and automated reasoning tasks.
+
+The world is pretty much run on algorithms [@VanGeest2014]. Software and algorithms can be seen as Human Knowledge freezed and transcribed so that a Machine can exploit it to treat Information.
+
+For example, Medical Doctors use their knowledge to create diagnosis information which improves health of their patients. Their knowledge has been constituted by studying a number of medical cases with their symptoms, the treatments which were tried and the results which were obtained. The knowledge of the Doctor will consist in a list of algorithms such as: "given those symptoms, here is the best treatment we found until now". The Doctor doesn't deliver any of his knowledge, he delivers an information: "you need this treatment to treat your condition".
+
+#### Information & Knowledge Value relates to Decision-making {#information-value}
+
+An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area [@Rowley2007].
+
+Economically, the main definition of Value of Information is: how much answering a question allows a decision-maker to improve its decision [@Howard1966].
+
+- "answering": Value of Information is dependent of the all possible answers and their relative likelihood.
+- "improve": Value of Information isn't about sleeping better at night. If the expected value of the information (the chance you change your decision after receiving the information times the relative value of the decisions) is lower than the cost of the information, just bite the bullet and don't run the test you were considering.
+- "decision": Value of Information isn't just curiosity. Information has Value only if some decision has to depend on that fact.
+
+In other words, information is valuable lies by reducing uncertainty in decisions. According to @Hirshleifer1971 there are 2 types of economical uncertainty: Market Uncertainty and Technology Uncertainty, and hence, Information is able to create Value by helping Decision making regarding those two uncertainties:
+
+- Market uncertainty happens when an individual is imperfectly informed about his market opportunities, i.e. about the supply-demand offers of others: there are costly patterns of search for trading partners, which replace the traditional assumption of costless exchange [@Hirshleifer1971].
+- Technological uncertainty happens when individuals are unsure about the size of their own commodity endowments and/or about the returns attainable from their own productive investments [@Hirshleifer1971].
+
+For example, with his knowledge, the Medical Doctor is able to produce on the spot a diagnosis, which is an information which can be used to improve the Decision. Without this information, the best decision would be to try all the available treatments. It's interesting to see that as Medical Knowledge is constituted by the community of Doctors and shared during medical training, it improves over time and then older doctors with older knowledge take worse decisions than their younger colleagues. It has been shown by @Tsugawa2017: Within the same hospital, patients treated by older physicians had higher mortality than patients cared for by younger physicians, except those physicians treating high volumes of patients. Their collective knowledge, i.e. the state-of-the-art, is naturally progressing to give better decision and a higher value.
+
+To be valuable on a Market, according to @Hirshleifer1971, an Information or Knowledge should be Prior, Sure and Private:
+
+- Prior: obviously, the information must be available before a decision is made.
+- Sure: if the Information is not sure, it is not reducing the uncertainty. It cannot help improve a decision. Most frequently, this _sure_ aspect is not verifiable and, consequently, is reduced to the perception of the decision-maker. To be valuable in the eyes of a decision-maker, an Information must be able to . That's why most information providers invest time and effort to create strong brands which convey an image of trust and certainty. This has a direct impact on the perceived value of their informations.
+- Private: An information provider cannot capture any value if it already known by everyone. The value capture from this information happens only through the release of this information. It means that if an Information stays private forever, no one will benefit from it, not even thw owner. This release could be indirect though (e.g: when a market bubble pops): when an actor changes his behavior on a market ("This asset is overvalued: I sell everything !"), the other actors are often analyzing this change of behavior ("He sells everything !") and hence, retrieving indirectly the information ("We understand that you think that the asset is overvalued"). \
+This privacy aspect has to be nuanced with the fact that many informations are public or easily accessible and hence not valuable but require very little additional private information to be valuable. "I know that there is a public information here which suits your needs" is the kind of additional information provided by the search business.
+
+In a further part, we refine the various ways of [creating Information Value](#value-creation).
+
+#### Knowledge grows through Combination
+
+To become knowledge, new insights are internalized by establishing links with already existing knowledge, and these links can range from firmly characterized relationships to vague associations. Prior knowledge is used to make sense of received information, and once accepted for inclusion, internalizes the new insights by linking with prior knowledge. Hence, the new knowledge is as much a function of prior knowledge as it is of received inputs. Some authors mention the importance of the semantic aspects of information in the creation of knowledge [@Rowley2007].
+
+Property compositions may be linear in general. From a saver's point of view adding one kilograms of rice to another kilograms of rice is something linear, and makes two kilograms of rice. As long as processes are not involved thus, property composition is linear. This does not apply to knowledge compositions however, precisely in that knowledge is a process. The composition of two elements of knowledge systematically generates a third one, which is anywhere between trivial (but non-null) and revolutionary [@Aberkane2016]. In other words, the paradigm for growing Information-based assets is not displacement and replacement, but rather **connectivity and recombination** [@Iansiti2014].
+
+Knowledge may thus be considered to "reproduce" in a way, and the difference between knowing two things separately and knowing them together may be called the "fertility" of knowledge, which is somehow comparable to the notion of entrepreneurial added value. This fertility accounts for the intrinsic prolificity of knowledge. We may also oversimplify this paradigm by calling the fertility of knowledge "serendipity", that is, the fortuitous creation of novel knowledge from the collision of several distinct bits of knowledge [@Aberkane2016].
+
+From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based [@Aberkane2016].
+
+#### Wisdom is the accumulation of Knowledge
+
+Ulimately the growth of Knowledge is leading to the creation of new conventional wisdom, also called common-sense by @Perez2004.
+
+Wisdom perhaps has more to do with human intuition, understanding, interpretation and actions, than with systems. Some authors see wisdom as accumulated knowledge, which allows you to understand how to apply concepts from one domain to new situations or problems. In the knowledge management literature, some authors suggest that Wisdom is the highest level of abstraction, with vision foresight and the ability to see beyond the horizon [@Rowley2007].
+
+Wy do we even consider Wisdom in this essay? How this concept could be related to Organizational efficiency? This seems quite counter-intuitive to consider Wisdom at a time when all of our understandings about the economic world and our beliefs seem to be challenged. In fact, it may be one the most important aspect of the knowledge economy, yet underrated by the literature: by adopting a new range of techologies, our societies are also constituting a new wisdom. @Perez2004 suggests that we are currently transiting from one conventional wisdom to another: As the new paradigm unfolds in the economy, its logic propagates towards all of society, modifying the common sense criteria that guide all sorts of organizations and eventually resulting in maximum social synergy.
+
+Some authors suggest that since knowledge is more and more available and yet has still to be improved in most organizations, organizations' leaders should focus on spreading a new wisdom, bringing a new vision, letting employees with the task of creating the new orgniazational knowledge. We refine this aspect in the part about [Vision](#vision).
+
+### Machines and Information are growing in symbiose
+
+#### Data, Information and Knowledge flows are Positive-Sum
+
+Data, Information, Knowledge and Wisdom are all immaterial goods. And hence have different properties than material goods when they are exchanged. One of the most clear formulation of their different properties has been coined by the french writer Serge Soudoplatoff (cited by @Aberkane2016):
+
+> When one shares a material good, one divides it. When one shares an immaterial good, one multiplies it.
+
+Since knowledge is an immaterial good, sharing it does not divide it, but rather multiplies it and also makes it evolve. Its economics, also, is one of fluxes rather than one of stocks, in which ownership must clearly be redefined [@Aberkane2016].
+
+As a result, Knowledge exchanges are Positive-Sum. This is a re-expression of Soudoplatoff's law. Material exchanges are Zero-Sum, whereas immaterial exchanges, such as knowledge exchanges, are Positive-Sum [@Aberkane2016].
+
+This property could help explain the exponential growth of Information we are describing in the next parts.
+
+This property also has an impact on the fear of loss: sharing an information doesn't mean you loose it. You may miss an opportunity of capturing some value from the release of this information, but you still have the ability to use the Information once you have released it. The only way to create and capture some value with Information is to release it in some way.
+
+Positive-Sum exchanges also mean that, Immaterial goods economics are not subject to all the limitations of material goods due to management of scarcity, depletion, etc. It has several implication on the value creation and capture mechanisms which are described in the following parts: [Create Information Value](#value-creation) and [Capture Information Value](#value-capture)
+
+Please note that this rule of thumb does not comprehend the notion of Value of Information, which is studied by Game Thoery and Economics.
+
 #### Information Technology's performance is growing exponentially
 
 Futurist Ray Kurzweil made 4 signature observations about the evolution of Information technology [@VanGeest2014]:
@@ -105,7 +203,7 @@ As seen in the introduction, [each technological revolution has its key factor](
 
 The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web) [@Bharadwaj2013]. Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015]. Information goods, powerful computing devices, and inexpensive digital communication are changing business and society [@Gimpel2012].
 
-#### Data and Information are growing exponentially: the rise of Big Data
+#### Data and Information are growing exponentially: Big Data everywhere
 
 The digital universe is made up of images and videos on mobile phones uploaded to YouTube, digital movies populating the pixels of our high-definition TVs, banking data swiped in an ATM, security footage at airports and major events such as the Olympic Games, subatomic collisions recorded by the Large Hadron Collider at CERN, transponders recording highway tolls, voice calls zipping through digital phone lines, and texting as a widespread means of communications [@Gantz2012].
 
@@ -121,108 +219,7 @@ Examples of currently exploding (and potentially valuable) data sources [@Gantz2
 - Consumer images: We say a lot about ourselves when we post pictures of ourselves or our families or friends.
 - Transactions: in addition, of course, to the normal transactional data running through enterprise computers in the course of normal data processing today.
 
-### Humans
-
-#### From the Data of Machines to the Wisdom of Humans: Meaning and Value
-
-Interestingly those authors who draw the hierarchy offer a number of different views on the variables that change between the different levels of the hierarchy [@Rowley2007]:
-
-- meaning and value
-- human input and computer input
-- algorithmicity and programmability
-- order, structure and human agency
-
-On one end of the spectrum, Data has no value and no meaning for Humans, is only for Computers to be treated with algorithms. Whereas Wisdom is valuable and meaningful for Humans, cannot be recorded in a computer and cannot be programmatically extracted.
-
-Information and Knowledge being at the interface between Humans and Machines are all the rage in today's technological revolution. Mastering an understanding the elements at the interface of those two worlds are the key to understand the current technological revolution. Now, the Humanity is learning to use Machines to deliver Meaning & Value, i.e. answering questions for better decisions, to Humans. This is the paradigm of the current techno-economic revolution.
-
-#### Knowledge is an Algorithm: a combination of Information by Human cognition
-
-Knowledge is typically defined with reference to information, but some discuss the processes that convert information into knowledge, whilst others identify the 'added ingredients'. The processes that convert information into knowledge are variously described as [@Rowley2007]:
-
-- synthesis of multiple sources of information over time.
-- belief structuring.  
-- study and experience.
-- organization and processing to convey understanding, experience, accumulated learning and experience.
-- internalization with reference to cognitive frameworks.
-
-The 'added ingredients' definitions suggest variously that knowledge is [@Rowley2007]:
-
-- a mix of contextual information, values, experience, and rules.
-- information, expert opinion, skills and experience.
-- information combined with understanding and capability.
-- perception, skills, training, common sense, and experience.
-
-Knowledge consists of that mix of contextual information, values, experience, and rules. Knowledge involves the synthesis of multiple sources of information over time. The amount of human contribution increases along the continuum from data to information to knowledge [@Rowley2007].
-
-Summarizing these definitions, knowledge might be viewed as a mix of information, understanding, capability, experience, skills and values, but it is important to note that not all authors mention all of these elements. They differentiate between tacit knowledge as embedded in the individual and explicit knowledge as residing in documents, databases and other recorded formats [@Rowley2007].
-
-
-Knowledge is an intrinsically ambiguous and equivocal term. There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it [@Rowley2007]:
-
-- Knowledge is the combination of data and information, to which is added expert opinion, skills, and experience, to result in a valuable asset which can be used to aid decision making.
-- Knowledge is data and/or information that have been organized and processed to convey understanding, experience, accumulated learning, and expertise as they apply to a current problem or activity.
-- Knowledge builds on information that is extracted from data. While data is a property of things, knowledge is a property of people that predisposes them to act in a particular way.
-
-#### Information & Knowledge Value relates to Decision-making & Action
-
-An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area [@Rowley2007].
-
-Economically, the main definition of Value of Information is: how much answering a question allows a decision-maker to improve its decision [@Howard1966].
-
-- "answering": Value of Information is dependent of the all possible answers and their relative likelihood.
-- "improve": Value of Information isn't about sleeping better at night. If the expected value of the information (the chance you change your decision after receiving the informaiton times the relative value of the decisions) is lower than the cost of the information, just bite the bullet and don't run the test you were considering.
-- "decision": Value of Information isn't just curiosity. Information has Value only if some decision has to depend on that fact.
-
-According to @Hirshleifer1971 there are 2 types of uncertainty: market uncertainty and technology uncertainty.
-
-The business of **Information Search** is about reducing market uncertainty by producing Information about market opportunities for each individual, i.e. searching trading partners, reducing the cost of transaction.
-
-The business of **Information Production** is about reducing technological uncertainty by combination of value-less information by creating valuable technological Information or Knowledge (such as event prediction or technological innovation) reducing the cost of production.
-
-Source of Value of Information or Knowledge: **Private, Prior, Sure**.
-
-Capture Value of Information or Knowledge: **Consumptive Adaptation, Optimal Speculation, Resale of the Information**
-
-The most powerful way to capture Value from the Information is to resell it to the actors of the market. That way you are not limited by your engagement (or capacity of engagement) in the market, in fact you may not be engaged at all in the market.
-
-Example: I predicted that it will be raining in one week, this will raise the price of umbrellas. According to @Hirshleifer1971, I have 3 ways to capture the value of this Information:
-
-- consumptive adaptation: I buy an umbrella now, before that the umbrella price goes up in 1 week. My profit is limited by my consumption.
-- optimal speculation: I use my capital to buy umbrellas at low price now, to resell them in 1 week when the price goes up. My profit is limited by my capital.
-- resale of information: I make a deal with several umbrella manufacturers to sell them my information. My profit is limited by the size of the umbrella market, not by my size in consumption or capital.
-
-If I'm not an actor of this market, I cannot profit from consumptive adaptation or optimal speculation, but I can still profit from reselling Information. If I'm not located where it will be raining in 1 week, I won't be able to sell my umbrellas to the people needing it. But I'm still able to sell the Information to the actors of that market so that they can improve their production capacity.
-
-#### Knowledge grows through Combination
-
-To become knowledge, new insights are internalized by establishing links with already existing knowledge, and these links can range from firmly characterized relationships to vague associations. Prior knowledge is used to make sense of received information, and once accepted for inclusion, internalizes the new insights by linking with prior knowledge. Hence, the new knowledge is as much a function of prior knowledge as it is of received inputs. Some authors mention the importance of the semantic aspects of information in the creation of knowledge [@Rowley2007].
-
-**Superlinear**: Property compositions may be linear in general. From a saver's point of view adding one kilograms of rice to another kilograms of rice is something linear, and makes two kilograms of rice. As long as processes are not involved thus, property composition is linear. This does not apply to knowledge compositions however, precisely in that knowledge is a process. The composition of two elements of knowledge systematically generates a third one, which is anywhere between trivial (but non-null) and revolutionary [@Aberkane2016]. In other words, the paradigm for material goods is **not displacement and replacement**, whereas the paradigm for immaterial goods is **connectivity and recombination**  [@Iansiti2014]
-
-Knowledge may thus be considered to "reproduce" in a way, and the difference between knowing two things separately and knowing them together may be called the "fertility" of knowledge, which is somehow comparable to the notion of entrepreneurial added value. This fertility accounts for the intrinsic prolificity of knowledge [@Aberkane2016]. We may also oversimplify our paradigm by calling the fertility of knowledge "serendipity", that is, the fortuitous creation of novel knowledge from the collision of several distinct bits of knowledge [@Aberkane2016].
-
-From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based [@Aberkane2016].
-
-#### Humans' Activities are redirected towards Meaning & Value [TODO: change this title]
-
-The booming growth of Machine Learning and Artificial Intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications, and particularly the implications for our careers. As AI improves, which is happening quickly, a much broader set of "thinking" rather than "doing" jobs will be aﬀected. Jobs, that, until the last few years, we couldn't imagine being done without the participation of an actual, trained human being [@Beck2017]. Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015]. The Idea that technological advances favor more skilled workers is a twentieth century phenomenon [@Acemoglu2002]. It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves [@Beck2017].
-
-Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines [@Hirt2014]. Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates [@Manyika2015]. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives [@Hirt2014].
-
-Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but IT technology creates the need for new roles [@Manyika2015]. Those that want to stay relevant in their professions will need to focus on skills and capabilities that Artificial Intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as Artificial Intelligence and Machine Learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
-
-According to @Frey2017, 3 Tasks categories won't be automated: [@Frey2017]
-
-- **Perception & Manipulation** tasks: especially in unstructured work environment (personal house vs airport or train station), irregular objects.
-- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value of creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is difficult.
-- **Social intelligence** tasks: involving negotiation, persuasion and care.
-
-#### Algorithms are a transcription of Human Knowledge and we are getting better at transcribing it.
-
-In mathematics and computer science, an Algorithm is a self-contained sequence of actions to be performed. Algorithms can perform calculation, data processing and automated reasoning tasks. Algorithms are the best
-
-The world is pretty much run on algorithms [@VanGeest2014]. Software and algorithms can be seen as human Knowledge freezed and transcribed so that a Machine can exploit it to treat Information.
+#### Automated Knowledge generation through Machine Learning.
 
 During the last 2 decades, we already witnessed that specific computer Algorithms could beat the Human world champions at games, which are specific controlled environments:
 
@@ -233,9 +230,9 @@ During the last 2 decades, we already witnessed that specific computer Algorithm
 
 Those Algorithms have all been generated thanks to Machine Learning.
 
-Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data [@VanGeest2014]. Machine Learning Algorithms are Meta-Algorithms, in a sense that they are Algorithms that create other Algorithms. Machine Learning Algorithms create automatically new Algorithms from Data, trying to reduce the error rate on a specific algorithmic task, much like a biologic entity (Human or Animal) would do. Humans have transcribed in Machine Learning Algorithms the most basic way how Humans derive Knowledge from Information. Machine Learning is able to create an Algorithm by looking at Data.
+Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data [@VanGeest2014]. Machine Learning Algorithms are Meta-Algorithms, in a sense that they are Algorithms that create other Algorithms. In other Machine Learning Algorithms create automatically new Algorithms from Data, trying to reduce the error rate on a specific algorithmic task, much like a biologic entity (Human or Animal) would do through learning. Humans have transcribed in Machine Learning Algorithms the most basic way how Humans derive Knowledge from Information. Machine Learning is able to create an Algorithm by looking at Data.
 
-#### Human Knowledge is trivialized by Algorithms (Analytics / AI & Deep learning): Human Knowledge value is shifting
+#### Algorithms encroaching Human Knowledge workers skills
 
 In less controlled environment than games, Machine Learning is getting good results in more and more scientific fields: Character Recognition in the early 90s, Speech Recognition in the 2010s, Computer Vision in 2014 and now Natural Language Processing (see Yann Lecun's [post on facebook](https://www.facebook.com/yann.lecun/posts/10154498539442143)). Those results are deemed good becase those algorithms are much faster and on par with humans' accuracy on those increasingly complex tasks:
 
@@ -254,17 +251,9 @@ Many skilled jobs are cognitive jobs (like Doctors, Financial advisers, Business
 
 Highly skilled workers can command high rates because of three capabilities. Their abilities to go through the early rote tasks quickly and accurately; their experiences and judgment in determining a course of action; and their savviness for helping clients navigate that course. AI and Machine Learning will quickly surpass our abilities on the first two capabilities. It’s easy to see the role of automated systems in data gathering and analysis, we’ve accepted that machines can do these types of tasks efficiently. However, their potential goes much further [@Beck2017].
 
-#### Human Physical skills are trivialized by Automation / Robotics / 3D printing & Additive manufacturing
+### Humans' core competency is to give Meaning & Value
 
-New technologies such as robotics, 3-D printing, augmented reality and the "Internet of Things" will soon lead to major business changes [@WESTERMAN2015].
-
-Digitization has contributed to increasingly jobless recoveries from recessions. The postwar US economy took roughly six months to recover lost jobs after every recession. But it took 15 months to restore lost jobs after the 1991 recession, 39 months after 2001, and 43 months after 2008 [@Manyika2015].
-
-Digitization has contributed to hollowing out the middle-skill portion of the US workforce. Since 2000, the US has created 8 million jobs : only low-skill interactive jobs or high-skill interactive jobs. Whereas, 2.5 million production and transaction jobs have been destroyed [@Manyika2015].
-
-In terms of wages, digitization has accelerated a divergence between the majority of workers and a smaller group at the top. And, since 1980, labor productivity has grown 2.5 times faster than wages, breaking historical patterns [@Manyika2015].
-
-#### Knowledge transfer to Humans is constrained by Time and Attention
+#### Information & Knowledge transfer to Humans is constrained by Time and Attention
 
 Some authors differentiate between explicit knowledge and tacit knowledge, suggesting that explicit knowledge can be recorded in information systems, whereas tacit knowledge cannot be recorded since it is part of the human mind [@Rowley2007].
 
@@ -283,7 +272,7 @@ The product of attention and time becomes the most essential currency of noocono
 This has been understood already by some media visionaries, as Patrick Lelay, CEO of TF1, the leader of the french TV industry:
 > _There are many ways of talking about television. But, from a business perspective, let's be realistic: basically TF1's job is to help, say, Coca-Cola, to sell its product. For an advertising message to be perceived, the viewer's brain must be available. The purpose of our broadcasts is to make it available, that is, to divert it, to relax it, in order to make it ready between two ads. What we are selling to Coca-Cola is available human brain time._
 
-[Note: the only way to get the Attention and Time of a computer is to code. Software can be seen as Knowledge for computers.]
+[Note: The equivalent of Attention and Time for a computer is bandwith. However, Transforming Human Knowledge into Software (Machine Knowledge) requires Time and Attention of a talented Software Developer. Once it is done, transferring the software from one machine to another is nearly only limited by bandwith.]
 
 #### Competition for attention: People want simpler interactions
 
@@ -298,6 +287,44 @@ The degree of consumer attention focused on a relatively small number of brands 
 Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more [@Westerman2011].
 
 Some customers today favor self-service over personal interaction. For many young adults in their 20s and early 30s, interacting with a human service representative represents an inconvenience or an extra cost [@WESTERMAN2015].
+
+#### Knowledge transfer to Machines is constrained by Design Talent
+
+Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014]
+
+The competition to hire talent is now global, as technologies evolve faster and technology usage is exploding to increase automation.
+
+There are Growing talent mismatches between companies. Companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business [@Hirt2014].
+
+Between 2012 and 2020, the patch of the digital universe that CIOs and their IT staffs need to manage will become not just bigger but also more complex. The skills, experience, and resources to manage all these bits of data will become scarcer and more specialized, requiring a new, flexible, and scalable IT infrastructure that extends beyond the enterprise [@Gantz2012].
+
+Between 2014 and 2020, the amount of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
+
+For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
+
+#### Human skills are increasingly transfered to Machines
+
+The booming growth of Machine Learning and Artificial Intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications, and particularly the implications for our careers. As AI improves, which is happening quickly, a much broader set of "thinking" rather than "doing" jobs will be aﬀected. Jobs, that, until the last few years, we couldn't imagine being done without the participation of an actual, trained human being [@Beck2017]. Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015]. The Idea that technological advances favor more skilled workers is a twentieth century phenomenon [@Acemoglu2002]. It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves [@Beck2017].
+
+Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines [@Hirt2014]. Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates [@Manyika2015]. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives [@Hirt2014].
+
+Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but IT technology creates the need for new roles [@Manyika2015]. Those that want to stay relevant in their professions will need to focus on skills and capabilities that Artificial Intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as Artificial Intelligence and Machine Learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
+
+According to @Frey2017, 3 Tasks categories won't be automated: [@Frey2017]
+
+- **Perception & Manipulation** tasks: especially in unstructured work environment (personal house vs airport or train station), irregular objects.
+- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value of creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is difficult.
+- **Social intelligence** tasks: involving negotiation, persuasion and care.
+
+#### Human Physical skills are trivialized by Automation / Robotics / 3D printing & Additive manufacturing
+
+New technologies such as robotics, 3-D printing, augmented reality and the "Internet of Things" will soon lead to major business changes [@WESTERMAN2015].
+
+Digitization has contributed to increasingly jobless recoveries from recessions. The postwar US economy took roughly six months to recover lost jobs after every recession. But it took 15 months to restore lost jobs after the 1991 recession, 39 months after 2001, and 43 months after 2008 [@Manyika2015].
+
+Digitization has contributed to hollowing out the middle-skill portion of the US workforce. Since 2000, the US has created 8 million jobs : only low-skill interactive jobs or high-skill interactive jobs. Whereas, 2.5 million production and transaction jobs have been destroyed [@Manyika2015].
+
+In terms of wages, digitization has accelerated a divergence between the majority of workers and a smaller group at the top. And, since 1980, labor productivity has grown 2.5 times faster than wages, breaking historical patterns [@Manyika2015].
 
 #### Increasing speed of adoption of technologies: Humans are getting more and more wired to Information Technologies
 
@@ -333,29 +360,3 @@ Millennialization of consumers has turned consumers into producers, empowered in
 1. Use the MTP to attract and engage early members. The MTP serves as a gravitational force that attracts constituents into its orbit [@VanGeest2014].
 2. Nurture the community. Elements of nurturing include listening and giving back [@VanGeest2014].
 3. Create a platform to automate peer-to-peer engagement. Crowd is pull-based. You open up an idea, funding opportunity or incentive prize and let people find you [@VanGeest2014].
-
-#### Knowledge transfer to Machines is constrained by Design Talent
-
-Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014]
-
-The competition to hire talent is now global, as technologies evolve faster and technology usage is exploding to increase automation.
-
-There are Growing talent mismatches between companies. Companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business [@Hirt2014].
-
-Between 2012 and 2020, the patch of the digital universe that CIOs and their IT staffs need to manage will become not just bigger but also more complex. The skills, experience, and resources to manage all these bits of data will become scarcer and more specialized, requiring a new, flexible, and scalable IT infrastructure that extends beyond the enterprise [@Gantz2012].
-
-Between 2014 and 2020, the amount of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
-
-For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
-
-#### Wisdom is the accumulation of Knowledge
-
-Ulimately the growth of Knowledge is leading to the creation of new conventional wisdom, also called common-sense.
-
-It perhaps has more to do with human intuition, understanding, interpretation and actions, than with systems [@Rowley2007].
-
-Some authors see wisdom as accumulated knowledge, which allows you to understand how to apply concepts from one domain to new situations or problems. In the knowledge management literature, some authors suggest that Wisdom is the highest level of abstraction, with vision foresight and the ability to see beyond the horizon [@Rowley2007].
-
-Wy do we even consider Wisdom in this essay? How this concept could be related to Organizational efficiency? This seems quite counter-intuitive to consider Wisdom at a time when all of our understandings about the economic world and our beliefs seem to be challenged. In fact, it may be one the most important aspect of the knowledge economy, yet underrated by the literature. Some authors suggest that we are currently transiting from one conventional wisdom to another. Others suggest that since knowledge is more and more available, organizations' leaders should focus on spreading a new wisdom, bringing a new vision.
-
-See also the part about [Vision](#vision).

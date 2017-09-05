@@ -152,7 +152,6 @@ For the previous paradigm, we can recognize at least four major modes of growth:
 
 One can now also see a parallel between the typical forms of organization of the traditional big corporations and that of hospitals, universities, ministries and governments in general.
 
-As the new paradigm unfolds in the economy, its logic propagates towards all of society, modifying the common sense criteria that guide all sorts of organizations and eventually resulting in maximum social synergy.
 
 **The notion of a paradigm can be understood on three levels**
 
@@ -767,7 +766,7 @@ Technological Uncertainty: individual not sure about the return of his productiv
 - optimal speculation
 - resale of the information (to other market actors that will do consumptive adaptation and/or optimal speculation)
 
-Note on Technical Information or Knowledge:
+Note on Technological Information:
 
 Foreknowledge is the ability to successfully predict tomorrow's (or next year's) weather. Whatever does actually occur will, in due time, be evident to all; the only aspect of information that may be of advantage is prior knowledge as to what will happen [@Hirshleifer1971].
 

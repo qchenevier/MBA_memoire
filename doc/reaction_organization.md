@@ -18,7 +18,7 @@ Some firms are conducting experiments in different business units, but not condu
 
 ### Assess your organizational value
 
-#### Assess your internal & absolute value: your assets
+#### Reevaluate your assets
 
 **Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world [@Westerman2011]?
 
@@ -26,15 +26,9 @@ Successful Digital Transformation comes from reshaping the organization to take 
 
 Beware of the assumption: **The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
 
-#### The Information Value Chain
+#### Create Information Value {#value-creation}
 
-According to @Hirshleifer1971 there are 2 types of economical uncertainty: Market Uncertainty and Technology Uncertainty, and hence, Information is able to create Value by helping Decision making regarding those two uncertainties.
-
-Market uncertainty happens when an individual is imperfectly informed about his market opportunities, i.e. about the supply-demand offers of others: there are costly patterns of search for trading partners, which replace the traditional assumption of costless exchange [@Hirshleifer1971].
-
-Technological uncertainty happens when individuals are unsure about the size of their own commodity endowments and/or about the returns attainable from their own productive investments [@Hirshleifer1971].
-
-Produce, search, and/or deliver: CIME (Communication, Information, Media, Entertainment) firms create value by managing only three types of transactions: production, search, and delivery [@Gimpel2012]:
+CIME (Communication, Information, Media, Entertainment) firms create value by managing only three types of transactions [@Gimpel2012]:
 
 - Production is "making goods available for use."
 - Search is matching different parties together so they can trade
@@ -44,14 +38,14 @@ The PSD framework helps to identify and separate core revenue-generating transac
 
 CIME firms profit by reducing inefficiencies in production, search, and/or delivery. Disruptive innovations offer greater efficiency in these roles [@Gimpel2012].
 
+And by referring to the part about [Information Value](#information-value), we can understand how those activities relate to the different types of uncertainties:
 
-The business of **Information Search** is about reducing market uncertainty by producing Information about market opportunities for each individual, i.e. searching trading partners, reducing the cost of transaction.
+- The business of **Information Search** is about reducing market uncertainty by producing Information about market opportunities for each individual, i.e. searching trading partners, reducing the cost of transaction.
+- The business of **Information Production** is about reducing technological uncertainty by combination of value-less information by creating valuable technological Information or Knowledge (such as event prediction or technological innovation) reducing the cost of production.
 
-The business of **Information Production** is about reducing technological uncertainty by combination of value-less information by creating valuable technological Information or Knowledge (such as event prediction or technological innovation) reducing the cost of production.
+It is interesting to note that the Delivery of Information is not considered by @Hirshleifer1971 in his model. Maybe the Value of this activity was less striking and less easy to modelize. It could explain why most telecommunication companies (doing the Delivery of Information) are diversifying their activities in the Information Production or Search. The current battle around net neutrality in USA, where Telecom operators are trying to control the Information which is transiting through their pipes might be revealing how they they think that the Information Delivery activity is not adding enough value: they are trying to control the Information Produce and Search to extract value.
 
-It is interesting to note that the Delivery of Information is not considered by @Hirshleifer1971 in his model. Maybe the Value of this activity was less striking and less easy to modelize. It could explain why most telecommunication companies (working in the Delivery of Information) are diversifying their activities in the Information Production or Search. The current battle around net neutrality in USA, where Telecom operators are trying to control the Information which is transiting through their pipes is revealing how they they think that the Information Delivery activity is not Value adding enough: they are trying to control the Information Produce and Search to extract value.
-
-To enhance the Decisions of an Actor on a Market, an Information or Knowledge should have the following properties: **Private, Prior, Sure**.
+#### Capture Information Value {#value-capture}
 
 According to @Hirshleifer1971, there are 3 ways to capture the value of an Information or a Knowledge relevant to a market: **Consumptive Adaptation, Optimal Speculation, Resale of the Information**.
 
@@ -64,7 +58,6 @@ Example: I predicted that it will be raining in one week, this will raise the pr
 - resale of information: I make a deal with several umbrella manufacturers to sell them my information. My profit is limited by the size of the umbrella market, not by my size in consumption or capital.
 
 If I'm not an actor of this market, I cannot profit from consumptive adaptation or optimal speculation, but I can still profit from reselling Information. If I'm not located where it will be raining in 1 week, I won't be able to sell my umbrellas to the people needing it. But I'm still able to sell the Information to the actors of that market so that they can improve their production capacity.
-
 
 #### Analyze your business model: Assets and Rights sold
 
