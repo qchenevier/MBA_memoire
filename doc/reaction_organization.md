@@ -507,6 +507,12 @@ Digital platforms will become the gateways (and bottlenecks) to the market [@Gim
 
 Value Creation from Multisided Business Models: multisided revenue models are important not just in software. New leaders in the digital space base their _raison d’être_ on such models, which can be also multilayered by giving away certain products or services in one layer to capture value at a different layer. More nuanced ways to conceptualize the drivers of value creation and capture arise by thinking about the multisided nature of interactions [@Bharadwaj2013].
 
+Community & Crowd: If you build communities and you do things in public, you don't have to find the right people, they find you. An Exponential Organization interacting with its community is not simply a transaction. There are three steps to building a community around an ExO [@VanGeest2014]:
+
+1. Use the MTP to attract and engage early members. The MTP serves as a gravitational force that attracts constituents into its orbit.
+2. Nurture the community. Elements of nurturing include listening and giving back.
+3. Create a platform to automate peer-to-peer engagement. Crowd is pull-based. You open up an idea, funding opportunity or incentive prize and let people find you.
+
 ### Organize for Optimization & Operational Excellence
 
 #### Valuable assets

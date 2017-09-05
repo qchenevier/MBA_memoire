@@ -162,7 +162,10 @@ Ulimately the growth of Knowledge is leading to the creation of new conventional
 
 Wisdom perhaps has more to do with human intuition, understanding, interpretation and actions, than with systems. Some authors see wisdom as accumulated knowledge, which allows you to understand how to apply concepts from one domain to new situations or problems. In the knowledge management literature, some authors suggest that Wisdom is the highest level of abstraction, with vision foresight and the ability to see beyond the horizon [@Rowley2007].
 
-Wy do we even consider Wisdom in this essay? How this concept could be related to Organizational efficiency? This seems quite counter-intuitive to consider Wisdom at a time when all of our understandings about the economic world and our beliefs seem to be challenged. In fact, it may be one the most important aspect of the knowledge economy, yet underrated by the literature: by adopting a new range of techologies, our societies are also constituting a new wisdom. @Perez2004 suggests that we are currently transiting from one conventional wisdom to another: As the new paradigm unfolds in the economy, its logic propagates towards all of society, modifying the common sense criteria that guide all sorts of organizations and eventually resulting in maximum social synergy.
+Wy do we even consider Wisdom in this essay? How this concept could be related to Organizational efficiency? This seems quite counter-intuitive to consider Wisdom at a time when all of our understandings about the economic world and our beliefs seem to be challenged. In fact, it may be one the most important aspect of the knowledge economy, yet underrated by the literature: by adopting a new range of techologies, our societies are also constituting a new wisdom. Some authors suggest that we are currently transiting from one conventional wisdom to another:
+
+- Digital resources are "more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society" [@Bharadwaj2013].
+- As the new paradigm unfolds in the economy, its logic propagates towards all of society, modifying the common sense criteria that guide all sorts of organizations and eventually resulting in maximum social synergy [@Perez2004].
 
 Some authors suggest that since knowledge is more and more available and yet has still to be improved in most organizations, organizations' leaders should focus on spreading a new wisdom, bringing a new vision, letting employees with the task of creating the new orgniazational knowledge. We refine this aspect in the part about [Vision](#vision).
 
@@ -170,7 +173,7 @@ Some authors suggest that since knowledge is more and more available and yet has
 
 #### Data, Information and Knowledge flows are Positive-Sum
 
-Data, Information, Knowledge and Wisdom are all immaterial goods. And hence have different properties than material goods when they are exchanged. One of the most clear formulation of their different properties has been coined by the french writer Serge Soudoplatoff (cited by @Aberkane2016):
+Data, Information, Knowledge and Wisdom are all immaterial goods. And hence have different properties than material goods when they are exchanged. One of the most clear formulation of their different properties has been coined by the french writer & entrepreneur Serge Soudoplatoff (cited by @Aberkane2016):
 
 > When one shares a material good, one divides it. When one shares an immaterial good, one multiplies it.
 
@@ -232,12 +235,12 @@ Those Algorithms have all been generated thanks to Machine Learning.
 
 Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data [@VanGeest2014]. Machine Learning Algorithms are Meta-Algorithms, in a sense that they are Algorithms that create other Algorithms. In other Machine Learning Algorithms create automatically new Algorithms from Data, trying to reduce the error rate on a specific algorithmic task, much like a biologic entity (Human or Animal) would do through learning. Humans have transcribed in Machine Learning Algorithms the most basic way how Humans derive Knowledge from Information. Machine Learning is able to create an Algorithm by looking at Data.
 
-#### Algorithms encroaching Human Knowledge workers skills
+#### Algorithms are encroaching Human Knowledge workers skills
 
 In less controlled environment than games, Machine Learning is getting good results in more and more scientific fields: Character Recognition in the early 90s, Speech Recognition in the 2010s, Computer Vision in 2014 and now Natural Language Processing (see Yann Lecun's [post on facebook](https://www.facebook.com/yann.lecun/posts/10154498539442143)). Those results are deemed good becase those algorithms are much faster and on par with humans' accuracy on those increasingly complex tasks:
 
 - Character Recognition AI is now widely used to process automatically many types of documents (invoices, purchase orders) and in postal sorting offices to read hand-written adresses [@Marinai2005].
-- Speech Recognition AI is now used to power phone-answering-robots in call centers and in search engine applications on smartphones.
+- Speech Recognition AI is now used in search engine applications on smartphones or used to power phone-answering-robots in call centers.
 - Computer Vision AI is used by Facebook to recognize faces [@Taigman2014] and has been used in medical image analysis for decades [@DeBruijne2016].
 - Natural Language Processing AI is used by Google to improve its Google Translate tool [@Castelvecchi2016].     
 
@@ -251,48 +254,39 @@ Many skilled jobs are cognitive jobs (like Doctors, Financial advisers, Business
 
 Highly skilled workers can command high rates because of three capabilities. Their abilities to go through the early rote tasks quickly and accurately; their experiences and judgment in determining a course of action; and their savviness for helping clients navigate that course. AI and Machine Learning will quickly surpass our abilities on the first two capabilities. It’s easy to see the role of automated systems in data gathering and analysis, we’ve accepted that machines can do these types of tasks efficiently. However, their potential goes much further [@Beck2017].
 
-### Humans' core competency is to give Meaning & Value
+### Humans are contributing with Meaning & Value
 
-#### Information & Knowledge transfer to Humans is constrained by Time and Attention
+#### Information & Knowledge transfer to Humans is constrained by Time and Attention {#attention-time}
 
-Some authors differentiate between explicit knowledge and tacit knowledge, suggesting that explicit knowledge can be recorded in information systems, whereas tacit knowledge cannot be recorded since it is part of the human mind [@Rowley2007].
+There is a difference between explicit knowledge and tacit knowledge suggesting that explicit knowledge can be recorded in information systems, whereas tacit knowledge cannot be recorded since it is part of the human mind. Tacit knowledge is embedded in the individual, whilst explicit knowledge is codified and recorded, and as such is designed for sharing [@Rowley2007].
 
-In general, they agree that tacit knowledge is embedded in the individual, whilst explicit knowledge is codified and recorded, and as such is designed for sharing [@Rowley2007].
-
-**Not instantaneous**: Property exchanges may be considered instantaneous, and of course, scalable. However, knowledge exchanges take time. Knowledge exchanges, unlike properties exchanges, are flows [@Aberkane2016].
+However, the sharing of Information and Knowledge to Humans is not instantaneous. According to @Aberkane2016: Property exchanges may be considered instantaneous, and of course, scalable. However, knowledge exchanges take time. Knowledge exchanges, unlike properties exchanges, are flows.
 
 What is it that we spend indeed in acquiring conceptual knowledge from a book, a video game or a course? Attention and time. The amount of flowed knowledge is proportional to their product, in that spending one hour and zero attention surely implies a null transfer, and spending all one's attention for less than even the subliminal perceptual threshold also implies a null flow [@Aberkane2016].
 
-Equation 1 - Simplest knowledge flow - from an economic point of view
-φ(k) ∝ At
-**"the amount of flowed knowledge follows the product of attention and time"**
-
-The product of attention and time becomes the most essential currency of nooconomics [@Aberkane2016].
+As a result, @Aberkane2016 suggests a raw estimate to understand the knwoledge flows to humans: "the amount of flowed knowledge follows the product of attention and time". The product of attention and time becomes the most essential currency of the Knowledge Economy [@Aberkane2016]. This also has been understood by @Gimpel2012, when he states that: Innovations create indirect substitutes for consumer time, attention, and money.
 
 This has been understood already by some media visionaries, as Patrick Lelay, CEO of TF1, the leader of the french TV industry:
+
 > _There are many ways of talking about television. But, from a business perspective, let's be realistic: basically TF1's job is to help, say, Coca-Cola, to sell its product. For an advertising message to be perceived, the viewer's brain must be available. The purpose of our broadcasts is to make it available, that is, to divert it, to relax it, in order to make it ready between two ads. What we are selling to Coca-Cola is available human brain time._
 
-[Note: The equivalent of Attention and Time for a computer is bandwith. However, Transforming Human Knowledge into Software (Machine Knowledge) requires Time and Attention of a talented Software Developer. Once it is done, transferring the software from one machine to another is nearly only limited by bandwith.]
+When it was formulated in 2004, this statement has been perceived as cynical and dystopian, yet it shows the value provided by media companies: availability, which can be understood as attention, and time.
 
-#### Competition for attention: People want simpler interactions
+It has to be noted that the equivalent of Attention and Time for a computer is bandwith. Of course, Transforming Human Knowledge into Software (Machine Knowledge) requires the Time and Attention of a talented Software Developer. But once it is done, transferring the software from one machine to another is nearly only limited by bandwith. That means that all transfers of Information and Knowledge are limited by Attention and Time if the emitter and/or the receiver is Human. If both the emitter and the receiver are Machines, the Information transfers are only limited by the Information technology they are using.
 
-**Information is abundant, Attention is scarce:** Now that information is available so quickly, so ubiquitously, and so inexpensively, it is not surprising that everyone is complaining of information overload. Nobel prize-winning "economist Herbert Simon spoke for us all when he said that "a wealth of information creates a poverty of attention". Nowadays the problem is not information access but information overload. The real value produced by an information provider comes in locating, filtering, and communicating what is useful to the consumer. Any idiot can establish a Web presence, and lots of them have. The big problem is letting people know about it [@Shapiro1999].
+#### Competition for Attention is empowering Humans
 
-Innovations create indirect substitutes for consumer time, attention, and money [@Gimpel2012].
+Information is abundant, Attention is scarce: Now that information is available so quickly, so ubiquitously, and so inexpensively, it is not surprising that everyone is complaining of information overload. Nobel prize-winning "economist Herbert Simon spoke for us all when he said that "a wealth of information creates a poverty of attention". Nowadays the problem is not information access but information overload. The real value produced by an information provider comes in locating, filtering, and communicating what is useful to the consumer. Any idiot can establish a Web presence, and lots of them have. The big problem is letting people know about it [@Shapiro1999].
 
 Digital technologies create near-perfect transparency: consumers can switch among digital retailers. This dynamic can commoditize products and services as consumers demand comparable features and simple interactions [@Hirt2014].
 
-The degree of consumer attention focused on a relatively small number of brands are redrawing battle lines [@Hirt2014]
-
-Customers, too, are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more [@Westerman2011].
-
-Some customers today favor self-service over personal interaction. For many young adults in their 20s and early 30s, interacting with a human service representative represents an inconvenience or an extra cost [@WESTERMAN2015].
+The degree of consumer attention focused on a relatively small number of brands are redrawing battle lines [@Hirt2014]. Customers are becoming more demanding. There is an "ever-rising tide of customer expectations" for service and convenience. They want to be more in charge. They expect that we know them more [@Westerman2011]. Digital technologies know no borders, and the customer's demand for a unified experience is raising pressure on global companies to standardize offerings. They have come to expect payment systems that work across borders, global distribution, and a uniform customer experience [@Hirt2014].
 
 #### Knowledge transfer to Machines is constrained by Design Talent
 
-Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014]
+We saw in [another part](#attention-time), that Knowledge transfer to Machines is contrained by the time and attention of talented software developer. As a result, software development and design talent are  human skills which are increasingly important, as the Knowledge economy rises in importance. The competition to hire talent is now global, as technologies evolve faster and technology usage is exploding to increase automation.
 
-The competition to hire talent is now global, as technologies evolve faster and technology usage is exploding to increase automation.
+Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014].
 
 There are Growing talent mismatches between companies. Companies are struggling to find the right talent in areas that can't be automated. Such areas include digital skills like those of artificial-intelligence programmers or data scientists and of people who lead digital strategies and think creatively about new business designs. One global company, for example, is simultaneously planning to cut more than 10,000 employees (some through digital economies) while adding 3,000 to its digital business [@Hirt2014].
 
@@ -300,7 +294,7 @@ Between 2012 and 2020, the patch of the digital universe that CIOs and their IT 
 
 Between 2014 and 2020, the amount of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
 
-For workers, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
+For these workers, in US, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
 
 #### Human skills are increasingly transfered to Machines
 
@@ -310,13 +304,13 @@ Software replaces labor in digital businesses. Computers increasingly are perfor
 
 Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but IT technology creates the need for new roles [@Manyika2015]. Those that want to stay relevant in their professions will need to focus on skills and capabilities that Artificial Intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as Artificial Intelligence and Machine Learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
 
-According to @Frey2017, 3 Tasks categories won't be automated: [@Frey2017]
+According to @Frey2017, 3 Tasks categories won't be automated [@Frey2017]:
 
 - **Perception & Manipulation** tasks: especially in unstructured work environment (personal house vs airport or train station), irregular objects.
 - **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value of creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is difficult.
 - **Social intelligence** tasks: involving negotiation, persuasion and care.
 
-#### Human Physical skills are trivialized by Automation / Robotics / 3D printing & Additive manufacturing
+#### Human physical skills are trivialized by Automation / Robotics / 3D printing & Additive manufacturing
 
 New technologies such as robotics, 3-D printing, augmented reality and the "Internet of Things" will soon lead to major business changes [@WESTERMAN2015].
 
@@ -326,37 +320,29 @@ Digitization has contributed to hollowing out the middle-skill portion of the US
 
 In terms of wages, digitization has accelerated a divergence between the majority of workers and a smaller group at the top. And, since 1980, labor productivity has grown 2.5 times faster than wages, breaking historical patterns [@Manyika2015].
 
-#### Increasing speed of adoption of technologies: Humans are getting more and more wired to Information Technologies
+#### Humans are producing more and more Information
 
 Many people suggest that rates of new product introduction and adoption are speeding up since centuries. It seems to be true: It took decades for the telephone to reach 50% of households, beginning before 1900, whereas it took five years or less for cellphones to accomplish the same penetration in 1990. And innovations introduced more recently are being adopted more quickly [@McGrath2013].
 
 It took 30 years for electricity and 25 years for telephones to reach 10% adoption but less than five years for tablet devices to achieve the 10% rate. It took an additional 39 years for telephones to reach 40% penetration and another 15 before they became ubiquitous. Smart phones, on the other hand, accomplished a 40% penetration rate in just 10 years, if we time the first smart phone's introduction from the 2002 shipment of the first BlackBerry that could make phone calls and the first Palm-OS-powered Treo model [@McGrath2013].
 
-This rise of adoption and penetration rates for new technologies suggests that technology is less and less primarily used by new generations, the so-called _Millenials_ or _Y generation_. In fact, these terms uncover less an age reality than technological use reality. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
+This rise of adoption and penetration rates for new technologies suggests that technology is less and less primarily used by new generations, the so-called _Millenials_ or _Y generation_. In fact, these so-called generations are bounded less by an age criterion than by a technological use one. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
 
-As a results, the average human on this planet is more connected to all the other humans and communicates more with them than anytime in History. The world has never been so intertwined, in terms of information exchanges, even if the population has never been higher. Information is more available to anyone and anyone is more able to share information.
+This increased technology usage means that people are producing more and more information directly by giving feedback or indirectly throught the usage statistics of their devices. This is the rise of the _consumer-producer_:
 
-#### Less information asymmetry means empowerment of consumers and employees
+- Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others [@Gimpel2012].
+- Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry [@Karimi2015].
+
+As a results, the average human on this planet is more connected to all the other humans and communicates more with them than anytime in History. The world has never been so intertwined, in terms of information exchanges, even if the population has never been higher. Information is more available to anyone and anyone is more able to create or share information.
+
+#### Humans are increasingly interacting through (and with) machines
 
 Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space [@Bharadwaj2013].
 
 Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
 
-Enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels. These channels lower the cost of transactions [@Hirt2014].
+Information technologies are enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels, as these channels lower the cost of transactions [@Hirt2014].
 
-Digital technologies know no borders, and the customer's demand for a unified experience is raising pressure on global companies to standardize offerings. They have come to expect payment systems that work across borders, global distribution, and a uniform customer experience [@Hirt2014].
-
-This is because digital resources are "more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society" [@Bharadwaj2013].
+For example, some customers today favor self-service over personal interaction. For many young adults in their 20s and early 30s, interacting with a human service representative represents an inconvenience or an extra cost [@WESTERMAN2015].
 
 Some people may say that we will never trust machines with important decisions such as the management of our health and money, but this is twentieth century thinking. A new generation (often called Millenials) is engaging with smart machines that they trust, and often prefer [@Beck2017].
-
-#### Everybody is producing Information: the Consumer-producer {#consumer-producer}
-
-Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry [@Karimi2015].
-
-Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others [@Gimpel2012].
-
-**Community & Crowd:** If you build communities and you do things in public, you don't have to find the right people, they find you. An Exponential Organization interacting with its community is not simply a transaction There are three steps to building a community around an ExO:
-1. Use the MTP to attract and engage early members. The MTP serves as a gravitational force that attracts constituents into its orbit [@VanGeest2014].
-2. Nurture the community. Elements of nurturing include listening and giving back [@VanGeest2014].
-3. Create a platform to automate peer-to-peer engagement. Crowd is pull-based. You open up an idea, funding opportunity or incentive prize and let people find you [@VanGeest2014].
