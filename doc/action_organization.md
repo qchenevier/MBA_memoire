@@ -78,7 +78,7 @@ Competitors emerge from unexpected places: Web-based service providers now tap m
 
 Once digital players have established themselves as leaders in one market, they have a striking ability to move into new areas. Amazon went from selling books to selling every retail and a self-publishing platform and a cloud-based business service. Google went from internet search to longevity and biotech research, smart home products, venture capital investing and high-speed internet fiber services [@Manyika2015].
 
-#### Increasing pace of innovation
+#### Increasing pace of innovation & technological change
 
 Today, a typical automotive design cycle is approximately 24 to 36 months, which is much faster than the 60-month life cycle from five years ago [@McGrath2013].
 
@@ -88,13 +88,13 @@ Keeping up with the relentless pace of digital innovation is both a sprint and a
 
 Kurzweil identified a hugely important and fundamental property of technology: when you shift to an information-based environment, the pace of development jumps onto an exponential growth path and price/performance doubles every year or two. Whereas the experts in many fields will project linearly in times of exponential change [@VanGeest2014].
 
-**Information Accelerates Everything:** The new information paradigm is accelerating the metabolism of products, companies and industries. In industry after industry, the development cycle for products and services grows ever shorter. Nowhere is this staggering pace of change more apparent than with the consumer Internet. Many products are now launched early, unfinished and in perpetual beta, for the sole purpose of gathering data from users as early as possible to determine how to "finish" the product [@VanGeest2014].
+Information Accelerates Everything: The new information paradigm is accelerating the metabolism of products, companies and industries. In industry after industry, the development cycle for products and services grows ever shorter. Nowhere is this staggering pace of change more apparent than with the consumer Internet. Many products are now launched early, unfinished and in perpetual beta, for the sole purpose of gathering data from users as early as possible to determine how to "finish" the product [@VanGeest2014].
 
 The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines [@Manyika2015].
 
 The pace of change isn't going to slow down anytime soon. In fact, Moore's Law all but guarantees that it will continue to speed up -and speed up exponentially- for at least several decades. And given the cross impact into other technologies, if the last fifteen years has seen enormous disruption in the business world, the next fifteen will make that disruption seem tame by comparison  [@VanGeest2014].
 
-#### Due to the increased of innovation, the rate of disruption increases
+#### Increasing rate of disruption & market change
 
 Disruption has no consensual definition. However, it seems to be mostly used to depict the fact some innovations can push some incumbents out of market, barely letting them the ability to adapt. It is the fact some customer needs are met by innovations radically different from the previous state-of-the-art.    
 
@@ -117,56 +117,79 @@ Disruption is the New Norm: Every industry is becoming information-based, either
 - New products and services appear that are orders of magnitude better and cheaper
 - The status quo is disrupted (and the domain gets information-enabled)
 
-#### Network effects & self-reinforcing winner-takes-all dynamics
+#### Virtual Networks or Platforms: Distribution improved by platformization
 
-Network Effects Within Multisided Platforms Create Rapid Scale Potential: Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service. More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partner-ships and on the demand side with interconnections among web pages.  [@Bharadwaj2013]
+**what is a network**
+First, focus on the word network. It is enlightening to view information technologies in terms of virtual networks, which share many properties with real networks such as communications and transportation networks. We think of all users of Macintosh users as belonging to the "Mac network." Apple is the sponsor of this network. Building a network involves more than just building a product: finding partners, building strategic alliances, and knowing how to get the bandwagon rolling can be every bit as important as engineering design skills [@Shapiro1999].
 
-When the value of a product to one user depends on how many other users there are, economists say that this product exhibits network externalities, or network effects. Communications technologies are a prime example: telephones, e-mail, Internet access, fax machines, and modems all exhibit network externalities. Technologies subject to strong network effects tend to exhibit long lead times followed by explosive growth. The pattern results from positive feedback: as the installed base of users grows, more and more users find adoption worthwhile. Eventually, the product achieves critical mass and takes over the market [@Shapiro1999].
+Communications firms face substitution from over-the-top services [@Gimpel2012].
 
+Platformization is the emergence of Digital platforms that bring together suppliers, customers, and third parties. They are replacing traditional middlemen and can often serve to level the playing field by granting small players and new entrants access to formerly closed markets [@Gimpel2012]. While physical processes have high marginal costs, low-marginal-cost economics and platform architecture has allowed the most successful high-tech firms to achieve a scale that was once impossible. The power of platform economics is reflected in the gross margins, which can run as high as 80 percent [@Manyika2015].
+
+**virtual networks exists too**
 We are all familiar with physical networks such as telephone networks, railroad networks, and airline networks. Some high-tech networks are much like these "real" networks: networks of compatible fax machines. But many other high-tech products reside in "virtual" networks: the network of Macintosh, the network of Apple iPhone users, the network of Android Users [@Shapiro1999].
 
-In virtual networks, the linkages between the nodes are invisible, but no less critical for market dynamics and competitive strategy. We are in the same computer network if we can use the same software and share the same files. Whether real or virtual, networks have a fundamental economic characteristic: the value of connecting to a network depends on the number of other people already connected to it. This fundamental value proposition goes under many names: network effects, network externalities, and demand-side economies of scale. They all refer to essentially the same point: other things being equal, it's better to be connected to a bigger network than a smaller one [@Shapiro1999].
+In B2B markets, corporate purchasers are raising pressure on their suppliers to offer services that are standardized across borders, integrate with other offerings, and can be plugged into the purchasing companies' global business processes easily [@Hirt2014].
 
-Positive feedback and network externalities are not a creation of the 1990s. To the contrary, network externalities have long been recognized as critical in the transportation and communications industries, where companies compete by expanding the reach of their networks and where one network can dramatically increase its value by interconnecting with other networks. Anyone trying to navigate the network economy has much to learn from the history of the postal service, railroads, airlines, and telephones [@Shapiro1999].
+Network Effects Within Multisided Platforms Create Rapid Scale Potential: Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service. More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partnerships and on the demand side with interconnections among web pages [@Bharadwaj2013].
+
+#### Network externalities as a positive feedback
 
 Large networks are more attractive to users than small ones. The term that economists use to describe this effect, network externalities, usefully highlights two aspects of information systems that are crucial for competitive strategy [@Shapiro1999].
 
-First, focus on the word network. It is enlightening to view information technologies in terms of virtual networks, which share many properties with real networks such as communications and transportation networks. We think of all users of Macintosh users as belonging to the "Mac network." Apple is the sponsor of this network. Building a network involves more than just building a product: finding partners, building strategic alliances, and knowing how to get the bandwagon rolling can be every bit as important as engineering design skills [@Shapiro1999].
+When the value of a product to one user depends on how many other users there are, economists say that this product exhibits network externalities, or network effects. Communications technologies are a prime example: telephones, e-mail, Internet access, fax machines, and modems all exhibit network externalities. Technologies subject to strong network effects tend to exhibit long lead times followed by explosive growth. The pattern results from positive feedback: as the installed base of users grows, more and more users find adoption worthwhile. Eventually, the product achieves critical mass and takes over the market [@Shapiro1999].
 
+**what is an externality (positive or negative)**
 Second, focus on one of economists' favorite words: externalities. Externalities arise when one market participant affects others without compensation being paid. Like feedback, externalities come in two flavors: negative and positive. The classic example of a negative externality is pollution: my sewage ruins your swimming or drinking water. Happily, network externalities are normally positive, not negative: when I join your network, the network is bigger and better, to your benefit. Positive network externalities give rise to positive feedback: when I buy a fax machine, you are more tempted to get one yourself since you can now use it to communicate with me [@Shapiro1999].
 
-Network externalities are what lie behind Metcalfes law, named after Bob Metcalfe, the inventor of Ethernet. The square of the Metcalfe's law is more a rule of thumb than a law but it does arise in a relatively natural way. If there are n people in a network, and the value of the network to each of them is proportional to the number of other users, then the total value of the network (to all the users) is proportional to n X (n - 1) = n² - n. The value of a network goes up as the square of the number of users [@Shapiro1999].
+**economic characteristic: network value increases as people connect to it with more connexions**
+In virtual networks, the linkages between the nodes are invisible, but no less critical for market dynamics and competitive strategy. We are in the same computer network if we can use the same software and share the same files. Whether real or virtual, networks have a fundamental economic characteristic: the value of connecting to a network depends on the number of other people already connected to it. This fundamental value proposition goes under many names: network effects, network externalities, and demand-side economies of scale. They all refer to essentially the same point: other things being equal, it's better to be connected to a bigger network than a smaller one [@Shapiro1999].
 
-#### Positive feedback & Self-reinforcing dynamics of Information industry {#information-dynamics}
+**meltcafes law**
+Network externalities are what lie behind Metcalfes law, named after Bob Metcalfe, the inventor of Ethernet. The square of the Metcalfe's law is more a rule of thumb than a law but it does arise in a relatively natural way. If there are n people in a network, and the value of the network to each of them is proportional to the number of other users, then the total value of the network (to all the users) is proportional to $n * (n - 1)$ which is roughly equal to $n^2$. The value of a network goes up as the square of the number of users [@Shapiro1999].
 
-Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect [@Manyika2015].
+**network externalities are not new**
+Positive feedback and network externalities are not a creation of the 1990s. To the contrary, network externalities have long been recognized as critical in the transportation and communications industries, where companies compete by expanding the reach of their networks and where one network can dramatically increase its value by interconnecting with other networks. Anyone trying to navigate the network economy has much to learn from the history of the postal service, railroads, airlines, and telephones [@Shapiro1999].
 
-At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic [@Manyika2015].
-
-The industrial economy was populated with oligopolies: industries in which a few large firms dominated their markets. This was a comfortable world, in which market shares rose and fell only gradually. This stability in the marketplace was mirrored by lifetime employment of managers. In contrast, the information economy is populated by temporary monopolies. Hardware and software firms vie for dominance, knowing that today's leading technology or architecture will, more likely than not, be toppled in short order by an upstart with superior technology [@Shapiro1999].
-
-There is a central difference between the old and new economies: the old industrial economy was driven by economies of scale; the new information economy is driven by the economics of networks. The key concept is positive feedback [@Shapiro1999].
-
-Positive feedback makes the strong get stronger and the weak get weaker, leading to extreme outcomes [@Shapiro1999].
-
-The backward cousin of positive feedback is negative feedback. The industrial oligopolies exhibited negative feedback, at least in their mature phase. Attempts by the industry leader to capture share from smaller players would often trigger vigorous responses as smaller players sought to keep capacity utilization from falling. Furthermore, past a certain size, companies found growth difficult owing to the sheer complexity of managing a large enterprise. Sometimes sales fell below a critical mass, and companies went out of business or were acquired by more efficient rivals. But by and large, dramatic changes in market share were uncommon and oligopoly rather than monopoly was the norm [@Shapiro1999].
-
-Positive feedback should not be confused with growth as such. Yes, if a technology is on a roll, as is the Internet today, positive feedback translates into rapid growth: success feeds on itself. This is a virtuous cycle. When two or more firms compete for a market where there is strong positive feedback, only one may emerge as the winner. Economists say that such a market is tippy, meaning that it can tip in favor of one player or another. Examples of tippy markets were the video recorder market in the 1980s (VHS v. Beta) and the personal computer operating systems market of the 1990s (Wintel v. Apple). In its most extreme form, positive feedback can lead to a winner-take-all market in which a single firm or technology vanquishes all others. These dynamics are driven by the strong desire of users to select the technology that ultimately will prevail-that is, to choose the network that has (or will have) the most users [@Shapiro1999].
-
-Positive feedback is not entirely new; virtually every industry goes through a positive feedback phase early in its evolution. General Motors was more efficient than the smaller car companies in large part because of its scale. This efficiency fueled further growth by General Motors. This source of positive feedback is known as economies of scale in production: larger firms tend to have lower unit costs (at least up to a point). From today's perspective, we can refer to these traditional economies of scale as supply-side economies of scale. Despite its supply-side economies of scale, General Motors never grew to take over the entire automobile market. Because traditional economies of scale based on manufacturing have generally been exhausted at scales well below
-total market dominance. In other words, positive feedback based on supply-side economies of scale ran into natural limits, at which point negative feedback took over. These limits often arose out of the difficulties of managing enormous organizations [@Shapiro1999].
-
-Positive feedback based on demand-side economies of scale, while far more important now than in the past, is not entirely novel. Any communications network has this feature: the more people using the network, the more valuable it is to each one of them. Transportation networks share similar properties: the more destinations it can reach, the more valuable a nerwork becomes [@Shapiro1999].
-
-But network externalities are not confined to communications networks. They are also powerful in "virtual" networks, such as the network of users. A user benefits from a larger network, since this facilitates the exchange of files and tips and encourages software houses to devote more resources to developing software. Popular hardware and software systems enjoy a significant competitive advantage over less popular systems. As a result, growth is a strategic imperative, not just to achieve the usual production side economies of scale but to achieve the demand side economies of scale generated by network effects [@Shapiro1999].
-
-The key challenge is to obtain critical mass, after that, the going gets easier. Once you have a large enough customer base, the market will build itself [@Shapiro1999].
-
-In the information economy, positive feedback has appeared in a new, more virulent form based on the demand side of the market, not just the supply side. Microsoft's enormous value is not based on the economies of scale in developing software. Oh, sure, there are scale economies in designing software, as for any other information product. But the cost of developing rival operating systems is tiny in comparison with Microsoft's market capitalization. Microsoft's dominance is based on demand-side economies of scale. Microsoft's customers value its operating systems because they are widely used, the de facto industry standard. Rival operating systems just don't have the critical mass to pose much of a threat [@Shapiro1999].
-
-Unlike the supply-side economies of scale, demand-side economies of scale don't dissipate when the market gets large enough. The beautiful if frightening implication: success and failure are driven as much by consumer expectations and luck as by the underlying value of the product. A nudge in the right direction, at the right time, can make all the difference. Marketing strategy designed to influence consumer expectations is critical in network markets [@Shapiro1999].
+#### Positive feedback create tippy markets: the winner takes all {#information-dynamics}
 
 Digital businesses reduce transaction and labor costs, increase returns to scale from aggregated data. Scale economies in data and talent often are decisive [@Hirt2014].
+
+**from economies of scale to economics of networks**
+There is a central difference between the old and new economies: the old industrial economy was driven by economies of scale; the new information economy is driven by the economics of networks. The key concept is positive feedback [@Shapiro1999].
+
+**winner-take-all effect in the US**
+Businesses that rely too heavily on a single revenue stream or on playing an intermediary role in a given market are particularly vulnerable. In some markets, there is a winner-take-all effect [@Manyika2015]. At a broad level, the industries with the fastest profit margin growth tend to be those with the fastest growth in software intensity. And within these sectors, the margin spreads between the top-performing companies and the lowest performers are two to four times those in other sectors. The most digitized industries are developing a winner-take-all dynamic [@Manyika2015].
+
+**positive feedback leads to extreme outcomes, not growth for everyone**
+Positive feedback makes the strong get stronger and the weak get weaker, leading to extreme outcomes [@Shapiro1999]. Positive feedback should not be confused with growth as such. Yes, if a technology is on a roll, as is the Internet today, positive feedback translates into rapid growth: success feeds on itself. This is a virtuous cycle. When two or more firms compete for a market where there is strong positive feedback, only one may emerge as the winner. Economists say that such a market is tippy, meaning that it can tip in favor of one player or another. Examples of tippy markets were the video recorder market in the 1980s (VHS v. Beta) and the personal computer operating systems market of the 1990s (Wintel v. Apple). In its most extreme form, positive feedback can lead to a winner-take-all market in which a single firm or technology vanquishes all others. These dynamics are driven by the strong desire of users to select the technology that ultimately will prevail-that is, to choose the network that has (or will have) the most users [@Shapiro1999].
+
+#### Competition is on avoiding Negative-feedback
+
+**from long-lived oligopolies to temporary monopolies**
+The industrial economy was populated with oligopolies: industries in which a few large firms dominated their markets. This was a comfortable world, in which market shares rose and fell only gradually. This stability in the marketplace was mirrored by lifetime employment of managers. In contrast, the information economy is populated by temporary monopolies. Hardware and software firms vie for dominance, knowing that today's leading technology or architecture will, more likely than not, be toppled in short order by an upstart with superior technology [@Shapiro1999].
+
+**negative feedback leads to long-lived oligopolies**
+The backward cousin of positive feedback is negative feedback. The industrial oligopolies exhibited negative feedback, at least in their mature phase. Attempts by the industry leader to capture share from smaller players would often trigger vigorous responses as smaller players sought to keep capacity utilization from falling. Furthermore, past a certain size, companies found growth difficult owing to the sheer complexity of managing a large enterprise. Sometimes sales fell below a critical mass, and companies went out of business or were acquired by more efficient rivals. But by and large, dramatic changes in market share were uncommon and oligopoly rather than monopoly was the norm [@Shapiro1999].
+
+**demand-side economies of scale are a sustaining network effect creating a positive feedback**
+Positive feedback is not entirely new; virtually every industry goes through a positive feedback phase early in its evolution. General Motors was more efficient than the smaller car companies in large part because of its scale. This efficiency fueled further growth by General Motors. This source of positive feedback is known as economies of scale in production: larger firms tend to have lower unit costs (at least up to a point). From today's perspective, we can refer to these traditional economies of scale as supply-side economies of scale. Despite its supply-side economies of scale, General Motors never grew to take over the entire automobile market. Because traditional economies of scale based on manufacturing have generally been exhausted at scales well below total market dominance. In other words, positive feedback based on supply-side economies of scale ran into natural limits, at which point negative feedback took over. These limits often arose out of the difficulties of managing enormous organizations [@Shapiro1999].
+
+#### Customer Networks: a positive feedback for Product Leadership advantage
+
+**demand-side economies of scale are not entirely new**
+Positive feedback based on demand-side economies of scale, while far more important now than in the past, is not entirely novel. Any communications network has this feature: the more people using the network, the more valuable it is to each one of them. Transportation networks share similar properties: the more destinations it can reach, the more valuable a nerwork becomes [@Shapiro1999].
+
+**network externalities are not confined to communications networks**
+But network externalities are not confined to communications networks. They are also powerful in "virtual" networks, such as the network of users. A user benefits from a larger network, since this facilitates the exchange of files and tips and encourages software houses to devote more resources to developing software. Popular hardware and software systems enjoy a significant competitive advantage over less popular systems [@Shapiro1999].
+
+As a result, growth is a strategic imperative, not just to achieve the usual production side economies of scale but to achieve the demand side economies of scale generated by network effects [@Shapiro1999].
+
+**critical mass**
+The key challenge is to obtain critical mass, after that, the going gets easier. Once you have a large enough customer base, the market will build itself [@Shapiro1999]. In the information economy, positive feedback has appeared in a new, more virulent form based on the demand side of the market, not just the supply side. Microsoft's enormous value is not based on the economies of scale in developing software. Oh, sure, there are scale economies in designing software, as for any other information product. But the cost of developing rival operating systems is tiny in comparison with Microsoft's market capitalization. Microsoft's dominance is based on demand-side economies of scale. Microsoft's customers value its operating systems because they are widely used, the de facto industry standard. Rival operating systems just don't have the critical mass to pose much of a threat [@Shapiro1999].
+
+**demand-side economies of scale don't dissipate with growth**
+Unlike the supply-side economies of scale, demand-side economies of scale don't dissipate when the market gets large enough. The beautiful if frightening implication: success and failure are driven as much by consumer expectations and luck as by the underlying value of the product. A nudge in the right direction, at the right time, can make all the difference. Marketing strategy designed to influence consumer expectations is critical in network markets [@Shapiro1999].
 
 ### Customer Intimacy
 
@@ -265,14 +288,6 @@ Globalization reshapes the nature of supply and demand. Consumers enjoy a new wo
 Power players accustomed to monopoly profits face unprecedented competition [@Gimpel2012].
 
 The nature of productivity growth has changed in the past decade. Economic statistics do not reflect the full benefits of those innovations in the lives of consumers. Statistics are not capturing an important and innovative part of the economy because the productivity advance flows to unmeasured consumer surplus. E.g.: it is difficult for data to capture quality improvements and innovation in digital content and new capabilities in subsequent generations of advanced software [@Manyika2015].
-
-#### Distribution improved by platformization
-
-Communications firms face substitution from over-the-top services [@Gimpel2012].
-
-In B2B markets, corporate purchasers are raising pressure on their suppliers to offer services that are standardized across borders, integrate with other offerings, and can be plugged into the purchasing companies' global business processes easily [@Hirt2014].
-
-Platformization is the emergence of Digital platforms that bring together suppliers, customers, and third parties. They are replacing traditional middlemen and can often serve to level the playing field by granting small players and new entrants access to formerly closed markets [@Gimpel2012]. While physical processes have high marginal costs, low-marginal-cost economics and platform architecture has allowed the most successful high-tech firms to achieve a scale that was once impossible. The power of platform economics is reflected in the gross margins, which can run as high as 80 percent [@Manyika2015].
 
 ### Other
 
