@@ -1,4 +1,4 @@
-## Response of Organizations
+## Response of Organizations {#response-organization}
 
 <!-- What shift in business model? -->
 <!-- What assez will you reuse? -->
@@ -14,7 +14,43 @@ Firms are experiencing different digital transformation speeds and different res
 Very few businesses are gaining the full value of technologically-enabled change. Manufacturers' ERP systems have improved process efficiency and are providing better financial data for strategic decisions, but companies have not yet retrained buyers in how to use the information in negotiating with suppliers [@Westerman2011].
 Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience [@Westerman2011].
 
+#### Value Disciplines and Competitive Forces to propose an Organizational response
 
+Once having assessed the forces affecting competition in an industry and their underlying causes, @Porter1979 suggests to define a strategy by:
+
+- identifying the company's strengths and weaknesses
+- devising a plan of action that may include:
+  - positioning the company so that its capabilities provide the best defense against the competitive force
+  - influencing the balance of the forces through strategic moves, thereby improving the company's position
+
+To this end, we suggest to analyze the organizations' strengths using the 3 Value Disciplines introduced by @Treacy1993: Operational Excellence, Customer Intimacy, Product Leadership. Those 3 value disciplines are described by @Treacy1993 as following:
+
+- Operational excellence means providing customers with reliable products or services at competitive prices and delivered with minimal diﬃculty or inconvenience [@Treacy1993].
+- Customer intimacy means segmenting and targeting markets precisely and then tailoring offerings to match exactly the demands of those niches [@Treacy1993].
+- Product leadership means offering customers leading-edge products and services that consistently enhance the customer's use [@Treacy1993].
+
+Those 3 value disciplines are not mutually exclusive and should be viewed more as "flavors" than "separate groups". Depending on the size of the organization, it could be focusing on more than one value discipline.
+
+We also introduce a mapping of the 5 competitive forces introduced by @Porter1979 on each orgniazations' strength (or "flavor"). Those forces are seen as being more probably the weak points for a certain type of organizational strength, but they are also greatly depending on the industry context in which the organization is evolving.
+
+The purpose of using the value disciplines and the competitive forces and this mapping between them is to help guide the focus of the analyst on areas which could be more relevant.  Those frameworks are well known in the consulting field, so this will help make connections with analysts' previous experiences. Yet the proposed mapping is flexible and ultimately all the influencing factors should be considered.
+
+The goal of this part is to help an organization understand its capabilities and how it can improve it in the frame of digitalization.
+
+#### Digitalization is abolishing former constraints on Strategy
+
+According to @Treacy1993, businesses should align strategic goals along one of three value disciplines: low cost ("operational excellence"), constant innovation ("product leadership"), or customized oﬀerings ("customer intimacy"). Failing to choose, said the authors, meant "ending up in a muddle" [@Downes2013].
+
+This constraint on Strategy is formulated as is by @Treacy1993:
+
+> Companies that have taken leadership positions in their industries in the last decade typically have done so by narrowing their business focus, not broadening it, in line with one of three value disciplines: operational excellence, customer intimacy, or product leadership [@Treacy1993].
+
+
+Disrupters, however, are thoroughly undisciplined. They start life with better performance at a lower price and greater customization. They compete with mainstream products on all three value disciplines right from the start. Consider the three major costs in a product or service: the parts and manufacturing, the embedded technologies and intellectual property, and a prorated share of development costs. By continually and dramatically lowering all three at once, today's technology makes it possible to sell new products and services more cheaply than the inferior alternatives they displace [@Downes2013].
+
+Google Maps Navigation competes with stand-alone GPS devices on all three value disciplines: It is clearly the cost leader. It is constantly being updated and rereleased, making it the leading innovator as well. And by oﬀering seamless integration with mobile phone contact lists, the web, e-mail, and apps such as Yelp, it likewise wins on the dimension of customer intimacy [@Downes2013].
+
+Under these conditions you can't win simply by becoming more disciplined with your current strategy. More rigorous strategic focus just blinds you to the next wave of disruption coming at you from the side [@Downes2013].
 
 ### Assess your organizational value
 
@@ -309,6 +345,16 @@ Our organizational structures have evolved to manage scarcity. The concept of ow
 
 Speed of Digital Business Strategy: time takes on a more central role in digital business settings [@Bharadwaj2013].
 
+#### Focus on Speed & Innovation
+
+Product Leadership is striving to produce a continuous stream of state-of-the-art products and services. Products leaders must be creative, which means recognizing and embracing ideas that usually originate outside the company. Innovative companies must commercialize their ideas quickly. All their business and management processes have to be engineered for speed. Product leaders must relentlessly pursue new solutions to the problems that their own latest product or service has just solved. If anyone is going to render their technology obsolete, they prefer to do it themselves [@Treacy1993].
+
+They enjoy the benefits of decentralization (among them, autonomous management, speed, and flexibility). Product leaders work hard at developing an open-mindedness to new ideas. Product leaders create and maintain an environment that encourages employees to bring ideas into the company and, just as important, they listen to and consider these ideas. "Not invented here" is not a part of their vocabularies. Product leaders avoid bureaucracy at all costs because it slows commercialization of their ideas. They "decide today, then implement tomorrow" to shorten their cycle times. They do not plan for events that may never happen, nor do they spend much time on detailed analysis. Their strength lies in reacting to situations as they occur. Fast reaction times are an advantage when dealing with the unknown [@Treacy1993].
+
+Product leaders are their own fiercest competitors. Product leaders also possess the infrastructure and management systems needed to manage risk well [@Treacy1993].
+
+To the third category of customers, new, different, and unusual products count most. These are customers who, are primarily interested in fashion and trends. For a company to succeed in serving these customers, it has to focus on Product Leadership [@Treacy1993].
+
 #### Assets for product leadership: Infrastructure & Innovation culture
 
 ##### Infrastructure
@@ -388,6 +434,14 @@ Staged allocation of resources (SAR): It can force innovation teams to zero in q
 Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests [@Karimi2015].
 
 ### Organize for Customization & Customer Intimacy
+
+#### Focus on Adaptation & Customization
+
+Those pursuing a strategy of Customer Intimacy continually tailor and shape products and services to fit an increasingly fine definition of the customer. Customer-intimate companies are willing to spend now to build customer loyalty for the long term. They typically look at the customer's lifetime value to the company, not the value of any single transaction. Their first priority is to make sure the customer gets the right product. Such companies understand well is the difference between profit or loss on a single transaction and profit over the lifetime of their relationship with a single customer. They know that not all customers require the same level of service or will generate the same revenues. They deploy CRMs that segment its services with great eﬃciency, to direct certain value-added services or products to a specific group of clients [@Treacy1993].
+
+Kraft has the information systems, analytical capability, and educated sales force to allow it to develop as many different so-called micro-merchandising programs for a chain that carries its products as the chain has stores. It had to create the organization, build the information systems, and educate and motivate the people required to pursue a strategy of Customer Intimacy. Kraft decentralized its marketing operation in order to empower the people actually dealing with the customer. It also is giving them the data they need to make intelligent recommendations. Kraft has assembled a centralized information system. Its business processes stress flexibility and responsiveness. Its information systems collect, integrate, and analyze data from many sources. Its organizational structure emphasizes empowerment of people working close to customers, and its hiring and training programs stress the creative decision-making skills required to respond to individual customer needs. Its management systems recognize and utilize such concepts as customer lifetime value [@Treacy1993].
+
+The second set of customers is more concerned with obtaining precisely what they want or need. Customers in this group ascribe value to a product or service according to how closely it appears to be designed just for them. These customers require a company to focus on Customer Intimacy [@Treacy1993].
 
 #### Assets for customer intimacy: Sales infrastructure, Brand, Customer knowledge
 
@@ -514,6 +568,18 @@ Community & Crowd: If you build communities and you do things in public, you don
 3. Create a platform to automate peer-to-peer engagement. Crowd is pull-based. You open up an idea, funding opportunity or incentive prize and let people find you.
 
 ### Organize for Optimization & Operational Excellence
+
+#### Focus on Optimization & Price-performance ratio
+
+Operational Excellence describes a specific strategic approach to the production and delivery of products and services. The objective is to lead in price and convenience: to minimize overhead costs, to eliminate intermediate production steps, to reduce transaction and other "friction" costs, and to optimize business processes. They focus on delivering their products or services to customers at competitive prices and with minimal inconvenience [@Treacy1993].
+
+Dell outperformed by cutting dealers out of the distribution process, building to order rather than to inventory, fostering a disciplined, extremely low-cost culture [@Treacy1993].
+
+General Electric reinvented its operating model-the way it made, sold, and distributed appliances. GE introduced the "virtual inventory," a computer-based logistics system that allows stores to operate as though they had hundreds of ranges and refrigerators in the back room when in fact they have none at all. They have instantaneous access to GE's on-line order-processing to place orders for next-day delivery. Dealers have had to give up some independence from the supplier. Virtual inventory works better than real inventory for both dealers and customers and saves about 12% of distribution and marketing costs to GE. With Direct Connect, GE knows that vendors' orders are, in fact, actual sales to customers. GE links its order-processing system to other systems involved in forecasting demand and planning production and distribution. The company now, in effect, manufactures in response to customer demand instead of to inventory. It implemented automated inventory replenishment and invoice-less payments and integrated disparate logistics systems [@Treacy1993].
+
+Companies that have adopted a strategy of Operational Excellence also have built their operations around information systems that emphasize integration and low-cost transaction processing [@Treacy1993].
+
+One set of potential customers defines value within a matrix of price, convenience, and quality, with price the dominant factor. These customers are less particular about what they buy than they are about getting it at the lowest possible price and with the least possible hassle. The business that succeeds by serving these customers focuses on Operational Excellence [@Treacy1993].
 
 #### Valuable assets
 

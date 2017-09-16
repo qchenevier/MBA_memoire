@@ -1,16 +1,28 @@
 # Sources (Quotes to move to parts) {-}
 
+#### Previously used quotes
+
+Globalization is a driver for some firms: there is a strategic need to expand globally or pressures to generate information and process synergies [@Westerman2011].
+
+Some firms mentioned M&A as a pressure to transform [@Westerman2011].
+
+By using mobile devices, social media, analytics and the cloud, savvy companies are transforming the way they do business [@WESTERMAN2015].
+
+The digital technologies underlying competitive threats may not be new, but they are being used to new effect [@Hirt2014]. The complex patterns of dynamic interdependencies among environmental turbulence, dynamic capabilities, and IT systems have resulted in the phenomenon called "digital ecodynamics" [@ElSawy2010].
+
+The "plug and play" nature of digital assets causes value chains to disaggregate, creating openings for focused, fast-moving competitors [@Hirt2014].
+
+The most explosive growth is now in usage [@Manyika2015].
+
+Usage is exploding as companies build new types of digital assets, putting powerful tools in the hands of employees and devising new ways of working [@Manyika2015].
+
+Today the race is on to capture value from data analytics and the Internet of Things, but there is no finish line : Digitization involves continuously experimenting and adapting [@Manyika2015].
+
 #### Customer intimacy and other value disciplines [@Treacy1993]
 
 Value leaders in their industry redefined value for customers and built powerful, cohesive business systems that could deliver more of that value than competitors. They raised customers' expectations beyond the competition's reach. They changed what customers valued and how it was delivered, then boosted the level of value that customers expected [@Treacy1993].
 
 In the past, customers judged the value of a product or service on the basis of some combination of quality and price. Today's customers, by contrast, have an expanded concept of value that includes convenience of purchase, after-sale service, dependability, and so on [@Treacy1993].
-
-Companies that have taken leadership positions in their industries in the last decade typically have done so by narrowing their business focus, not broadening it, in line with one of three value disciplines: operational excellence, customer intimacy, or product leadership [@Treacy1993].
-
-- Operational excellence means providing customers with reliable products or services at competitive prices and delivered with minimal diﬃculty or inconvenience [@Treacy1993].
-- Customer intimacy means segmenting and targeting markets precisely and then tailoring offerings to match exactly the demands of those niches [@Treacy1993].
-- Product leadership means offering customers leading-edge products and services that consistently enhance the customer's use [@Treacy1993].
 
 Companies that push the boundaries of one value discipline while meeting industry standards in the other two gain such a lead that competitors find it hard to catch up. Leaders have aligned their entire operating model-that is, the company's culture, business processes, management systems, and computer platforms to serve one value discipline [@Treacy1993].
 
@@ -28,30 +40,22 @@ Many companies falter simply because they lose sight of their value discipline. 
 
 #### How Competitive Forces Shape Strategy [@Porter1979]
 
-The essence of strategy formulation is coping with competition. Yet it is easy to view competition too narrowly and too pessimistically. While one sometimes hears executives complaining to the contrary, intense competition in an industry is neither coincidence nor bad luck [@Porter1979].
-
-Competition is not manifested only in the other players. Competition in an industry is rooted in its underlying economics, and competitive forces exist that go well beyond the established combatants in a particular industry. Customers, suppliers, potential entrants, and substitute products are all competitors that may be more or less prominent or active depending on the industry. Knowledge of these underlying sources of competitive pressure provides the groundwork for a strategic agenda of action [@Porter1979].
-
-The strongest competitive force or forces determine the profitability of an industry and so are of greatest importance in strategy formulation. Even a company with a strong position in an industry unthreatened by potential entrants will earn low returns if it faces a superior or a lower-cost substitute product. Every industry has an underlying structure, or a set of fundamental economic and technical characteristics, that gives rise to these competitive forces [@Porter1979].
-
 **Formulation of Strategy**
 
-Once having assessed the forces affecting competition in an industry and their underlying causes, the corporate strategist can identify the company's strengths and weaknesses. Then the strategist can devise a plan of action that may include:
+Once having assessed the forces affecting competition in an industry and their underlying causes, the corporate strategist can identify the company's strengths and weaknesses. Then the strategist can devise a plan of action that may include [@Porter1979]:
 - positioning the company so that its capabilities provide the best defense against the competitive force
 - influencing the balance of the forces through strategic moves, thereby improving the company's position
 - anticipating shifts in the factors underlying the forces and responding to them
 
 **Positioning the company**
 
-The first approach takes the structure of the industry as given and matches the company's strengths and weaknesses to it. Strategy can be viewed as building defenses against the competitive forces or as finding positions in the industry where the forces are weakest. Knowledge of the company's capabilities and of the causes of the competitive forces will highlight the areas where the company should confront competition and where avoid it. If the company is a low-cost producer, it may choose to confront powerful buyers while it takes care to sell them only products not vulnerable to competition from substitutes.
+The first approach takes the structure of the industry as given and matches the company's strengths and weaknesses to it. Strategy can be viewed as building defenses against the competitive forces or as finding positions in the industry where the forces are weakest. Knowledge of the company's capabilities and of the causes of the competitive forces will highlight the areas where the company should confront competition and where avoid it. If the company is a low-cost producer, it may choose to confront powerful buyers while it takes care to sell them only products not vulnerable to competition from substitutes [@Porter1979].
 
 **Influencing the balance**
 
-When dealing with the forces that drive industry competition, a company can devise a strategy that takes the offensive. This posture is designed to do more than merely cope with the forces themselves; it is meant to alter their causes. Innovations in marketing can raise brand identification or otherwise differentiate the product. Capital investments in large-scale facilities or vertical integration affect entry barriers. The balance of forces is partly a result of external factors and partly in the company's control.
+When dealing with the forces that drive industry competition, a company can devise a strategy that takes the offensive. This posture is designed to do more than merely cope with the forces themselves; it is meant to alter their causes. Innovations in marketing can raise brand identification or otherwise differentiate the product. Capital investments in large-scale facilities or vertical integration affect entry barriers. The balance of forces is partly a result of external factors and partly in the company's control [@Porter1979].
 
 **Exploiting industry change**
-
-Industry evolution is important strategically because evolution, of course, brings with it changes in the sources of competition. In the familiar product life-cycle pattern, for example, growth rates change, product differentiation is said to decline as the business becomes more mature, and the companies tend to integrate vertically. These trends are not so important in themselves; what is critical is whether they affect the sources of competition.
 
 #### Technological revolutions, paradigm shifts and socio-institutional change [@Perez2004]
 
