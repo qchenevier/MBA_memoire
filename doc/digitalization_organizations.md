@@ -1,6 +1,6 @@
 ---
 title: Digitalization & Organizations
-subtitle: "Go Digital or Undergo Disruption: the _great extinction event_ in business"
+subtitle: "Go Digital or Undergo Disruption"
 author: Quentin Chenevier
 mainfont: DejaVu Sans
 sansfont: DejaVu Sans
@@ -17,6 +17,8 @@ output:
     number_sections: true
     latex_engine: xelatex
 ...
+
+\chapterimage{sources/images/abstractarchi.jpg}
 
 \chapterimage{sources/images/metrofloor.jpg}
 
@@ -56,12 +58,6 @@ reaction_actor.md
 ## Choose decisions to take
 
 <!-- Deloitte updated -->
-
-\chapterimage{sources/images/abstractarchi.jpg}
-
-``` include
-quotes.md
-```
 
 \chapterimage{sources/images/womanalone.jpg}
 

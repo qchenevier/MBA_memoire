@@ -23,13 +23,13 @@ Once having assessed the forces affecting competition in an industry and their u
   - positioning the company so that its capabilities provide the best defense against the competitive force
   - influencing the balance of the forces through strategic moves, thereby improving the company's position
 
-To this end, we suggest to analyze the organizations' strengths using the 3 Value Disciplines introduced by @Treacy1993: Operational Excellence, Customer Intimacy, Product Leadership. Those 3 value disciplines are described by @Treacy1993 as following:
+To this end, we suggest to analyze the organizations' strengths using the 3 Value Disciplines introduced by @Treacy1993: Operational Excellence, Customer Intimacy, Product Leadership. Those 3 value disciplines are described as following:
 
 - Operational excellence means providing customers with reliable products or services at competitive prices and delivered with minimal diﬃculty or inconvenience [@Treacy1993].
 - Customer intimacy means segmenting and targeting markets precisely and then tailoring offerings to match exactly the demands of those niches [@Treacy1993].
 - Product leadership means offering customers leading-edge products and services that consistently enhance the customer's use [@Treacy1993].
 
-Those 3 value disciplines are not mutually exclusive and should be viewed more as "flavors" than "separate groups". Depending on the size of the organization, it could be focusing on more than one value discipline.
+Those 3 value disciplines are not mutually exclusive and should be viewed more as "flavors" than "separate groups". Depending on its size, an organization could be focusing on more than one value discipline.
 
 We also introduce a mapping of the 5 competitive forces introduced by @Porter1979 on each orgniazations' strength (or "flavor"). Those forces are seen as being more probably the weak points for a certain type of organizational strength, but they are also greatly depending on the industry context in which the organization is evolving.
 
@@ -62,6 +62,10 @@ Successful Digital Transformation comes from reshaping the organization to take 
 
 Beware of the assumption: **The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
 
+Data should be considered an asset class in its own right and analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy" [@WESTERMAN2015].
+
+Access resources you don't own. In Waze's case, the company made use of the GPS readings already on its users' smartphones. Information is your greatest asset. More reliably than any other asset, information has the potential to double regularly. Rather than simply assembling assets, the key to success is accessing valuable caches of existing information [@VanGeest2014].
+
 #### Create Information Value {#value-creation}
 
 CIME (Communication, Information, Media, Entertainment) firms create value by managing only three types of transactions [@Gimpel2012]:
@@ -79,7 +83,7 @@ And by referring to the part about [Information Value](#information-value), we c
 - The business of **Information Search** is about reducing market uncertainty by producing Information about market opportunities for each individual, i.e. searching trading partners, reducing the cost of transaction.
 - The business of **Information Production** is about reducing technological uncertainty by combination of value-less information by creating valuable technological Information or Knowledge (such as event prediction or technological innovation) reducing the cost of production.
 
-It is interesting to note that the Delivery of Information is not considered by @Hirshleifer1971 in his model. Maybe the Value of this activity was less striking and less easy to modelize. It could explain why most telecommunication companies (doing the Delivery of Information) are diversifying their activities in the Information Production or Search. The current battle around net neutrality in USA, where Telecom operators are trying to control the Information which is transiting through their pipes might be revealing how they they think that the Information Delivery activity is not adding enough value: they are trying to control the Information Produce and Search to extract value.
+It is interesting to note that the Delivery of Information is not considered by @Hirshleifer1971 in his model. Maybe the Value of this activity was less striking and less easy to modelize. It could explain why most telecommunication companies (doing the Delivery of Information) are diversifying their activities in the Information Production or Search. The current battle around net neutrality in USA, where Telecom operators are trying to control the Information is transiting through their pipes might be revealing how they think that the Information Delivery activity is not adding enough value: they are trying to control the Information Production and Search to extract value.
 
 #### Capture Information Value {#value-capture}
 
@@ -122,26 +126,26 @@ Combining the Produce-Deliver-Search framework with this Business Model framewor
 Examples:
 
 - Telecom carriers and Internet Service Providers
-  - Delivery of Intangible knowledge
-  - Landlords of Physical Telecommunications Infrastructure.
+    - Delivery of Intangible knowledge
+    - Landlords of Physical Telecommunications Infrastructure.
 - Apple's Iphone sold in an Apple store
-  - Production and Delivery of Physical Iphone
-  - Creator and Distributor of Physical Iphone
+    - Production and Delivery of Physical Iphone
+    - Creator and Distributor of Physical Iphone
 - Apple's Iphone leased by a telecom carrier
-  - Delivery of Physical Iphone
-  - Landlord of Physical Iphone
+    - Delivery of Physical Iphone
+    - Landlord of Physical Iphone
 - Plane ticket by Airline Company
-  - Delivery of Human flight crew and Physical plane seat
-  - Landlord of Physical plane seat and Human flight crew
+    - Delivery of a Physical plane seat moved by a Human flight crew
+    - Landlord of a Physical plane seat moved by a Human flight crew
 - Display of ads by Google
-  - Production & Delivery of Intangible ad space
-  - Creator & Landlord of Intangible ad space
-  - Search between Audience and Advertiser for Intangible ad space
-  - Broker between Audience and Advertiser for Intangible ad space
+    - Production & Delivery of Intangible ad space
+    - Creator & Landlord of Intangible ad space
+    - Search between Audience and Advertiser for Intangible ad space
+    - Broker between Audience and Advertiser for Intangible ad space
 
-Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013]. Similarly, Apple receives payments from Google so that he can remain the default search engine on Apple mobile devices, powered by its propietary operating system, [according to some experts](https://www.cnbc.com/2017/08/14/google-paying-apple-3-billion-to-remain-default-search--bernstein.html). In this example, Apple is controlling the distribution to its captive users and selling it to suppliers.
+Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013]. What is called here "Industry Architecture" by @Bharadwaj2013 is, in fact, the Virtual Network made of its Iphone users. Apple controls which suppliers have access to this Virtual Network through affiliation. For example, Apple receives payments from Google so that he can remain the default search engine on Apple mobile devices, powered by its propietary operating system, [according to some experts](https://www.cnbc.com/2017/08/14/google-paying-apple-3-billion-to-remain-default-search--bernstein.html). In this example, Apple is controlling the distribution to its captive users and selling it to suppliers.
 
-@Iansiti2014 defines a business model (a bit simplistically) by these 2 diemsntions: how the organization **creates** value for its customers & how the organization **captures** that value.
+@Iansiti2014 defines a business model by these 2 dimensions: how the organization **creates** value for its customers & how the organization **captures** that value.
 
 Digital transformation changes both: GE creates values by extracting useful data from sensors, by optimizing equipment performance, utilization and maintenance. It captures that value by charging a percentage of the customer's incremental revenue from improved performance [@Iansiti2014]. On one hand, GE is improving its Product Leadership with innovations and optimizations on its product, on the other hand, GE is improving its Customer Intimacy by tailoring its marketing to the client needs.
 
@@ -165,6 +169,8 @@ For example, specifically for Information Technology, the investment in spending
 
 Those trends are generalizable to all industries, such as industries with primarily physical products (such as consumer or industrial products), those with mixed digital and physical products (such as consumer electronics, automotive, health care), and those with primarily digital products (such as financial markets, music, software applications). To capture the value from digital transformation, firms need to go beyond small applications and toward truly digital enterprises [@Karimi2015].
 
+#### Low marginal costs Business Models outperform others
+
 As seen in the study of @PeterWeill2011, Investors have prefered Firms and Business Models which have exploiting the low marginal costs economics of Information:
 
 - Manufacturers are generally highly valued by investors, with manufacturers who innovate even more highly valued [@PeterWeill2011]. We can understand this trend by 2 trends in physical goods manufacturing:
@@ -178,17 +184,11 @@ Whereas business models with high marginal costs were seen as not performant eno
 
 - Contractors (that primarily "rent out" human assets) had performance in the middle of the pack [@PeterWeill2011].
 
-- Financial and physical landlords were the poorest performing of the common business models [@PeterWeill2011]. Finance asset are a special type of Information-based asset which doesn't benefit of low marginal cost economics, because Money is "engineered" to maintain its value overtime (according to the main [properties of money](https://en.wikipedia.org/wiki/Money#Properties)) and hence cannot be duplicated infinitely and freely. We can ever create new Information, except for Money, where the creation mechanisms are carefully monitored.  
+- Financial and physical landlords were the poorest performing of the common business models [@PeterWeill2011]. Finance asset are a special type of Information-based asset which doesn't benefit of low marginal cost economics, because Money is "engineered" to maintain its value overtime (according to the main [properties of money](https://en.wikipedia.org/wiki/Money#Properties)) and hence cannot be duplicated infinitely and freely. We can ever create new Information, except for Money, where the creation mechanisms are carefully monitored. In other words, Financial and physical landlords have business models based on management of scarcity and don't benefit from the low marginal costs economics.
 
-#### Data as a digital asset that grow in value through combination
+#### Use financial pressure to trigger change in the organization.
 
-Data should be considered an asset class in its own right and analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy" [@WESTERMAN2015].
-
-Access resources you don't own. In Waze's case, the company made use of the GPS readings already on its users' smartphones. Information is your greatest asset. More reliably than any other asset, information has the potential to double regularly. Rather than simply assembling assets, the key to success is accessing valuable caches of existing information [@VanGeest2014].
-
-#### Investing, Financing, Divesting
-
-We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy  [@Bharadwaj2013].
+We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy [@Bharadwaj2013].
 
 **How Will You Finance the Digital Transformation Endeavor?** If a company is already financially struggling, its options for financing digital transformations will be severely limited [@Hess2016].
 
@@ -208,136 +208,78 @@ Approaching Digital Ubiquity [@Iansiti2014]
 - Consider new value-capture modes
 - Use software to extend the boundaries of what you do.
 
-#### Convergence IT and business
+#### Rebuild business around IT & Digital platforms
 
-Rather than using armies of people or large physical plants, Exponential Organizations are built upon information technologies that take what was once physical in nature and dematerialize it into the digital, on-demand world.
+Rather than using armies of people or large physical plants, Exponential Organizations are built upon information technologies that take what was once physical in nature and dematerialize it into the digital, on-demand world [@VanGeest2014].
 
 Firms pursuing digital business strategies must manage a fundamental tension between the need to support flexible adaptation of their products and services to changing market conditions, and the need to provide stable value appropriation mechanisms to extract economic rents and reinvest them in innovative activities. Companies often fuse IT with their products and services for competitive advantage [@Woodard2013].
 
 Over time, as firms and industries become more digital and rely on information, communication, and connectivity functionality, we envision that digital business strategy will be the business strategy. At that juncture, there would be no separation between business strategy and digital business strategy. (link with [@Perez2004] with _old vs new common sense_) [@Bharadwaj2013]
 
-Digital ecodynamics requires a holistic convergence among dynamic capabilities, IT systems, and environmental turbulence [@Karimi2015].
+Digital ecodynamics requires a holistic convergence among dynamic capabilities, IT systems, and environmental turbulence [@Karimi2015]. It is time to fusion between IT strategy and business strategy into an overarching phenomenon we herein term digital business strategy. Digital Business Strategy is an organizational strategy formulated and executed by leveraging digital resources to create differential value. By recognizing the pervasiveness of digital resources in operations, purchasing, supply chain & marketing and going beyond systems and technologies, to recognize digital resources, in line with the resource-based view of strategy. Digital business strategy can be viewed as being inherently transfunctional, with digital resources serving as the connective tissue [@Bharadwaj2013].
 
-It is time to fusion between IT strategy and business strategy into an overarching phenomenon we herein term digital business strategy [@Bharadwaj2013].
+Companies with a history of strained IT and business relationships are handicapped when trying to conduct digital transformation, because of complex IT architectures, unintegrated data, and processes that are not well-enabled through technology. In contrast, companies with a solid IT-business relationship are in a solid position to begin digital transformation. Where strong relationships exist, executives on both sides of the relationship are willing to be flexible in creating new governance mechanisms or digital units without feeling threatened. In most firms, digital transformation is being led by CIOs. Other companies place responsibility for digital in another unit or executive who works closely with the CIO. Another solution is to hire a second CIO to focus on transformation-related activities, working in concert with the CIO who stays focused on keeping the firms' existing platform functional [@Westerman2011].
 
-Digital Business Strategy is an organizational strategy formulated and executed by leveraging digital resources to create differential value [@Bharadwaj2013].
-
-By recognizing the pervasiveness of digital resources in operations, purchasing, supply chain & marketing and going beyond systems and technologies, to recognize digital resources, in line with the resource-based view of strategy [@Bharadwaj2013].
-
-Digital business strategy can be viewed as being inherently transfunctional, with digital resources serving as the connective tissue [@Bharadwaj2013].
-
-**Business and IT integration:** Companies with a history of strained IT and business relationships are handicapped when trying to conduct digital transformation, because of complex IT architectures, unintegrated data, and processes that are not well-enabled through technology. In contrast, companies with a solid IT-business relationship are in a solid position to begin digital transformation. Where strong relationships exist, executives on both sides of the relationship are willing to be flexible in creating new governance mechanisms or digital units without feeling threatened. In most firms, digital transformation is being led by CIOs. Other companies place responsibility for digital in another unit or executive who works closely with the CIO. Another solution is to hire a second CIO to focus on transformation-related activities, working in concert with the CIO who stays focused on keeping the firms' existing platform functional [@Westerman2011].
-
-**Keep digital businesses separate or integrate them with current nondigital ones?** Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios [@Hirt2014].
+Integrating digital operations directly into physical businesses can create additional value, for example, by providing multichannel capabilities for customers or by helping companies share infrastructure, such as supply-chain networks. However, it can be hard to attract and retain digital talent in a traditional culture, and turf wars between the leaders of the digital and the main business are commonplace. Hybrid approaches involving both stand-alone and well-integrated digital organizations are possible, of course, for companies with diverse business portfolios [@Hirt2014].
 
 Most IT strategies treat technology in isolation, they often lack the transformational, business-centric orientation needed to realize the potential within a company's business model, products, processes and organizational structures. A digital transformation strategy signposts the way toward digital transformation and guides managers through the transformation process resulting from the integration and use of digital technologies and helps them navigate the complexity and ambiguity of identifying their own digital "sweet spots." [@Hess2016]
 
-**Do You Plan to Integrate New Operations into Existing Structures or Create Separate Entities?** Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures [@Hess2016].
+Do You Plan to Integrate New Operations into Existing Structures or Create Separate Entities? Decide whether to integrate new operations into their current operations or to organize them as distinct, separate units (perhaps as a newly formed subsidiary). Integration requires less extensive restructuring efforts, but it is important to examine whether synergies can be exploited. Organizing new digital activities in separate structures makes it easier to explicitly separate (physically and ideologically) old and new operations. Appropriate structures for new operations are more innovative and provide an increased level of flexibility. The greater the distance between digital transformation efforts and a firm's current core activities, the stronger the boundary between new and old operations should be. Digital transformation initiatives often involve significant innovation and change efforts, as well as a willingness to take risks, all of which may be difficult to accommodate within existing organizational structures [@Hess2016].
 
-#### Digital platforms as a central tool for future products (design capital with high option value)
+#### Digital platforms as an integration of data & algorithms
 
 Digital business strategy relies on rich information exchanges through digital platforms inside and outside organizations that allow multifunctional strategies and processes to be tightly interconnected [@Bharadwaj2013].
 
-The majority (78 percent) of the effect of first-order dynamic capabilities on response performance is achieved indirectly through building digital platform capabilities when it comes to producing digital non-core products. The same effect is achieved mostly directly when it comes to percentage of revenue coming from all on-line sources. The number of digital non-core products is more directly impacted by digital platform capabilities than by first-order dynamic capabilities. The percentage of revenue from on-line sources is more directly impacted by first-order dynamic capabilities than by building digital platform capabilities [@Karimi2015].
-
-Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks [@Karimi2015].
-
-Organizations need to find out whether processes for their core products are appropriate for developing digital non-core products [@Karimi2015].
+Rather than investing in the status quo, resources need to be appropriately allocated to build digital platform capabilities for new markets and value networks. Organizations need to find out whether processes for their core products are appropriate for developing digital non-core products [@Karimi2015].
 
 Developing digital non-core products requires new digital platform capabilities. Platforms are the building blocks that act as a foundation for developing complementary products, technologies, or services. Digital platforms organize IT capabilities into software frameworks for integration of transactions. Digital platform capabilities provide standards, connectivity, rules, and IT capabilities [@Karimi2015].
 
-**Unified Data and Processes:** The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge [@Westerman2011].
+Unified Data and Processes: The most fundamental technology need for digital transformation is a digital platform of integrated data and processes. The difficulty of operating without a platform becomes greater as companies engage in multi-channel operations. "Data integration is the biggest challenge in setting up our digital services." Unified data and process is one reason that web-based companies are able to gain advantage through analytics and personalization much more readily than traditional firms. Unified platforms can also help to manage the centralization-decentralization challenge [@Westerman2011].
 
-One of the first thing deployed in the new GE Software HQ by the new Digital Officer to start building software capabilities:
-
-- creation of a **common software platform** [@Iansiti2014]
-- "**Co-location** is everything" [@Iansiti2014]
-
-#### Digital capabilities are the people working around that platform to improve it
-
-Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability [@Woodard2013].
-
-**Digital capabilities:** Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation [@Westerman2011].
+According to @Iansiti2014, one of the first thing done in GE by the new Digital Officer to start building software capabilities was the creation of a common software platform:
+"Co-location is everything" [@Iansiti2014]
 
 Scale with Digital Business Strategy Will Increasingly Take Place under Conditions of Information Abundance: develop the organizational capabilities to harness the huge quantities of heterogeneous data, which includes the explosive chatter on social networks, crowdsourcing of ideas from the edges of networks, and the proliferation of billions of continuous machine-to-machine sensors [@Bharadwaj2013].
 
-**Solution delivery:** Companies also need the capabilities to modify their processes or build new methods onto the data and process platform. Some IT departments have established special units to build emerging technology skills and methods. Others look outside the firm for help: Vendor partners can be very effective, but some executives expressed concern about over-reliance on vendors. Several executives described knowledge gaps that existed after they ended a vendor relationship [@Westerman2011].
-
-**Algorithms:** To exploit the new possibilities offered by Machine Learning algorithms, ExOs need to follow four steps [@VanGeest2014]:
-1. Gather: The algorithmic process starts with harnessing data, which is gathered via sensors or humans, or imported from public datasets.
-2. Organize: The next step is to organize the data, a process known as ETL (extract, transform and load).
-3. Apply: Once the data is accessible, Machine Learning tools identify trends and tune new algorithms.
-4. Expose: The final step is exposing the data, as if it were an open platform. Open data and APIs can be used to enable an ExO’s community to develop valuable services.
-
 **Analytics capabilities:**  Companies with integrated data are able to engage in more powerful analytics strategies. All executives also mentioned that building analytics capability was difficult, requiring skills and culture change in addition to investments [@Westerman2011].
 
-**IT Difficulties:** Digital initiatives are built on a solid foundation of technology-enabled processes and data, as well as the analytics, solution delivery and relationship capabilities to create and extend that platform. Many companies find their information technology infrastructures and capabilities severely lacking. "We don't retire systems. We just add on top of them, which creates a tremendous amount of expense and complexity." "It is very difficult to get a good understanding of the customer when customer data is spread across so many systems." A history of poor business / IT relations is a difficult foundation for the collaborative work required in digital transformation. "IT is a mess. Their costs are not acceptable. They propose things in 9-10 months where external firms could do them in 3-9 weeks [@Westerman2011].
+**IT Difficulties:** Digital initiatives are built on a solid foundation of technology-enabled processes and data, as well as the analytics, solution delivery and relationship capabilities to create and extend that platform. Many companies find their information technology infrastructures and capabilities severely lacking. "We don't retire systems. We just add on top of them, which creates a tremendous amount of expense and complexity." "It is very difficult to get a good understanding of the customer when customer data is spread across so many systems." A history of poor business / IT relations is a difficult foundation for the collaborative work required in digital transformation. "IT is a mess. Their costs are not acceptable. They propose things in 9-10 months where external firms could do them in 3-9 weeks" [@Westerman2011].
 
-Build or buy the capabilities of the future. Companies cannot afford to fall behind in critical capabilities. M&A is becoming a way to head off future competitors by buying them. Recent deals would not pass the traditional valuation filter, but the need to execute a rapid strategy may call for different metrics [@Manyika2015].
+#### Digital capabilities are constrained by availability of IT skills
 
-**Missing skills:** Emerging technologies are another area where skills may be scarce internally, especially in areas such as mobility and social media. Firms are filling gaps by hiring experts or working with vendors. A firm of the study, aiming to limit long-term HR investment while experimenting with new technologies, is working with vendors who have the right skills. However, it is encountering knowledge integration issues as key skills are located in different vendors [@Westerman2011].
+Digital capabilities: Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation [@Westerman2011].
 
-Building software capabilities [@Iansiti2014]
+Technical capability, or the ability to deploy needed technical skills in executing a design move, emerged in our analysis as an important contingency. We observed instances in which organizations with abundant resources were still constrained by the level of technical capability [@Woodard2013].
 
-- Problems encountered:
-  - Process: GE has never been known for its agility. 80% the software products they edited were not profitable. "It was taking us **years to build the software and years to get it out the door**" [@Iansiti2014]
-  - Developer Talent: Most of their developers had experience with outdated technologies. They were **reliant on outside vendors**, sometimes for full development [@Iansiti2014].
-- Solutions deployed new GE Software HQ:
-  - "**Co-location** is everything" [@Iansiti2014]
-  - creation of a **common software platform** [@Iansiti2014]
-  - **No enforcement of compliance**: "We are going to do this, you can be on the train or not".
-  - No dedicated P&L for the software: **Different incentives** that don't create competition with the businesses [@Iansiti2014].
+Solution delivery: Companies also need the capabilities to modify their processes or build new methods onto the data and process platform. Some IT departments have established special units to build emerging technology skills and methods. Others look outside the firm for help: Vendor partners can be very effective, but some executives expressed concern about over-reliance on vendors. Several executives described knowledge gaps that existed after they ended a vendor relationship [@Westerman2011].
 
-#### Managing digital assets: explore new options or consolidate your platform?
+Missing skills: Emerging technologies are another area where skills may be scarce internally, especially in areas such as mobility and social media. Firms are filling gaps by hiring experts or working with vendors. A firm of the study, aiming to limit long-term HR investment while experimenting with new technologies, is working with vendors who have the right skills. However, it is encountering knowledge integration issues as key skills are located in different vendors [@Westerman2011].
 
-**[TODO: A RACCOURCIR]**
+#### Digital capabilities development: fight Technical Debt to keep Technical Agility
 
-We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). We also identify two salient dimensions of design capital, namely option value and technical debt [@Woodard2013].
+We conceptualize the logic of digital business strategy in terms of two constructs: design capital (i.e., the cumulative stock of designs owned or controlled by a firm), and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs). There are two salient dimensions of design capital, namely option value and technical debt [@Woodard2013].
 
-Design capital as the cumulative stock of designs owned or controlled by a firm. Elements of a firm's design capital are typically designs for digital artifacts, such as software components and their associated interfaces and data structures, sometimes collectively called the firm's digital architecture. It enables the firm to innovate through new and improved designs [@Woodard2013].
+Design capital is the cumulative stock of designs owned or controlled by a firm. Elements of a firm's design capital are typically designs for digital artifacts, such as software components and their associated interfaces and data structures, sometimes collectively called the firm's digital architecture. It enables the firm to innovate through new and improved designs [@Woodard2013]. In other words, design capital is all of its digital platforms.
 
 Design moves are discrete strategic actions that enlarge, reduce, or modify a firm's stock of designs. For example, developing a new product or service, improving an existing component or reconfiguring the architecture itself [@Baldwin2004]. New designs are fundamentally options with associated economic option value. The option value of a design reflects both the value of the products or services in which it is directly realized and the value of the alternative designs that it makes possible. Option value is enhanced by architectures that enable designers to combine components within or across layers, cultivate or attract external partners (e.g., by providing application programming interfaces or software development kits), and launch innovative digital offerings [@Woodard2013].
 
-Technical debt refers to the expected cost or effort entailed in exercising the options embedded in a firm's design capital. Technical debt is a natural by-product of the design process. Shortages of resources, time, or talent frequently lead designers intentionally to optimize for short-term goals at the expense of making a product or system easy to maintain and evolve. Like financial debt, sometimes technical debt can be necessary [@Woodard2013].
+Technical debt refers to the expected cost or effort entailed in exercising the options embedded in a firm's design capital. Technical debt is a natural by-product of the design process. Shortages of resources, time, or talent frequently lead designers intentionally to optimize for short-term goals at the expense of making a product or system easy to maintain and evolve. Like financial debt, sometimes technical debt can be necessary.
 Option value and technical debt are akin to financial assets and liabilities, and define the net present value of a modular architecture as the difference between the two [@Woodard2013].
 
-Resource munificence (or organizational slack available to designers) often proved to be an important contingency in every design capital state. Resource munificence explained why firms in the same state made moves that took them in different "directions" [@Woodard2013].
+Overall, in the various strategic choices analyzed by @Woodard2013, the firms tended to keep the technical debt the lowest possible, depending on the resources availability and the technical capability of the firm. With resource abundance and high technical ability, firms tended to increase their design capital by: reducing technical debt or creating design options without increasing technical debt. In other words, firms favored technical choices which allowed them to less costly business choices later: why having many options if all of them are costly ?  
 
-Disruptive innovation theory offers explanations for why companies succeed or fail to respond to disruptive innovations [@Karimi2015].
-First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities [@Karimi2015].
-Managers [must] focus on the most promising factors for creating first-order dynamic capabilities [@Karimi2015].
+#### Digital capabilities are constrained by Organization's Agile Culture
 
-Organizational ordinary capabilities are defined as "high-level routine" that confers a set of decision options for producing significant outputs of a particular type". They are the zero-level and "how we earn a living now" capabilities. A capability gap is the distance between a firm's existing configuration of capabilities and the most valuable configuration potentially available post the technological change [@Karimi2015].
+Dynamic capabilities govern the rate of change in organizational ordinary capabilities and are essential in responding to disruptive technological shifts. Dynamic capabilities theory is an extension of the resource-based view of the firm. Dynamic capabilities are theorized as existing at different levels. The first-order dynamic capabilities "extend, modify, change and/or create ordinary capabilities" [@Daniel2014].
 
-Dynamic capabilities govern the rate of change in organizational ordinary capabilities and are essential in responding to disruptive technological shifts. Dynamic capabilities theory is an extension of the resource-based view of the firm. Dynamic capabilities are theorized as existing at different levels. The first-order dynamic capabilities "extend, modify, change and/or create ordinary capabilities". When deploying first-order dynamic capabilities may not be sufficient, a firm may need to develop second-order dynamic capabilities [@Daniel2014]. The second-order (or higher-order) dynamic capabilities enable spontaneous responsiveness in novel situations and in recessionary conditions [@Daniel2014].
+First-order dynamic capabilities that are created by changing, extending, or adapting a firm's existing resources, processes, and values are positively associated with building digital platform capabilities. Managers focus on the most promising factors for creating first-order dynamic capabilities [@Karimi2015].
 
-Each of the four firms in our study gained significant advantages as the quality of their design capital improved. All four case firms were constrained by high debt or lack of options (or both) at various times during our observation period [@Woodard2013].
+In other words, dynamic capabilities represent the ability of the firm to change its processes: dynamic capabilities are driving the agility of the firm. Those dynamic capabilities are strongly correlated with digital platform capabilities. In layman terms, Agility of the teams in a firms is related to its Digital platforms: lack of agility creates poor digital platforms, poor digital platforms creates lack of agility.
 
-The role of design moves in our conceptual model is to provide a structured way of thinking about the actions taken by firms in pursuit of high-quality design capital [@Woodard2013].
+This aspect has been emphasized by @Westerman2011 through these 2 examples:
 
-Option-constrained Design Capital. Startup firms and new business units tend to possess option-constrained design capital. Such firms can make two distinct kinds of design moves: increase the option value of its designs, increase its technical debt. When resources are scarce, designers experience pressures to address urgent business needs without the necessary slack to lay a firm foundation for the future. This leads to an accumulation of technical debt. When firms have abundant resources, designers have the necessary slack to enact moves with a longer planning horizon, and often use this opportunity to create options that can be harvested in the future [@Woodard2013].
-
-Proposition 1a: Under option-constrained design capital and resource scarcity, a firm's design moves will tend to increase the technical debt of its design capital [@Woodard2013].
-Proposition 1b: Under option-constrained design capital and resource abundance, a firm's design moves will tend to create design options in its design capital [@Woodard2013].
-
-Debt-constrained Design Capital. In a debt-constrained design capital state, a firm possesses high option value, but it is weighed down by high levels of technical debt. Under resource scarcity, investments in reducing technical debt through additional development efforts are unlikely to be feasible, but firms can also meet their short-term obligations by abandoning debt-laden modules and their associated design options. Debt-constrained firms that have access to abundant resources can afford to reduce their debt without abandoning options [@Woodard2013].
-
-Proposition 2a: Under debt-constrained design capital and resource scarcity, a firm's design moves will tend to abandon design options [@Woodard2013].
-Proposition 2b: Under debt-constrained design capital and resource abundance, a firm's design moves will tend to reduce its technical debt [@Woodard2013].
-
-Low-quality Design Capital. It is a state in which a firm possesses few design options, and its ability to exercise the options it does possess is impeded by high technical debt. When designers face both low-quality design capital and a resource-scarce environment, their choice of design moves is over-constrained. It is unsustainable: either the product or project needs to be "bailed out" or higher management needs to "pull the plug" on it. In the absence of resource constraints, designers can exit a low-quality design capital state either by reducing debt or creating options [@Woodard2013].
-
-Proposition 3a: Under low-quality design capital and resource abundance, a firm's design moves will tend to reduce technical debt if the technical capability of the firm is high [@Woodard2013].
-Proposition 3b: Under low-quality design capital and resource abundance, a firm's design moves will tend to create design options if the technical capability of the firm is low [@Woodard2013].
-
-High-quality Design Capital. High-quality design capital, a state with high option value and low technical debt, can confer unfettered competitive advantage. Differences in a firm's ability to transfer the costs of technical debt to other members of its ecosystem (including end users) provided a systematic explanation for the differing transitions [@Woodard2013].
-
-Proposition 4a: Under high-quality design capital and resource scarcity, a firm's design moves will tend to increase technical debt if the firm's ability to transfer technical debt to other members of its ecosystem is high [@Woodard2013].
-Proposition 4b: Under high-quality design capital and resource scarcity, a firm's design moves will tend to abandon design options if its ability to transfer technical debt to other members of its ecosystem is low [@Woodard2013].
-
-Firms with high quality design capital tended to create product or service platforms that, in turn, enabled them to sustain a state of high-quality design capital. We observed two distinct kinds of platform strategies: one focused on internal economies of scale and scope, and the other focused on influencing an external ecosystem [@Woodard2013].
-
-We developed a conceptual framework that emphasizes the strategic importance of the cumulative stock of designs owned or controlled by a firm (design capital), and the sequence of discrete strategic actions that increase, reduce, or modify a firm's design capital (design moves). We conceptualized design capital as a two-dimensional construct comprising option value and technical debt, and adopted the design move as a unit of analysis to explore the duality between design moves and design capital [@Woodard2013].
+- Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time [@Westerman2011].
+- Some firms are able to use their culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change [@Westerman2011].
 
 ### Organize for Speed & Product Leadership
 
@@ -353,7 +295,7 @@ They enjoy the benefits of decentralization (among them, autonomous management, 
 
 Product leaders are their own fiercest competitors. Product leaders also possess the infrastructure and management systems needed to manage risk well [@Treacy1993].
 
-To the third category of customers, new, different, and unusual products count most. These are customers who, are primarily interested in fashion and trends. For a company to succeed in serving these customers, it has to focus on Product Leadership [@Treacy1993].
+New, different, and unusual products count most for some customers. These are customers who, are primarily interested in fashion and trends. For a company to succeed in serving these customers, it has to focus on Product Leadership [@Treacy1993].
 
 #### Assets for product leadership: Infrastructure & Innovation culture
 
@@ -364,12 +306,6 @@ To the third category of customers, new, different, and unusual products count m
 **An hardware and software symbiose:** Infrastructure is to information as a bottle is to wine: the technology is the packaging that allows the information to be delivered to end consumers. A single copy of a film would be of little value without a distribution technology. Likewise, computer software is valuable only because computer hardware and network technology are now so powerful and inexpensive. The value of the Web lies in its capacity to provide immediate access to information. Using the Web, information suppliers can distribute up-to-date information dynamically from databases and other repositories [@Shapiro1999].
 
 Improved information infrastructure has vastly increased our ability to store, retrieve, sort, filter, and distribute information, thereby greatly enhancing the value of the underlying information itself. Content providers cannot operate without infrastructure suppliers, and vice versa. The information economy is about both information and the associated technology [@Shapiro1999].
-
-##### Innovation culture
-
-**Product innovation:** Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time [@Westerman2011].
-
-**Culture:** Some firms are able to use culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change [@Westerman2011].
 
 #### Experimentation: real-time data and high quality digital platform
 
