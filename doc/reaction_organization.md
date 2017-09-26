@@ -31,9 +31,7 @@ To this end, we suggest to analyze the organizations' strengths using the 3 Valu
 
 Those 3 value disciplines are not mutually exclusive and should be viewed more as "flavors" than "separate groups". Depending on its size, an organization could be focusing on more than one value discipline.
 
-We also introduce a mapping of the 5 competitive forces introduced by @Porter1979 on each orgniazations' strength (or "flavor"). Those forces are seen as being more probably the weak points for a certain type of organizational strength, but they are also greatly depending on the industry context in which the organization is evolving.
-
-The purpose of using the value disciplines and the competitive forces and this mapping between them is to help guide the focus of the analyst on areas which could be more relevant.  Those frameworks are well known in the consulting field, so this will help make connections with analysts' previous experiences. Yet the proposed mapping is flexible and ultimately all the influencing factors should be considered.
+The purpose of using the value disciplines is to help guide the focus of the analyst on areas which could be more relevant to his case study. This framework is well known in the consulting field, so this will help make connections with analysts' previous experiences.
 
 The goal of this part is to help an organization understand its capabilities and how it can improve it in the frame of digitalization.
 
@@ -56,11 +54,11 @@ Under these conditions you can't win simply by becoming more disciplined with yo
 
 #### Reevaluate your assets
 
-**Identify and diagnose strategic assets:** Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world [@Westerman2011]?
+Identify and diagnose strategic assets: Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world? [@Westerman2011]
 
 Successful Digital Transformation comes from reshaping the organization to take advantage of valuable existing strategic assets in new ways, to gain value from investments they have already made [@Westerman2011].
 
-Beware of the assumption: **The strategic assets that brought us success in the physical world will also be valuable in the digital environment.** Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
+Beware of the assumption: The strategic assets that brought us success in the physical world will also be valuable in the digital environment. Look for ways to leverage assets that you have and that fast-moving digital startups do not. Use these to establish and grow your digital advantage [@WESTERMAN2015].
 
 Data should be considered an asset class in its own right and analytics are useful for more than just optimizing business processes. Equally important is the role of assets in your business model. Traditional companies are taking a fresh look at how they can use the assets they own in new ways to participate in today's "sharing economy" [@WESTERMAN2015].
 
@@ -297,9 +295,7 @@ Product leaders are their own fiercest competitors. Product leaders also possess
 
 New, different, and unusual products count most for some customers. These are customers who, are primarily interested in fashion and trends. For a company to succeed in serving these customers, it has to focus on Product Leadership [@Treacy1993].
 
-#### Assets for product leadership: Infrastructure & Innovation culture
-
-##### Infrastructure
+#### Assets for product leadership: Platform & Infrastructure
 
 **Products and content:** Product companies often find they can build new digital business around strong products. For example, a manufacturer of expensive long-lived transportation products is building services that digitally diagnose and help to maintain those devices [@Westerman2011].
 
@@ -351,8 +347,7 @@ Rapid Digital Scale Up/Down as Strategic Dynamic Capability: When the digital in
 
 Scale Through Alliances and Partnerships through shared digital assets. Firms modularize their business processes and rely on plug-and-play capabilities for richly linking digital assets and rely on linkages through application programming interfaces (APIs) and web services [@Bharadwaj2013].
 
-**Rent, Don't Own:** An important mechanism empowering individuals and small teams everywhere is
-low-cost access to technology and tools. Cloud computing, which offers the ability to store and manage massive amounts of information with unlimited processing, all on a cost-per-use basis requiring no upfront costs or capital investments. This makes memory almost free. The cloud also puts small companies on the same footing as, or even gives them an advantage over, big companies, which are burdened by expensive internal IT. This rent-not-own philosophy further extends the current craze of collaborative consumption and the sharing economy. Why not rent those assets, reducing up-front investment and leaving the ownership and maintenance of state-of-the-art facilities to someone else? Be it facilities, equipment, computing or people, the concept of renting rather than owning is a major factor contributing to an ExO's agility and flexibility [@VanGeest2014].
+**Rent, Don't Own:** An important mechanism empowering individuals and small teams everywhere is low-cost access to technology and tools. Cloud computing, which offers the ability to store and manage massive amounts of information with unlimited processing, all on a cost-per-use basis requiring no upfront costs or capital investments. This makes memory almost free. The cloud also puts small companies on the same footing as, or even gives them an advantage over, big companies, which are burdened by expensive internal IT. This rent-not-own philosophy further extends the current craze of collaborative consumption and the sharing economy. Why not rent those assets, reducing up-front investment and leaving the ownership and maintenance of state-of-the-art facilities to someone else? Be it facilities, equipment, computing or people, the concept of renting rather than owning is a major factor contributing to an ExO's agility and flexibility [@VanGeest2014].
 
 #### Small & independent units
 
@@ -368,6 +363,14 @@ Autonomous growth group (AGG): It is essential for creating new processes or way
 Staged allocation of resources (SAR): It can force innovation teams to zero in quickly on critical assumptions, find cheap ways to test those assumptions, and develop lean and flexible structures for innovation projects. Instead of risking big investments on uncertain strategies, newspaper companies can "invest a little to learn a lot" about the key uncertainties in their approach, reduce the cost and risk of innovation, and encourage smart experiments and risk-mitigation strategies [@Karimi2015].
 
 Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests [@Karimi2015].
+
+#### IT centralization & Employee decentralization  
+
+Beware of the assumption: **Working as an integrated company will slow us down and stifle innovation.** Pre-digital wisdom held that centralized companies, while slower to innovate, can be more efficient [and] argued that decentralized companies can be more responsive to local markets. This kind of mind-set forced managers to choose between two suboptimal structures. One of the paradoxes of digital technology is that standardization can actually lead to increased agility. Smart mobile devices, collaboration platforms and big data analytics wire organizations differently. Decentralized companies can have integration where it counts. Integrated systems and centralized processes offer benefits that go beyond efficiency and quality improvement and can also be useful platforms for innovation [@WESTERMAN2015].
+
+**Digital globalization:** Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
+
+**Culture issues:** On another level, previously autonomous country managers require coaching to grow comfortable working in an environment of centralized shared services and standardized processes [@Westerman2011].
 
 ### Organize for Customization & Customer Intimacy
 
@@ -575,16 +578,3 @@ To build its ecosystem: GE is experimenting with different types of partnerships
 Speed of Network Formation and Adaptation: The pace of network formation is rapidly accelerating in every firm. One of the key requirements of digital business strategy is new organizational capability to design, structure, and manage networks that provide complementary capabilities to what firms have inside their own hierarchies. Like app developers which align and realign their affinity to the different platforms based on technical functionality and attractiveness [@Bharadwaj2013].
 
 The ability to transfer technical debt emerged in our analysis as an important contingency. We observed that firms could sometimes shift the burden of their technical debt to their customers. For example, customers who are faced with high switching costs may be forced to bear the costs of incompatibility between releases of a vendor's product [@Woodard2013].
-
-### To rework
-
-##### IT centralization & Employee decentralization: think global, act local  
-
-Beware of the assumption:
-**Working as an integrated company will slow us down and stifle innovation.** Pre-digital wisdom held that centralized companies, while slower to innovate, can be more efficient [and] argued that decentralized companies can be more responsive to local markets. This kind of mind-set forced managers to choose between two suboptimal structures. One of the paradoxes of digital technology is that standardization can actually lead to increased agility. Smart mobile devices, collaboration platforms and big data analytics wire organizations differently. Decentralized companies can have integration where it counts. Integrated systems and centralized processes offer benefits that go beyond efficiency and quality improvement and can also be useful platforms for innovation [@WESTERMAN2015].
-
-**Digital globalization:** Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
-
-**Culture issues:** On another level, previously autonomous country managers require coaching to grow comfortable working in an environment of centralized shared services and standardized processes [@Westerman2011].
-
-#### Other

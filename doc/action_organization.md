@@ -18,7 +18,7 @@ Industry evolution is important strategically because evolution, of course, brin
 
 We suggest that the competitive forces in each industry are being intensified and taking new forms due to Digitalization and the emergence of all kind of Networks. This part aims at describing those networks and those digital trends and how they might change the various competitive forces in each industry.
 
-### Digital Networks are reshaping markets at all levels
+### Networks introduce new Market dynamics
 
 #### Network externalities as a positive feedback {#network-externalities}
 
@@ -107,7 +107,7 @@ Positive feedback makes the strong get stronger and the weak get weaker, leading
 
 **From long-lived oligopolies to temporary monopolies.** The industrial economy was populated with oligopolies: industries in which a few large firms dominated their markets. This was a comfortable world, in which market shares rose and fell only gradually. This stability in the marketplace was mirrored by lifetime employment of managers. In contrast, the information economy is populated by temporary monopolies. Hardware and software firms vie for dominance, knowing that today's leading technology or architecture will, more likely than not, be toppled in short order by an upstart with superior technology [@Shapiro1999].
 
-### Networks strengthen Digital big players: more substitutes & rivalry
+### Networks create new Markets & Disruption: more substitutes & rivalry
 
 #### Networking everywhere: Virtual Networks and Platforms
 
@@ -216,9 +216,7 @@ Paid search            | Searchers [x]              | Google.com                
 Stock exchange         | Equity purchasers [x]      | NYSE, NASDAQ                    | Listed companies
 Home real estate       | Home buyers [x]            | Real estate agents              | Home sellers
 
-
-
-### Networks strengthen Digital small players: new entrants, less powerful buyers & suppliers
+### Networks reshape existing Markets: new entrants, less powerful buyers & suppliers
 
 #### Platforms & Technological Innovation increase Threat of Entry by small players
 
