@@ -12,7 +12,8 @@ __*__
 *.csv
 
 vrac
-sources
+doc/sources/*
+!doc/sources/images
 
 *.pdf
 *.log
