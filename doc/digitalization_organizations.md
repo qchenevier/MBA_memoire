@@ -20,8 +20,10 @@ output:
 
 \chapterimage{sources/images/abstractarchi.jpg}
 
+``` include
+about.md
+```
 \chapterimage{sources/images/metrofloor.jpg}
-
 # Introduction {-}
 
 ``` include
@@ -29,7 +31,6 @@ introduction.md
 ```
 
 \chapterimage{sources/images/manjumping.jpg}
-
 # Stimulus
 
 ``` include
@@ -38,7 +39,6 @@ action_organization.md
 ```
 
 \chapterimage{sources/images/forum.jpg}
-
 # Response
 
 ``` include

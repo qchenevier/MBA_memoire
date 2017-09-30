@@ -2,6 +2,7 @@
 all: digitalization_organizations.pdf
 
 digitalization_organizations.pdf: \
+about.md \
 introduction.md \
 action_actor.md \
 action_organization.md \
