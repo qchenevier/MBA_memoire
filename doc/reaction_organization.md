@@ -317,7 +317,7 @@ It's easier to innovate and experiment with a high quality design platform:
 
 If a firm is fortunate enough to be in a position of high-quality design capital and resource abundance, this describes an under-constrained situation for designers that favors experimentation and entrepreneurial actions. Such an environment requires effective sense-making and the ability to cope with complexity and uncertainty [@Woodard2013].
 
-#### Embracing Disruption vs Fighting the environment with Regulation
+#### Disruption by yourself rather by your competitors
 
 Regulations are slowly adapting to evolutions in society.
 
@@ -326,6 +326,8 @@ Regulations are slowly adapting to evolutions in society.
 **Disrupt yourself:** With enterprising entrepreneurs and enthusiastic hackers determined to change the status quo, disruption is now a constant state of business. A commitment to constantly increasing customer value (not just profits) can help preempt disruption from external sources. A willingness to engage in creative destruction of the current business model will prevent enterprises from suffering the innovator's dilemma that allows others to sneak up and disrupt their business. Industry incumbents are not all standing on the sidelines watching newcomers define the future of their industries [@Gimpel2012].
 
 **Join them to beat them:** Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it [@Gimpel2012].
+
+#### Disruption neutralizes through regulation protection
 
 **Regulation and reputation:** Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. And a hacked access to confidential data has reputational repercussions well beyond any regulatory penalties. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
 
@@ -337,7 +339,7 @@ Despite this danger, we think that content owners tend to be too conservative wi
 
 When managing intellectual property, your goal should be to choose the terms and conditions that maximize the value of your intellectual property, not the terms and conditions that maximize the protection [@Shapiro1999].
 
-#### IT Renting & Staff on-demand increases Up-Down Scaling speed
+#### Fast Up-Down Scaling speed through IT Renting, Staff on-demand & Partnerships
 
 Speed of Product Launches: when traditional firms add digital dimensions to their business strategy, the clock speed of product launches is recalibrated by the speed set by the pure-play companies. Managers across a variety of industries find themselves with capabilities that are misaligned with those of their new competitors. As we combine Moore’s Law with steady increases in band-width speed and mobile technologies, speed of product launches with connectivity to cloud becomes critical and important. And also, planned obsolescence becomes fundamental to a firm’s competitive success and survival under digital business conditions. Lastly, with increased digitization, product launches need to be coordinated in networks with complementary products and services [@Bharadwaj2013].
 
@@ -364,7 +366,7 @@ Staged allocation of resources (SAR): It can force innovation teams to zero in q
 
 Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests [@Karimi2015].
 
-#### IT centralization & Employee decentralization  
+#### IT centralization & Employee decentralization
 
 Beware of the assumption: **Working as an integrated company will slow us down and stifle innovation.** Pre-digital wisdom held that centralized companies, while slower to innovate, can be more efficient [and] argued that decentralized companies can be more responsive to local markets. This kind of mind-set forced managers to choose between two suboptimal structures. One of the paradoxes of digital technology is that standardization can actually lead to increased agility. Smart mobile devices, collaboration platforms and big data analytics wire organizations differently. Decentralized companies can have integration where it counts. Integrated systems and centralized processes offer benefits that go beyond efficiency and quality improvement and can also be useful platforms for innovation [@WESTERMAN2015].
 
@@ -412,7 +414,7 @@ Newspaper companies often have extensive local data about institutions, business
 
 PagesJaunes, the French Yellow Pages company, saw that the assets related to printing and delivering books would have little use in the new model, but the company's knowledge of local businesses and the relationships its salespeople had with business owners were potentially critical assets going forward. By leveraging existing data and retraining the sales force, the company is attempting to reinvent itself in partnership with former competitor Google Inc. PagesJaunes began ramping up digital revenues in France faster than physical revenues were declining [@WESTERMAN2015].
 
-#### Value-based pricing
+#### Value-based pricing & marketing
 
 Sellers can adjust product bundling and pricing depending on circumstances. Technology are also changing the economics of manufacturing and making custom manufacturing more efficient [@WESTERMAN2015].
 
@@ -535,7 +537,7 @@ Beware of the assumption:
 
 **Interfaces:** Interfaces are filtering and matching processes by which ExOs bridge from SCALE externalities to internal IDEAS control frameworks. They are algorithms and automated workflows that route the output of SCALE externalities to the right people at the right time internally.  These processes start out manual and gradually become automated around the edges. These Interface processes are unique and proprietary to the organization that developed them, and as such comprise a unique type of intellectual property. ExOs invest considerable attention to Interfaces and a great deal of human-centered design thinking is brought to optimize every instantiation. Interfaces manage abundance. While most processes are optimized around scarcity and efficiency, SCALE elements generate large result sets, meaning Interfaces are geared towards filtering and matching [@VanGeest2014].
 
-#### Measuring everything
+#### Data from operations: Measuring everything
 
 With exponential output, the internal organization needs to be extremely robust, precise and properly tuned to process all the inputs. Those are distinctly different internal operations that encompass everything from their business philosophies to how employees interact with one another, how they measure their performance (and what they value in that performance), and even their attitudes toward risk. In fact, especially their attitudes toward risk [@VanGeest2014].
 

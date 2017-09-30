@@ -6,7 +6,7 @@
 
 ### Better information processing from humans
 
-#### 2-way communication instead of 1-way broadcast: Learn to listen
+#### Listening: 2-way communication instead of 1-way broadcast
 
 Digitalization involves a fascinating (yet partial) inversion of information flows and decision chains. Classic hierarchical organizations are based on information flowing bottom-up and decisions being taken at the top, whereas the new paradigm of learning oraganizations means more information flowing top-down and decisions being taken at the bottom of the organization.  
 
@@ -20,7 +20,7 @@ Successful organizations have not only created awareness through communication, 
 
 **Worker enablement:** Collaboration and networking tools allow employees to talk with anyone in the company, setting the stage for further changes related to globalization. Digital transformation replaces limited one-way vertical communication with broad communication channels that are both vertical and horizontal.[@Westerman2011]
 
-#### Learning fast & experimenting behavior.
+#### Learning: experimenting & learning from failed experiments
 
 **Experimentation:** Experimentation as the implementation of the lean Startup methodology of testing assumptions and constantly experimenting with controlled risks. A final and critical pre-requisite for experimentation is a willingness to fail. By integrating experimentation as a core value and adopting approaches like Lean Startup, enterprise failures, while still accepted as an inevitable part of risk, can be quick, relatively painless and insightful. Accepting failure free people, ideas and capital for future learning and breakthroughs [@VanGeest2014].
 
@@ -36,7 +36,7 @@ Think differently about your workforce. Investing in learning programs make more
 
 Individuals will have to keep developing their skills throughout their working lives and adjust to a fast-changing job market [@Manyika2015].
 
-#### Agile Strategy, iteration and real-time evaluation over planning
+#### Agility: iterative strategy & real-time evaluation over planning
 
 **Death to the Five-Year Plan:** In an exponential world, the five-year plan is not only unworkable, it is seriously counterproductive. The reality is that the future is changing so quickly that any forward look is likely to produce false scenarios. The only solution is to establish a big vision (i.e., an MTP), set an ExO structure into place, implement a one-year plan (at most) and watch it all scale while course-correcting in real time. ExOs, sees five-year plans being replaced with the following elements [@VanGeest2014]:
 
@@ -47,7 +47,7 @@ Individuals will have to keep developing their skills throughout their working l
 
 Emphasize agility and learning over forecasting and planning. Change continues to accelerate, so long-term forecasting exercises are less relevant. Agility is more critical than ever. Companies need a mindset focused on learning, experimenting, and iterating [@Manyika2015].
 
-#### Open minds to make cognitive associations
+#### Open mindedness: accepting change & making cognitive associations
 
 Values: They are the primary building-blocks for culture, which is the pattern of shared values, norms, and practices that distinguishes one organization from another [@Karimi2015].
 
@@ -67,7 +67,7 @@ Developing a digital-first mindset, making digital strategy everyone's job, cult
 
 Adopt a multimedia mindset and view [your] business as a portfolio of products and services with different business models, pricing, and distribution strategies. A mindset that does not favor the status quo [@Karimi2015].
 
-#### Deploy technologies to improve & accelerate information processing
+#### Social Networking: Deploy technologies to improve & accelerate information processing
 
 GE has responded by: [@Iansiti2014]
 
@@ -91,13 +91,13 @@ Stop staring in the mirror: a key to adapting to dramatically-shifting marketpla
 
 [TODO: RAJOUTER UN MAPPING DES TECHNO AVEC LES COGNITIVE CAPABILITIES DE @Beck2017]
 
-#### Autonomy improves Speed of Decision-making
+#### Autonomy: improving Speed of Decision-making
 
 **Trust Beats Control and Open Beats Closed:** Autonomy can be a powerful motivator. The Millennial generation is naturally independent, digitally native and resistant to top-down control and hierarchies. To hang on to top talent, companies must embrace an open environment. A new wave of collaborative tools has emerged to allow an organization to monitor each of its teams with little oversight and maximum autonomy. ExOs are learning to deliver self-management, often with extraordinary outcomes, by tracking data on a real-time basis. In an increasingly volatile world, predictable processes and steady, stable environments are now all but extinct. Anything predictable has been or will be automated by AI or robots, leaving the human worker to handle exceptional situations. As a result, the very nature of work is changing and requires more initiative and creativity from every team member. Open trust frameworks cannot be implemented in isolation or simply by fiat. They are an important consequence of implementing Autonomy, Dashboards and/ or Experimentation [@VanGeest2014].
 
 **Autonomy:** A corporate culture that accepts failure benefits from diminished internal politics thanks to trust, transparency and openness. Autonomy as self-organizing, multi-disciplinary teams, operating with decentralized authority. Autonomy does not imply a lack of accountability. "There are still hierarchies in a network, but the hierarchies tend to be competence-based hierarchies, relying more on peer accountability than on authority-based accountability that is, accountability to someone who knows something, rather than to someone simply because they occupy a position, regardless of competence" [@VanGeest2014].
 
-#### Data-based Decision-making leads to better and quicker decisions
+#### Rationality: Data-based Decision-making leads to better and quicker decisions
 
 This is the opportunity of improving management decisions as algorithms crunch big data from social technologies or the Internet of Things. Better decision making helps improve performance providing for finer marketing allocations or mitigating operational risks [@Hirt2014].
 
@@ -115,7 +115,7 @@ Speed of Decision Making: technology has allowed firms to speed up decisions tha
 
 **Culture issues:** There is also a need to change the culture when empowering front-line workers. These workers needed help to adopt the idea of using new information capabilities to make autonomous decisions [@Westerman2011].
 
-#### People share more and feel more engaged with their colleagues
+#### Engagement: People share more and feel more engaged with their colleagues
 
 **Engagement:** Engagement creates network effects and positive feedback loops with extraordinary reach. The biggest impact of engagement techniques is on customers and the entire external ecosystem. Key attributes of Engagement include [@VanGeest2014]:
   - Ranking transparency
@@ -130,7 +130,7 @@ Speed of Decision Making: technology has allowed firms to speed up decisions tha
 
 ### Leadership: guiding instead of controlling
 
-#### Leadership & Vision {#vision}
+#### Envisioning instead of planning {#vision}
 
 **See it coming.** Filter out the noise generated by unencumbered development by finding internal or external seers who can predict the future with insight and clarity. Your truth tellers may be easy to identify, if not to accept. They may be employees far below the ranks of senior management, working on the front lines of competition and change. They may not be your employees at all. Longtime customers, venture capitalists, industry analysts, and science fiction writers may all be truth tellers. Truth tellers are often eccentric, and their lucidity can easily be mistaken for arrogance and stubbornness. The insights of a truth teller may not come in easily digested forms. You need to learn not only whom to listen to and when, but also how [@Downes2013].
 
@@ -171,7 +171,7 @@ Senior management support (SMS): It not only signals the importance of innovatio
 
 The Massive Transformative Purpose, or MTP, is the higher, aspirational purpose of the organization. The MTP is so inspirational that a community forms around the ExO and spontaneously begins operating on its own, ultimately creating its own community, tribe and culture. It moves the focal point of a team from internal politics to external impact. The biggest imperative of a worthy MTP is its Purpose. An MTP serves as a stabilizing force during periods of random growth and enables organizations to scale with less turbulence. The MTP is not only an effective attractor and retainer for customers and employees but also for the company ecosystem at large (developers, startups, hackers, NGOs, governments, suppliers, partners, etc.) [@VanGeest2014].
 
-#### Investment decision
+#### Unlocking investment decision
 
 **Invest in digital initiatives and skills:** Transformation does not happen without investment. Business case may not be completely clear. It may be a series of low risk experiments. It often becomes a strategic bet that only senior executives can make. Digital transformation requires understanding the need for investment, managing risk, and making the changes necessary to capitalize on the change [@Westerman2011].
 
@@ -181,7 +181,7 @@ The Massive Transformative Purpose, or MTP, is the higher, aspirational purpose 
 
 Processes that govern investment decisions are the most crucial processes in which many organizations' most serious disabilities reside when attempting to respond to disruptive innovations [@Karimi2015].
 
-#### Let structure emerge from value
+#### Letting structure emerge from value & experiment
 
 Executives are beginning to envision possibilities that cross organizational and technological silos: letting the possibilities drive technology and organization rather than the reverse. [@Westerman2011]
 
