@@ -8,4 +8,4 @@ action_organization.md \
 reaction_actor.md \
 reaction_organization.md \
 digitalization_organizations.md
-	./md2pdf.sh digitalization_organizations
+	bash md2pdf.sh digitalization_organizations
