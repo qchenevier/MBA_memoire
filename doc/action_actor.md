@@ -48,6 +48,19 @@ Data examples:
 - The bits (0/1) on a hard drive.
 - An array containing numbers or text.
 
+#### From the Data of Machines to the Wisdom of Humans: Meaning and Value
+
+Interestingly those authors who draw the hierarchy offer a number of different views on the variables that change between the different levels of the hierarchy [@Rowley2007]:
+
+- meaning and value
+- human input and computer input
+- algorithmicity and programmability
+- order, structure and human agency
+
+On one end of the spectrum, Data has no value and no meaning for Humans, is only for Computers to be treated with algorithms. Whereas Wisdom is valuable and meaningful for Humans, cannot be recorded in a computer and cannot be programmatically extracted.
+
+Information and Knowledge being at the interface between Humans and Machines are all the rage in today's technological revolution. Mastering an understanding the elements at the interface of those two worlds are the key to understand the current technological revolution. Now, the Humanity is learning to use Machines to deliver Meaning & Value, i.e. answering questions for better decisions, to Humans. This is the paradigm of the current techno-economic revolution.
+
 #### Information is Data completed by a Meaning
 
 The concepts of format, structure, organization, meaning and value feature in the various definitions [@Rowley2007]:
@@ -74,18 +87,31 @@ Information examples:
 - A picture (computed from an array of number, given the file format)
 - An array of numbers or text with labels (or column names) and some metadata information about the date and location when the data has been measured, with which instrument.
 
-#### From the Data of Machines to the Wisdom of Humans: Meaning and Value
+#### Information & Knowledge Value relates to Decision-making {#information-value}
 
-Interestingly those authors who draw the hierarchy offer a number of different views on the variables that change between the different levels of the hierarchy [@Rowley2007]:
+An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area [@Rowley2007].
 
-- meaning and value
-- human input and computer input
-- algorithmicity and programmability
-- order, structure and human agency
+Economically, the main definition of Value of Information is: how much answering a question allows a decision-maker to improve its decision [@Howard1966].
 
-On one end of the spectrum, Data has no value and no meaning for Humans, is only for Computers to be treated with algorithms. Whereas Wisdom is valuable and meaningful for Humans, cannot be recorded in a computer and cannot be programmatically extracted.
+- "answering": Value of Information is dependent of the all possible answers and their relative likelihood.
+- "improve": Value of Information isn't about sleeping better at night. If the expected value of the information (the chance you change your decision after receiving the information times the relative value of the decisions) is lower than the cost of the information, just bite the bullet and don't run the test you were considering.
+- "decision": Value of Information isn't just curiosity. Information has Value only if some decision has to depend on that fact.
 
-Information and Knowledge being at the interface between Humans and Machines are all the rage in today's technological revolution. Mastering an understanding the elements at the interface of those two worlds are the key to understand the current technological revolution. Now, the Humanity is learning to use Machines to deliver Meaning & Value, i.e. answering questions for better decisions, to Humans. This is the paradigm of the current techno-economic revolution.
+In other words, information is valuable lies by reducing uncertainty in decisions. According to @Hirshleifer1971 there are 2 types of economical uncertainty: Market Uncertainty and Technology Uncertainty, and hence, Information is able to create Value by helping Decision making regarding those two uncertainties:
+
+- Market uncertainty happens when an individual is imperfectly informed about his market opportunities, i.e. about the supply-demand offers of others: there are costly patterns of search for trading partners, which replace the traditional assumption of costless exchange [@Hirshleifer1971].
+- Technological uncertainty happens when individuals are unsure about the size of their own commodity endowments and/or about the returns attainable from their own productive investments [@Hirshleifer1971].
+
+For example, with his knowledge, the Medical Doctor is able to produce on the spot a diagnosis, which is an information which can be used to improve the Decision. Without this information, the best decision would be to try all the available treatments. It's interesting to see that as Medical Knowledge is constituted by the community of Doctors and shared during medical training, it improves over time and then older doctors with older knowledge take worse decisions than their younger colleagues. It has been shown by @Tsugawa2017: Within the same hospital, patients treated by older physicians had higher mortality than patients cared for by younger physicians, except those physicians treating high volumes of patients. Their collective knowledge, i.e. the state-of-the-art, is naturally progressing to give better decision and a higher value.
+
+To be valuable on a Market, according to @Hirshleifer1971, an Information or Knowledge should be Prior, Sure and Private:
+
+- Prior: obviously, the information must be available before a decision is made.
+- Sure: if the Information is not sure, it is not reducing the uncertainty. It cannot help improve a decision. Most frequently, this _sure_ aspect is not verifiable and, consequently, is reduced to the perception of the decision-maker. To be valuable in the eyes of a decision-maker, an Information must be able to . That's why most information providers invest time and effort to create strong brands which convey an image of trust and certainty. This has a direct impact on the perceived value of their informations.
+- Private: An information provider cannot capture any value if it already known by everyone. The value capture from this information happens only through the release of this information. It means that if an Information stays private forever, no one will benefit from it, not even thw owner. This release could be indirect though (e.g: when a market bubble pops): when an actor changes his behavior on a market ("This asset is overvalued: I sell everything !"), the other actors are often analyzing this change of behavior ("He sells everything !") and hence, retrieving indirectly the information ("We understand that you think that the asset is overvalued"). \
+This privacy aspect has to be nuanced with the fact that many informations are public or easily accessible and hence not valuable but require very little additional private information to be valuable. "I know that there is a public information here which suits your needs" is the kind of additional information provided by the search business.
+
+In a further part, we refine the various ways of [creating Information Value](#value-creation).
 
 #### Knowledge is a combination of Informations into an Algorithm
 
@@ -119,32 +145,6 @@ In mathematics and computer science, an [Algorithm](https://en.wikipedia.org/wik
 The world is pretty much run on algorithms [@VanGeest2014]. Software and algorithms can be seen as Human Knowledge freezed and transcribed so that a Machine can exploit it to treat Information.
 
 For example, Medical Doctors use their knowledge to create diagnosis information which improves health of their patients. Their knowledge has been constituted by studying a number of medical cases with their symptoms, the treatments which were tried and the results which were obtained. The knowledge of the Doctor will consist in a list of algorithms such as: "given those symptoms, here is the best treatment we found until now". The Doctor doesn't deliver any of his knowledge, he delivers an information: "you need this treatment to treat your condition".
-
-#### Information & Knowledge Value relates to Decision-making {#information-value}
-
-An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area [@Rowley2007].
-
-Economically, the main definition of Value of Information is: how much answering a question allows a decision-maker to improve its decision [@Howard1966].
-
-- "answering": Value of Information is dependent of the all possible answers and their relative likelihood.
-- "improve": Value of Information isn't about sleeping better at night. If the expected value of the information (the chance you change your decision after receiving the information times the relative value of the decisions) is lower than the cost of the information, just bite the bullet and don't run the test you were considering.
-- "decision": Value of Information isn't just curiosity. Information has Value only if some decision has to depend on that fact.
-
-In other words, information is valuable lies by reducing uncertainty in decisions. According to @Hirshleifer1971 there are 2 types of economical uncertainty: Market Uncertainty and Technology Uncertainty, and hence, Information is able to create Value by helping Decision making regarding those two uncertainties:
-
-- Market uncertainty happens when an individual is imperfectly informed about his market opportunities, i.e. about the supply-demand offers of others: there are costly patterns of search for trading partners, which replace the traditional assumption of costless exchange [@Hirshleifer1971].
-- Technological uncertainty happens when individuals are unsure about the size of their own commodity endowments and/or about the returns attainable from their own productive investments [@Hirshleifer1971].
-
-For example, with his knowledge, the Medical Doctor is able to produce on the spot a diagnosis, which is an information which can be used to improve the Decision. Without this information, the best decision would be to try all the available treatments. It's interesting to see that as Medical Knowledge is constituted by the community of Doctors and shared during medical training, it improves over time and then older doctors with older knowledge take worse decisions than their younger colleagues. It has been shown by @Tsugawa2017: Within the same hospital, patients treated by older physicians had higher mortality than patients cared for by younger physicians, except those physicians treating high volumes of patients. Their collective knowledge, i.e. the state-of-the-art, is naturally progressing to give better decision and a higher value.
-
-To be valuable on a Market, according to @Hirshleifer1971, an Information or Knowledge should be Prior, Sure and Private:
-
-- Prior: obviously, the information must be available before a decision is made.
-- Sure: if the Information is not sure, it is not reducing the uncertainty. It cannot help improve a decision. Most frequently, this _sure_ aspect is not verifiable and, consequently, is reduced to the perception of the decision-maker. To be valuable in the eyes of a decision-maker, an Information must be able to . That's why most information providers invest time and effort to create strong brands which convey an image of trust and certainty. This has a direct impact on the perceived value of their informations.
-- Private: An information provider cannot capture any value if it already known by everyone. The value capture from this information happens only through the release of this information. It means that if an Information stays private forever, no one will benefit from it, not even thw owner. This release could be indirect though (e.g: when a market bubble pops): when an actor changes his behavior on a market ("This asset is overvalued: I sell everything !"), the other actors are often analyzing this change of behavior ("He sells everything !") and hence, retrieving indirectly the information ("We understand that you think that the asset is overvalued"). \
-This privacy aspect has to be nuanced with the fact that many informations are public or easily accessible and hence not valuable but require very little additional private information to be valuable. "I know that there is a public information here which suits your needs" is the kind of additional information provided by the search business.
-
-In a further part, we refine the various ways of [creating Information Value](#value-creation).
 
 #### Knowledge grows through Combination
 
@@ -235,7 +235,7 @@ Those Algorithms have all been generated thanks to Machine Learning.
 
 Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data [@VanGeest2014]. Machine Learning Algorithms are Meta-Algorithms, in a sense that they are Algorithms that create other Algorithms. In other words, Machine Learning Algorithms create automatically new Algorithms from Data, trying to reduce the error rate on a specific algorithmic task, much like a biologic entity (Human or Animal) would do through learning. Humans have transcribed in Machine Learning Algorithms the most basic way how Humans derive Knowledge from Information. Machine Learning is able to create an Algorithm by looking at Data.
 
-#### Algorithms are encroaching Human Knowledge workers skills
+#### Machine Learning Algorithms are encroaching Human Knowledge workers skills
 
 In less controlled environment than games, Machine Learning is getting good results in more and more scientific fields: Character Recognition in the early 90s, Speech Recognition in the 2010s, Computer Vision in 2014 and now Natural Language Processing (see Yann Lecun's [post on facebook](https://www.facebook.com/yann.lecun/posts/10154498539442143)). Those results are deemed good becase those algorithms are much faster and on par with humans' accuracy on those increasingly complex tasks:
 
@@ -255,6 +255,33 @@ Many skilled jobs are cognitive jobs (like Doctors, Financial advisers, Business
 Highly skilled workers can command high rates because of three capabilities. Their abilities to go through the early rote tasks quickly and accurately; their experiences and judgment in determining a course of action; and their savviness for helping clients navigate that course. AI and Machine Learning will quickly surpass our abilities on the first two capabilities. It’s easy to see the role of automated systems in data gathering and analysis, we’ve accepted that machines can do these types of tasks efficiently. However, their potential goes much further [@Beck2017].
 
 ### Humans are contributing with Meaning & Value
+
+#### Humans are more and more Information Producers {#prosumerization}
+
+Many people suggest that rates of new product introduction and adoption are speeding up since centuries. It seems to be true: It took decades for the telephone to reach 50% of households, beginning before 1900, whereas it took five years or less for cellphones to accomplish the same penetration in 1990. And innovations introduced more recently are being adopted more quickly [@McGrath2013].
+
+It took 30 years for electricity and 25 years for telephones to reach 10% adoption but less than five years for tablet devices to achieve the 10% rate. It took an additional 39 years for telephones to reach 40% penetration and another 15 before they became ubiquitous. Smart phones, on the other hand, accomplished a 40% penetration rate in just 10 years, if we time the first smart phone's introduction from the 2002 shipment of the first BlackBerry that could make phone calls and the first Palm-OS-powered Treo model [@McGrath2013].
+
+This rise of adoption and penetration rates for new technologies suggests that technology is less and less the prerogative of the new generations, the so-called _Millenials_ or _Y generation_. In fact, these so-called generations are bounded less by an age criterion than by a technological use one. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
+
+This increased technology usage means that people are producing more and more information directly by giving feedback or indirectly throught the usage statistics of their devices. This is the rise of the _consumer-producer_, a phenomenon called _Prosumerization_ or _Millenialization_:
+
+- Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others [@Gimpel2012].
+- Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry [@Karimi2015].
+
+As a results, the average human on this planet is more connected to all the other humans and communicates more with them than anytime in History. The world has never been so intertwined, in terms of information exchanges, even if the population has never been higher. Information is more available to anyone and anyone is more able to create or share information.
+
+#### Humans have more Relationships & Interactions through (and with) Machines thanks to Telecommunications
+
+Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space [@Bharadwaj2013].
+
+Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
+
+Information technologies are enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels, as these channels lower the cost of transactions [@Hirt2014].
+
+For example, some customers today favor self-service over personal interaction. For many young adults in their 20s and early 30s, interacting with a human service representative represents an inconvenience or an extra cost [@WESTERMAN2015].
+
+Some people may say that we will never trust machines with important decisions such as the management of our health and money, but this is twentieth century thinking. A new generation (often called Millenials) is engaging with smart machines that they trust, and often prefer [@Beck2017].
 
 #### Information & Knowledge transfer to Humans is constrained by Time and Attention {#attention-time}
 
@@ -296,21 +323,21 @@ Between 2014 and 2020, the amount of data managed per each IT professional will 
 
 For these workers, in US, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
 
-#### Human skills are increasingly transfered to Machines
+#### Human Skills transfer to Machines is accelerating thanks to Machine Learning
 
 The booming growth of Machine Learning and Artificial Intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications, and particularly the implications for our careers. As AI improves, which is happening quickly, a much broader set of "thinking" rather than "doing" jobs will be aﬀected. Jobs, that, until the last few years, we couldn't imagine being done without the participation of an actual, trained human being [@Beck2017]. Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015]. The Idea that technological advances favor more skilled workers is a twentieth century phenomenon [@Acemoglu2002]. It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves [@Beck2017].
 
 Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines [@Hirt2014]. Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates [@Manyika2015]. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives [@Hirt2014].
 
-Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but IT technology creates the need for new roles [@Manyika2015]. Those that want to stay relevant in their professions will need to focus on skills and capabilities that Artificial Intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as Artificial Intelligence and Machine Learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
+Technology is beginning to encroach on human skills. There is growing anxiety about job losses, but IT technology creates the need for new roles [@Manyika2015]. According to @Frey2017, 3 Tasks categories won't be automated:
 
-According to @Frey2017, 3 Tasks categories won't be automated [@Frey2017]:
+- **Perception & Manipulation** tasks: especially in unstructured work environment (personal house vs airport or train station), irregular objects [@Frey2017].
+- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value of creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is difficult [@Frey2017].
+- **Social intelligence** tasks: involving negotiation, persuasion and care [@Frey2017].
 
-- **Perception & Manipulation** tasks: especially in unstructured work environment (personal house vs airport or train station), irregular objects.
-- **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value of creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is difficult.
-- **Social intelligence** tasks: involving negotiation, persuasion and care.
+Those that want to stay relevant in their professions will need to focus on skills and capabilities that Artificial Intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as Artificial Intelligence and Machine Learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
 
-#### Human physical skills are trivialized by Automation / Robotics / 3D printing & Additive manufacturing
+#### Human physical skills are trivialized by Automation, Robotics, 3D printing & Additive manufacturing
 
 New technologies such as robotics, 3-D printing, augmented reality and the "Internet of Things" will soon lead to major business changes [@WESTERMAN2015].
 
@@ -319,30 +346,3 @@ Digitization has contributed to increasingly jobless recoveries from recessions.
 Digitization has contributed to hollowing out the middle-skill portion of the US workforce. Since 2000, the US has created 8 million jobs : only low-skill interactive jobs or high-skill interactive jobs. Whereas, 2.5 million production and transaction jobs have been destroyed [@Manyika2015].
 
 In terms of wages, digitization has accelerated a divergence between the majority of workers and a smaller group at the top. And, since 1980, labor productivity has grown 2.5 times faster than wages, breaking historical patterns [@Manyika2015].
-
-#### Humans are producing more and more Information {#prosumerization}
-
-Many people suggest that rates of new product introduction and adoption are speeding up since centuries. It seems to be true: It took decades for the telephone to reach 50% of households, beginning before 1900, whereas it took five years or less for cellphones to accomplish the same penetration in 1990. And innovations introduced more recently are being adopted more quickly [@McGrath2013].
-
-It took 30 years for electricity and 25 years for telephones to reach 10% adoption but less than five years for tablet devices to achieve the 10% rate. It took an additional 39 years for telephones to reach 40% penetration and another 15 before they became ubiquitous. Smart phones, on the other hand, accomplished a 40% penetration rate in just 10 years, if we time the first smart phone's introduction from the 2002 shipment of the first BlackBerry that could make phone calls and the first Palm-OS-powered Treo model [@McGrath2013].
-
-This rise of adoption and penetration rates for new technologies suggests that technology is less and less the prerogative of the new generations, the so-called _Millenials_ or _Y generation_. In fact, these so-called generations are bounded less by an age criterion than by a technological use one. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
-
-This increased technology usage means that people are producing more and more information directly by giving feedback or indirectly throught the usage statistics of their devices. This is the rise of the _consumer-producer_, a phenomenon called _Prosumerization_ or _Millenialization_:
-
-- Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others [@Gimpel2012].
-- Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry [@Karimi2015].
-
-As a results, the average human on this planet is more connected to all the other humans and communicates more with them than anytime in History. The world has never been so intertwined, in terms of information exchanges, even if the population has never been higher. Information is more available to anyone and anyone is more able to create or share information.
-
-#### Humans are increasingly interacting through (and with) machines
-
-Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space [@Bharadwaj2013].
-
-Employees are asking why they cannot collaborate with coworkers the way they can with friends. Some younger employees have been heard saying "the company's more than 100 years old, but our IT capabilities don't have to match the age of the company." [@Westerman2011]
-
-Information technologies are enhancing interactions among customers, suppliers, stakeholders, and employees. Consumers and businesses increasingly prefer digital channels, as these channels lower the cost of transactions [@Hirt2014].
-
-For example, some customers today favor self-service over personal interaction. For many young adults in their 20s and early 30s, interacting with a human service representative represents an inconvenience or an extra cost [@WESTERMAN2015].
-
-Some people may say that we will never trust machines with important decisions such as the management of our health and money, but this is twentieth century thinking. A new generation (often called Millenials) is engaging with smart machines that they trust, and often prefer [@Beck2017].

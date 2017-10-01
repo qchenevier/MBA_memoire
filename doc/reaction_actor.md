@@ -1,9 +1,5 @@
 ## Response of Actors
 
-<!-- What is your vision of the future culture, behavior and competency of your company? -->
-<!-- What competencies do you need and where? -->
-<!-- What is the role of the executive for this to succeed? -->
-
 ### Better information processing from humans
 
 #### Listening: 2-way communication instead of 1-way broadcast

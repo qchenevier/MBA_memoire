@@ -1,10 +1,5 @@
 ## Response of Organizations {#response-organization}
 
-<!-- What shift in business model? -->
-<!-- What assez will you reuse? -->
-<!-- How is moving the market? -->
-<!-- How do you restructure your company? -->
-
 @Perez2004 analyses each techno-economic paradigm through three inter-related levels:
 
 - New "best practice" model : flexible organizational model
@@ -14,7 +9,7 @@ Firms are experiencing different digital transformation speeds and different res
 Very few businesses are gaining the full value of technologically-enabled change. Manufacturers' ERP systems have improved process efficiency and are providing better financial data for strategic decisions, but companies have not yet retrained buyers in how to use the information in negotiating with suppliers [@Westerman2011].
 Some firms are conducting experiments in different business units, but not conducting a unified digital transformation of the customer experience [@Westerman2011].
 
-#### Value Disciplines and Competitive Forces to propose an Organizational response
+#### Value Disciplines to propose an Organizational response
 
 Once having assessed the forces affecting competition in an industry and their underlying causes, @Porter1979 suggests to define a strategy by:
 
@@ -35,7 +30,7 @@ The purpose of using the value disciplines is to help guide the focus of the ana
 
 The goal of this part is to help an organization understand its capabilities and how it can improve it in the frame of digitalization.
 
-#### Digitalization is abolishing former constraints on Strategy
+#### Digitalization is abolishing former constraints on Strategy: compete on all three disciplines
 
 According to @Treacy1993, businesses should align strategic goals along one of three value disciplines: low cost ("operational excellence"), constant innovation ("product leadership"), or customized oﬀerings ("customer intimacy"). Failing to choose, said the authors, meant "ending up in a muddle" [@Downes2013].
 
@@ -52,7 +47,7 @@ Under these conditions you can't win simply by becoming more disciplined with yo
 
 ### Assess your organizational value
 
-#### Reevaluate your assets: find information-based assets that complement your existing assets  
+#### Reevaluate your assets to find information-based assets that complement your existing assets  
 
 Identify and diagnose strategic assets: Large companies survive major transitions not by radically replacing the old with the new, but rather by transforming some of their existing resources and competencies for the new environment and reassigning or adapting assets and realigning or re-motivating employees. Your company will thrive in digital transformation not by doing something completely new, but by taking advantage of your powerful capabilities to gain advantage through digitization. What assets will be useful in a digitally transformed world? [@Westerman2011]
 
@@ -82,6 +77,20 @@ And by referring to the part about [Information Value](#information-value), we c
 - The business of _Information Production_ is about reducing technological uncertainty by creating valuable technological Information or Knowledge (such as event prediction or technological innovation) by combination of value-less information.
 
 It is interesting to note that the Delivery of Information is not considered by @Hirshleifer1971 in his model. Maybe the Value of this activity was less striking and less easy to modelize. It could explain why most telecommunication companies (doing the Delivery of Information) are diversifying their activities in the Information Production or Search. The current battle around net neutrality in USA, where Telecom operators are trying to control the Information is transiting through their pipes might be revealing how they think that the Information Delivery activity is not adding enough value: they are trying to control the Information Production and Search to extract value.
+
+#### Build connections to your user base to create valuable information
+
+Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013]. What is called here "Industry Architecture" by @Bharadwaj2013 is, in fact, the Virtual Network made of its Iphone users. Apple controls which suppliers have access to this Virtual Network through affiliation. For example, Apple receives payments from Google so that he can remain the default search engine on Apple mobile devices, powered by its propietary operating system, [according to some experts](https://www.cnbc.com/2017/08/14/google-paying-apple-3-billion-to-remain-default-search--bernstein.html). In this example, Apple is controlling the distribution to its captive users and selling it to suppliers.
+
+@Iansiti2014 defines a business model by these 2 dimensions: how the organization _creates_ value for its customers & how the organization _captures_ that value.
+
+Digital transformation changes both: GE creates values by extracting useful data from sensors, by optimizing equipment performance, utilization and maintenance. It captures that value by charging a percentage of the customer's incremental revenue from improved performance [@Iansiti2014]. On one hand, GE is improving its Product Leadership with innovations and optimizations on its product, on the other hand, GE is improving its Customer Intimacy by tailoring its value proposition to the client needs.
+
+We can see how GE has shifted its business model: GE is still producing the same type of asset (even if they are improved by digital innovations) which are physical goods, but it has changed the type of rights it is selling: GE is not uniquely a Producer, it is also a Landlord. Being a Landlord of the physical goods it produces is a way for GE to gather more easily usage data and to feedback the improvement of its physical goods products.  
+
+We understand that the Big tech companies consider their user base as one of their main asset and create valuable information by building connections to it. Either by selling access to the user base to its competitors through a platform: like Apple, this is a case of _resale of information_. Or by aggregating usage data to improve products and value offers: like GE, this could be considered as an _optimal speculation_. GE doesn't resell those informations because only a few competitors would be interested by it. Those are two kinds of positive feedback which yield increasing returns to scale.
+
+In the end, a user base can be any group of people or organizations who might be having a transaction with you. Many companies are now competing for the same user base. If you are on a B2B market, you might consider your customers as your user base
 
 #### Choose a way to capture Information Value {#value-capture}
 
@@ -141,20 +150,6 @@ Examples:
     - Search between Audience and Advertiser for Intangible ad space
     - Broker between Audience and Advertiser for Intangible ad space
 
-#### Build connections to your user base to create valuable information
-
-Value Appropriation through Control of Digital Industry Architecture: Apple has a smaller market share but leads in profit share in the mobile industry because it receives a share of the follow-on revenue that the telecom carriers earn from the end users. Apple’s appeal to the end consumer is arguably higher. This control of the industry architecture allows Apple to extract a higher premium [@Bharadwaj2013]. What is called here "Industry Architecture" by @Bharadwaj2013 is, in fact, the Virtual Network made of its Iphone users. Apple controls which suppliers have access to this Virtual Network through affiliation. For example, Apple receives payments from Google so that he can remain the default search engine on Apple mobile devices, powered by its propietary operating system, [according to some experts](https://www.cnbc.com/2017/08/14/google-paying-apple-3-billion-to-remain-default-search--bernstein.html). In this example, Apple is controlling the distribution to its captive users and selling it to suppliers.
-
-@Iansiti2014 defines a business model by these 2 dimensions: how the organization _creates_ value for its customers & how the organization _captures_ that value.
-
-Digital transformation changes both: GE creates values by extracting useful data from sensors, by optimizing equipment performance, utilization and maintenance. It captures that value by charging a percentage of the customer's incremental revenue from improved performance [@Iansiti2014]. On one hand, GE is improving its Product Leadership with innovations and optimizations on its product, on the other hand, GE is improving its Customer Intimacy by tailoring its value proposition to the client needs.
-
-We can see how GE has shifted its business model: GE is still producing the same type of asset (even if they are improved by digital innovations) which are physical goods, but it has changed the type of rights it is selling: GE is not uniquely a Producer, it is also a Landlord. Being a Landlord of the physical goods it produces is a way for GE to gather more easily usage data and to feedback the improvement of its physical goods products.  
-
-We understand that the Big tech companies consider their user base as one of their main asset and create valuable information by building connections to it. Either by selling access to the user base to its competitors through a platform: like Apple, this is a case of _resale of information_. Or by aggregating usage data to improve products and value offers: like GE, this could be considered as an _optimal speculation_. GE doesn't resell those informations because only a few competitors would be interested by it. Those are two kinds of positive feedback which yield increasing returns to scale.
-
-In the end, a user base can be any group of people or organizations who might be having a transaction with you. Many companies are now competing for the same user base. If you are on a B2B market, you might consider your customers as your user base
-
 #### Aim for zero marginal costs
 
 The fact that Information can be duplicated infinitely and freely enables low marginal cost economics: past the initial investment, the production & distribution cost tend towards zero. Global flows of products & services are more and more digital.
@@ -189,16 +184,6 @@ Whereas business models with high marginal costs were seen as not performant eno
 - Contractors (that primarily "rent out" human assets) had performance in the middle of the pack [@PeterWeill2011].
 
 - Financial and physical landlords were the poorest performing of the common business models [@PeterWeill2011]. Finance asset are a special type of Information-based asset which doesn't benefit of low marginal cost economics, because Money is "engineered" to maintain its value over time (according to the main [properties of money](https://en.wikipedia.org/wiki/Money#Properties)) and hence cannot be duplicated infinitely and freely. Money is a special kind of Information, of which the creation mechanisms are carefully monitored. In other words, Financial and physical landlords have business models based on management of scarcity and don't benefit from the low marginal costs economics.
-
-#### Use financial pressure to trigger change by divesting & reinvesting.
-
-The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal. Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action [@Hess2016].
-
-How Will You Finance the Digital Transformation Endeavor? If a company is already financially struggling, its options for financing digital transformations will be severely limited [@Hess2016].
-
-Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
-
-We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy [@Bharadwaj2013]. In other words, digital connections should lead the divestment and investment decisions in a portfolio.
 
 ### Update the organization's information processing
 
@@ -239,6 +224,16 @@ Analytics capabilities:  Companies with integrated data are able to engage in mo
 
 IT Difficulties: Digital initiatives are built on a solid foundation of technology-enabled processes and data, as well as the analytics, solution delivery and relationship capabilities to create and extend that platform. Many companies find their information technology infrastructures and capabilities severely lacking. "We don't retire systems. We just add on top of them, which creates a tremendous amount of expense and complexity." "It is very difficult to get a good understanding of the customer when customer data is spread across so many systems." A history of poor business / IT relations is a difficult foundation for the collaborative work required in digital transformation. "IT is a mess. Their costs are not acceptable. They propose things in 9-10 months where external firms could do them in 3-9 weeks" [@Westerman2011].
 
+#### Centralize IT & Information management to Decentralize its exploitation by Employees
+
+Beware of the assumption: "Working as an integrated company will slow us down and stifle innovation". Pre-digital wisdom held that centralized companies, while slower to innovate, can be more efficient [and] argued that decentralized companies can be more responsive to local markets. This kind of mind-set forced managers to choose between two suboptimal structures. One of the paradoxes of digital technology is that standardization can actually lead to increased agility. Smart mobile devices, collaboration platforms and big data analytics wire organizations differently. Decentralized companies can have integration where it counts. Integrated systems and centralized processes offer benefits that go beyond efficiency and quality improvement and can also be useful platforms for innovation [@WESTERMAN2015].
+
+Digital globalization: Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
+
+Culture issues: On another level, previously autonomous country managers require coaching to grow comfortable working in an environment of centralized shared services and standardized processes [@Westerman2011].
+
+The goal of Information centralization is to be able to make it more available to the whole organization in the end. If they have the ability to combine more information sources with one platform, people in the organization are able to create new knowledge. If the technical capability is sufficient (software developers, data scientists), the creation of new knowledge could be transfered to the platform by building algorithms, which could be used in a decentralized way by the employees to increase their efficiency. That's precisely the goal of modern CRM (Customer Relationship Management) softwares. This paradigm is applicable to every aspect of the organization: ERP (Enterprise Resource Planning), SRM (Supplier Relationship Management) and so on.   
+
 #### Gather enough IT skills to build your technical capability
 
 Digital capabilities: Digital capabilities cut across all three pillars. They are a fundamental building block for transformation in customer experience, operational processes, and business models. Although CIOs and existing IT departments are leading digital initiatives across companies, they hire extra skills or implement separate units to coordinate digital transformation [@Westerman2011].
@@ -274,6 +269,16 @@ This aspect is also mentioned by @Westerman2011 through these 2 examples:
 
 - Some firms use digital transformation to connect their engineers more closely with global manufacturers or uses digital technology to connect designers closer to manufacturers, speeding the design-to-market cycle time [@Westerman2011].
 - Some firms are able to use their culture as a powerful asset. For some firms, entrepreneurial culture made digital transformation easier. Whereas unionized culture restricted change [@Westerman2011].
+
+#### Use financial pressure to trigger change by divesting & reinvesting.
+
+The willingness of top management to undertake the necessary efforts for, and accept the ensuing risks of, digital transformation endeavors often depends on the competitiveness of the current core business. Managers may not see the urgency for embarking on digital transformation. However, markets can change quickly and acting too late can be fatal. Increasing financial pressure on the current core business might be the trigger that convinces management of the need for action [@Hess2016].
+
+How Will You Finance the Digital Transformation Endeavor? If a company is already financially struggling, its options for financing digital transformations will be severely limited [@Hess2016].
+
+Buy or sell businesses in your portfolio? The growth and profitability of some businesses become less attractive in a digital world, and the capabilities needed to compete change as well. Companies that lack sufficient scale or expect a significant digital downside should consider divesting businesses [@Hirt2014].
+
+We need a reconceptualization of the role of digital connections within a firm’s corporate portfolio of products and services (its scope) to better prescribe its digital business strategy [@Bharadwaj2013]. In other words, digital connections should lead the divestment and investment decisions in a portfolio.
 
 ### Organize for Speed & Product Leadership
 
@@ -323,15 +328,15 @@ Disrupt yourself: With enterprising entrepreneurs and enthusiastic hackers deter
 
 Join them to beat them: Trying to regulate away disruption is often ineffective. Embracing a disruption can create new opportunities. Making content more widely available might cannibalize some traditional TV revenue, but it allows broadcasters to retain the Millennial generation. The future is here. You cannot fight it [@Gimpel2012].
 
-#### Don't expect regulation & IP to protect you from Disruption
+#### Regulation & IP can't protect you from Disruption, but increase value of Information-based assets
+
+Regulation and reputation: Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
 
 Managing Intellectual Property: If the creators of an information good can reproduce it cheaply, others can copy it cheaply. It has long been recognized that some form of "privatization" of information helps to ensure its production. But the legal grant of exclusive rights to intellectual property via patents, copyright, and trademarks does not confer complete power to control information. Digital information can be perfectly copied and instantaneously transmitted around the world, leading many content producers to view the Internet as one giant, out-of-control copying machine [@Shapiro1999].
 
 Despite this danger, we think that content owners tend to be too conservative with respect to the management of their intellectual property. The history of the video industry is a good example. Hollywood was petrified by the advent of videotape recorders. Ironically, Hollywood now makes more from video than from theater presentations for most productions. The video sales and rental market, once so feared, has become a giant revenue source for Hollywood [@Shapiro1999].
 
 When managing intellectual property, your goal should be to choose the terms and conditions that maximize the value of your intellectual property, not the terms and conditions that maximize the protection [@Shapiro1999].
-
-Regulation and reputation: Executives might be careful about mobile and social technologies because of security and privacy concerns. Some firms have concern over regulatory impacts on their potential digital initiatives. Some firms take a slow approach to social media for fear of regulatory sanction. While these regulatory concerns are real, they need not prevent companies from moving forward.  [@Westerman2011]
 
 #### Scale Up & Down quickly through IT Renting, Staff on-demand & Partnerships
 
@@ -359,16 +364,6 @@ Autonomous growth group: It is essential for creating new processes or ways of w
 Staged allocation of resources: It can force innovation teams to zero in quickly on critical assumptions, find cheap ways to test those assumptions, and develop lean and flexible structures for innovation projects. Instead of risking big investments on uncertain strategies, newspaper companies can "invest a little to learn a lot" about the key uncertainties in their approach, reduce the cost and risk of innovation, and encourage smart experiments and risk-mitigation strategies [@Karimi2015].
 
 Staged allocation of funding resources allows for committing small amounts of resources to multiple innovation projects establishing an autonomous growth group, business unit, or "heavyweight" development team is essential for creating new processes or ways of working together because individuals of those groups or teams often do not represent their functional group interests [@Karimi2015].
-
-#### Centralize IT & Information management to Decentralize its exploitation by Employees
-
-Beware of the assumption: "Working as an integrated company will slow us down and stifle innovation". Pre-digital wisdom held that centralized companies, while slower to innovate, can be more efficient [and] argued that decentralized companies can be more responsive to local markets. This kind of mind-set forced managers to choose between two suboptimal structures. One of the paradoxes of digital technology is that standardization can actually lead to increased agility. Smart mobile devices, collaboration platforms and big data analytics wire organizations differently. Decentralized companies can have integration where it counts. Integrated systems and centralized processes offer benefits that go beyond efficiency and quality improvement and can also be useful platforms for innovation [@WESTERMAN2015].
-
-Digital globalization: Transforming from multi-national to truly global operations with integrated information to gain global synergies while remaining locally responsive. "Becoming more centralized and decentralized at the same time." Global shared services promote efficiency and global flexibility. It requires a different approach to policy: "fewer mandates from headquarters, but more guidelines." [@Westerman2011]
-
-Culture issues: On another level, previously autonomous country managers require coaching to grow comfortable working in an environment of centralized shared services and standardized processes [@Westerman2011].
-
-The goal of Information centralization is to be able to make it more available to the whole organization in the end. If they have the ability to combine more information sources with one platform, people in the organization are able to create new knowledge. If the technical capability is sufficient (software developers, data scientists), the creation of new knowledge could be transfered to the platform by building algorithms, which could be used in a decentralized way by the employees to increase their efficiency. That's precisely the goal of modern CRM (Customer Relationship Management) softwares. This paradigm is applicable to every aspect of the organization: ERP (Enterprise Resource Planning), SRM (Supplier Relationship Management) and so on.   
 
 ### Organize for Customization & Customer Intimacy
 
@@ -410,7 +405,7 @@ Customer understanding: Firms are exploring social media to understand customer 
 
 PagesJaunes, the French Yellow Pages company, saw that the assets related to printing and delivering books would have little use in the new model, but the company's knowledge of local businesses and the relationships its salespeople had with business owners were potentially critical assets going forward. By leveraging existing data and retraining the sales force, the company is attempting to reinvent itself in partnership with former competitor Google Inc. PagesJaunes began ramping up digital revenues in France faster than physical revenues were declining [@WESTERMAN2015].
 
-#### Price from Value
+#### Adopt Value-based pricing
 
 Sellers can adjust product bundling and pricing depending on circumstances. Technology are also changing the economics of manufacturing and making custom manufacturing more efficient [@WESTERMAN2015].
 
@@ -523,7 +518,7 @@ Process digitization: Companies historically have used automation to make proces
 
 Interfaces: Interfaces are filtering and matching processes by which ExOs bridge from SCALE externalities to internal IDEAS control frameworks. They are algorithms and automated workflows that route the output of SCALE externalities to the right people at the right time internally.  These processes start out manual and gradually become automated around the edges. These Interface processes are unique and proprietary to the organization that developed them, and as such comprise a unique type of intellectual property. ExOs invest considerable attention to Interfaces and a great deal of human-centered design thinking is brought to optimize every instantiation. Interfaces manage abundance. While most processes are optimized around scarcity and efficiency, SCALE elements generate large result sets, meaning Interfaces are geared towards filtering and matching [@VanGeest2014].
 
-#### Gather Data from your operations by measuring everything
+#### Gather Operational Data by measuring everything
 
 With exponential output, the internal organization needs to be extremely robust, precise and properly tuned to process all the inputs. Those are distinctly different internal operations that encompass everything from their business philosophies to how employees interact with one another, how they measure their performance (and what they value in that performance), and even their attitudes toward risk. In fact, especially their attitudes toward risk [@VanGeest2014].
 

@@ -1,9 +1,5 @@
 ## Stimulus from Organizations {#stimulus-organization}
 
-<!-- What are your assets in this environment? -->
-<!-- Why some assets have less value than before? What assets are devaluating quickly? -->
-<!-- How are you organized? -->
-
 #### Competitive forces to analyze Organizations' environment
 
 To understand what are the macro-economic impacts of digitalization as an organization, we propose to use the 5 competitive forces introduced by @Porter1979. Those forces are greatly depending on the industry context in which the organization is evolving and might also represents specific weak points depending on the characteristics of each organization.
@@ -20,46 +16,7 @@ We suggest that the competitive forces in each industry are being intensified an
 
 ### Networks introduce new Market dynamics
 
-#### Network externalities as a positive feedback {#network-externalities}
-
-Large networks are more attractive to users than small ones. The term that economists use to describe this effect, network externalities are crucial for competitive strategy [@Shapiro1999].
-
-Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service (see next part about [network externalities](#network-externalities)). More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partnerships and on the demand side with interconnections among web pages [@Bharadwaj2013].
-
-When the value of a product to one user depends on how many other users there are, economists say that this product exhibits network externalities, or network effects. Communications technologies are a prime example: telephones, e-mail, Internet access, fax machines, and modems all exhibit network externalities. Technologies subject to strong network effects tend to exhibit long lead times followed by explosive growth. The pattern results from positive feedback: as the installed base of users grows, more and more users find adoption worthwhile. Eventually, the product achieves critical mass and takes over the market [@Shapiro1999].
-
-Externalities arise when one market participant affects others without compensation being paid. Like feedback, externalities come in two flavors: negative and positive. The classic example of a negative externality is pollution: my sewage ruins your swimming or drinking water. Happily, network externalities are normally positive, not negative: when I join your network, the network is bigger and better, to your benefit. Positive network externalities give rise to positive feedback: when I buy a fax machine, you are more tempted to get one yourself since you can now use it to communicate with me [@Shapiro1999].
-
-Network externalities are what lie behind Metcalfes law, named after Bob Metcalfe, the inventor of Ethernet. The square of the Metcalfe's law is more a rule of thumb than a law but it does arise in a relatively natural way. If there are n people in a network, and the value of the network to each of them is proportional to the number of other users, then the total value of the network (to all the users) is proportional to $n * (n - 1)$ which is roughly equal to $n^2$. The value of a network goes up as the square of the number of users [@Shapiro1999].
-
-Positive feedback and network externalities are not a creation of the 1990s. To the contrary, network externalities have long been recognized as critical in the transportation and communications industries, where companies compete by expanding the reach of their networks and where one network can dramatically increase its value by interconnecting with other networks. Anyone trying to navigate the network economy has much to learn from the history of the postal service, railroads, airlines, and telephones [@Shapiro1999].
-
-#### Networks are increasing rate of disruption & market change
-
-Disruption has no consensual definition. However, it seems to be mostly used to depict the fact some innovations can push some incumbents out of market, barely letting them the ability to adapt. It is the fact some customer needs are met by innovations radically different from the previous state-of-the-art. We propose here that _Disruption_ is in fact the same thing as the _Substitution_ depicted by @Porter1979.
-
-A radical innovation is the introduction of a truly new product or process. They can be introduced at any point in time cutting short the life cycle of the products or processes they substitute [@Perez2004].
-
-Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades [@Karimi2015]. Every radically new product, when it is first introduced, is relatively primitive. Gradually, it consolidates a position in the market. Then, there is a sort of take-off for a period of successive incremental improvements. At last, the technology reaches maturity [@Perez2004].
-
-Neither age nor size nor reputation nor even current sales guarantee that you will be around tomorrow. The lifespan of a company is going to get even shorter in the years to come as giant corporations aren't just forced to compete with, but are annihilated -seemingly overnight- by a new breed of companies that harnesses the power of exponential technologies [@VanGeest2014].
-
-Those enterprises that don't jump aboard soon will be left on the ash heap of history joining Iridium, Kodak, Polaroid, Philco, Blockbuster, Nokia and a host of other once-great, industry-dominant corporations unable to adapt to rapid technological change [@VanGeest2014].
-
-Both demand-side economies of scale and supply-side economies of scale (see [this part](#information-dynamics) for more information) have been around for a long time. But the combination of the two that has arisen in many information technology industries is new. The result is a "double whammy" in which growth on the demand side both reduces cost on the supply side and makes the product more attractive to other users-accelerating the growth in demand even more. The result is especially strong positive feedback, causing entire industries to be created or destroyed far more rapidly than during the industrial age [@Shapiro1999]. New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value [@Hirt2014].
-
-New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal [@Hirt2014].
-
-Disruption is the New Norm: Every industry is becoming information-based, either by being digitized or by using information to identify under-utilized assets. Collaborative Consumption leverages the internet and social networks to create a more efficient utilization of physical assets, the outsider has all the advantages. With no legacy systems to worry about, as well as the ability to enjoy low overhead and take advantage of the democratization of information and, more important, technology, the newcomer can move quickly and with a minimum of expense. The rate of change is so high everywhere these days that you now must assume that someone will disrupt you, and often from a direction you least expect. There is a consistent set of steps around disruptive innovation comprising the following [@VanGeest2014]:
-
-- Domain (or technology) becomes information-enabled
-- Costs drop exponentially and access is democratized
-- Hobbyists come together to form an open source community
-- New combinations of technologies and convergences are introduced
-- New products and services appear that are orders of magnitude better and cheaper
-- The status quo is disrupted (and the domain gets information-enabled)
-
-#### Global networks are increasing pace of innovation & technological change
+#### Networks are increasing Information Speed and pace of innovation & technological change
 
 Today, a typical automotive design cycle is approximately 24 to 36 months, which is much faster than the 60-month life cycle from five years ago [@McGrath2013].
 
@@ -72,6 +29,20 @@ Information accelerates everything: The new information paradigm is accelerating
 The digital frontier is uncharted territory and the biggest risk of all is being disrupted while sitting on the sidelines [@Manyika2015]. Keeping up with the relentless pace of digital innovation is both a sprint and a marathon [@Manyika2015].
 
 The pace of change isn't going to slow down anytime soon. In fact, Moore's Law all but guarantees that it will continue to speed up -and speed up exponentially- for at least several decades. And given the cross impact into other technologies, if the last fifteen years has seen enormous disruption in the business world, the next fifteen will make that disruption seem tame by comparison  [@VanGeest2014].
+
+#### Network externalities are mainly positive feedbacks {#network-externalities}
+
+Large networks are more attractive to users than small ones. The term that economists use to describe this effect, network externalities are crucial for competitive strategy [@Shapiro1999].
+
+Network effects happen when the value of a good or a service increases as more consumers use them or as more supply-side partners augment the service (see next part about [network externalities](#network-externalities)). More and more, network effects become the key differentiator and driver of value creation. Firms should consider the role of network effects and multisided business models, which can be instantiated on the supply side with digitally interconnected partnerships and on the demand side with interconnections among web pages [@Bharadwaj2013].
+
+When the value of a product to one user depends on how many other users there are, economists say that this product exhibits network externalities, or network effects. Communications technologies are a prime example: telephones, e-mail, Internet access, fax machines, and modems all exhibit network externalities. Technologies subject to strong network effects tend to exhibit long lead times followed by explosive growth. The pattern results from positive feedback: as the installed base of users grows, more and more users find adoption worthwhile. Eventually, the product achieves critical mass and takes over the market [@Shapiro1999].
+
+Externalities arise when one market participant affects others without compensation being paid. Like feedback, externalities come in two flavors: negative and positive. The classic example of a negative externality is pollution: my sewage ruins your swimming or drinking water. Happily, network externalities are normally positive, not negative: when I join your network, the network is bigger and better, to your benefit. Positive network externalities give rise to positive feedback: when I buy a fax machine, you are more tempted to get one yourself since you can now use it to communicate with me [@Shapiro1999].
+
+Network externalities are what lie behind Metcalfes law, named after Bob Metcalfe, the inventor of Ethernet. The square of the Metcalfe's law is more a rule of thumb than a law but it does arise in a relatively natural way. If there are n people in a network, and the value of the network to each of them is proportional to the number of other users, then the total value of the network (to all the users) is proportional to $n * (n - 1)$ which is roughly equal to $n^2$. The value of a network goes up as the square of the number of users [@Shapiro1999].
+
+Positive feedback and network externalities are not a creation of the 1990s. To the contrary, network externalities have long been recognized as critical in the transportation and communications industries, where companies compete by expanding the reach of their networks and where one network can dramatically increase its value by interconnecting with other networks. Anyone trying to navigate the network economy has much to learn from the history of the postal service, railroads, airlines, and telephones [@Shapiro1999].
 
 #### Value propositions are increasingly Information & Network based
 
@@ -107,7 +78,32 @@ The backward cousin of positive feedback is negative feedback. The industrial ol
 
 From long-lived oligopolies to temporary monopolies: The industrial economy was populated with oligopolies: industries in which a few large firms dominated their markets. This was a comfortable world, in which market shares rose and fell only gradually. This stability in the marketplace was mirrored by lifetime employment of managers. In contrast, the information economy is populated by temporary monopolies. Hardware and software firms vie for dominance, knowing that today's leading technology or architecture will, more likely than not, be toppled in short order by an upstart with superior technology [@Shapiro1999].
 
-### Networks create new Markets & Disruption: more substitutes & rivalry
+#### Tippy markets & Temporal Monopolies are increasing rate of disruption & market change
+
+Disruption has no consensual definition. However, it seems to be mostly used to depict the fact some innovations can push some incumbents out of market, barely letting them the ability to adapt. It is the fact some customer needs are met by innovations radically different from the previous state-of-the-art. We propose here that _Disruption_ is in fact the same thing as the _Substitution_ depicted by @Porter1979.
+
+A radical innovation is the introduction of a truly new product or process. They can be introduced at any point in time cutting short the life cycle of the products or processes they substitute [@Perez2004].
+
+Disruption, however, is not an event or immediate phenomenon but a process that may take several years or even decades [@Karimi2015]. Every radically new product, when it is first introduced, is relatively primitive. Gradually, it consolidates a position in the market. Then, there is a sort of take-off for a period of successive incremental improvements. At last, the technology reaches maturity [@Perez2004].
+
+Neither age nor size nor reputation nor even current sales guarantee that you will be around tomorrow. The lifespan of a company is going to get even shorter in the years to come as giant corporations aren't just forced to compete with, but are annihilated -seemingly overnight- by a new breed of companies that harnesses the power of exponential technologies [@VanGeest2014].
+
+Those enterprises that don't jump aboard soon will be left on the ash heap of history joining Iridium, Kodak, Polaroid, Philco, Blockbuster, Nokia and a host of other once-great, industry-dominant corporations unable to adapt to rapid technological change [@VanGeest2014].
+
+Both demand-side economies of scale and supply-side economies of scale (see [this part](#information-dynamics) for more information) have been around for a long time. But the combination of the two that has arisen in many information technology industries is new. The result is a "double whammy" in which growth on the demand side both reduces cost on the supply side and makes the product more attractive to other users-accelerating the growth in demand even more. The result is especially strong positive feedback, causing entire industries to be created or destroyed far more rapidly than during the industrial age [@Shapiro1999]. New market entrants often scale up rapidly at lower cost than legacy players can. Digital capabilities increasingly will determine which companies create or lose value [@Hirt2014].
+
+New trends emerge and disruptive entrants appear, their products and services embraced by early adopters. Advanced incumbents then begin to adjust to these changes, accelerating the rate of customer adoption until the industry's level of digitization, among companies but, perhaps more critically, among consumers as well, reaches a tipping point. Eventually, what was once radical is normal [@Hirt2014].
+
+Disruption is the New Norm: Every industry is becoming information-based, either by being digitized or by using information to identify under-utilized assets. Collaborative Consumption leverages the internet and social networks to create a more efficient utilization of physical assets, the outsider has all the advantages. With no legacy systems to worry about, as well as the ability to enjoy low overhead and take advantage of the democratization of information and, more important, technology, the newcomer can move quickly and with a minimum of expense. The rate of change is so high everywhere these days that you now must assume that someone will disrupt you, and often from a direction you least expect. There is a consistent set of steps around disruptive innovation comprising the following [@VanGeest2014]:
+
+- Domain (or technology) becomes information-enabled
+- Costs drop exponentially and access is democratized
+- Hobbyists come together to form an open source community
+- New combinations of technologies and convergences are introduced
+- New products and services appear that are orders of magnitude better and cheaper
+- The status quo is disrupted (and the domain gets information-enabled)
+
+### Networks create new Markets: more substitutes & rivalry
 
 #### Networking everywhere: Virtual Networks and Platforms
 
@@ -127,7 +123,7 @@ While physical processes have high marginal costs, low-marginal-cost economics a
 
 Network externalities are not confined to communications networks. They are also powerful in "virtual" networks, such as the network of users. A user benefits from a larger network, since this facilitates the exchange of files and tips and encourages software houses to devote more resources to developing software. Popular hardware and software systems enjoy a significant competitive advantage over less popular systems [@Shapiro1999].
 
-#### Markets are Two-sided networks
+#### Markets are Two-sided networks and can be addressed by a Platform
 
 A market could be considered as a special kind of network because it is two-sided. It is called a buyer-seller (or consumer-producer) bipartite network.
 
@@ -137,7 +133,7 @@ Benefits to each group exhibit demand economies of scale. Consumers, for example
 
 Two-sided markets represent a refinement of the concept of network effects. There are both same-side and cross-side network effects. Each network effect can be either positive or negative. An example of a positive same-side network effect is end-user PDF sharing or player-to-player contact in PlayStation 3; a negative same-side network effect appears when there is competition between suppliers in an online auction market or competition for dates on Match.com. [from the [Two-sided Market](https://en.wikipedia.org/wiki/Two-sided_market) wikipedia page]
 
-#### Platforms cross-side positive externality: pooling uncertainty
+#### Platforms are pooling uncertainty, which is a cross-side positive externality
 
 Networks can allow buyers and sellers collectively to pool uncertainty in demand, a motive we see in many of the above examples. When sellers have links to more buyers, they are insulated from the difficulties facing any one buyer. And when buyers purchase from the same set of sellers, there is a saving in overall investment costs [@Hagiu2015].
 
@@ -265,7 +261,7 @@ Multiple links can enhance an agent's competitive position. With access to more 
 
 As a result, if your a powerful buyer or supplier in a market, the emergence of a platform on your market would reduce this power. Often, the best option is to build yourself the platform by allowing your competitors to access your customers or your suppliers. That's what Amazon did when it transformed its book selling site into an open retail platform: Amazon is forced with other bookstore on its own platform, this is the force of networks. If it hadn't done so, another competitor would have built a platform.
 
-#### Platforms strengthen small players / weak consumers & buyers
+#### Platforms strengthen small players and weak consumers & buyers by providing access to market
 
 If suppliers' goods are of uncertain quality and the reseller can achieve economies of scale in verifying quality (i.e., verifying one of many identical goods), then the reseller mode is more valuable (over the platform mode), because it can leverage reputation effects. Of course, Platforms can develop their own solutions to the asymmetric information problem, including most obviously a feedback system that helps pool users' experience[@Hagiu2015]. Asymmetric information is purposefully reduced by Platforms.
 
@@ -277,7 +273,7 @@ Globalization reshapes the nature of supply and demand. Consumers enjoy a new wo
 
 In B2B markets, corporate purchasers are raising pressure on their suppliers to offer services that are standardized across borders, integrate with other offerings, and can be plugged into the purchasing companies' global business processes easily [@Hirt2014].
 
-#### Platforms can be more efficient than an integrated company
+#### Platforms can be economically more efficient than an integrated company
 
 Scale and learning economies: A professional service firm facing clients with similar and repetitive needs is likely better off using the Vertical Integration mode, which allows it to create and capture value by investing in centralized capabilities that can be leveraged across multiple client projects (e.g., McKinsey's standardized problem-solving methodologies). This concern is less relevant for a firm that faces clients with very idiosyncratic needs, which may prefer to function as a Platform [@Hagiu2015]. In other words, a Platform is more efficient to tackle varying needs of customers.
 
