@@ -43,7 +43,7 @@ Without a unifying intellectual framework to understand digitalization, it seems
 - What kind of skill is useful to thrive in a job market where automation and machines seem to be nibbling every job? Should we favor emotional intelligence or computer programming?
 - Is the email improving an organization's performance by accelerating communication or worsening it by fostering bureaucracy ?
 
-Digitalization is impulsing change at all scales, it is a perturbation being transmitted and amplified through an environment made of mesh of humans and machines interconnected by relations, as would a fire in a forest or a meme in a community. Digitalization is spreading from one organization to another and through organizations as people change their behavior as they become accustomed to new technologies.
+Digitalization is impulsing change at all scales, it is a perturbation being transmitted and amplified through an environment made of a mesh of humans and machines interconnected by relations, as would a fire in a forest or a meme in a community. Digitalization is spreading from one organization to another and through organizations as people change their behavior as they become accustomed to new technologies.
 
 #### Stimulus-Response {-}
 

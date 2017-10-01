@@ -18,12 +18,12 @@ The first thing we can understand is that Information is the propagation of a me
 
 The first widely-accepted Information Hierarchy has been proposed quite recently by @Ackoff1989. Ackoff's article, entitled _From data to wisdom_, proposed a hierarchy with the following levels: Data, Information, Knowledge, Understanding and Wisdom. He defines these elements and explores the processes associated with the transformation between these elements:
 
-- **Data** are defined as symbols that represent properties of objects, events and their environment. They are the products of observation, but are of no use until they are in a useable (i.e. relevant) form. The difference between data and information is functional, not structural [@Ackoff1989].
-- **Information** is contained in descriptions, answers to questions that begin with such words as who, what, when and how many. Information systems generate, store, retrieve and process data. Information is inferred from Data [@Ackoff1989].
-- **Knowledge** is know-how, and is what makes possible the transformation of information into instructions. Knowledge can be obtained either by transmission from another who has it, by instruction, or by extracting it from experience [@Ackoff1989].
-- **Wisdom** is the ability to increase effectiveness. Wisdom adds value, which requires the mental function that we call judgement. The ethical and aesthetic values that this implies are inherent to the actor and are unique and personal [@Ackoff1989].
+- _Data_ are defined as symbols that represent properties of objects, events and their environment. They are the products of observation, but are of no use until they are in a useable (i.e. relevant) form. The difference between data and information is functional, not structural [@Ackoff1989].
+- _Information_ is contained in descriptions, answers to questions that begin with such words as who, what, when and how many. Information systems generate, store, retrieve and process data. Information is inferred from Data [@Ackoff1989].
+- _Knowledge_ is know-how, and is what makes possible the transformation of information into instructions. Knowledge can be obtained either by transmission from another who has it, by instruction, or by extracting it from experience [@Ackoff1989].
+- _Wisdom_ is the ability to increase effectiveness. Wisdom adds value, which requires the mental function that we call judgement. The ethical and aesthetic values that this implies are inherent to the actor and are unique and personal [@Ackoff1989].
 
-Some authors have elaborated further on Ackoff's exposition, suggesting that **Understanding** supports the transition from each stage to the next. They suggest that moving from Data to Information involves _understanding relations_, moving from Information to Knowledge involves _understanding patterns_, and moving from Knowledge to Wisdom involves _understanding principles_ [@Rowley2007].
+Some authors have elaborated further on Ackoff's exposition, suggesting that _Understanding_ supports the transition from each stage to the next. They suggest that moving from Data to Information involves _understanding relations_, moving from Information to Knowledge involves _understanding patterns_, and moving from Knowledge to Wisdom involves _understanding principles_ [@Rowley2007].
 
 All Informations have not the same level of complexity and value. Currently, we are creating Machines which are increasingly better at creating and processing the simplest Information goods: Data and Information. At the same time, Humans are increasingly creating and sharing the more complex Information goods: Knowledge and Wisdom. As we will see, it has several implications regarding the Value associated to the processing of this different kinds of Information goods by Humans.
 
@@ -156,7 +156,7 @@ Knowledge may thus be considered to "reproduce" in a way, and the difference bet
 
 From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based [@Aberkane2016].
 
-#### Wisdom is the accumulation of Knowledge
+#### Wisdom is the accumulation of Knowledge {#wisdom}
 
 Ulimately the growth of Knowledge is leading to the creation of new conventional wisdom, also called common-sense by @Perez2004.
 
@@ -233,7 +233,7 @@ During the last 2 decades, we already witnessed that specific computer Algorithm
 
 Those Algorithms have all been generated thanks to Machine Learning.
 
-Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data [@VanGeest2014]. Machine Learning Algorithms are Meta-Algorithms, in a sense that they are Algorithms that create other Algorithms. In other Machine Learning Algorithms create automatically new Algorithms from Data, trying to reduce the error rate on a specific algorithmic task, much like a biologic entity (Human or Animal) would do through learning. Humans have transcribed in Machine Learning Algorithms the most basic way how Humans derive Knowledge from Information. Machine Learning is able to create an Algorithm by looking at Data.
+Machine Learning is the ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data [@VanGeest2014]. Machine Learning Algorithms are Meta-Algorithms, in a sense that they are Algorithms that create other Algorithms. In other words, Machine Learning Algorithms create automatically new Algorithms from Data, trying to reduce the error rate on a specific algorithmic task, much like a biologic entity (Human or Animal) would do through learning. Humans have transcribed in Machine Learning Algorithms the most basic way how Humans derive Knowledge from Information. Machine Learning is able to create an Algorithm by looking at Data.
 
 #### Algorithms are encroaching Human Knowledge workers skills
 
@@ -264,7 +264,7 @@ However, the sharing of Information and Knowledge to Humans is not instantaneous
 
 What is it that we spend indeed in acquiring conceptual knowledge from a book, a video game or a course? Attention and time. The amount of flowed knowledge is proportional to their product, in that spending one hour and zero attention surely implies a null transfer, and spending all one's attention for less than even the subliminal perceptual threshold also implies a null flow [@Aberkane2016].
 
-As a result, @Aberkane2016 suggests a raw estimate to understand the knwoledge flows to humans: "the amount of flowed knowledge follows the product of attention and time". The product of attention and time becomes the most essential currency of the Knowledge Economy [@Aberkane2016]. This also has been understood by @Gimpel2012, when he states that: Innovations create indirect substitutes for consumer time, attention, and money.
+As a result, @Aberkane2016 suggests a raw estimate to understand the knowledge flows to humans: "the amount of flowed knowledge follows the product of attention and time". The product of attention and time becomes the most essential currency of the Knowledge Economy [@Aberkane2016]. This also has been understood by @Gimpel2012, when he states that: Innovations create indirect substitutes for consumer time, attention, and money.
 
 This has been understood already by some media visionaries, as Patrick Lelay, CEO of TF1, the leader of the french TV industry:
 
@@ -326,7 +326,7 @@ Many people suggest that rates of new product introduction and adoption are spee
 
 It took 30 years for electricity and 25 years for telephones to reach 10% adoption but less than five years for tablet devices to achieve the 10% rate. It took an additional 39 years for telephones to reach 40% penetration and another 15 before they became ubiquitous. Smart phones, on the other hand, accomplished a 40% penetration rate in just 10 years, if we time the first smart phone's introduction from the 2002 shipment of the first BlackBerry that could make phone calls and the first Palm-OS-powered Treo model [@McGrath2013].
 
-This rise of adoption and penetration rates for new technologies suggests that technology is less and less primarily used by new generations, the so-called _Millenials_ or _Y generation_. In fact, these so-called generations are bounded less by an age criterion than by a technological use one. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
+This rise of adoption and penetration rates for new technologies suggests that technology is less and less the prerogative of the new generations, the so-called _Millenials_ or _Y generation_. In fact, these so-called generations are bounded less by an age criterion than by a technological use one. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
 
 This increased technology usage means that people are producing more and more information directly by giving feedback or indirectly throught the usage statistics of their devices. This is the rise of the _consumer-producer_, a phenomenon called _Prosumerization_ or _Millenialization_:
 
