@@ -51,16 +51,13 @@ reaction_actor.md
 
 \chapterimage{sources/images/balconies.jpg}
 
-# Implement your strategy / Execute your response
+# Conclusion {-}
 
-## Build your Roadmap
+``` include
+conclusion.md
+```
 
-<!-- Assets analysis -->
-<!-- Vision creation and target -->
 
-## Choose decisions to take
-
-<!-- Deloitte updated -->
 
 \chapterimage{sources/images/womanalone.jpg}
 
