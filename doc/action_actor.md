@@ -16,12 +16,12 @@ The first thing we can understand is that Information is the propagation of a me
 
 #### Types of Information goods: Data, Information, Knowledge and Wisdom
 
-The first widely-accepted Information Hierarchy has been proposed quite recently by @Ackoff1989. Ackoff's article, entitled _From data to wisdom_, proposed a hierarchy with the following levels: Data, Information, Knowledge, Understanding and Wisdom. He defines these elements and explores the processes associated with the transformation between these elements:
+The first widely-accepted Information Hierarchy has been proposed quite recently by @Ackoff1989. Ackoff's article, entitled _From data to wisdom_, proposed a hierarchy with the following levels: Data, Information, Knowledge and Wisdom^[This is part on a larger debate on epistemology]. He defines these elements and explores the processes associated with the transformation between these elements:
 
 - _Data_ are defined as symbols that represent properties of objects, events and their environment. They are the products of observation, but are of no use until they are in a useable (i.e. relevant) form. The difference between data and information is functional, not structural [@Ackoff1989].
 - _Information_ is contained in descriptions, answers to questions that begin with such words as who, what, when and how many. Information systems generate, store, retrieve and process data. Information is inferred from Data [@Ackoff1989].
 - _Knowledge_ is know-how, and is what makes possible the transformation of information into instructions. Knowledge can be obtained either by transmission from another who has it, by instruction, or by extracting it from experience [@Ackoff1989].
-- _Wisdom_ is the ability to increase effectiveness. Wisdom adds value, which requires the mental function that we call judgement. The ethical and aesthetic values that this implies are inherent to the actor and are unique and personal [@Ackoff1989].
+- _Wisdom_ is the ability to increase effectiveness^[This statement is debatable, because ancient greek philosophers were seeking wisdom for itself and not necessarily to have applications.]. Wisdom adds value, which requires the mental function that we call judgement. The ethical and aesthetic values that this implies are inherent to the actor and are unique and personal [@Ackoff1989].
 
 Some authors have elaborated further on Ackoff's exposition, suggesting that _Understanding_ supports the transition from each stage to the next. They suggest that moving from Data to Information involves _understanding relations_, moving from Information to Knowledge involves _understanding patterns_, and moving from Knowledge to Wisdom involves _understanding principles_ [@Rowley2007].
 
@@ -97,7 +97,7 @@ Economically, the main definition of Value of Information is: how much answering
 - "improve": Value of Information isn't about sleeping better at night. If the expected value of the information (the chance you change your decision after receiving the information times the relative value of the decisions) is lower than the cost of the information, just bite the bullet and don't run the test you were considering.
 - "decision": Value of Information isn't just curiosity. Information has Value only if some decision has to depend on that fact.
 
-In other words, information is valuable lies by reducing uncertainty in decisions. According to @Hirshleifer1971 there are 2 types of economical uncertainty: Market Uncertainty and Technology Uncertainty, and hence, Information is able to create Value by helping Decision making regarding those two uncertainties:
+In other words, economically speaking, information value lies in reducing uncertainty in decisions. According to @Hirshleifer1971 there are 2 types of economical uncertainty: Market Uncertainty and Technology Uncertainty, and hence, Information is able to create Value by helping Decision making regarding those two uncertainties:
 
 - Market uncertainty happens when an individual is imperfectly informed about his market opportunities, i.e. about the supply-demand offers of others: there are costly patterns of search for trading partners, which replace the traditional assumption of costless exchange [@Hirshleifer1971].
 - Technological uncertainty happens when individuals are unsure about the size of their own commodity endowments and/or about the returns attainable from their own productive investments [@Hirshleifer1971].
@@ -130,7 +130,7 @@ The 'added ingredients' definitions suggest variously that knowledge is [@Rowley
 - information combined with understanding and capability.
 - perception, skills, training, common sense, and experience.
 
-Knowledge is an intrinsically ambiguous and equivocal term. There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it [@Rowley2007]:
+Knowledge is an intrinsically ambiguous and equivocal term^[Suggested reading: the [Epistemology entry of the Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epistemology/)]. There is still no consensus on the nature of knowledge, except that it is based on perception that can provide a rational justification for it [@Rowley2007]:
 
 - Knowledge is the combination of data and information, to which is added expert opinion, skills, and experience, to result in a valuable asset which can be used to aid decision making.
 - Knowledge is data and/or information that have been organized and processed to convey understanding, experience, accumulated learning, and expertise as they apply to a current problem or activity.
@@ -150,30 +150,30 @@ For example, Medical Doctors use their knowledge to create diagnosis information
 
 To become knowledge, new insights are internalized by establishing links with already existing knowledge, and these links can range from firmly characterized relationships to vague associations. Prior knowledge is used to make sense of received information, and once accepted for inclusion, internalizes the new insights by linking with prior knowledge. Hence, the new knowledge is as much a function of prior knowledge as it is of received inputs. Some authors mention the importance of the semantic aspects of information in the creation of knowledge [@Rowley2007].
 
-Property compositions may be linear in general. From a saver's point of view adding one kilograms of rice to another kilograms of rice is something linear, and makes two kilograms of rice. As long as processes are not involved thus, property composition is linear. This does not apply to knowledge compositions however, precisely in that knowledge is a process. The composition of two elements of knowledge systematically generates a third one, which is anywhere between trivial (but non-null) and revolutionary [@Aberkane2016]. In other words, the paradigm for growing Information-based assets is not displacement and replacement, but rather **connectivity and recombination** [@Iansiti2014].
+Property compositions may be linear in general. From a saver's point of view adding one kilograms of rice to another kilograms of rice is something linear, and makes two kilograms of rice. As long as processes are not involved thus, property composition is linear. This does not apply to knowledge compositions however, precisely in that knowledge is a process. The composition of two elements of knowledge systematically generates a third one, which is anywhere between trivial (but non-null) and revolutionary [@Aberkane2016]. In other words, the paradigm for growing Information-based assets^[Information-based assets includes also Knowledge-based assets.] is not displacement and replacement, but rather _connectivity and recombination_ [@Iansiti2014].
 
 Knowledge may thus be considered to "reproduce" in a way, and the difference between knowing two things separately and knowing them together may be called the "fertility" of knowledge, which is somehow comparable to the notion of entrepreneurial added value. This fertility accounts for the intrinsic prolificity of knowledge. We may also oversimplify this paradigm by calling the fertility of knowledge "serendipity", that is, the fortuitous creation of novel knowledge from the collision of several distinct bits of knowledge [@Aberkane2016].
 
 From an economic and political point of view, knowledge may very well be the only potentially infinite resource that is offered to Humanity. We know very well that infinite growth is impossible if it is purely based on raw materials, which are finite, even when they are renewable. But infinite growth is not impossible if it is knowledge-based [@Aberkane2016].
 
-#### Wisdom is the accumulation of Knowledge {#wisdom}
+#### Wisdom is the accumulation of Knowledge^[Obviously, different views exists on what is wisdom. A good overview is given in [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/wisdom/)] {#wisdom}
 
-Ulimately the growth of Knowledge is leading to the creation of new conventional wisdom, also called common-sense by @Perez2004.
+Ultimately the growth of Knowledge is leading to the creation of new conventional wisdom, also called common-sense by @Perez2004.
 
 Wisdom perhaps has more to do with human intuition, understanding, interpretation and actions, than with systems. Some authors see wisdom as accumulated knowledge, which allows you to understand how to apply concepts from one domain to new situations or problems. In the knowledge management literature, some authors suggest that Wisdom is the highest level of abstraction, with vision foresight and the ability to see beyond the horizon [@Rowley2007].
 
-Wy do we even consider Wisdom in this essay? How this concept could be related to Organizational efficiency? This seems quite counter-intuitive to consider Wisdom at a time when all of our understandings about the economic world and our beliefs seem to be challenged. In fact, it may be one the most important aspect of the knowledge economy, yet underrated by the literature: by adopting a new range of techologies, our societies are also constituting a new wisdom. Some authors suggest that we are currently transiting from one conventional wisdom to another:
+Why do we even consider Wisdom in this essay? How this concept could be related to Organizational efficiency^[Concretely, Business effectiveness is a specific case of organizational efficiency]? This seems quite counter-intuitive to consider Wisdom at a time when all of our understandings about the economic world and our beliefs seem to be challenged. In fact, it may be one the most important aspect of the knowledge economy, yet underrated by the literature: by adopting a new range of technologies, our societies are also constituting a new wisdom. Some authors suggest that we are currently transiting from one conventional wisdom to another:
 
 - Digital resources are "more than just bits and bytes, the digital infrastructure consists of institutions, practices, and protocols that together organize and deliver the increasing power of digital technology to business and society" [@Bharadwaj2013].
 - As the new paradigm unfolds in the economy, its logic propagates towards all of society, modifying the common sense criteria that guide all sorts of organizations and eventually resulting in maximum social synergy [@Perez2004].
 
-Some authors suggest that since knowledge is more and more available and yet has still to be improved in most organizations, organizations' leaders should focus on spreading a new wisdom, bringing a new vision, letting employees with the task of creating the new orgniazational knowledge. We refine this aspect in the part about [Vision](#vision).
+Some authors suggest that since knowledge is more and more available and yet has still to be improved in most organizations, organizations' leaders should focus on spreading a new wisdom, bringing a new vision, letting employees with the task of creating the new organizational knowledge. We refine this aspect in the part about [Vision](#vision).
 
 ### Machines and Information are growing in symbiose
 
 #### Data, Information and Knowledge flows are Positive-Sum
 
-Data, Information, Knowledge and Wisdom are all immaterial goods. And hence have different properties than material goods when they are exchanged. One of the most clear formulation of their different properties has been coined by the french writer & entrepreneur Serge Soudoplatoff (cited by @Aberkane2016):
+Data, Information, Knowledge and Wisdom are all immaterial goods. And hence have different properties than material goods when they are exchanged. One of the most clear formulation of their different properties has been coined by the French writer & entrepreneur Serge Soudoplatoff (cited by @Aberkane2016):
 
 > When one shares a material good, one divides it. When one shares an immaterial good, one multiplies it.
 
@@ -193,7 +193,7 @@ Please note that this rule of thumb does not comprehend the notion of Value of I
 
 Futurist Ray Kurzweil made 4 signature observations about the evolution of Information technology [@VanGeest2014]:
 
-1. First, the doubling pattern identified by Gordon Moore in integrated circuits applies to any information technology. Kurzweil calls this the Law of Accelerating Returns (LOAR) and shows that doubling patterns in computation extend all the way back to 1900, far earlier than Moore's original pronouncement.
+1. First, the doubling pattern identified by Gordon Moore in integrated circuits applies to any information technology^[In addition to Moore's law about information technology performance, there are also Metcalfe's law and Reed's law about networks utility, which are described in the paragraph about [network externalities](#network-externalities).]. Kurzweil calls this the Law of Accelerating Returns (LOAR) and shows that doubling patterns in computation extend all the way back to 1900, far earlier than Moore's original pronouncement.
 2. Second, the driver fueling this phenomenon is information. Once any domain, discipline, technology or industry becomes information-enabled and powered by information flows, its price/performance begins doubling approximately annually.
 3. Third, once that doubling pattern starts, it doesn't stop.
 4. Finally, several key technologies today are now information-enabled and following the same trajectory. Those technologies include Artificial Intelligence (AI), robotics, biotech and bioinformatics, medicine, neuroscience, data science, 3D printing, nanotechnology and even aspects of energy.
@@ -262,14 +262,14 @@ Many people suggest that rates of new product introduction and adoption are spee
 
 It took 30 years for electricity and 25 years for telephones to reach 10% adoption but less than five years for tablet devices to achieve the 10% rate. It took an additional 39 years for telephones to reach 40% penetration and another 15 before they became ubiquitous. Smart phones, on the other hand, accomplished a 40% penetration rate in just 10 years, if we time the first smart phone's introduction from the 2002 shipment of the first BlackBerry that could make phone calls and the first Palm-OS-powered Treo model [@McGrath2013].
 
-This rise of adoption and penetration rates for new technologies suggests that technology is less and less the prerogative of the new generations, the so-called _Millenials_ or _Y generation_. In fact, these so-called generations are bounded less by an age criterion than by a technological use one. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionnaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
+This rise of adoption and penetration rates for new technologies suggests that technology is less and less the prerogative of the new generations, the so-called _Millenials_ or _Y generation_. In fact, these so-called generations are bounded less by an age criterion than by a technological use one. Some analysts refer to the Y generation as the sociological group which is using the Information technologies most frequently, without explicitly stating an age. A 60 years old granny using social networks on mobile to communicate with her friends and family and buying things occasionaly from e-commerce sites could be considered as belonging to the Y generation. The gaps in the world population regarding this revolution are not in terms of age, but in terms of usage.
 
-This increased technology usage means that people are producing more and more information directly by giving feedback or indirectly throught the usage statistics of their devices. This is the rise of the _consumer-producer_, a phenomenon called _Prosumerization_ or _Millenialization_:
+This increased technology usage means that people are producing more and more information directly by giving feedback or indirectly through the usage statistics of their devices. This is the rise of the _consumer-producer_, a phenomenon called _Prosumerization_ or _Millenialization_:
 
 - Millennialization of consumers has turned consumers into producers, empowered individuals to share their voices and influence others [@Gimpel2012].
 - Since digital news and information content can now be produced by amateurs in addition to professionals: Internet and digitization are competence-destroying and disruptive for the newspaper industry [@Karimi2015].
 
-As a results, the average human on this planet is more connected to all the other humans and communicates more with them than anytime in History. The world has never been so intertwined, in terms of information exchanges, even if the population has never been higher. Information is more available to anyone and anyone is more able to create or share information.
+As a results, the average human on this planet is more connected to all the other humans and communicates more with them than anytime in History. The world has never been so intertwined, in terms of information exchanges, even if the population has never been higher. Information is more available to anyone and anyone is more able to create or share information^[This phenomenon is associated also with negative effects such as Information overload, multiplication of conflicting sources, ...].
 
 #### Humans have more Relationships & Interactions through (and with) Machines thanks to Telecommunications
 
@@ -301,6 +301,8 @@ When it was formulated in 2004, this statement has been perceived as cynical and
 
 It has to be noted that the equivalent of Attention and Time for a computer is bandwith. Of course, Transforming Human Knowledge into Software (Machine Knowledge) requires the Time and Attention of a talented Software Developer. But once it is done, transferring the software from one machine to another is nearly only limited by bandwith. That means that all transfers of Information and Knowledge are limited by Attention and Time if the emitter and/or the receiver is Human. If both the emitter and the receiver are Machines, the Information transfers are only limited by the Information technology they are using.
 
+Knowledge might be inexhaustible resources, but people's time and attention is: this is the main constraint of Knowledge economy.
+
 #### Competition for Attention is empowering Humans
 
 Information is abundant, Attention is scarce: Now that information is available so quickly, so ubiquitously, and so inexpensively, it is not surprising that everyone is complaining of information overload. Nobel prize-winning "economist Herbert Simon spoke for us all when he said that "a wealth of information creates a poverty of attention". Nowadays the problem is not information access but information overload. The real value produced by an information provider comes in locating, filtering, and communicating what is useful to the consumer. Any idiot can establish a Web presence, and lots of them have. The big problem is letting people know about it [@Shapiro1999].
@@ -311,7 +313,7 @@ The degree of consumer attention focused on a relatively small number of brands 
 
 #### Knowledge transfer to Machines is constrained by Design Talent
 
-We saw in [another part](#attention-time), that Knowledge transfer to Machines is contrained by the time and attention of talented software developer. As a result, software development and design talent are  human skills which are increasingly important, as the Knowledge economy rises in importance. The competition to hire talent is now global, as technologies evolve faster and technology usage is exploding to increase automation.
+We saw in [another part](#attention-time), that Knowledge transfer to Machines is constrained by the time and attention of talented software developer. As a result, software development and design talent are  human skills which are increasingly important, as the Knowledge economy rises in importance. The competition to hire talent is now global, as technologies evolve faster and technology usage is exploding to increase automation.
 
 Successful start-ups known for digital expertise and engineer-friendly cultures become magnets for the best digital talent [@Hirt2014].
 
@@ -325,7 +327,7 @@ For these workers, in US, wage growth has been approximately twice as fast as th
 
 #### Human Skills transfer to Machines is accelerating thanks to Machine Learning
 
-The booming growth of Machine Learning and Artificial Intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications, and particularly the implications for our careers. As AI improves, which is happening quickly, a much broader set of "thinking" rather than "doing" jobs will be aﬀected. Jobs, that, until the last few years, we couldn't imagine being done without the participation of an actual, trained human being [@Beck2017]. Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015]. The Idea that technological advances favor more skilled workers is a twentieth century phenomenon [@Acemoglu2002]. It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves [@Beck2017].
+The booming growth of Machine Learning and Artificial Intelligence (AI), like most transformational technologies, is both exciting and scary, considering the social and personal implications, and particularly the implications for our careers. As AI improves, which is happening quickly, a much broader set of "thinking" rather than "doing" jobs will be aﬀected. Jobs, that, until the last few years, we couldn't imagine being done without the participation of an actual, trained human being [@Beck2017]. Some 60 percent of occupations could have 30 percent or more of their activities automated. Workers of all skill levels, including highly skilled professionals, will not be immune [@Manyika2015]. The idea that technological advances favor more skilled workers is a twentieth century phenomenon [@Acemoglu2002]. It's long been known that AI and automation/robotics will change markets and workforces. We all need to develop new skills in order to diﬀerentiate ourselves [@Beck2017].
 
 Software replaces labor in digital businesses. Computers increasingly are performing complex tasks. Even knowledge-intensive areas, such as oncology diagnostics, are susceptible to challenge by machines [@Hirt2014]. Middle-skill occupations such as clerical, sales, production, and operational roles will be highly impacted. Automation could displace from 10 to 15 percent of these jobs in the decade ahead, which would represent a sharp acceleration of historical displacement rates [@Manyika2015]. Digitization will encroach on a growing number of knowledge roles within companies as they automate many front-line and middle-management jobs based upon synthesizing information for C-level executives [@Hirt2014].
 
@@ -335,7 +337,7 @@ Technology is beginning to encroach on human skills. There is growing anxiety ab
 - **Creative Intelligence** tasks: it's making unfamiliar combinations for familiar ideas and find which ones make sense. E.g: jokes. Value of creativity is inherently subjective, so evaluation of a robot on creative Intelligence tasks is difficult [@Frey2017].
 - **Social intelligence** tasks: involving negotiation, persuasion and care [@Frey2017].
 
-Those that want to stay relevant in their professions will need to focus on skills and capabilities that Artificial Intelligence has trouble replicating - understanding, motivating, and interacting with human beings. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as Artificial Intelligence and Machine Learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
+Those that want to stay relevant in their professions will need to focus on skills and capabilities that Artificial Intelligence has trouble replicating - understanding, motivating, and interacting with human beings^[It seems that those skills are strongly related to leadership skills: Empowering, facilitating, enabling, motivating, ...]. These human capabilities that will become more and more prized over the next decade. Skills like persuasion, social understanding, and empathy are going to become diﬀerentiators as Artificial Intelligence and Machine Learning take over our other tasks. Unfortunately, these human-oriented skills have generally been viewed as second priority in terms of training and education [@Beck2017].
 
 #### Human physical skills are trivialized by Automation, Robotics, 3D printing & Additive manufacturing
 
@@ -343,6 +345,6 @@ New technologies such as robotics, 3-D printing, augmented reality and the "Inte
 
 Digitization has contributed to increasingly jobless recoveries from recessions. The postwar US economy took roughly six months to recover lost jobs after every recession. But it took 15 months to restore lost jobs after the 1991 recession, 39 months after 2001, and 43 months after 2008 [@Manyika2015].
 
-Digitization has contributed to hollowing out the middle-skill portion of the US workforce. Since 2000, the US has created 8 million jobs : only low-skill interactive jobs or high-skill interactive jobs. Whereas, 2.5 million production and transaction jobs have been destroyed [@Manyika2015].
+Digitization has contributed to hollowing out the middle-skill portion of the US workforce. Since 2000, the US has created 8 million jobs : only low-skill interactive jobs or high-skill interactive jobs. Whereas 2.5 million production and transaction jobs have been destroyed [@Manyika2015].
 
 In terms of wages, digitization has accelerated a divergence between the majority of workers and a smaller group at the top. And, since 1980, labor productivity has grown 2.5 times faster than wages, breaking historical patterns [@Manyika2015].
