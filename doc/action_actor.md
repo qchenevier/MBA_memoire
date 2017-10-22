@@ -16,12 +16,14 @@ The first thing we can understand is that Information is the propagation of a me
 
 #### Types of Information goods: Data, Information, Knowledge and Wisdom
 
-The first widely-accepted Information Hierarchy has been proposed quite recently by @Ackoff1989. Ackoff's article, entitled _From data to wisdom_, proposed a hierarchy with the following levels: Data, Information, Knowledge and Wisdom^[This is part on a larger debate on epistemology]. He defines these elements and explores the processes associated with the transformation between these elements:
+The first widely-accepted Information Hierarchy has been proposed quite recently by @Ackoff1989. Ackoff's article, entitled _From data to wisdom_, proposed a hierarchy with the following levels: Data, Information, Knowledge and Wisdom^[This is part on a larger debate on Epistemology, which is the branch of philosophy concerned with the thoery of knwoledge.]. He defines these elements and explores the processes associated with the transformation between these elements:
 
 - _Data_ are defined as symbols that represent properties of objects, events and their environment. They are the products of observation, but are of no use until they are in a useable (i.e. relevant) form. The difference between data and information is functional, not structural [@Ackoff1989].
 - _Information_ is contained in descriptions, answers to questions that begin with such words as who, what, when and how many. Information systems generate, store, retrieve and process data. Information is inferred from Data [@Ackoff1989].
 - _Knowledge_ is know-how, and is what makes possible the transformation of information into instructions. Knowledge can be obtained either by transmission from another who has it, by instruction, or by extracting it from experience [@Ackoff1989].
 - _Wisdom_ is the ability to increase effectiveness^[This statement is debatable, because ancient greek philosophers were seeking wisdom for itself and not necessarily to have applications.]. Wisdom adds value, which requires the mental function that we call judgement. The ethical and aesthetic values that this implies are inherent to the actor and are unique and personal [@Ackoff1989].
+
+![Overview of the Data-Information-Knowledge-Wisdom hierarchy [@Rowley2007].](sources/images/data_to_wisdom.png){width=90% height=90%}
 
 Some authors have elaborated further on Ackoff's exposition, suggesting that _Understanding_ supports the transition from each stage to the next. They suggest that moving from Data to Information involves _understanding relations_, moving from Information to Knowledge involves _understanding patterns_, and moving from Knowledge to Wisdom involves _understanding principles_ [@Rowley2007].
 
@@ -59,6 +61,8 @@ Interestingly those authors who draw the hierarchy offer a number of different v
 
 On one end of the spectrum, Data has no value and no meaning for Humans, is only for Computers to be treated with algorithms. Whereas Wisdom is valuable and meaningful for Humans, cannot be recorded in a computer and cannot be programmatically extracted.
 
+![Data, Information and Knowledge in regard with Meaning and Value [@Rowley2007].](sources/images/meaning_value.png){width=90% height=90%}
+
 Information and Knowledge being at the interface between Humans and Machines are all the rage in today's technological revolution. Mastering an understanding the elements at the interface of those two worlds are the key to understand the current technological revolution. Now, the Humanity is learning to use Machines to deliver Meaning & Value, i.e. answering questions for better decisions, to Humans. This is the paradigm of the current techno-economic revolution.
 
 #### Information is Data completed by a Meaning
@@ -91,11 +95,13 @@ Information examples:
 
 An author defines knowledge as 'actionable information', and proposes that actionable information allows us to make better decisions and to provide an effective input to dialogue and creativity in organizations. Another author suggests that knowledge may be viewed as an understanding of information based on its perceived importance or relevance to a problem area [@Rowley2007].
 
-Economically, the main definition of Value of Information is: how much answering a question allows a decision-maker to improve its decision [@Howard1966].
+Economically, the main definition of Value of Information is: how much answering a question allows a decision-maker to improve its decision [@Howard1966]:
 
 - "answering": Value of Information is dependent of the all possible answers and their relative likelihood.
 - "improve": Value of Information isn't about sleeping better at night. If the expected value of the information (the chance you change your decision after receiving the information times the relative value of the decisions) is lower than the cost of the information, just bite the bullet and don't run the test you were considering.
 - "decision": Value of Information isn't just curiosity. Information has Value only if some decision has to depend on that fact.
+
+![Which path to take? Information improves decisions by helping to choose the best option.](sources/images/decision_path.jpg){width=80% height=80%}
 
 In other words, economically speaking, information value lies in reducing uncertainty in decisions. According to @Hirshleifer1971 there are 2 types of economical uncertainty: Market Uncertainty and Technology Uncertainty, and hence, Information is able to create Value by helping Decision making regarding those two uncertainties:
 
@@ -143,6 +149,8 @@ There is a difference between tacit knowledge which is embedded in the individua
 In mathematics and computer science, an [Algorithm](https://en.wikipedia.org/wiki/Algorithm) is a self-contained sequence of actions to be performed. Algorithms can perform calculation, data processing and automated reasoning tasks.
 
 The world is pretty much run on algorithms [@VanGeest2014]. Software and algorithms can be seen as Human Knowledge freezed and transcribed so that a Machine can exploit it to treat Information.
+
+![Two forms of tacit knowledge: books are dedicated to transmit knowledge to humans, whereas software code is dedicated to transmit knowledge to machines.](sources/images/algorithms.jpg){width=80% height=80%}
 
 For example, Medical Doctors use their knowledge to create diagnosis information which improves health of their patients. Their knowledge has been constituted by studying a number of medical cases with their symptoms, the treatments which were tried and the results which were obtained. The knowledge of the Doctor will consist in a list of algorithms such as: "given those symptoms, here is the best treatment we found until now". The Doctor doesn't deliver any of his knowledge, he delivers an information: "you need this treatment to treat your condition".
 
@@ -200,11 +208,15 @@ Futurist Ray Kurzweil made 4 signature observations about the evolution of Infor
 
 The explosive transition from film to digital photography is now occurring in several accelerating technologies. We are information-enabling everything. An information-enabled environment delivers fundamentally disruptive opportunities. E.g: the cheapest 3D printers now cost only \$ 100, which means that within five years or so most of us will be able to afford 3D printers to fabricate toys, cutlery, tools and fittings. Essentially anything we're able to dream up [@VanGeest2014].
 
+![120 years of Moore's Law depicted by Ray Kurzweil. Notice the logarithmic scale on the number of calculations per second per constant dollar.](sources/images/Moores_Law_over_120_Years.png)
+
 #### Information Technology is becoming Ubiquitous
 
 As seen in the introduction, [each technological revolution has its key factor](#technological-revolution) and the key factor of the current Information & telecommunications revolution is cheap electronic chips. In each case, the "key factor" steers engineering and investment decisions towards its intensive use. New technology systems are built accordingly, based on microelectronics, software & telecommunications [@Perez2004].
 
 The post-dotcom decade has seen firms, both established and startups, taking advantage of lower price/performance levels of computing (hardware and software) as well as global connectivity through standard protocols (e.g., Internet and mobile web) [@Bharadwaj2013]. Today the focus is on connectivity, platforms, data, and software. These spread faster than classic computing hardware due to their network effects and the marginal cost economics associated with it [@Manyika2015]. Information goods, powerful computing devices, and inexpensive digital communication are changing business and society [@Gimpel2012].
+
+![Increasing investment (in trillion dollars) & lowering costs of data management.](sources/images/digital_investment.png){width=90% height=90%}
 
 #### Data and Information are growing exponentially: Big Data everywhere
 
@@ -213,6 +225,8 @@ The digital universe is made up of images and videos on mobile phones uploaded t
 In the past we have operated under conditions of data (and information) scarcity with decisions made with incomplete and often poor quality (even time-lapsed) data. Big Data create conditions of data (and information) abundance due to the massive amount of detailed (and often ready to analyze) data made available [@Bharadwaj2013].
 
 From 2005 to 2020, the digital universe will grow by a factor of 300, from 130 exabytes to 40,000 exabytes, or 40 trillion gigabytes (more than 5,200 gigabytes for every man, woman, and child in 2020). From now until 2020, the digital universe will double about every two years [@Gantz2012].
+
+![The exponential data growth.](sources/images/data_growth.png){width=90% height=90%}
 
 Examples of currently exploding (and potentially valuable) data sources [@Gantz2012]:
 
@@ -322,6 +336,8 @@ There are Growing talent mismatches between companies. Companies are struggling 
 Between 2012 and 2020, the patch of the digital universe that CIOs and their IT staffs need to manage will become not just bigger but also more complex. The skills, experience, and resources to manage all these bits of data will become scarcer and more specialized, requiring a new, flexible, and scalable IT infrastructure that extends beyond the enterprise [@Gantz2012].
 
 Between 2014 and 2020, the amount of data managed per each IT professional will increase 6-fold, from 230 gigabytes in 2014 to 1231 gigabytes in 2020, requiring new abilities to scale up infrastructure and analytics to manage this data [@IDC/EMC2014].
+
+![Increase in amount of data managed per IT professional between 2014 and 2020.](sources/images/data_per_IT_pro.png){width=90% height=90%}
 
 For these workers, in US, wage growth has been approximately twice as fast as the national average in the most highly digitized industries and those who lack digital skills face narrowing job prospects [@Manyika2015].
 
