@@ -285,7 +285,7 @@ This increased technology usage means that people are producing more and more in
 
 As a results, the average human on this planet is more connected to all the other humans and communicates more with them than anytime in History. The world has never been so intertwined, in terms of information exchanges, even if the population has never been higher. Information is more available to anyone and anyone is more able to create or share information^[This phenomenon is associated also with negative effects such as Information overload, multiplication of conflicting sources, ...].
 
-#### Humans have more Relationships & Interactions through (and with) Machines thanks to Telecommunications
+#### Humans have more Relationships & Interactions through (and with) Machines
 
 Digital technologies also enable different forms of dynamic capabilities suitable for turbulent environments and transform the structure of social relationships in both the consumer and the enterprise space [@Bharadwaj2013].
 

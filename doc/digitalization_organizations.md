@@ -8,7 +8,7 @@ monofont: DejaVu Sans Mono
 fontsize: 10pt
 link-citations: true
 templatecolor: 216, 63, 36
-toc-depth: 4
+toc-depth: 3
 secnumdepth: 2
 output:
   pdf_document:
@@ -20,9 +20,20 @@ output:
 
 \chapterimage{sources/images/abstractarchi.jpg}
 
+\newpage
+
 ``` include
 about.md
 ```
+
+\chapterimage{sources/images/abstractarchi.jpg}
+
+# Executive Summary {-}
+
+``` include
+executive_summary.md
+```
+
 \chapterimage{sources/images/metrofloor.jpg}
 
 # Introduction {-}
@@ -56,8 +67,6 @@ reaction_actor.md
 ``` include
 conclusion.md
 ```
-
-
 
 \chapterimage{sources/images/womanalone.jpg}
 
