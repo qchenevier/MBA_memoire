@@ -13,4 +13,4 @@ Finally, leadership skills need to change according to this new imperative, by b
 
 If we look at the organizations which are the most thriving today, we might note that most of them have already discovered all those principles. However the information revolution hasn't reached its apogee yet as many new technology waves seem to be on the verge of deploying their influence in society: additive manufacturing, internet of things, blockchain, CRISPR-based genetic engineering, transport automation... All these technology waves are part of the information era and might let us think that this technological revolution might be longer and stronger than the other technological revolutions we have witnessed before.
 
-Humanity is levelling up and it might gaining several levels at once.   
+Humanity is levelling up and it might be gaining several levels at once.   
